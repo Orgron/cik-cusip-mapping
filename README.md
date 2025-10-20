@@ -6,7 +6,41 @@
 
 This repository produces the link between cik and cusip using EDGAR 13D and 13G fillings, that is more robust than Compustat (due to backward filling of new cusip to old records). It is a competitor to WRDS SEC platform while this one is free.
 
-This is written in python36+, I don't provide a requirement file and I only use very common libraries, if you run into Module not Found problem, just pip install them, e.g. Pandas
+This project now targets **Python 3.12**. The scripts rely only on the standard library plus very common third-party dependencies (e.g. pandas). Install any missing packages with `pip install <package>`.
+
+### Quick start: run the full pipeline with one command
+
+```
+python run_pipeline.py
+```
+
+The command above will:
+
+1. Download the full EDGAR master index.
+2. Download every 13D and 13G filing referenced in the index.
+3. Parse the CUSIPs from the downloaded filings.
+4. Post-process the parsed data into the final `cik-cusip-maps.csv` file.
+
+You can customise the run, for example to use a different output directory or run only for form 13G:
+
+```
+python run_pipeline.py --forms 13G --output-root data
+```
+
+Run `python run_pipeline.py --help` for the full list of options, including skipping individual steps if you have already generated intermediate outputs.
+
+### Running the automated tests
+
+Install the test dependencies (primarily `pytest`) and execute:
+
+```
+pip install -r requirements-dev.txt  # optional helper; install pytest manually if you prefer
+pytest
+```
+
+The tests exercise the orchestration logic in `run_pipeline.py` to ensure it remains compatible with Python 3.12 and correctly sequences each stage of the workflow.
+
+### Running individual steps (legacy workflow)
 
 ### Quick start: run the full pipeline with one command
 
