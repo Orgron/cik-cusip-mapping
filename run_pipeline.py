@@ -6,7 +6,7 @@ import os
 import subprocess
 import sys
 from pathlib import Path
-from typing import List, Sequence
+from typing import List
 
 
 def run_step(description: str, command: List[str]) -> None:
@@ -53,9 +53,9 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def main(argv: Sequence[str] | None = None) -> None:
+def main() -> None:
     parser = build_parser()
-    args = parser.parse_args(argv)
+    args = parser.parse_args()
 
     base_path = Path(args.output_root)
     base_path.mkdir(parents=True, exist_ok=True)
