@@ -8,6 +8,29 @@ This repository produces the link between cik and cusip using EDGAR 13D and 13G 
 
 This is written in python36+, I don't provide a requirement file and I only use very common libraries, if you run into Module not Found problem, just pip install them, e.g. Pandas
 
+### Quick start: run the full pipeline with one command
+
+```
+python run_pipeline.py
+```
+
+The command above will:
+
+1. Download the full EDGAR master index.
+2. Download every 13D and 13G filing referenced in the index.
+3. Parse the CUSIPs from the downloaded filings.
+4. Post-process the parsed data into the final `cik-cusip-maps.csv` file.
+
+You can customise the run, for example to use a different output directory or run only for form 13G:
+
+```
+python run_pipeline.py --forms 13G --output-root data
+```
+
+Run `python run_pipeline.py --help` for the full list of options, including skipping individual steps if you have already generated intermediate outputs.
+
+### Running individual steps (legacy workflow)
+
 dl_idx.py will download the EDGAR index file containing addresses for each filing, i.e. full_index.csv is generated
 
 ```
