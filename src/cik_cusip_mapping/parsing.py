@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import csv
+import html
 import re
 from collections import Counter, deque
 from concurrent.futures import Future, ThreadPoolExecutor
@@ -11,11 +12,10 @@ from pathlib import Path
 from types import SimpleNamespace
 from typing import Deque, Iterable, Iterator, Protocol, Sequence
 
-CUSIP_PATTERN = re.compile(
-    r"[\( >]*[0-9A-Z]{1}[0-9]{3}[0-9A-Za-z]{2}[- ]*[0-9]{0,2}[- ]*[0-9]{0,1}[\) \n<]*"
-)
-WORD_PATTERN = re.compile(r"\w+")
-IRS_TOKENS = {"IRS", "I.R.S"}
+from tqdm.auto import tqdm
+
+CUSIP_PATTERN = re.compile(r"[0-9A-Z](?:[- ]?[0-9A-Z]){8,10}")
+TAG_PATTERN = re.compile(r"<[^>]+>")
 
 
 @dataclass
@@ -40,23 +40,57 @@ def _extract_cik(lines: Sequence[str]) -> str | None:
     return None
 
 
+def _normalize_cusip(value: str) -> str | None:
+    cleaned = "".join(ch for ch in value.upper() if ch.isalnum())
+    if len(cleaned) == 9 and any(ch.isdigit() for ch in cleaned):
+        return cleaned
+    return None
+
+
+def _extract_matches(text: str) -> list[str]:
+    cleaned = TAG_PATTERN.sub(" ", html.unescape(text))
+    upper = cleaned.upper()
+    matches: list[str] = []
+    for match in CUSIP_PATTERN.finditer(upper):
+        normalized = _normalize_cusip(match.group())
+        if normalized:
+            start, end = match.span()
+            context = upper[max(0, start - 16) : end + 16]
+            if "IRS NUMBER" in context or "I.R.S" in context:
+                continue
+            matches.append(normalized)
+    return matches
+
+
 def _extract_cusip(lines: Sequence[str], *, debug: bool = False) -> str | None:
     record = False
     matches: list[str] = []
-    for line in lines:
-        if "<DOCUMENT>" in line:
+    candidate_segments: list[str] = []
+    document_segments: list[str] = []
+    for index, raw_line in enumerate(lines):
+        if "<DOCUMENT>" in raw_line:
             record = True
-        if record and not any(token in line for token in IRS_TOKENS):
-            found = CUSIP_PATTERN.findall(line)
-            if found:
-                cusip = found[0].strip().strip("<>")
-                if debug:
-                    print("INFO: added --- ", line, " --- extracted [", cusip, "]")
-                matches.append(cusip)
+        if not record:
+            continue
+        document_segments.append(raw_line)
+        upper_line = raw_line.upper()
+        if "CUSIP" in upper_line:
+            window = lines[index : index + 10]
+            candidate_segments.append("\n".join(window))
+    for segment in candidate_segments:
+        for normalized in _extract_matches(segment):
+            matches.append(normalized)
+            if debug:
+                print("INFO: candidate match", normalized, "from", segment.strip())
+    if not matches and document_segments:
+        combined = "\n".join(document_segments)
+        for normalized in _extract_matches(combined):
+            matches.append(normalized)
+            if debug:
+                print("INFO: fallback match", normalized)
     if not matches:
         return None
-    most_common = Counter(matches).most_common(1)[0][0]
-    return "".join(WORD_PATTERN.findall(most_common))
+    return Counter(matches).most_common(1)[0][0]
 
 
 def parse_text(text: str, *, debug: bool = False) -> tuple[str | None, str | None]:
@@ -132,7 +166,7 @@ def stream_to_csv(
         iterator = parse_filings(filings, debug=debug)
     with csv_path.open("w", newline="") as handle:
         writer = csv.writer(handle)
-        for parsed in iterator:
+        for parsed in tqdm(iterator, desc="Parsing filings", unit="filing"):
             writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
             count += 1
     return count
@@ -157,6 +191,7 @@ def parse_directory(
     output_csv = output_csv or Path(f"{directory}.csv")
     output_csv.parent.mkdir(parents=True, exist_ok=True)
     count = 0
+    file_paths = list(_iter_directory_files(directory))
     with output_csv.open("w", newline="") as handle:
         writer = csv.writer(handle)
         if concurrent:
@@ -165,9 +200,9 @@ def parse_directory(
                     identifier=str(file_path),
                     content=file_path.read_text(errors="ignore"),
                 )
-                for file_path in _iter_directory_files(directory)
+                for file_path in file_paths
             )
-            iterator: Iterable[ParsedFiling] = parse_filings_concurrently(
+            iterator = parse_filings_concurrently(
                 filings,
                 debug=debug,
                 max_queue=max_queue,
@@ -176,9 +211,9 @@ def parse_directory(
         else:
             iterator = (
                 parse_file(file_path, debug=debug)
-                for file_path in _iter_directory_files(directory)
+                for file_path in file_paths
             )
-        for parsed in iterator:
+        for parsed in tqdm(iterator, total=len(file_paths), desc="Parsing directory", unit="filing"):
             writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
             count += 1
     return count

@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Iterable
 
 import requests
+from tqdm.auto import tqdm
 
 from .sec import RateLimiter, build_request_headers
 
@@ -45,8 +46,13 @@ def download_master_index(
     current_quarter = (today.month - 1) // 3 + 1
     end_quarter = current_quarter if end_year >= today.year else 4
 
+    quarters = list(_iter_quarters(start_year, end_year, end_quarter))
     with output_path.open("wb") as handle:
-        for year, quarter in _iter_quarters(start_year, end_year, end_quarter):
+        for year, quarter in tqdm(
+            quarters,
+            desc="Downloading master index",
+            unit="quarter",
+        ):
             logger.info("Downloading master index for %s Q%s", year, quarter)
             limiter.wait()
             response = requests.get(
@@ -77,7 +83,7 @@ def write_full_index(
         writer = csv.writer(csvfile)
         writer.writerow(["cik", "comnam", "form", "date", "url"])
         with master_path.open("r", encoding="latin1", errors="ignore") as handle:
-            for line in handle:
+            for line in tqdm(handle, desc="Building full index", unit="line"):
                 if ".txt" not in line:
                     continue
                 writer.writerow(line.strip().split("|"))
