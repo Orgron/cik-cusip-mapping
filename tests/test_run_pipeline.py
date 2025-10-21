@@ -101,3 +101,18 @@ def test_pipeline_passes_identifiers(monkeypatch, tmp_path):
     assert recorder.calls[0] == [run_pipeline.sys.executable, "dl_idx.py", *expected_args]
     assert recorder.calls[1][:4] == [run_pipeline.sys.executable, "dl.py", "13D", "13D"]
     assert recorder.calls[1][4:] == expected_args
+
+
+def test_pipeline_disables_progress(monkeypatch, tmp_path):
+    recorder = SubprocessRecorder()
+    monkeypatch.setattr(run_pipeline.subprocess, "run", recorder)
+
+    run_pipeline.main([
+        "--output-root",
+        str(tmp_path),
+        "--no-progress",
+    ])
+
+    assert "--no-progress" in recorder.calls[0]
+    assert "--no-progress" in recorder.calls[1]
+    assert recorder.calls[2][-1] == "--no-progress"

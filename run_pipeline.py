@@ -5,13 +5,55 @@ import argparse
 import os
 import subprocess
 import sys
+from dataclasses import dataclass
 from pathlib import Path
-from typing import List, Sequence
+from typing import Iterable, Iterator, List, Sequence, Tuple
+
+try:
+    from tqdm import tqdm
+except ImportError:  # pragma: no cover - fallback when tqdm isn't installed
+    tqdm = None  # type: ignore
 
 
-def run_step(description: str, command: List[str]) -> None:
+@dataclass
+class ProgressIterator:
+    iterable: Iterable[Tuple[str, str, str]]
+    desc: str
+    total: int
+    enabled: bool
+
+    def __post_init__(self) -> None:
+        self._bar = None
+        if self.enabled and tqdm is not None:
+            self._bar = tqdm(self.iterable, total=self.total, desc=self.desc, unit="form")
+            self._iterator = iter(self._bar)
+        else:
+            self._iterator = iter(self.iterable)
+
+    def __iter__(self) -> "ProgressIterator":
+        return self
+
+    def __next__(self) -> Tuple[str, str, str]:
+        return next(self._iterator)
+
+    def write(self, message: str) -> None:
+        if self._bar is not None:
+            self._bar.write(message)
+        else:
+            print(f"\n{message}")
+
+    def close(self) -> None:
+        if self._bar is not None:
+            self._bar.close()
+
+
+def run_step(description: str, command: List[str], progress: ProgressIterator | None = None) -> None:
     """Execute a subprocess command while logging its purpose."""
-    print(f"\n=== {description} ===")
+    message = f"=== {description} ==="
+    if progress is not None:
+        progress.write(message)
+    else:
+        print(f"\n{message}")
     subprocess.run(command, check=True)
 
 
@@ -64,6 +106,11 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Skip parsing filings (requires existing <folder>.csv files).",
     )
+    parser.add_argument(
+        "--no-progress",
+        action="store_true",
+        help="Disable progress bars for non-interactive environments.",
+    )
     return parser
 
 
@@ -90,6 +137,8 @@ def main(argv: Sequence[str] | None = None) -> None:
             download_flags.extend(["--sec-name", args.sec_name])
         if args.sec_email:
             download_flags.extend(["--sec-email", args.sec_email])
+        if args.no_progress:
+            download_flags.append("--no-progress")
         run_step(
             "Downloading EDGAR master index",
             [sys.executable, "dl_idx.py", *download_flags],
@@ -116,11 +165,21 @@ def main(argv: Sequence[str] | None = None) -> None:
             download_flags.extend(["--sec-name", args.sec_name])
         if args.sec_email:
             download_flags.extend(["--sec-email", args.sec_email])
-        for form, folder, _ in form_entries:
+        if args.no_progress:
+            download_flags.append("--no-progress")
+        download_progress = ProgressIterator(
+            form_entries,
+            desc="Downloading filings",
+            total=len(form_entries),
+            enabled=not args.no_progress,
+        )
+        for form, folder, _ in download_progress:
             run_step(
                 f"Downloading {form} filings",
                 [sys.executable, "dl.py", form, folder, *download_flags],
+                progress=download_progress,
             )
+        download_progress.close()
 
     if args.skip_parse:
         print("Skipping CUSIP parsing.")
@@ -130,11 +189,22 @@ def main(argv: Sequence[str] | None = None) -> None:
                     f"Expected CSV {csv_path} not found. Remove --skip-parse or generate it first."
                 )
     else:
-        for form, folder, _ in form_entries:
+        parse_flags: List[str] = []
+        if args.no_progress:
+            parse_flags.append("--no-progress")
+        parse_progress = ProgressIterator(
+            form_entries,
+            desc="Parsing filings",
+            total=len(form_entries),
+            enabled=not args.no_progress,
+        )
+        for form, folder, _ in parse_progress:
             run_step(
                 f"Parsing CUSIPs from {form} filings",
-                [sys.executable, "parse_cusip.py", folder],
+                [sys.executable, "parse_cusip.py", folder, *parse_flags],
+                progress=parse_progress,
             )
+        parse_progress.close()
 
     run_step(
         "Post-processing CUSIP mappings",

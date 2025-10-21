@@ -3,10 +3,16 @@ import argparse
 import csv
 import os
 from pathlib import Path
+from typing import Iterable
 
 import requests
 
 from sec_utils import RateLimiter, build_request_headers
+
+try:
+    from tqdm import tqdm
+except ImportError:  # pragma: no cover - fallback when tqdm isn't installed
+    tqdm = None  # type: ignore
 
 
 def download_filings(
@@ -15,6 +21,8 @@ def download_filings(
     requests_per_second: float,
     name: str | None,
     email: str | None,
+    *,
+    show_progress: bool = True,
 ) -> None:
     headers = build_request_headers(name, email)
     limiter = RateLimiter(requests_per_second)
@@ -26,12 +34,21 @@ def download_filings(
             if filing in row["form"]:
                 to_dl.append(row)
 
-    len_ = len(to_dl)
-    print(len_)
-    print("start to download")
+    total = len(to_dl)
+    iterator: Iterable[dict[str, str]]
+    progress_bar = None
+    if tqdm is not None and show_progress:
+        progress_bar = tqdm(
+            to_dl,
+            total=total,
+            desc=f"Downloading {filing}",
+            unit="filing",
+        )
+        iterator = progress_bar
+    else:
+        iterator = to_dl
 
-    for n, row in enumerate(to_dl):
-        print(f"{n} out of {len_}")
+    for row in iterator:
         cik = row["cik"].strip()
         date = row["date"].strip()
         year = row["date"].split("-")[0].strip()
@@ -54,7 +71,14 @@ def download_filings(
             with open(file_path, "w", errors="ignore") as f:
                 f.write(txt)
         except Exception:
-            print(f"{cik}, {date} failed to download")
+            message = f"{cik}, {date} failed to download"
+            if progress_bar is not None:
+                progress_bar.write(message)
+            else:
+                print(message)
+
+    if progress_bar is not None:
+        progress_bar.close()
 
 
 if __name__ == "__main__":
@@ -69,6 +93,11 @@ if __name__ == "__main__":
     )
     parser.add_argument("--sec-name", help="Contact name to include in SEC requests.")
     parser.add_argument("--sec-email", help="Contact email to include in SEC requests.")
+    parser.add_argument(
+        "--no-progress",
+        action="store_true",
+        help="Disable progress bars for non-interactive environments.",
+    )
 
     args = parser.parse_args()
     download_filings(
@@ -77,4 +106,5 @@ if __name__ == "__main__":
         args.requests_per_second,
         args.sec_name,
         args.sec_email,
+        show_progress=not args.no_progress,
     )
