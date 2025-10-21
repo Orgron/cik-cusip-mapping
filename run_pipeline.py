@@ -1,18 +1,25 @@
 #!/usr/bin/env python3
 """End-to-end driver for building the CIK to CUSIP mapping."""
 
+from __future__ import annotations
+
 import argparse
-import os
 import subprocess
 import sys
+from collections.abc import Callable
 from pathlib import Path
-from typing import List, Sequence
+from typing import Sequence
+
+import dl
+import dl_idx
+import parse_cusip
 
 
-def run_step(description: str, command: List[str]) -> None:
-    """Execute a subprocess command while logging its purpose."""
+def run_step(description: str, action: Callable[..., None], *args, **kwargs) -> None:
+    """Execute a pipeline step while logging its purpose."""
+
     print(f"\n=== {description} ===")
-    subprocess.run(command, check=True)
+    action(*args, **kwargs)
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -82,63 +89,42 @@ def main(argv: Sequence[str] | None = None) -> None:
             )
         print("Skipping master index download; using existing full_index.csv.")
     else:
-        download_flags = [
-            "--requests-per-second",
-            str(args.requests_per_second),
-        ]
-        if args.sec_name:
-            download_flags.extend(["--sec-name", args.sec_name])
-        if args.sec_email:
-            download_flags.extend(["--sec-email", args.sec_email])
         run_step(
             "Downloading EDGAR master index",
-            [sys.executable, "dl_idx.py", *download_flags],
+            _download_master_index,
+            args.requests_per_second,
+            args.sec_name,
+            args.sec_email,
         )
 
     forms = args.forms
-    form_entries = []
+    csv_paths: list[str] = []
+    skip_streaming = args.skip_download or args.skip_parse
     for form in forms:
-        folder_path = base_path / form
-        folder_path.mkdir(parents=True, exist_ok=True)
-        folder_arg = os.path.relpath(folder_path, start=Path.cwd())
-        csv_path = f"{folder_arg}.csv"
-        form_entries.append((form, folder_arg, csv_path))
-    csv_paths = [entry[2] for entry in form_entries]
-
-    if args.skip_download:
-        print("Skipping filing downloads.")
-    else:
-        download_flags = [
-            "--requests-per-second",
-            str(args.requests_per_second),
-        ]
-        if args.sec_name:
-            download_flags.extend(["--sec-name", args.sec_name])
-        if args.sec_email:
-            download_flags.extend(["--sec-email", args.sec_email])
-        for form, folder, _ in form_entries:
-            run_step(
-                f"Downloading {form} filings",
-                [sys.executable, "dl.py", form, folder, *download_flags],
-            )
-
-    if args.skip_parse:
-        print("Skipping CUSIP parsing.")
-        for csv_path in csv_paths:
-            if not Path(csv_path).exists():
+        csv_path = base_path / f"{form}.csv"
+        if skip_streaming:
+            print(f"Skipping streaming for {form} filings.")
+            if not csv_path.exists():
                 raise FileNotFoundError(
-                    f"Expected CSV {csv_path} not found. Remove --skip-parse or generate it first."
+                    f"Expected CSV {csv_path} not found. Remove --skip-parse/--skip-download or generate it first."
                 )
-    else:
-        for form, folder, _ in form_entries:
+        else:
             run_step(
-                f"Parsing CUSIPs from {form} filings",
-                [sys.executable, "parse_cusip.py", folder],
+                f"Streaming {form} filings",
+                _stream_form_to_csv,
+                form,
+                csv_path,
+                args.requests_per_second,
+                args.sec_name,
+                args.sec_email,
             )
+        csv_paths.append(str(csv_path))
 
     run_step(
         "Post-processing CUSIP mappings",
+        subprocess.run,
         [sys.executable, "post_proc.py", *csv_paths],
+        check=True,
     )
 
     generated_mapping_path = Path("cik-cusip-maps.csv").resolve()
@@ -150,6 +136,27 @@ def main(argv: Sequence[str] | None = None) -> None:
         print(f"Moved final mapping to {desired_output}")
     else:
         print(f"Final mapping written to {generated_mapping_path}")
+
+
+def _download_master_index(requests_per_second: float, name: str | None, email: str | None) -> None:
+    dl_idx.download_master_index(requests_per_second, name, email)
+    dl_idx.write_full_index()
+
+
+def _stream_form_to_csv(
+    form: str,
+    csv_path: Path,
+    requests_per_second: float,
+    name: str | None,
+    email: str | None,
+) -> None:
+    filings = dl.stream_filings(
+        form,
+        requests_per_second,
+        name,
+        email,
+    )
+    parse_cusip.stream_to_csv(filings, csv_path)
 
 
 if __name__ == "__main__":
