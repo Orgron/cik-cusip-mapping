@@ -15,6 +15,7 @@ keywords = ["sec", "edgar", "cik", "cusip", "finance"]
 dependencies = [
   "pandas>=2.0",
   "requests>=2.0",
+  "tqdm>=4.0",
 ]
 
 [project.scripts]
