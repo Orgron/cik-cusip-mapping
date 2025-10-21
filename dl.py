@@ -3,7 +3,7 @@ import argparse
 import csv
 import os
 from pathlib import Path
-from typing import Iterable
+from typing import Iterable, Optional
 
 import requests
 
@@ -19,8 +19,8 @@ def download_filings(
     filing: str,
     folder: str,
     requests_per_second: float,
-    name: str | None,
-    email: str | None,
+    name: Optional[str],
+    email: Optional[str],
     *,
     show_progress: bool = True,
 ) -> None:

@@ -6,7 +6,7 @@ from functools import partial
 from glob import glob
 from multiprocessing import Pool
 from pathlib import Path
-from typing import Iterable, Iterator, List
+from typing import Iterable, Iterator, List, Optional
 
 try:
     from tqdm import tqdm
@@ -32,7 +32,7 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def parse_file(file: str, debug: bool = False) -> List[str | None]:
+def parse_file(file: str, debug: bool = False) -> List[Optional[str]]:
     with open(file, "r") as f:
         lines = f.readlines()
 
@@ -76,18 +76,18 @@ def parse_file(file: str, debug: bool = False) -> List[str | None]:
 
 
 def _progress(
-    iterable: Iterable[List[str | None]],
+    iterable: Iterable[List[Optional[str]]],
     *,
     enabled: bool,
     total: int,
     desc: str,
-) -> Iterator[List[str | None]]:
+) -> Iterator[List[Optional[str]]]:
     if enabled and tqdm is not None:
         return iter(tqdm(iterable, total=total, desc=desc, unit="file"))
     return iter(iterable)
 
 
-def main(argv: Iterable[str] | None = None) -> None:
+def main(argv: Optional[Iterable[str]] = None) -> None:
     parser = build_parser()
     args = parser.parse_args(argv)
 

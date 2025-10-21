@@ -1,7 +1,7 @@
 #!/bin/python
 import argparse
 import csv
-from typing import Iterable, Iterator, Tuple
+from typing import Iterable, Iterator, Optional, Tuple
 
 import requests
 
@@ -28,8 +28,8 @@ def _progress(
 
 def download_master_index(
     requests_per_second: float,
-    name: str | None,
-    email: str | None,
+    name: Optional[str],
+    email: Optional[str],
     *,
     show_progress: bool = True,
 ) -> None:

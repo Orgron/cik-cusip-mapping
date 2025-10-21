@@ -7,7 +7,7 @@ import subprocess
 import sys
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, Iterator, List, Sequence, Tuple
+from typing import Iterable, Iterator, List, Optional, Sequence, Tuple
 
 try:
     from tqdm import tqdm
@@ -47,7 +47,9 @@ class ProgressIterator:
             self._bar.close()
 
 
-def run_step(description: str, command: List[str], progress: ProgressIterator | None = None) -> None:
+def run_step(
+    description: str, command: List[str], progress: Optional[ProgressIterator] = None
+) -> None:
     """Execute a subprocess command while logging its purpose."""
     message = f"=== {description} ==="
     if progress is not None:
@@ -114,7 +116,7 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def main(argv: Sequence[str] | None = None) -> None:
+def main(argv: Optional[Sequence[str]] = None) -> None:
     parser = build_parser()
     args = parser.parse_args(argv)
 
