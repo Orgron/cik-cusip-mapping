@@ -7,21 +7,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Generator, Iterator
 
-try:  # pragma: no cover - exercised in minimal environments without requests installed
-    import requests  # type: ignore
-except ModuleNotFoundError:  # pragma: no cover - fallback stub to keep tests importable
-
-    class _RequestsStub:
-        class Session:  # pragma: no cover - defensive stub
-            def get(self, *args, **kwargs):
-                raise RuntimeError(
-                    "The requests package is required to download SEC data"
-                )
-
-        def get(self, *args, **kwargs):  # pragma: no cover - defensive stub
-            raise RuntimeError("The requests package is required to download SEC data")
-
-    requests = _RequestsStub()  # type: ignore
+import requests
 
 from .sec import RateLimiter, build_request_headers
 
