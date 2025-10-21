@@ -1,0 +1,393 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OZqQAs/qlefyHPf2lipPHla+vVo2VTi1iqhaVjfKvnzRVkKdNhCpvCHEJcTi0hDj
+ 5SywtlngU3yTdBLc5uDHZg==
+
+<SEC-DOCUMENT>0000927087-99-000089.txt : 19990507
+<SEC-HEADER>0000927087-99-000089.hdr.sgml : 19990507
+ACCESSION NUMBER:		0000927087-99-000089
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990506
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LAMINATING TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001014343
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				582044990
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-47317
+		FILM NUMBER:		99612431
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1160 HIGHTOWER TRAIL
+		STREET 2:		770-992-4869
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30350
+		BUSINESS PHONE:		7705186010
+
+	MAIL ADDRESS:	
+		STREET 1:		1160 HIGHTOWER TRAIL
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30350-2910
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESTLAKE ACQUISITION CORP
+		CENTRAL INDEX KEY:			0001085780
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15225 THRIFT AVE
+		STREET 2:		SUITE 205
+		CITY:			WHITE ROCK BC CANADA
+		BUSINESS PHONE:		6045355883
+
+	MAIL ADDRESS:	
+		STREET 1:		15225 THRIFT AVE
+		STREET 2:		SUITE 205
+		CITY:			WHITE ROCK BC CANADA
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  SCHEDULE 13D
+                                 (Rule 13d-101)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+                 TO RULES 13d-1(a) AND AMENDMENTS THERETO FILED
+                            PURSUANT TO RULE 13d-2(a)
+
+                            (Amendment No. _______)*
+
+                          Laminating Technologies, Inc.
+                                (Name of Issuer)
+
+                          Common Stock, $.01 par value
+                         (Title of Class of Securities)
+
+                                    513525105
+                                 (CUSIP Number)
+
+         Raymond Welt                          David R. Wilson
+         Westlake Acquisition Corporation      Heller Ehrman White & McAuliffe
+         #205 - 15225 Thrift Avenue            6100 Columbia Center
+         White Rock, BC                        701 Fifth  Avenue
+         Canada, V4B 2K9                       Seattle, WA  98101
+         (604) 535-5883                        (206) 389-4264
+
+
+                                 April 30, 1999
+             (Date of Event Which Requires Filing of his Statement)
+
+     If the filing  person has  previously  filed a statement on Schedule 13G to
+report the acquisition  which is the subject of this Schedule 13D, and is filing
+this  schedule  because  of Rule  13d-1(e),  13d-1(f),  or  13d-1(g),  check the
+following box .
+
+     Note:  Schedules  filed in paper format shall include a signed original and
+five copies of the schedule, including all exhibits. See Rule 13d-7(b) for other
+parties to whom copies are to be sent.
+
+     *The  remainder  of this cover  page  shall be filled  out for a  reporting
+person's  initial  filing on this  form with  respect  to the  subject  class of
+securities,  and for any subsequent amendment containing information which would
+alter the disclosures provided in a prior cover page.
+
+     The  information  required in the remainder of this cover page shall not be
+deemed to be "filed"  for the purpose of Section 18 of the  Securities  Exchange
+Act of 1934 ("Act") or otherwise  subject to the  liabilities of that section of
+the Act but shall be subject to all other  provisions of the Act  (however,  see
+the Notes).
+
+
+
+
+<PAGE>
+
+CUSIP NO.  513525105      13D                        Page   2   of   8   Pages
+
+
+   1     NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                  Westlake Acquisition Corporation
+
+
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*   (a) |_|
+                                                             (b) |_|
+
+   3     SEC USE ONLY
+
+   4     SOURCE OF FUNDS*
+
+                  WC
+
+   5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+          ITEMS 2(d) OR 2(E)
+
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                  State of Washington
+
+     NUMBER OF SHARES        7    SOLE VOTING POWER
+  BENEFICIALLY OWNED BY
+           EACH                   180,000 shares
+     REPORTING PERSON
+           WITH
+                             8    SHARED VOTING POWER
+
+                                  -0- shares
+
+                             9    SOLE DISPOSITIVE POWER
+
+                                  180,000 shares
+
+                             10   SHARED DISPOSITIVE POWER
+
+                                  -0- shares
+
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                  180,000 shares
+
+  12     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+                  5.65%
+
+  14     TYPE OF REPORTING PERSON*
+
+                  CO
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+
+
+
+
+Item 1.  Security and Issuer
+
+     Title of Class of Equity Securities: Common Stock, $.01 par value per share
+("Common Stock"), of Laminating Technologies, Inc. ("Laminating Technologies").
+
+Name and Address of Principal Executive Offices of the Issuer:
+
+         Laminating Technologies, Inc.
+         1160 Hightower Trail
+         Atlanta, GA 30350-2910
+
+Item 2.  Identity and Background
+
+    (a)      Name of Person Filing:    Westlake Acquisition Corporation ("WAC")
+
+             Place of Organization:    State of Washington
+
+    (b)      Principal Business:       Investments in various companies
+
+    (c)      Address of Principal Business:     #205 - 15225 Thrift Avenue
+                                                White Rock, BC
+                                                Canada V4B 2K9
+
+             Address of Principal Office:       #205 - 15225 Thrift Avenue
+                                                White Rock, BC
+                                                Canada V4B 2K9
+
+    (d)      Conviction in a Criminal  Proceeding  (excluding  traffic
+             violations or similar  misdemeanors)  during the Last Five
+             Years:  No
+
+    (e)      Party in a Civil  Proceeding  during the last five years and as
+             a result was or is subject to a  judgment,  decree or
+             final order  enjoining  future  violations  of or  prohibiting 
+             or mandating  activities  subject to federal or state
+             securities laws or finding any violation with respect to
+             such laws:  No
+
+     The names,  business address,  present principal occupation and citizenship
+of  each  executive  officer,   director  and  controlling  person  of  Westlake
+Acquisition Corporation is as follows:
+
+     Ray Welt,  Westlake  Acquisition  Corporation,  #205 - 15225 Thrift Avenue,
+White Rock,  BC, Canada V4B 2K9. Mr. Welt is an officer and director of Westlake
+Acquisition Corporation. Citizenship is Canadian.
+
+     Paul Eagland, Westlake Acquisition Corporation, #205 - 15225 Thrift Avenue,
+White  Rock,  BC,  Canada V4B 2K9.  Mr.  Eagland  is an  officer,  director  and
+shareholder of Westlake Acquisition Corporation. Citizenship is Canadian.
+
+     To the best  knowledge  of WAC,  during  the last five  years none of these
+people  have  been  convicted  in  a  criminal  proceeding   (excluding  traffic
+violations or similar misdemeanors) or a party to a civil proceeding as a result
+of such  proceeding  was or is  subject  to a  judgment,  decree or final  order
+enjoining future violations of, or prohibiting or mandating  activities  subject
+to federal or state  securities  laws or finding any  violation  with respect to
+such laws.
+
+Item 3:  Source and Amount of Funds or Other Consideration
+
+         Working Capital
+
+
+<PAGE>
+
+
+
+Item 4.  Purpose of Transaction
+
+     The purpose of the purchase by WAC of 180,000  shares of Common Stock is to
+acquire a  significant  equity  interest  in  Laminating  Technologies.  WAC may
+utilize this equity interest in Laminating Technologies to pursue one or more of
+the courses of action  described  below.  Whether WAC pursues any one or more of
+the  following  courses of action will depend on a number of factors,  including
+WAC's evaluation of Laminating  Technologies' business,  prospects and financial
+condition,  the market for the Common Stock,  other  opportunities  available to
+WAC, other transactions entered into or planned to be entered into by Laminating
+Technologies,  actions  taken by other  persons  who may be  seeking  control of
+Laminating  Technologies,  prospects  for WAC's own business,  general  economic
+conditions  and other  future  developments.  The courses of action that WAC may
+follow are described below:
+
+     (A) WAC may  decide  to sell all or part of its  investment  in the  Common
+Stock in the open market or in private  transactions or by any other permissible
+means.  WAC has no  current  intention  to sell  its  investment  in  Laminating
+Technologies' Common Stock.
+
+     (B) WAC may elect to hold its current interest in Laminating  Technologies'
+Common Stock for investment purposes only.
+
+     (C) WAC may seek to acquire control of Laminating Technologies. WAC has not
+formulated  a  specific  plan or  proposal  to  acquire  control  of  Laminating
+Technologies  and there can be no assurance  that any such plan or proposal will
+be developed or as to the terms or the timing of any such plan or proposal.  Any
+such  plan  or  proposal   that  may  be  formulated   could   involve   seeking
+representation on the Board of Directors of Laminating Technologies,  purchasing
+additional Common Stock in the open market or in private transactions,  making a
+tender offer for all or some lesser  amount of Laminating  Technologies'  Common
+Stock  or  proposing  a  business   combination   transaction   with  Laminating
+Technologies.
+
+         (D) WAC may seek to take  steps that would  impede the  acquisition  of
+control of Laminating  Technologies by another person.  WAC has not formulated a
+specific  plan or  proposal  to impede  acquisition  of  control  of  Laminating
+Technologies by another person, and there can be no assurance that any such plan
+or proposal  will be  developed or that WAC will seek to impede  acquisition  of
+control of Laminating  Technologies by another person. Any such plan or proposal
+may  include  entering  into  voting  agreements  with  other   shareholders  of
+Laminating  Technologies,  acquiring additional shares of Common Stock, offering
+to pay a premium over another offer received by Laminating  Technologies  or its
+shareholders   for  the  Common   Stock,   seeking   amendments   to  Laminating
+Technologies'  articles of incorporation,  bylaws or other governing  documents,
+seeking to merge  with or acquire  the  assets of  Laminating  Technologies,  or
+taking  other  steps WAC  determines  are  necessary  or  appropriate  to impede
+acquisition  of control of Laminating  Technologies  by another  person.  In the
+event another  person does seek to acquire  control of Laminating  Technologies,
+WAC may  attempt  to  impede  that  acquisition,  may  compete  for  control  of
+Laminating  Technologies,  may  initially  compete  for  control  of  Laminating
+Technologies and subsequently  withdraw its interest in seeking control,  or may
+do nothing.
+
+     WAC's  election to pursue any one of the  foregoing  courses of action will
+not, by itself, constitute an abandonment of any other course of action. WAC may
+pursue  more  than  one of the  foregoing  courses  of  action  sequentially  or
+simultaneously.  However,  at the present time WAC has not  formulated a plan to
+pursue any of the foregoing courses of action.
+
+     Except as  described  in this Item 4, WAC has not  formulated  any plans or
+proposals which relate to or would result in any matter required to be disclosed
+in response to paragraphs (a) through (j) of Item 4 of Schedule 13D.
+
+Item 5.  Interest in Securities of the Issuer
+
+     (a) Aggregate  Number of Shares of Common Stock of Laminating  Technologies
+Beneficially Owned: 180,000 shares
+
+     Percentage of Common Stock of Laminating  Technologies  Beneficially  Owned
+(based on 3,185,100 shares of Common Stock  outstanding as of January 31, 1999):
+5.65%
+
+     To the  best  knowledge  of WAC,  its  directors,  executive  officers  and
+controlling persons beneficially own the following shares of the Issuer: -0-
+
+         (b)      Sole Voting Power:                180,000 shares
+                  Sole Dispositive Power:           180,000 shares
+                  Shared Voting Power:                -0- shares
+                  Shared Dispositive Power:           -0- shares
+
+         (c)      The  following  transactions  in  Common  Stock of  Laminating
+                  Technologies  were open market  purchases  on The Nasdaq Stock
+                  Market effected by WAC during the past 60 days:
+
+       Trade date              Number of Shares              Price
+      Of Purchases             Of Common Stock             Per Share
+      ------------             ---------------             ---------
+        04/08/99                   100,000                   .3093
+        04/09/99                    25,000                   .3275
+        04/12/99                    30,000                   .3810
+        04/30/99                    25,000                   .3420
+                                                                  
+         (d)      N/A
+
+         (e)      N/A
+
+     Item 6.  Contracts,  Arrangements,  Understandings  or  Relationships  with
+Respect to Securities of the Issuer.
+
+     Neither WAC nor any of the  executive  officers,  directors or  controlling
+persons of WAC, has any contracts, arrangements, understandings or relationships
+(legal or  otherwise)  with any person  with  respect to any  securities  of the
+Issuer, finder's fees, joint ventures, loan or option agreements, puts or calls,
+guarantees of profits, division of profits or loss, or the giving or withholding
+of proxies.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         None.
+
+                                    SIGNATURE
+
+     After  reasonable  inquiry and to the best of my  knowledge  and belief,  I
+certify that the information  set forth in this statement is true,  complete and
+correct.
+
+                        WESTLAKE ACQUISITION CORPORATION
+
+
+
+May 4, 1999             By:      /s/ Paul Eagland
+                                 ------------------------------
+(Date)                           Paul Eagland, President
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

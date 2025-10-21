@@ -1,0 +1,485 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P6E42nwf9WFT2c1rrbeoncUfJm3nwqW8Kbaqw6ZJFxECSnQASiXH/rLms0+c6XDz
+ rJamC9t+ATzywCVu9O8i7g==
+
+<SEC-DOCUMENT>0000902664-04-001527.txt : 20041022
+<SEC-HEADER>0000902664-04-001527.hdr.sgml : 20041022
+<ACCEPTANCE-DATETIME>20041022171721
+ACCESSION NUMBER:		0000902664-04-001527
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20041022
+DATE AS OF CHANGE:		20041022
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENDELL JEFFREY L ET AL
+		CENTRAL INDEX KEY:			0000948904
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		31 WEST 52ND ST
+		STREET 2:		17TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	MAIL ADDRESS:	
+		STREET 2:		200 PARK AVENUE SUITE 3900
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOMESTEAD BANCORP INC
+		CENTRAL INDEX KEY:			0001059078
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				721416514
+		STATE OF INCORPORATION:			LA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54839
+		FILM NUMBER:		041092516
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ELIAS MATZ TIERNAN & HERRICK LLP
+		STREET 2:		734 15TH ST NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20005
+		BUSINESS PHONE:		2023470300
+
+	MAIL ADDRESS:	
+		STREET 1:		ELIAS MATZ TIERNAN & HERRICK
+		STREET 2:		734 15TH ST NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>srz9344115v3.txt
+<DESCRIPTION>GENDELL/GENERAL 10/20/04
+<TEXT>
+                        SECURITIES & EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                             ----------------------
+
+                                 SCHEDULE 13D/A*
+                                 (Rule 13d-101)
+
+           INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT TO
+           13d-1(a) AND AMENDMENTS THERETO FILED PURSUANT TO 13d-2(a)
+
+                             Homestead Bancorp, Inc.
+                                (Name of Issuer)
+
+                                  Common Stock
+                         (Title of Class of Securities)
+
+                                    437698103
+                                 (CUSIP Number)
+
+                               Jeffrey L. Gendell
+          55 Railroad Avenue, Third Floor, Greenwich, Connecticut 06830
+                                 (203) 769-2000
+                  (Name, address and telephone number of person
+                authorized to receive notices and communications)
+
+                                October 20, 2004
+             (Date of event which requires filing of this statement)
+
+     If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the
+following box [ ].
+
+     NOTE: Schedules filed in paper format shall include a signed original and
+five copies of the schedule, including all exhibits. See Rule 13d-7 for other
+parties to whom copies are to be sent.
+
+
+                         (Continued on following pages)
+
+                           (Page 1 of 9 Pages)
+- ----------------
+     *The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter the disclosures provided in a prior cover page.
+
+     The information required in the remainder of this cover page shall not be
+deemed to be "filed" for purposes of Section 18 of the Securities Exchange Act
+of 1934 ("Act") or otherwise subject to the liabilities of that section of the
+Act but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 2 of 9 Pages
+- -----------------------------------------------------------------------------
+     (1)    NAME OF REPORTING PERSONS
+            I.R.S. IDENTIFICATION NOS.
+            OF ABOVE PERSONS (ENTITIES ONLY)
+                                           Tontine Financial Partners, L.P.
+- -----------------------------------------------------------------------------
+     (2)    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **
+                                                                  (a)  [X]
+                                                                  (b)  [ ]
+- -----------------------------------------------------------------------------
+     (3)    SEC USE ONLY
+- -----------------------------------------------------------------------------
+     (4)    SOURCE OF FUNDS **
+                            NA
+- -----------------------------------------------------------------------------
+     (5)    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+            REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                       [ ]
+- -----------------------------------------------------------------------------
+     (6)    CITIZENSHIP OR PLACE OF ORGANIZATION
+                            Delaware
+- -----------------------------------------------------------------------------
+NUMBER OF      (7)  SOLE VOTING POWER
+                                                -0-
+SHARES         --------------------------------------------------------------
+
+BENEFICIALLY   (8)  SHARED VOTING POWER
+                                                 32,600
+OWNED BY       --------------------------------------------------------------
+
+EACH           (9)  SOLE DISPOSITIVE POWER
+                                                -0-
+REPORTING      --------------------------------------------------------------
+
+PERSON WITH    (10) SHARED DISPOSITIVE POWER
+                                                 32,600
+- -----------------------------------------------------------------------------
+     (11)   AGGREGATE AMOUNT BENEFICIALLY OWNED
+            BY EACH REPORTING PERSON
+                                                 32,600
+- -----------------------------------------------------------------------------
+     (12)   CHECK BOX IF THE AGGREGATE AMOUNT
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]
+- -----------------------------------------------------------------------------
+     (13)   PERCENT OF CLASS REPRESENTED
+            BY AMOUNT IN ROW (11)
+                                                4.6%
+- -----------------------------------------------------------------------------
+     (14)   TYPE OF REPORTING PERSON **
+                                                 PN
+- -----------------------------------------------------------------------------
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 3 of 9 Pages
+- -----------------------------------------------------------------------------
+     (1)    NAME OF REPORTING PERSONS I.R.S.
+            IDENTIFICATION NOS. OF ABOVE
+            PERSONS (ENTITIES ONLY)
+                                           Tontine Management, L.L.C.
+- -----------------------------------------------------------------------------
+     (2)    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **
+                                                                  (a)  [X]
+                                                                  (b)  [ ]
+- -----------------------------------------------------------------------------
+     (3)    SEC USE ONLY
+- -----------------------------------------------------------------------------
+     (4)    SOURCE OF FUNDS **
+                            NA
+- -----------------------------------------------------------------------------
+     (5)    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+            REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                       [ ]
+- -----------------------------------------------------------------------------
+     (6)    CITIZENSHIP OR PLACE OF ORGANIZATION
+                            Delaware
+- -----------------------------------------------------------------------------
+NUMBER OF      (7)  SOLE VOTING POWER
+                                                -0-
+SHARES         --------------------------------------------------------------
+
+BENEFICIALLY   (8)  SHARED VOTING POWER
+                                                 32,600
+OWNED BY       --------------------------------------------------------------
+
+EACH           (9)  SOLE DISPOSITIVE POWER
+                                                -0-
+REPORTING      --------------------------------------------------------------
+
+PERSON WITH    (10) SHARED DISPOSITIVE POWER
+                                                 32,600
+- -----------------------------------------------------------------------------
+     (11)   AGGREGATE AMOUNT BENEFICIALLY OWNED
+            BY EACH REPORTING PERSON
+                                                 32,600
+- -----------------------------------------------------------------------------
+     (12)   CHECK BOX IF THE AGGREGATE AMOUNT
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]
+- -----------------------------------------------------------------------------
+     (13)   PERCENT OF CLASS REPRESENTED
+            BY AMOUNT IN ROW (11)
+                                                4.6%
+- -----------------------------------------------------------------------------
+     (14)   TYPE OF REPORTING PERSON **
+                                                 OO
+- -----------------------------------------------------------------------------
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 4 of 9 Pages
+- -----------------------------------------------------------------------------
+     (1)    NAME OF REPORTING PERSONS
+            I.R.S. IDENTIFICATION NOS. OF ABOVE
+            PERSONS (ENTITIES ONLY)
+                                                  Jeffrey L. Gendell
+- -----------------------------------------------------------------------------
+     (2)    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **
+                                                                  (a)  [X]
+                                                                  (b)  [ ]
+- -----------------------------------------------------------------------------
+     (3)    SEC USE ONLY
+- -----------------------------------------------------------------------------
+     (4)    SOURCE OF FUNDS **
+                                   NA
+- -----------------------------------------------------------------------------
+     (5)    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+            REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                      [ ]
+- -----------------------------------------------------------------------------
+     (6)    CITIZENSHIP OR PLACE OF ORGANIZATION
+                              United States
+- -----------------------------------------------------------------------------
+NUMBER OF      (7)  SOLE VOTING POWER
+                                                -0-
+SHARES         --------------------------------------------------------------
+
+BENEFICIALLY   (8)  SHARED VOTING POWER
+                                                32,600
+OWNED BY       --------------------------------------------------------------
+
+EACH           (9)  SOLE DISPOSITIVE POWER
+                                                -0-
+REPORTING      --------------------------------------------------------------
+
+PERSON WITH    (10) SHARED DISPOSITIVE POWER
+                                                32,600
+- -----------------------------------------------------------------------------
+     (11)   AGGREGATE AMOUNT BENEFICIALLY OWNED
+            BY EACH REPORTING PERSON
+                                                32,600
+- -----------------------------------------------------------------------------
+     (12)   CHECK BOX IF THE AGGREGATE AMOUNT
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]
+- -----------------------------------------------------------------------------
+     (13)   PERCENT OF CLASS REPRESENTED
+            BY AMOUNT IN ROW (11)
+                                                4.6%
+- -----------------------------------------------------------------------------
+     (14)   TYPE OF REPORTING PERSON **
+                                                 IN
+- -----------------------------------------------------------------------------
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 5 of 9 Pages
+
+Item 1.     Security and Issuer.
+
+     The Schedule 13D, initially filed on May 10, 2002, and amended and restated
+on December 6, 2002 and further amended and restated on June 10, 2003 (the
+"Schedule 13D"), relating to the common stock, par value $0.01 (the "Common
+Stock") of Homestead Bancorp, Inc. (the "Company"), whose principal executive
+offices are located at 195 North Sixth Street, Ponchatoula, LA 70454, is hereby
+amended and restated by this Amendment No. 3 to the Schedule 13D as follows.
+
+Item 2.     Identity and Background.
+
+     (a) This statement is filed by:
+          (i)Tontine Financial Partners, L.P., a Delaware limited partnership
+             ("TFP"), with respect to the shares of Common Stock directly owned
+              by it;
+         (ii) Tontine Management, L.L.C., a Delaware limited liability company
+              ("TM"), with respect to the shares of Common Stock directly owned
+              by TFP; and
+        (iii) Mr. Jeffrey L. Gendell ("Mr. Gendell") with respect to the shares
+              of Common Stock directly owned by TFP.
+
+              The foregoing persons are hereinafter sometimes collectively
+referred to as the "Reporting Persons." Any disclosures herein with respect to
+persons other than the Reporting Persons are made on information and belief
+after making inquiry to the appropriate party.
+
+     (b)     The address of the principal business and principal office of TFP
+             and TM is 55 Railroad Avenue, Third Floor, Greenwich, Connecticut
+             06830.
+             The business address of Mr. Gendell is 55 Railroad Avenue, Third
+     Floor, Greenwich, Connecticut 06830.
+     (c)     The principal business of TFP is serving as a private investment
+             limited partnership.  The principal business of TM is serving as
+             General Partner to TFP.  Mr. Gendell serves as the managing member
+             of TM.
+     (d)     None of the Reporting Persons has, during the last five years, been
+             convicted in a criminal proceeding (excluding traffic violations or
+             similar misdemeanors).
+     (e)     None of the Reporting Persons has, during the last five years, been
+             a party to a civil proceeding of a judicial or administrative body
+             of competent jurisdiction and, as a result of such proceeding, was,
+             or is subject to, a judgment, decree or final order enjoining
+             future violations of, or prohibiting or mandating activities
+             subject to, Federal or State securities laws or finding any
+             violation with respect to such laws.
+     (f)     TFP is a limited partnership organized under the laws of the State
+             of Delaware. TM is a limited liability company organized under the
+             laws of the State of Delaware. Mr. Gendell is a United States
+             citizen.
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 6 of 9 Pages
+
+Item 3.     Source and Amount of Funds and Other Consideration.
+
+     Not applicable.
+
+Item 4.     Purpose of the Transaction.
+
+     Not applicable.
+
+Item 5.     Interest in Securities of the Issuer.
+
+      A. Tontine Financial Partners, L.P.
+              (a) Aggregate number of shares beneficially owned: 32,600
+                  Percentage: 4.6% The percentages used herein and in the rest
+of Item 5 are calculated based upon the 706,183 shares of Common Stock issued
+and outstanding as of March 5, 2004 as reflected in the Company's Proxy
+Statement dated April 21, 2004.
+              (b) 1. Sole power to vote or direct vote: -0-
+                  2. Shared power to vote or direct vote: 32,600
+                  3. Sole power to dispose or direct the disposition: -0-
+                  4. Shared power to dispose or direct the disposition: 32,600
+              (c) The trading dates, number of shares of Common Stock purchased
+or sold and the price per share for all transactions by TFP in the Common Stock
+within the last sixty days, which were all in the open market, are set forth in
+Schedule A and are incorporated by reference.
+               (d) TM, the general partner of TFP, has the power to direct the
+affairs of TFP, including decisions respecting the receipt of dividends from,
+and the disposition of the proceeds from the sale of, the shares. Mr. Gendell is
+the managing member of TM and in that capacity directs its operations.
+               (e) TFP ceased to be the beneficial owner of more than five
+percent of the Common Stock of the Company on October 20, 2004.
+
+      B. Tontine Management, L.L.C.
+              (a) Aggregate number of shares beneficially owned: 32,600
+                          Percentage: 4.6%
+              (b) 1. Sole power to vote or direct vote: -0-
+                  2. Shared power to vote or direct vote: 32,600
+                  3. Sole power to dispose or direct the disposition: -0-
+                  4. Shared power to dispose or direct the disposition: 32,600
+               (c) TM did not enter into any transactions in the Common Stock of
+the Company within the last sixty days. The trading dates, number of shares of
+Common Stock purchased or sold and the price per share for all transactions in
+the Common Stock within the last sixty days on behalf of TFP, which were all in
+the open market, are set forth in Schedule A, and are incorporated by reference.
+              (d) Not applicable.
+               (e) TM ceased to be the beneficial owner of more than five
+percent of the Common Stock of the Company on October 20, 2004.
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 7 of 9 Pages
+
+      C. Jeffrey L. Gendell
+             (a) Aggregate number of shares beneficially owned: 32,600
+                       Percentage: 4.6%
+             (b) 1. Sole power to vote or direct vote: -0-
+                 2. Shared power to vote or direct vote: 32,600
+                 3. Sole power to dispose or direct the disposition: -0-
+                 4. Shared power to dispose or direct the disposition: 32,600
+               (c) Mr. Gendell did not enter into any transactions in the Common
+Stock of the Company within the last sixty days. The trading dates, number of
+shares of Common Stock purchased or sold and the price per share for all
+transactions in the Common Stock within the last sixty days on behalf of TFP,
+which were all in the open market, are set forth in Schedule A, and are
+incorporated by reference.
+               (d) Not applicable.
+               (e) Mr. Gendell ceased to be the beneficial owner of more than
+five percent of the Common Stock of the Company on October 20, 2004.
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 8 of 9 Pages
+
+SIGNATURES
+
+After reasonable inquiry and to the best of our knowledge and belief, the
+undersigned certify that the information set forth in this statement is true,
+complete and correct.
+
+
+DATED:  October 22, 2004
+
+                                    /s/ JEFFREY L. GENDELL
+                                    ---------------------
+                                    Jeffrey L. Gendell, individually, and as
+                                    managing member of
+                                    Tontine Management, L.L.C., and as
+                                    general partner of
+                                    Tontine Financial Partners, L.P.
+
+
+
+
+
+
+<PAGE>
+
+
+CUSIP No. 437698103                 13D/A                   Page 9 of 9 Pages
+
+                                   Schedule A
+
+                        Tontine Financial Partners, L.P.
+
+                                                      Price Per Share
+Date of                       Number of Shares        (including commissions,
+Transaction                   (Purchased)/Sold        if any)
+9/30/04                         3,000                    $11.96
+10/20/04                       30,000                    $12.00
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

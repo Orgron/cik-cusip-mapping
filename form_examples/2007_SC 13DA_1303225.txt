@@ -1,0 +1,632 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PS9PQU1ERMM+R2EhrIPKunvaHz0Z7yN2HfY55FOsBkGz4mIoU2nvjchmErU5bVc6
+ DIkShc3z6cUfDC9M90VPfg==
+
+<SEC-DOCUMENT>0000911420-07-000292.txt : 20070419
+<SEC-HEADER>0000911420-07-000292.hdr.sgml : 20070419
+<ACCEPTANCE-DATETIME>20070416081147
+ACCESSION NUMBER:		0000911420-07-000292
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20070416
+DATE AS OF CHANGE:		20070419
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Halo Technology Holdings, Inc.
+		CENTRAL INDEX KEY:			0001125052
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				880467845
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78304
+		FILM NUMBER:		07767186
+
+	BUSINESS ADDRESS:	
+		STREET 1:		151 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		(212) 962-9277
+
+	MAIL ADDRESS:	
+		STREET 1:		151 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WARP TECHNOLOGY HOLDINGS INC
+		DATE OF NAME CHANGE:	20021017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ABBOTT MINES LTD
+		DATE OF NAME CHANGE:	20000927
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRESTVIEW CAPITAL MASTER LLC
+		CENTRAL INDEX KEY:			0001303225
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		95 REVERE DRIVE
+		STREET 2:		SUITE A
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+		BUSINESS PHONE:		847-559-0060
+
+	MAIL ADDRESS:	
+		STREET 1:		95 REVERE DRIVE
+		STREET 2:		SUITE A
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>d238370900.txt
+<DESCRIPTION>AMENDMENT NO. 8
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+                                (AMENDMENT NO. 8)
+
+                    Under the Securities Exchange Act of 1934
+
+                         HALO TECHNOLOGY HOLDINGS, INC.
+                         ------------------------------
+                                (Name of Issuer)
+
+                        COMMON STOCK, $0.00001 PAR VALUE
+                        --------------------------------
+                         (Title of Class of Securities)
+
+                                    40637E106
+                                    ---------
+                                 (CUSIP Number)
+
+                                  Adam Blonsky
+                        c/o Crestview Capital Master, LLC
+                            95 Revere Drive, Suite A
+                              Northbrook, IL 60062
+                                 (847) 559-0060
+
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                 April 14, 2007
+                                 --------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of ss.ss.240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the
+following box. |_|
+
+NOTE: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See ss.240.13d-7 for other
+parties to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+<PAGE>
+
+
+
+CUSIP No. 40637E106               13D                         Page 2 of 5 Pages
+- -------------------------------------------------------------------------------
+1. Names of Reporting Persons. I.R.S. Identification Nos. of above persons
+   (entities only)
+Crestview Capital Master, LLC
+- -------------------------------------------------------------------------------
+2. Check the Appropriate Box if a Member of a Group (See Instructions)
+   (a) |-|
+   (b) |X|
+- -------------------------------------------------------------------------------
+3. SEC Use Only
+- -------------------------------------------------------------------------------
+4. Source of Funds (See Instructions)
+   OO
+- -------------------------------------------------------------------------------
+5. Check if Disclosure of Legal Proceedings Is Required Pursuant to
+   Items 2(d) or 2(e) |_|
+- -------------------------------------------------------------------------------
+6. Citizenship or Place of Organization
+   Delaware
+- -------------------------------------------------------------------------------
+                           7.   Sole Voting Power
+Number of                           0
+Shares            -------------------------------------------------------------
+Beneficially               8.   Shared Voting Power
+Owned by                            8,816,413 (See Item 5)
+Each              -------------------------------------------------------------
+Reporting                  9.   Sole Dispositive Power
+Person With                         0
+- -------------------------------------------------------------------------------
+                           10.  Shared Dispositive Power
+                                    8,816,413 (See Item 5)
+- -------------------------------------------------------------------------------
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+                                8,816,413 (See Item 5)
+- -------------------------------------------------------------------------------
+12.Check if the Aggregate Amount in Row (11) Excludes Certain Shares
+    (See Instructions) |_|
+- -------------------------------------------------------------------------------
+13.Percent of Class Represented by Amount in Row (11)
+                           25.4%*
+- -------------------------------------------------------------------------------
+14.Type of Reporting Person (See Instructions)
+   OO
+
+* Based upon 34,723,185 issued and outstanding shares of Common Stock,
+calculated as the sum of (i) 30,723,185 issued and outstanding shares of Common
+Stock as of February 1, 2007, as reported in the Issuer's Form 10-QSB for the
+fiscal quarter ended December 31, 2006 and filed on February 14, 2007 with the
+Securities and Exchange Commission, and (ii) 4,000,000 shares of Common Stock
+underlying the currently-convertible Subordinated Secured Promissory Note held
+by Crestview Capital Master, LLC.
+
+
+
+<PAGE>
+
+
+
+CUSIP No. 40637E106               13D                         Page 3 of 5 Pages
+- -------------------------------------------------------------------------------
+1. Names of Reporting Persons. I.R.S. Identification Nos. of above persons
+   (entities only)
+   Crestview Capital Partners, LLC
+- -------------------------------------------------------------------------------
+2. Check the Appropriate Box if a Member of a Group (See Instructions)
+   (a) |-|
+   (b) |X|
+- -------------------------------------------------------------------------------
+3. SEC Use Only
+- -------------------------------------------------------------------------------
+4. Source of Funds (See Instructions)
+   OO
+- -------------------------------------------------------------------------------
+5. Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+   2(d) or 2(e) |X|
+- -------------------------------------------------------------------------------
+6. Citizenship or Place of Organization
+   Illinois
+- -------------------------------------------------------------------------------
+                           7.   Sole Voting Power
+Number of                               0
+Shares            -------------------------------------------------------------
+Beneficially               8.   Shared Voting Power
+Owned by                            8,816,413 (See Item 5)
+Each              -------------------------------------------------------------
+Reporting                  9.   Sole Dispositive Power
+Person With                         0
+- -------------------------------------------------------------------------------
+                           10.  Shared Dispositive Power
+                                    8,816,413 (See Item 5)
+- -------------------------------------------------------------------------------
+11.Aggregate Amount Beneficially Owned by Each Reporting Person
+                                8,816,413 (See Item 5)
+- -------------------------------------------------------------------------------
+12.Check if the Aggregate Amount in Row (11) Excludes Certain Shares
+   (See Instructions) |_|
+- -------------------------------------------------------------------------------
+13.Percent of Class Represented by Amount in Row (11)
+   25.4%*
+- -------------------------------------------------------------------------------
+14.Type of Reporting Person (See Instructions)
+   OO
+
+* Based upon 34,723,185 issued and outstanding shares of Common Stock,
+calculated as the sum of (i) 30,723,185 issued and outstanding shares of Common
+Stock as of February 1, 2007, as reported in the Issuer's Form 10-QSB for the
+fiscal quarter ended December 31, 2006 and filed on February 14, 2007 with the
+Securities and Exchange Commission, and (ii) 4,000,000 shares of Common Stock
+underlying the currently-convertible Subordinated Secured Promissory Note held
+by Crestview Capital Master, LLC.
+
+
+<PAGE>
+
+CUSIP No. 40637E106               13D                         Page 4 of 5 Pages
+
+This Amendment No. 8 ("Amendment No. 8") is being filed jointly by Crestview
+Capital Master, LLC ("Crestview") and Crestview Capital Partners, LLC
+("Crestview Partners") (each, a "Reporting Person" and, collectively, the
+"Reporting Persons") and amends the Schedule 13D filed by the Reporting Persons
+on March 23, 2006, as amended by Amendment No. 1 thereto filed on March 23,
+2006, as amended by Amendment No. 2 thereto filed on July 24, 2006, as amended
+by Amendment No. 3 thereto filed on July 28, 2006, as amended by Amendment No. 4
+thereto filed on August 11, 2006, as amended by Amendment No. 5 thereto filed on
+December 20, 2006, as amended by Amendment No. 6 thereto filed on March 27,
+2007, as amended by Amendment No. 7 thereto filed on April 6, 2007
+(collectively, the "Schedule 13D"). Except as set forth below, all Items of the
+Schedule 13D remain unchanged. All capitalized terms not otherwise defined
+herein shall have the meanings ascribed to such terms in the Schedule 13D.
+
+ITEM 4. PURPOSE OF TRANSACTION
+
+The response to Item 4 of the Schedule 13D is hereby amended by adding the
+following:
+
+On April 14, 2007, the Reporting Persons submitted (i) a follow up letter to the
+Issuer (the "Confirmation of Interest Letter") reiterating their desire to
+purchase the business of Empagio, Inc., a wholly owned subsidiary of the Issuer
+("Empagio") and modifying the terms of the proposal letter previously delivered
+to the Issuer on April 6, 2007, and (ii) a modified proposal letter (the
+"Amended and Restated Proposal Letter," and collectively with the Confirmation
+of Interest Letter, the "Letters") outlining the proposed terms of such
+acquisition. The Letters are attached hereto as Exhibit 99.13 and Exhibit 99.14.
+The Reporting Persons can give no assurances that any transaction will proceed
+on the terms in the Letters or will be consummated at all. Except to the extent
+of the matters set forth in the Letters, the Reporting Persons do not have any
+plans or proposals with respect to Items a-j of Item 4 of Schedule 13D.
+
+ITEM 7.    MATERIAL TO BE FILED AS EXHIBITS.
+
+The response to Item 7 of the Schedule 13D is hereby amended by replacing
+Exhibit 99.13 and adding Exhibit 99.14 as follows:
+
+Exhibit 99.13 Amended and Restated Proposal Letter to the Issuer, dated April
+13, 2007.
+
+Exhibit 99.14. Confirmation of Interest Letter to the Issuer, dated April 13,
+2007.
+
+
+
+<PAGE>
+
+
+CUSIP No. 40637E106               13D                         Page 5 of 5 Pages
+
+                                    SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+Dated: April 15, 2007
+
+                                    CRESTVIEW CAPITAL MASTER, LLC
+
+                                    By:   CRESTVIEW CAPITAL PARTNERS, LLC,
+                                          its sole Manager
+
+                                    By:   /s/ Daniel I. Warsh
+                                          --------------------------------------
+                                    Name:  Daniel I. Warsh
+                                    Title: Manager
+
+
+                                    CRESTVIEW CAPITAL PARTNERS, LLC
+
+                                    By:   /s/ Daniel I. Warsh
+                                          --------------------------------------
+                                    Name:  Daniel I. Warsh
+                                    Title: Manager
+
+
+
+<PAGE>
+
+
+
+                                  EXHIBIT INDEX
+
+Exhibit 99.13     Amended and Restated Proposal Letter to the Issuer, dated
+                  April 13, 2007.
+
+Exhibit 99.14     Confirmation of Interest Letter to the Issuer, dated
+                  April 13, 2007.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.13
+<SEQUENCE>2
+<FILENAME>e238371882.txt
+<TEXT>
+                         CRESTVIEW CAPITAL PARTNERS, LLC
+
+
+
+                                                                  April 13, 2007
+
+VIA E-MAIL
+
+Halo Technology Holdings, Inc. (the "Company")
+151 Railroad Avenue
+Greenwich, CT 06890
+Attn:  Mr. Rodney A. Bienvenu, Jr.
+
+Dear Ron:
+
+      As we discussed with you in our recent meeting, we are continuing to
+carefully monitor Crestview Capital Master LLC's (the "Fund") investment in the
+Company. This letter is to inform you that the Fund, together with certain
+designees to be determined by us, would be interested in acquiring the business
+of the Company's wholly owned subsidiary, Empagio, Inc. ("Empagio"), as further
+described below (the "Transaction"). We are willing to pay aggregate
+consideration of $18 million for the Empagio business on a cash free, debt free
+basis, together with an appropriate working capital adjustment (to be mutually
+agreed to by the parties), and assuming our comfort with Empagio's liabilities,
+obligations, deferred revenue and overall financial position (all to be
+confirmed by us during our limited confirmatory due diligence period described
+below). We would pay such consideration in a combination of $11 million in cash,
+$2 million in assumption by Empagio of the Company's outstanding note currently
+held by the Fund, and an issuance of a promissory note for $5 million in
+cash over a three (3) to five (5) year period. Of course, such promissory note
+to the Company would be subordinate to, and the terms thereof would be subject
+to agreement by, senior financing sources who we would seek to provide our debt
+financing. Subject to obtaining any necessary consents and approvals outside of
+our control, negotiation of mutually acceptable definitive transaction
+documents, and an acceptable fairness/valuation opinion (from a reputable
+financial advisory firm acceptable to us), we would envision signing such
+Transaction documents by April 30, 2007 and closing the Transaction within six
+(6) weeks from the date hereof, all of which will give us time to complete our
+confirmatory due diligence. Based on our current understanding of the business
+of Empagio, we believe that we can secure the appropriate financing for this
+acquisition during that period. Accordingly, we are prepared to begin working
+with the Company immediately, and to devote substantially time, effort and
+resources in an effort to accomplish the Transaction, all on the following terms
+and conditions:
+
+1.    The Company agrees that from the date hereof until 9:00 P.M., Chicago
+      time, on April 30, 2007 (the "Exclusivity Period") neither the Company,
+      Empagio, nor any subsidiary shall, directly or indirectly, nor any
+      affiliate, subsidiary, stockholder, officer, director, employee, agent or
+      representative of any of them, will (i) solicit, initiate or encourage
+      discussions with, or the submission of bids, offers or proposals by, any
+      person or entity with respect to the acquisition, issuance or sale of any
+      debt, equity securities or other financial instruments of, or any assets
+      of, or relating to, Empagio and/or any direct or indirect subsidiary
+      thereof or any of their businesses, (ii) engage in discussions or
+      negotiations concerning any such transaction or matter with, or provide
+      any information with a view toward any such transaction or matter to, any
+      person or entity other than us or the Fund, (iii) accept any offer or
+      proposal for, or enter into any agreement relating to, any such
+      transaction or matter or in any other way competitive with the Transaction
+      or (iv) take any other action which is inconsistent with or adverse to the
+
+<PAGE>
+
+      consummation of an acquisition of the business of Empagio by the Fund and
+      its designees (any of the foregoing in clauses (i)-(iv) being an
+      "Alternative Transaction"). During the Exclusivity Period, the Company
+      shall immediately advise the Fund orally (and promptly thereafter in
+      writing) of any inquiry or proposal by any party other than the Fund with
+      respect to, or related to, Empagio, its securities or assets, or relating
+      to an Alternative Transaction or any request for information in connection
+      with an Alternative Transaction and the material terms and conditions of
+      such inquiry, proposal or request. In addition, the Company and Empagio
+      shall promptly submit to the Fund copies of all written materials it may
+      receive with respect to any such Alternative Transaction. In the unlikely
+      event that contrary to the parties expectations a Transaction agreement
+      would not be executed by the end of the Exclusivity Period and the Fund is
+      still proceeding in good faith with respect to a potential Transaction,
+      such Exclusivity Period shall automatically be extended for an additional
+      one week period. If the Company or Empagio enters into an agreement within
+      six (6) months following the termination of the Exclusivity Period
+      providing for an Alternative Transaction, or shall breach the terms of
+      this Section 1, then, without limiting the Fund's right to seek damages or
+      injunctive relief, the Company shall immediately pay by wire transfer of
+      immediately available funds to such accounts as the Fund may designate,
+      the sum of $900,000.
+
+2.    The Company shall reimburse us and the Fund for (or pay at the Fund's
+      direction) all legal, transactional and due diligence costs associated
+      with our and the Fund's efforts with respect to a Transaction. Such amount
+      shall be payable upon request.
+
+3.    In connection with the possible Transaction, the Fund and its
+      representatives shall be given reasonable access to, and information with
+      respect to, the books and records of the Company and Empagio for the
+      purpose of completing its diligence review of Empagio and its business.
+      All information obtained by the parties and their respective
+      representatives during the course of such review will be maintained by the
+      parties and their representatives on a confidential basis in accordance
+      with the terms of a to be executed confidentiality agreement, which the
+      parties shall promptly negotiate and execute on a mutually acceptable
+      basis following execution of this letter.
+
+  While the parties desire to accomplish a Transaction, and have so indicated by
+  signing below, the parties also agree and acknowledge, by signing below, that
+  this letter simply constitutes an expression of such desire and that none of
+  the parties shall be legally obligated to enter into a Transaction.
+  Accordingly, unless definitive written agreements mutually acceptable to the
+  parties providing for a Transaction are entered into (regardless of the reason
+  for such agreements not so having been entered into), none of the parties
+  hereto shall be under any obligation to the other irrespective of any
+  negotiations, agreements or undertakings between, or actions taken by, such
+  parties except as contemplated by paragraphs 1 and 2 above. This letter
+  agreement constitutes the entire agreement of the parties hereto with respect
+  to the subject matter hereof and supersedes all other (if any) prior
+  agreements and undertakings, both written and oral, between or among the
+  parties with respect to the subject matter hereof. This letter agreement may
+  be executed and delivered (including by facsimile or portable document format
+  (pdf) transmission) in one or more counterparts, and by the different parties
+  hereto in separate counterparts, each of which when executed shall be deemed
+  to be an original, but all of which taken together shall constitute one and
+  the same agreement. This letter agreement shall be
+
+                                       2
+
+
+<PAGE>
+
+
+
+      governed by, and construed in accordance with, the laws of the State of
+      Illinois applicable to contracts executed in and to be performed in that
+      State, except that matters which are solely defined by Chapter 78 of the
+      Nevada Revised Statutes shall be governed thereby. The parties hereby
+      consent to venue and jurisdiction in the courts of the State of Illinois.
+      Should we or the Fund be required to enforce this agreement, each of us
+      and the Fund shall be entitled to our attorneys' fees and other costs of
+      enforcement. The Company agrees that the Fund shall be an express third
+      party beneficiary with respect to this letter, and that the Fund shall
+      have the right to enforce such provisions in its own name as if the Fund
+      were a party hereto. You further agree that you shall not raise lack of
+      privity or any other matter as a defense against the Fund seeking to
+      enforce the provisions of this letter.
+
+         Should the Company be interested in pursuing the contemplated
+Transaction with us in accordance with the foregoing, and if the Company is in
+agreement with the foregoing please execute and return a copy of this letter to
+us by 12:00 p.m., Chicago time, on Sunday, April 15, 2007.
+
+                                           Sincerely,
+
+                                           CRESTVIEW CAPITAL PARTNERS, LLC
+
+
+                                           By: /s/ Daniel I. Warsh
+                                               -------------------------------
+                                           Name:  Daniel I. Warsh
+                                           Title: Manager
+
+
+
+AGREED TO AND ACCEPTED AS OF
+THE DATE FIRST WRITTEN ABOVE,
+AND APPROVED BY THE BOARD OR DIRECTORS
+OF HALO TECHNOLOGIES, INC. FOR ALL PURPOSES,
+INCLUDING, WITHOUT LIMITATION, NEV. REV.
+STAT. ss. 78-411 - ss. 78-444, SUCH THAT
+ENTERING INTO THIS LETTER SHALL HAVE NO ADVERSE EFFECT
+ON CRESTVIEW CAPITAL PARTNERS, LLC OR THE FUND.
+
+HALO TECHNOLOGY HOLDINGS, INC.
+
+
+By:___________________________
+Name:
+Title:
+
+
+                                       3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.14
+<SEQUENCE>3
+<FILENAME>e238371925.txt
+<TEXT>
+
+
+
+
+
+                         CRESTVIEW CAPITAL PARTNERS, LLC
+
+
+
+                                                                  April 13, 2007
+
+VIA E-MAIL
+
+Rodney A. Bienvenu, Jr.
+Halo Technology Holdings, Inc. (the "Company")
+151 Railroad Avenue
+Greenwich, CT 06890
+
+Dear Ron:
+
+      This is a follow-up to our letter delivered Friday, April 6, 2007 (the
+"Proposal Letter") expressing the desire of Crestview Capital Master LLC (the
+"Fund"), together with certain designees to be determined by us, to acquire the
+business of the Company's wholly owned subsidiary, Empagio, Inc. ("Empagio"). We
+have yet to receive a formal reply from the Company and believe that you are
+unwilling to execute our Proposal Letter as submitted. Nonetheless, given our
+continuing interest in an Empagio transaction we are willing to proceed on the
+basis of the following revisions to our Proposal Letter:
+
+
+      We are willing to pay aggregate consideration of $18 million for the
+      Empagio business in a combination of $11 million in cash, $2 million in
+      assumption by Empagio of the Company's outstanding note
+      currently held by the Fund, and an issuance of a promissory note for $5
+      million in cash over a three (3) to five (5) year period, all as more
+      fully described in the attached revised proposal letter.
+
+      Notwithstanding that more than a week has passed since we submitted our
+Proposal Letter, we are still willing to devote substantial time, effort and
+resources to work to accomplish both a signing of the proposed transaction by
+April 30, 2007 and a closing shortly thereafter. In this regard, we can assure
+you that with access to appropriate financial information to enable us to
+undertake our confirmatory due diligence, we would be committed to moving as
+quickly as possible with respect to a potential transaction. In particular, we
+believe that with access to appropriate financial information we would quickly
+be able to confirm the purchase price referenced above. And, given our current
+investment position in the Company, our knowledge as to the Company's business,
+and the assistance we are receiving from a respected industry leader in
+connection with our investment in the Company, and in particular the Empagio
+opportunity, we would be surprised if anyone else could bring as much certainty
+of closure to the Company in finalizing due diligence and negotiating and
+closing an acquisition of the business of Empagio.
+
+<PAGE>
+
+         As a current significant common stockholder and note holder, we believe
+that our modified proposal is quite favorable to the Company -- both in terms of
+aggregate consideration to be paid and immediate cash payment to help the
+Company address what is clearly a difficult liquidity situation -- and we fully
+expect the Company, its Board of Directors and its officers to live up to all
+applicable duties to us and to all other stakeholders to fully explore the
+proposed transaction with us.
+
+         In order to expedite work on our proposed transaction, we have included
+a revised version of our Proposal Letter, modified to encompass the matters set
+forth above, for your execution and return to us, no later than the 12:00 p.m.
+Chicago time, Sunday, April 15, 2007.
+
+         We look forward to hearing from you shortly.
+
+
+                                            Sincerely,
+
+                                            CRESTVIEW CAPITAL PARTNERS, LLC
+
+
+                                            By: /s/ Daniel I. Warsh
+                                                -------------------------------
+                                            Name:  Daniel I. Warsh
+                                            Title: Manager
+
+
+                                       2
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

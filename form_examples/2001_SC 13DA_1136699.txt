@@ -1,0 +1,299 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PDY8reVGYqOHy5pTExisyieeM/6TVAf5T6ku/Le409oolSh+/MYdrKMWwZu6HDVk
+ gRQJPDihK+yERmPybHmUsg==
+
+<SEC-DOCUMENT>0000950120-01-500323.txt : 20020413
+<SEC-HEADER>0000950120-01-500323.hdr.sgml : 20020413
+ACCESSION NUMBER:		0000950120-01-500323
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20011220
+GROUP MEMBERS:		NONE
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MODY SANJAY S
+		CENTRAL INDEX KEY:			0001136699
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BRIDGE PLAZA
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BRIDGE PLAZA
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DISTINCTIVE DEVICES INC
+		CENTRAL INDEX KEY:			0000059963
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-INDUSTRIAL MACHINERY & EQUIPMENT [5084]
+		IRS NUMBER:				131999951
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33516
+		FILM NUMBER:		1818834
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BRIDGE PLAZA SUITE 100
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+		BUSINESS PHONE:		5612744233
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BRIDGE PLAZA SUSITE 100
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LMC DATA INC
+		DATE OF NAME CHANGE:	19761021
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>ssm13damend2_1219.txt
+<DESCRIPTION>AMEND. 2 TO SCHEDULE 13D
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+                                (Amendment No. 2)
+
+                            DISTINCTIVE DEVICES, INC.
+                            -------------------------
+                                (Name of Issuer)
+
+                     COMMON STOCK, PAR VALUE $.05 PER SHARE
+                     --------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    254745 10
+                                    ---------
+                                 (CUSIP Number)
+
+
+
+                                 SANJAY S. MODY
+                                ONE BRIDGE PLAZA
+                                    SUITE 100
+                           FORT LEE, NEW JERSEY 07024
+                                  201-363-9922
+                -------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+
+                                OCTOBER 31, 2001
+           ----------------------------------------------------------
+             (Date of event which requires filing of this statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4) check the following box [ ].
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934, as amended (the "Act"), or otherwise subject to the liabilities of that
+section of the Act but shall be subject to all other provisions of the Act.
+
+
+<PAGE>
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.  254745 10                          PAGE 2  OF  6 PAGES
+           ---------                               -      -
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+     1       NAME OF REPORTING PERSON
+             S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                 SANJAY S. MODY
+- --------------------------------------------------------------------------------
+     2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*       (a)  [ ]
+                                                                     (b)  [ ]
+
+- --------------------------------------------------------------------------------
+     3       SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4       SOURCE OF FUNDS*
+
+                 PF
+- --------------------------------------------------------------------------------
+     5       CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+             TO ITEMS 2(D) OR 2(E)                                        [ ]
+
+- --------------------------------------------------------------------------------
+     6       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                 India
+- --------------------------------------------------------------------------------
+                         7    SOLE VOTING POWER
+        NUMBER OF
+                              2,050,000 shares (with disclaimer of beneficial
+          SHARES              ownership as to 1,100,000 shares)
+                      ----------------------------------------------------------
+       BENEFICIALLY      8    SHARED VOTING POWER
+
+         OWNED BY             -0-
+                      ----------------------------------------------------------
+           EACH          9    SOLE DISPOSITIVE POWER
+
+        REPORTING             2,050,000 shares (with disclaimer of beneficial
+                              ownership as to 1,100,000 shares)
+       PERSON WITH    ----------------------------------------------------------
+                        10    SHARED DISPOSITIVE POWER
+
+                              -0-
+- --------------------------------------------------------------------------------
+    11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                 2,050,000 shares (with disclaimer of beneficial ownership as
+                 to 1,100,000 shares)
+- --------------------------------------------------------------------------------
+    12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+             SHARES*                                                      [ ]
+- --------------------------------------------------------------------------------
+    13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+                 10.7%
+- --------------------------------------------------------------------------------
+    14       TYPE OF REPORTING PERSON*
+
+                 IN
+- --------------------------------------------------------------------------------
+
+         *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       2
+<PAGE>
+
+
+ITEM 1.      SECURITY AND ISSUER
+
+     Pursuant to Rule 13d-2 under the Securities Exchange Act of 1934, this
+Amendment No. 2 amends the Schedule 13D, dated February 22, 2001, and Amendment
+No. 1 for an event of July 25, 2001, (collectively, the "Prior Schedules") filed
+by Sanjay S. Mody with respect to the common stock, par value $.05 per share
+(the "Common Stock"), of Distinctive Devices, Inc., a Delaware corporation (the
+"Company"). Terms used and not otherwise defined herein shall have the
+respective meanings set forth in the Prior Schedules. Except as otherwise
+expressly indicated below, the information provided in the Prior Schedules
+remains in effect.
+
+ITEM 2.      IDENTITY AND BACKGROUND
+
+             (a) Name: Sanjay S. Mody
+
+ITEM 3.      SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+             On October 31, 2000, Nina Mody, the wife of Mr. Mody, received
+1,100,000 shares of Common Stock upon the Company's acquisition of all of the
+outstanding capital stock of WebPulse Consulting Inc. ("Webpulse"), pursuant to
+a Stock Purchase Agreement, dated as of October 26, 2001. Mrs. Mody was a
+shareholder of Webpulse and upon the acquisition her Webpulse shares were
+exchanged for the 1,100,000 shares of Common Stock.
+
+ITEM 4.      PURPOSE OF THE TRANSACTION
+
+             Under the July 10, 2001 Purchase Agreement between Mr. Mody and
+Eagleview, Mr. Mody only purchased 200,000 shares of Common Stock. The parties
+terminated the Purchase Agreement as to the balance of the shares thereunder.
+
+             As of October 10, 2001, Eagleview advised Mr. Mody that it was
+terminating the proxy previously granted by Eagleview to Mr. Mody covering
+3,850,340 shares of Common Stock.
+
+ITEM 5.      INTEREST IN SECURITIES OF THE ISSUER
+
+             (a) Mr. Mody beneficially owns 2,050,000 shares of Common Stock,
+consisting of (i) 950,000 shares owned directly by him and (ii) 1,100,000 shares
+owned directly by his wife, as to which shares he disclaims any beneficial
+ownership. The 2,050,000 shares represent approximately 10.7% of the issued and
+outstanding shares of Common Stock of the Company, based upon 19,134,824 shares
+issued and outstanding as of November 13, 2001 (as reported in the Company's
+Form 10-QSB for the fiscal quarter ended September 30, 2001). Does not include
+500,000 shares of Common Stock underlying options granted to Mr. Mody under the
+Company's 2001 Stock Option Plan, which Plan is subject to ratification by the
+Company's shareholders.
+
+             (b) Mr. Mody possesses the sole power to vote and the sole power to
+dispose of 950,000 shares of Common Stock.
+
+
+                                       3
+<PAGE>
+
+
+             (c) See Item 3 as to the purchase of Common Stock by Mr. Mody's
+                 wife.
+
+
+ITEM 6.      MATERIAL TO BE FILED AS EXHIBITS
+             --------------------------------
+
+             No. Description
+             --- -----------
+
+             4.  Stock Purchase Agreement, dated as of October 26, 2001
+                 between Distinctive Devices Inc. and Webpulse Consulting,
+                 Inc. (filed as Exhibit 2 to the Company's Form 8-K for an
+                 event of October 31, 2001, and incorporated herein by
+                 reference).
+
+
+                                       4
+<PAGE>
+
+
+                                    SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                         /s/ Sanjay S. Mody
+                                         ---------------------------------------
+Dated:  December 19 , 2001                        Sanjay S. Mody
+
+
+                                       5
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,251 @@
+<SEC-DOCUMENT>0000950170-24-139085.txt : 20241220
+<SEC-HEADER>0000950170-24-139085.hdr.sgml : 20241220
+<ACCEPTANCE-DATETIME>20241220163003
+ACCESSION NUMBER:		0000950170-24-139085
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20241220
+DATE AS OF CHANGE:		20241220
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Amer Sports, Inc.
+		CENTRAL INDEX KEY:			0001988894
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94360
+		FILM NUMBER:		241568354
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KONEPAJANKUJA 6
+		CITY:			HELSINKI
+		STATE:			H9
+		ZIP:			00511
+		BUSINESS PHONE:		358 (0)20 712 2500
+
+	MAIL ADDRESS:	
+		STREET 1:		KONEPAJANKUJA 6
+		CITY:			HELSINKI
+		STATE:			H9
+		ZIP:			00511
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FountainVest China Capital Partners GP3 Ltd.
+		CENTRAL INDEX KEY:			0001795487
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CONYERS TRUST COMPANY (CAYMAN) LTD
+		STREET 2:		CRICKET SQUARE, HUTCHINS DR, PO BOX 2681
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1111
+		BUSINESS PHONE:		0085239723933
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CONYERS TRUST COMPANY (CAYMAN) LTD
+		STREET 2:		CRICKET SQUARE, HUTCHINS DR, PO BOX 2681
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001193125-24-037021</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001795487</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>1</amendmentNo>
+<securitiesClassTitle>Ordinary share, par value EUR 0.0300580119630888 each</securitiesClassTitle>
+<dateOfEvent>12/06/2024</dateOfEvent>
+<previouslyFiledFlag>true</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001988894</issuerCIK>
+<issuerCUSIP>G0260P102</issuerCUSIP>
+<issuerName>Amer Sports, Inc.</issuerName>
+<address>
+<street1 xmlns="http://www.sec.gov/edgar/common">KONEPAJANKUJA 6</street1>
+<city xmlns="http://www.sec.gov/edgar/common">HELSINKI</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">H9</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">00511</zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Brian Lee, Esq.</personName>
+<personPhoneNum>852-3972 3900</personPhoneNum>
+<personAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">FountainVest Partners, Ste. 2501</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">Two IFC, 8 Finance Street, Central</street2>
+<city xmlns="http://www.sec.gov/edgar/common">Hong Kong</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">K3</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">00000</zipCode>
+</personAddress>
+</notificationInfo>
+<notificationInfo>
+<personName>Daniel Dusek, Esq.</personName>
+<personPhoneNum>852 3658 5300</personPhoneNum>
+<personAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">Goodwin Procter, 38 Flr, Edinburgh Twr</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">15 Queen's Road Central, Central</street2>
+<city xmlns="http://www.sec.gov/edgar/common">Hong Kong</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">K3</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">00000</zipCode>
+</personAddress>
+</notificationInfo>
+<notificationInfo>
+<personName>Victor Chen, Esq.</personName>
+<personPhoneNum>852 3658 5300</personPhoneNum>
+<personAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">Goodwin Procter, 38 Flr, Edinburgh Twr</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">15 Queen's Road Central, Central</street2>
+<city xmlns="http://www.sec.gov/edgar/common">Hong Kong</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">K3</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">00000</zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0002009861</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Baseball Investment Limited</reportingPersonName>
+<fundType>AF</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>E9</citizenshipOrOrganization>
+<sharedVotingPower>61407041</sharedVotingPower>
+<sharedDispositivePower>61407041</sharedDispositivePower>
+<aggregateAmountOwned>61407041</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>11.2</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0002010169</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Baseball Investment II Limited</reportingPersonName>
+<fundType>AF</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>D8</citizenshipOrOrganization>
+<sharedVotingPower>7692307</sharedVotingPower>
+<sharedDispositivePower>7692307</sharedDispositivePower>
+<aggregateAmountOwned>7692307</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>1.4</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001795487</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>FountainVest China Capital Partners GP3 Ltd.</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>E9</citizenshipOrOrganization>
+<sharedVotingPower>69099348</sharedVotingPower>
+<sharedDispositivePower>69099348</sharedDispositivePower>
+<aggregateAmountOwned>69099348</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>12.6</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Ordinary share, par value EUR 0.0300580119630888 each</securityTitle>
+<issuerName>Amer Sports, Inc.</issuerName>
+<issuerPrincipalAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">KONEPAJANKUJA 6</street1>
+<city xmlns="http://www.sec.gov/edgar/common">HELSINKI</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">H9</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">00511</zipCode>
+</issuerPrincipalAddress>
+<commentText>Explanatory Note:
+
+This Amendment No. 1 (this "Amendment") amends the initial statement on Schedule 13D originally filed with the Securities and Exchange Commission (the "SEC") on February 15, 2024 by the Reporting Persons (the "Schedule 13D") with respect to the ordinary shares, par value EUR 0.0300580119630888 per share (the "Ordinary Shares"), of Amer Sports, Inc., a company organized under the laws of the Cayman Islands (the "Issuer"). Except as specifically provided herein, this Amendment does not modify any of the information previously reported in the Schedule 13D. All capitalized terms used herein which are not defined herein have the meanings given to such terms in the Schedule 13D.
+
+As disclosed in the Issuer's prospectus filed with the SEC on December 5, 2024, the Issuer issued 40,800,000 Ordinary Shares (assuming no exercise of the underwriters' overallotment option to purchase additional Ordinary Shares) in a public offering (the "Follow-on Offering"). As a result, the total number of outstanding Ordinary Shares of the Issuer increased and the holdings of the Reporting Persons were accordingly diluted, leading to a decrease of the beneficial ownership percentages of the Reporting Persons in the Issuer, which the Reporting Persons are reporting in this Amendment.</commentText>
+</item1>
+<item5>
+<percentageOfClassSecurities>Calculation of the percentage of Ordinary Shares beneficially owned by Reporting Persons as noted on the cover pages of the Schedule 13D, as amended by this Amendment, is based on 546,359,667 Ordinary Shares outstanding immediately after the Issuer's Follow-on Offering as disclosed in its prospectus filed with the SEC on December 5, 2024 (assuming no exercise of the underwriters' overallotment option to purchase additional ordinary shares).</percentageOfClassSecurities>
+<numberOfShares>The aggregate number and percentage of the Ordinary Shares beneficially owned by each Reporting Person and, for each Reporting Person, the number of shares as to which there is sole power to vote or to direct the vote, shared power to vote or to direct the vote, sole power to dispose or to direct the disposition, or shared power to dispose or to direct the disposition are set forth on rows 7 through 11 and row 13 of the cover pages of the Schedule 13D, as amended by this Amendment, and are incorporated herein by reference.</numberOfShares>
+<transactionDesc>Except as disclosed in the Schedule 13D, as amended by this Amendment, none of the Reporting Persons has effected any transaction in the Ordinary Shares during the past 60 days.</transactionDesc>
+<listOfShareholders>Except as disclosed in the Schedule 13D, as amended by this Amendment, to the best knowledge of the Reporting Persons, no other person has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the Ordinary Shares beneficially owned by any of the Reporting Persons.</listOfShareholders>
+</item5>
+<item6>
+<contractDescription>Item 6 of the Schedule 13D is hereby amended and supplemented by adding the following as new paragraphs immediately after the third paragraph thereof:
+
+In connection with the Follow-on Offering, on December 4, 2024, each of Baseball I and Baseball II entered into a lock-up letter agreement (collectively, "Follow-on Lock-up Letters") with BofA Securities, Inc. and J.P. Morgan Securities LLC as the representatives ("Follow-on Representatives") of the underwriters for the Follow-on Offering, substantially in the form attached hereto as Exhibit 99.4.
+
+Pursuant to the Follow-on Lock-up Letters, Baseball I and Baseball II, with limited exceptions, may not (and may not cause any of their direct or indirect affiliates to) (i) offer, sell, contract to sell, pledge, grant any option, right or warrant to purchase, purchase any option or contract to sell, lend or otherwise transfer or dispose of any of the Lock-Up Securities, including without limitation any such Lock-Up Securities now owned or hereafter acquired by such lock-up party, (ii) engage in any hedging or other transaction or arrangement (including, without limitation, any short sale or the purchase or sale of, or entry into, any put or call option, or combination thereof, forward, swap or any other derivative transaction or instrument, however described or defined) which is designed to or which reasonably could be expected to lead to or result in a sale, loan, pledge or other disposition (whether by the undersigned or someone other than the undersigned), or transfer of any of the economic consequences of ownership, in whole or in part, directly or indirectly, of any Lock-Up Securities, whether any such transaction or arrangement (or instrument provided for thereunder) would be settled by delivery of the Ordinary Shares or other securities, in cash or otherwise, (iii) make any demand for or exercise any right with respect to the registration of any Lock-Up Securities or (iv) otherwise publicly announce any intention to engage in or cause any action, activity, transaction or arrangement described in clause (i), (ii) or (iii) of this paragraph, in each case without the prior written consent of the Follow-on Representatives, for a period of 90 days after the date of final prospectus for the Follow-on Offering. The description of the Follow-on Lock-up Letters contained herein is qualified in its entirety by reference to the form of the Follow-on Lock-up Letter attached hereto as Exhibit 99.4, which is incorporated herein by reference.</contractDescription>
+</item6>
+<item7>
+<filedExhibits>Item 7 of the Schedule 13D is hereby amended by adding the following:
+
+Exhibit 99.4 Form of Lock-up Letter (incorporated by reference to Annex I of Exhibit 1.1 to the Registration Statement on Form F-1, filed by the Issuer with the SEC on December 2, 2024).</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Baseball Investment Limited</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Neil Gray</signature>
+<title>Neil Gray / Director</title>
+<date>12/20/2024</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Baseball Investment II Limited</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Jarladth Travers</signature>
+<title>Jarladth Travers / Director</title>
+<date>12/20/2024</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>FountainVest China Capital Partners GP3 Ltd.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Brian Lee</signature>
+<title>Brian Lee / Authorized Signatory</title>
+<date>12/20/2024</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

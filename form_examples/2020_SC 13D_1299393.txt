@@ -1,0 +1,416 @@
+<SEC-DOCUMENT>0001649910-20-000012.txt : 20200331
+<SEC-HEADER>0001649910-20-000012.hdr.sgml : 20200331
+<ACCEPTANCE-DATETIME>20200331152118
+ACCESSION NUMBER:		0001649910-20-000012
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200331
+DATE AS OF CHANGE:		20200331
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESTERN ASSET VARIABLE RATE STRATEGIC FUND INC.
+		CENTRAL INDEX KEY:			0001299393
+		IRS NUMBER:				510522808
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-82381
+		FILM NUMBER:		20761529
+
+	BUSINESS ADDRESS:	
+		STREET 1:		620 EIGHTH AVENUE
+		STREET 2:		49TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		888-777-0102
+
+	MAIL ADDRESS:	
+		STREET 1:		620 EIGHTH AVENUE
+		STREET 2:		49TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Salomon Brothers Variable Rate Strategic Fund Inc.
+		DATE OF NAME CHANGE:	20040903
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Salomon Brothers Floating Rate Strategic Fund Inc.
+		DATE OF NAME CHANGE:	20040803
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Relative Value Partners Group, LLC
+		CENTRAL INDEX KEY:			0001649910
+		IRS NUMBER:				474067697
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		847-513-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		1033 SKOKIE BLVD.
+		STREET 2:		SUITE 470
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>gfy13d-rvp.txt
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+			     (Amendment No. ________)*
+
+
+                   WESTERN ASSET VARIABLE RATE STRATEGIC FUND
+                                (Name of Issuer)
+
+                                   COMMON STOCK
+                         (Title of Class of Securities)
+
+                                   957667108
+                                 (CUSIP Number)
+
+
+          Relative Value Partners Group, LLC, 1033 Skokie Blvd, Suite 470
+		       Northbrook, IL 60062, 847-513-6300
+		(Name, Address and Telephone Number of Person
+		Authorized to Receive Notices and Communications)
+
+				March 23, 2020
+	  (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition that is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(e), 240.13d-1(f) or 240.13d-1(g), check
+the following box: [x]
+
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See Rule 13d-7 for other parties
+to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+<PAGE>
+
+CUSIP No. 957667108	 	13D	 	Page 2 of 7 Pages
+
+--------------------------------------------------------------------------------
+1.	NAMES OF REPORTING PERSONS
+	I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+	Relative Value Partners Group, LLC  TIN 47-4067697
+--------------------------------------------------------------------------------
+2.	 CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+	(see instructions)
+(a)    [ ]
+(b)    [ ]
+--------------------------------------------------------------------------------
+3.	 SEC USE ONLY
+
+--------------------------------------------------------------------------------
+4. 	SOURCE OF FUNDS (see instructions)
+
+	OO
+--------------------------------------------------------------------------------
+5.	CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+	ITEMS 2(d) or 2(e)     [ ]
+--------------------------------------------------------------------------------
+6. 	CITIZENSHIP OR PLACE OF ORGANIZATION
+
+	Delaware
+--------------------------------------------------------------------------------
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+ 	7.	SOLE VOTING POWER: 1,435,077
+
+ 	8.	SHARED VOTING POWER:0
+
+ 	9.	SOLE DISPOSITIVE POWER: 1,435,077
+
+ 	10. 	SHARED DISPOSITIVE POWER:0
+--------------------------------------------------------------------------------
+11. 	AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+	1,435,077
+--------------------------------------------------------------------------------
+12. 	CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES
+	(see instructions)    [ ]
+--------------------------------------------------------------------------------
+13. 	PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+	32.12%
+--------------------------------------------------------------------------------
+14. 	TYPE OF REPORTING PERSON (see instructions)
+
+	IA
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+CUSIP No. 957667108	 	13D	 	Page 3 of 7 Pages
+--------------------------------------------------------------------------------
+
+Item 1.  Security and Issuer.
+
+This statement on Schedule 13D (this "Schedule 13D") relates to the common
+stock (the "Shares") of WESTERN ASSET VARIABLE RATE STRATEGIC FUND, INC.
+(the "Issuer").
+
+The address of the principal executive offices of the Issuer is:  620 Eighth
+Avenue, 49th Floor, New York, New York 10018.
+--------------------------------------------------------------------------------
+
+Item 2.  Identity and Background.
+
+(a),(f) This Schedule D is being filed on behalf of Relative Value Partners
+Group, LLC, a limited liability company organized under the laws of the State
+of Delaware (the "Reporting Person").
+
+(b) The principal business address for the Reporting Person is 1033 Skokie
+Blvd, Suite 470, Northbrook, IL 60062.
+
+(c) The Reporting Person is a registered investment adviser with the United
+States Securities and Exchange Commission.
+
+(d) The Reporting Person has not been convicted of a criminal proceeding
+during the last five years.
+
+(e) The Reporting has not, during the last five years, been party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction as a
+result of which the Reporting Person is or was subject to a judgment, decree,
+or final order enjoining future violations of, or prohibiting or mandating
+activities subject to, federal or state securities laws on finding any
+violation with respect to such laws.
+--------------------------------------------------------------------------------
+
+Item 3.  Source or Amount of Funds or Other Consideration.
+
+Source or Amount of Funds or Other Consideration. The Reporting Person is not
+acquiring additional Shares that trigger the filing of this Schedule 13D. All
+of the Shares acquired by the Reporting Person were done on behalf of its
+advisory clients whose assets it manages on a discretionary basis. This
+Schedule 13D filing was triggered, not by an acquisition of Shares, but a
+change of intent from investment purposes only to one with an intent to
+influence and/or control the Issuer. Any future acquisitions of Shares of
+the Issuer that occur after the filing of this Schedule 13D will be made on
+behalf of the advisory clients whom the Reporting Person serves. All funds
+will be client funds, including advisory client funds that are funds of the
+principals of the Reporting Person. Individual advisory client accounts may
+be levered, but the Reporting Person as a whole has not borrowed or
+leveraged any assets to facilitate past purchases of the Issuer, nor will
+it do so for any purchases in the future.
+
+--------------------------------------------------------------------------------
+
+Item 4.  Purpose of Transaction.
+
+Purpose of Transaction. The Adviser is filing this Schedule 13D to reflect a
+change in intent of holding the Shares from investment purposes only to one
+with an intent to influence and/or control the Issuer.
+
+The Adviser has previously filed a Schedule 13D in May 2015 when it similarly
+changed its purpose from investment purpose only to one of control or
+influence.  The Adviser subsequently returned to investment purposes only and
+has filed multiple Schedule 13Gs that reflect that purpose change as well as
+any of its clients ownership changes.
+
+The Reporting Person may engage in discussions with management, the Board of
+Directors, other shareholders of the Issuer and other relevant parties,
+including representatives of any of the foregoing, concerning the Reporting
+Person's investment in the Shares and the Issuer, including, without
+limitation, matters concerning the Issuer's business, operations, governance,
+management, capitalization and strategic plans. The Reporting Person may
+exchange information with any persons pursuant to appropriate confidentiality
+or similar agreements or otherwise, work together with any persons pursuant
+to joint agreements or otherwise, propose changes in the Issuer's business,
+operations, governance, management, capitalization or strategic plans, or
+propose or engage in one or more other actions set forth under subparagraphs
+(a)-(j) of Item 4 of Schedule 13D.
+
+The Reporting Person intends to review its investment in the Issuer on a
+continuing basis. Depending on various factors, including, without limitation,
+the outcome of any discussions referenced above, the Issuer's financial
+position and strategic direction, actions taken by management or the Board of
+Directors, price levels of the Shares, other investment opportunities
+available to the Reporting Person, conditions in the securities market and
+general economic and
+
+<PAGE>
+
+CUSIP No. 957667108	 	13D	 	Page 4 of 7 Pages
+--------------------------------------------------------------------------------
+
+industry conditions, the Reporting Person may in the future take such actions
+with respect to their investment in the Issuer as it deems appropriate,
+including, without limitation, purchasing additional Shares or selling some or
+all of their Shares, engaging in short selling of or any hedging or similar
+transactions with respect to the Shares and/or otherwise changing their
+intention with respect to any and all matters referred to in this Item 4 of
+Schedule 13D. The Reporting Person may, at any time and from time to time,
+review or reconsider its position and/or change their purpose and/or formulate
+plans or proposals with respect to their investment in the Shares.
+
+The Reporting Person has not entered into any agreement with any third party
+to act together for the purpose of acquiring, holding, voting or disposing of
+the Shares reported herein.
+
+--------------------------------------------------------------------------------
+
+Item 5.  Interest in Securities of the Issuer.
+
+The following disclosures are based on 4,468,407 Shares of the Issuer
+outstanding as reported by Bloomberg as of March 23, 2020, the date by which
+the Reporting Person became required to file this statement:
+
+(a) The Reporting Person owns 1,435,077 Shares, representing
+approximately 32.12% of the outstanding Shares of the Issuer.
+
+(b) The Reporting Person has sole power of these shares to vote or direct the
+vote, or dispose or to direct the disposition.
+
+(c) Over the 60 day period preceding the date of the event requiring the
+filingof this Schedule 13D, the Reporting Person purchased an aggregate of
+15,222Shares on the open market at an aggregate purchase price (excluding
+tradingcommissions and related administrative costs) of $254,256.47, and
+sold an aggregate of 5,838 Shares on the open market at an aggregate sales
+price (excluding trading commissions and related administrative costs) of
+$96,610.32, as follows:
+
+--- On January 23, 2020, the Reporting Person sold 105 Shares at an average
+price of $16.84 per share;
+
+--- On January 30, 2020, the Reporting Person sold 501 Shares at an
+average price of $16.62 per share;
+
+--- On February 3, 2020, the Reporting Person bought 1,500 Shares at an
+average price of $16.57 per share;
+
+--- On February 11, 2020, the Reporting Person sold 250 Shares at an
+average price of $16.80 per share;
+
+--- On February 12, 2020, the Reporting Person bought 4,100 Shares at an
+average price of $16.65 per share;
+
+--- On February 13, 2020, the Reporting Person bought 300 Shares at an
+average price of $16.65 per share; and sold 450 Shares at an average price
+of $16.70;
+
+--- On February 14, 2020, the Reporting Person bought 1,999 Shares at an
+average price of $16.63 per share;
+
+--- On February 19, 2020, the Reporting Person bought 4,050 Shares at an
+average price of $16.76 per share;
+
+--- On February 25, 2020, the Reporting Person bought 500 Shares at an
+average price of $16.87 per share;
+
+--- On February 26, 2020, the Reporting Person sold 894 Shares at an
+averageprice of $16.81 per share;
+
+--- On March 2, 2020, the Reporting Person bought 873 Shares at an
+average price of $16.65 per share, and sold 412 Shares at an average
+price of $16.71;
+
+--- On March 3, 2020, the Reporting Person bought 1,900 Shares at an
+average price of $16.86 per share;
+
+--- On March 5, 2020, the Reporting Person sold 517 Shares at an average
+price of $16.85 per share;
+
+<PAGE>
+
+CUSIP No. 957667108	 	13D	 	Page 5 of 7 Pages
+--------------------------------------------------------------------------------
+
+--- On March 10, 2020, the Reporting Person sold 1,923 Shares at an average
+price of $16.41 per share;
+
+--- On March 12, 2020, the Reporting Person sold 786 Shares at an average
+price of $15.97 per share.
+
+(d) To the knowledge of the Reporting Person, other than described in this
+Schedule 13D, no other person is known to have the right to receive or the
+power to direct the receipt of dividends from, or the proceeds from the sale
+of shares owned by it.
+
+(e) Not applicable.
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+CUSIP No. 957667108	 	13D	 	Page 6 of 7 Pages
+--------------------------------------------------------------------------------
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with
+Respect to Securities of the Issuer.
+
+Other than as described in this Schedule 13D, there are no contracts,
+arrangements, understandings, or relationships among the Reporting Person
+namedin Item 2 above and any person with respect to any securities of the
+Issuer.
+--------------------------------------------------------------------------------
+
+Item 7.  Material to Be Filed as Exhibits.
+
+Not applicable
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+CUSIP No. 957667108	 	13D	 	Page 7 of 7 Pages
+--------------------------------------------------------------------------------
+
+				SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+
+			    Relative Value Partners, LLC
+
+
+                                   March  , 2020
+	                  -------------------------------
+	                              DATE
+
+
+	                        /s/ MAURY FERTIG
+                          -------------------------------
+                                    SIGNATURE
+
+	                   MAURY FERTIG/MANAGING MEMBER
+	                 --------------------------------
+	                           NAME/TITLE
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

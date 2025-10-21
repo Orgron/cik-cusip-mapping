@@ -1,0 +1,218 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ sXXtOCxjoO7uRIgzOM5+7HtBlkzVCJikpVgb7W3jSy0mKjrv8+xrZBK6jr0Qwhts
+ KiOztfVHLCr4BDLhiGatFw==
+
+<IMS-DOCUMENT>0000937242-95-000001.txt : 19950823
+<IMS-HEADER>0000937242-95-000001.hdr.sgml : 19950823
+ACCESSION NUMBER:		0000937242-95-000001
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950822
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LARSON DAVIS INC
+		CENTRAL INDEX KEY:			0000789851
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				870429944
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-39870
+		FILM NUMBER:		95565688
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1681 W 820 NORTH
+		CITY:			PROVO
+		STATE:			UT
+		ZIP:			84601
+		BUSINESS PHONE:		8013750177
+
+	MAIL ADDRESS:	
+		STREET 2:		1681 WEST 820 NORTH
+		CITY:			PROVO
+		STATE:			UT
+		ZIP:			84601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CRITERION VENTURES INC
+		DATE OF NAME CHANGE:	19871126
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BODNER NAOMI
+		CENTRAL INDEX KEY:			0000937242
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6 GROSSER LN
+		CITY:			MONSEY
+		STATE:			NY
+		ZIP:			10952
+
+	MAIL ADDRESS:	
+		STREET 1:		6 GROSSER LN
+		CITY:			MONSEY
+		STATE:			NY
+		ZIP:			10952
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+                           UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+                    Washington, D.C.  20549
+                                
+                          SCHEDULE 13D
+                        (Amendment No.1)
+                                
+  Under the Securities Exchange Act of 1934
+                                
+   LARSON-DAVIS INCORPORATED        
+                        (Name of Issuer)
+                                
+     Common Stock, Par Value $.0001 Per Share            
+                 (Title of Class of Securities)
+                                
+                          517310 10 8               
+   (CUSIP Number of Class of Securities)
+                                   Copy to:
+
+Naomi Bodner                       Michael B. Solovay, Esq.
+16 Grosser Lane                    Solovay Marshall & Edlin, P.C.
+Monsey, New York 10952    845 Third Avenue
+                                             New York, New York  10022
+(Name, Address and Telephone Number of Person Authorized to
+             Receive Notices and Communications)
+
+                         August 2, 1995        
+                 (Date of Event which Requires
+                   Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Statement because of Rule 13d-1(b)
+(3) or (4), check the following:
+                                                    ___
+                                                  /___ /
+                                             
+Check the following box if a fee is being paid with this Statement:
+                                                    ___
+                                                  /    /
+
+                        Page 1 of 4 Pages
+                    There are not any exhibits<PAGE>
+_____________________________________________________________________
+CUSIP No. 517310 10 8              13D            Page 2 of 4 Pages
+_____________________________________________________________________
+(1)  NAMES OF REPORTING PERSONS  S.S. OR I.R.S. IDENTIFICATION NOS. OF
+ABOVE PERSONS       Naomi Bodner        
+______________________________________________________________________________
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF GROUP:
+                                               ___
+                                        (a) /_ _ /
+                                              ___
+                                        (b) /    /
+______________________________________________________________________________
+(3)  SEC USE ONLY
+______________________________________________________________________________
+(4)  SOURCE OF FUNDS*  PF
+______________________________________________________________________________
+(5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+PURSUANT TO ITEMS 2(d) or  2(e)
+                                             ___
+                                            /    /
+______________________________________________________________________________
+(6)  CITIZENSHIP OR PLACE OF ORGANIZATION    U.S.
+______________________________________________________________________________
+                              :  (7)    SOLE VOTING POWER   
+                              :                   349,708
+                              :_____________________________
+NUMBER OF SHARES BENEFICIALLY :  (8)    SHARED VOTING POWER    
+OWNED BY EACH REPORTING       :                   349,708
+PERSON WITH                   :_____________________________
+                              :  (9)    SOLE DISPOSITIVE POWER
+                              :                   349,708
+                              :______________________________
+                              : (10)    SHARED DISPOSITIVE POWER    
+                              :                   349,708
+          ____________________:______________________________________
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                           349,708
+______________________________________________________________________________
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11 EXCLUDES CERTAIN
+SHARES*                              ___
+                                            /___ /
+_____________________________________________________________________________
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11    5.05%
+_____________________________________________________________________________
+(14) TYPE OF REPORTING PERSON*    IN
+_____________________________________________________________________________
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!<PAGE>
+
+Item 1.  Security and Issuer.
+
+          This Amendment No. 1 amends and supplements the statement on Schedule
+13D (the"Schedule 13D") relating to the common stock, par value $.001 per share
+("Common Stock"), of Larson-Davis Incorporated, a Nevada corporation (the
+"Company") and filed with the Securities and Exchange Commission on behalf of 
+Mrs. Naomi Bodner.  Except as disclosed herein, there has been no change in
+the information previously reported in the Schedule 13D.  Capitalized terms
+not defined herein shall have the meaning ascribed to them in the Schedule 13D.
+
+Item 5.  Interest in Securities of the Issuer.
+
+          On August 2, 1995, Mrs. Bodner sold 100,000 shares of the Common Stock
+for $3-13/16 per share.  On August 3, 1995, Mrs. Bodner sold 48,077 shares of 
+the Common Stock for $3-7/8 per share.  On August 10, 1995, Mrs. Bodner sold
+(a) 15,000 shares of the Common Stock for $5-15/16 per share and (b) 18,000
+shares for $5.9175 per share.  On August 14, 1995, Mrs. Bodner exercised each
+of the First Warrants and thereby acquired 200,104 shares of the Common
+Stock.  On August 15, 1995, Mrs. Bodner sold 17,500 shares of the Common Stock 
+for $6.00 per share.  All such sales were made by broker transactions.
+
+          According to the Company's Form 10-QSB for the quarterly period ended 
+March 31, 1995, as of May 10, 1995, the Company had 6,518,469 shares of Common 
+Stock outstanding.  As a result of the sale of (a) 148,077 shares of the
+Common Stock on August 2 and 3, 1995 and (b) 50,500 shares of the Common
+Stock on August 10 and 15, 1995, Mrs. Bodner is the beneficial owner of
+349,708 shares of Common Stock or 5.05% of the Company's Common Stock
+outstanding, which include 149,604 shares of the Common Stock and 200,104 shares
+of the Common Stock issuable upon the exercise of the Second Warrants owned by 
+Mrs. Bodner.  Mrs. Bodner has the sole power to vote and to dispose of such 
+Common Stock.  
+
+                        Page 3 of 4 Pages<PAGE>
+
+                            SIGNATURE
+          After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+Dated: August 16, 1995
+
+                                   /s/ Naomi Bodner          
+                                   Name:  Naomi Bodner
+
+
+                        Page 4 of 4 Pages
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

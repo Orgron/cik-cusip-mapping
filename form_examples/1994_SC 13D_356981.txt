@@ -1,0 +1,1439 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ GNXGuC6omgRwt6A6Etwg2nwj96ie0lTLeWojPW2tr7X5xW3L1mdPfYSMXUn/A94n
+ yEhybgJzR7/BWrnFVHJrAg==
+
+<IMS-DOCUMENT>0000891836-94-000030.txt : 19940426
+<IMS-HEADER>0000891836-94-000030.hdr.sgml : 19940426
+ACCESSION NUMBER:		0000891836-94-000030
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		19940425
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUBURBAN BANCORP INC /DE/
+		CENTRAL INDEX KEY:			0000356981
+		STANDARD INDUSTRIAL CLASSIFICATION:	6022
+		IRS NUMBER:				311385530
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33934
+		FILM NUMBER:		94524211
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10869 MONTGOMERY RD
+		STREET 2:		C/O EDWARD C MURAWSKI
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45242
+		BUSINESS PHONE:		5134894888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FITZGERALD THOMAS G
+		CENTRAL INDEX KEY:			0000904013
+		STANDARD INDUSTRIAL CLASSIFICATION:	0000
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FREEBORN & PETERS
+		STREET 2:		311 SOUTH WACKER DR SUITE 3000
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3123606501
+
+	MAIL ADDRESS:	
+		STREET 2:		311 SOUTH WACKER DR SUITE 3000
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SUBURBAN BANCORP, INC. SCHEDULE 13D
+<TEXT>
+
+<PAGE> 1
+
+
+              SECURITIES AND EXCHANGE COMMISSION
+
+                     Washington, DC 20549
+
+
+                         SCHEDULE 13D
+
+           Under the Securities Exchange Act of 1934
+
+
+                    SUBURBAN BANCORP, INC.
+                       (Name of Issuer)
+
+
+        Class A Common Stock, $1.00 par value per share
+        Class B Common Stock, $1.00 par value per share
+                (Title of Class of Securities)
+
+
+                Class A Common Stock: 864346200
+                Class B Common Stock: 864346900
+                        (CUSIP Number)
+
+
+                  Robert A. McWilliams, Esq.
+                       Freeborn & Peters
+                    311 South Wacker Drive
+                          Suite 3000
+                    Chicago, Illinois 60606
+                        (312) 360-6551
+  (Name, Address and Telephone Number of Person Authorized to
+              Receive Notices and Communications)
+
+                        April 15, 1994
+    (Date of Event Which Requires Filing of This Statement)
+
+
+     If the filing person has previously filed a statement on
+Schedule 13G to report the acquisition which is the subject of
+this Schedule 13D, and is filing this schedule because of Rule
+13d-1(b)(3) or (4), check the following box  [  ].
+
+     Check the following box if a fee is being paid with this
+statement [ x ]. 
+
+     The disclosure of securities in this statement shall not
+be deemed an admission that any of the Reporting Persons are,
+for the purposes of Section 13(d) or 13(g) of the Securities
+Exchange Act of 1934, the beneficial owner of such securities.
+
+<PAGE>
+<PAGE> 2
+
+
+
+1.   Names of Reporting Persons:
+
+     (i)       Gerald F. Fitzgerald
+     (ii)      Marjorie G. Fitzgerald
+     (iii)     Gerald F. Fitzgerald, Jr.
+     (iv)      Denise M. Fitzgerald
+     (v)       James G. Fitzgerald
+     (vi)      Jane M. Fitzgerald
+     (vii)     Peter G. Fitzgerald
+     (viii)    C. Nina Fitzgerald
+     (ix)      Thomas G. Fitzgerald
+     (x)       Julie F. Schauer
+
+2.   Check the Appropriate Row if a Member of a Group:
+
+     (i)       Gerald F. Fitzgerald          (a)  [ x ] 
+                                             (b)  [  ]
+
+     (ii)      Marjorie G. Fitzgerald        (a)  [ x ] 
+                                             (b)  [  ]
+
+     (iii)     Gerald F. Fitzgerald, Jr.     (a)  [ x ] 
+                                             (b)  [  ]
+
+     (iv)      Denise M. Fitzgerald          (a)  [ x ] 
+                                             (b)  [  ]
+
+     (v)       James G. Fitzgerald           (a)  [ x ] 
+                                             (b)  [  ]
+
+     (vi)      Jane M. Fitzgerald            (a)  [ x ] 
+                                             (b)  [  ]
+
+     (vii)     Peter G. Fitzgerald           (a)  [ x ] 
+                                             (b)  [  ]
+
+     (viii)    C. Nina Fitzgerald            (a)  [ x ] 
+                                             (b)  [  ]
+
+     (ix)      Thomas G. Fitzgerald          (a)  [ x ] 
+                                             (b)  [  ]
+
+     (x)       Julie F. Schauer              (a)  [ x ] 
+                                             (b)  [  ]
+
+3.   SEC Use Only:__________________________________________
+
+4.   Source of Funds:
+
+     (i)       Gerald F. Fitzgerald          NA
+     (ii)      Marjorie G. Fitzgerald        NA
+     (iii)     Gerald F. Fitzgerald, Jr.     NA
+     (iv)      Denise M. Fitzgerald          NA
+     (v)       James G. Fitzgerald           NA
+
+<PAGE>
+<PAGE> 3
+
+
+     (vi)      Jane M. Fitzgerald            NA
+     (vii)     Peter G. Fitzgerald           NA
+     (viii)    C. Nina Fitzgerald            NA
+     (ix)      Thomas G. Fitzgerald          NA
+     (x)       Julie F. Schauer              NA
+
+5.   Check if Disclosure of Legal Proceedings is Required
+     Pursuant to Item 2(d) or 2(e):
+
+     (i)       Gerald F. Fitzgerald          [  ]
+     (ii)      Marjorie G. Fitzgerald        [  ]
+     (iii)     Gerald F. Fitzgerald, Jr.     [  ]
+     (iv)      Denise M. Fitzgerald          [  ]
+     (v)       James G. Fitzgerald           [  ]
+     (vi)      Jane M. Fitzgerald            [  ]
+     (vii)     Peter G. Fitzgerald           [  ]
+     (viii)    C. Nina Fitzgerald            [  ]
+     (ix)      Thomas G. Fitzgerald          [  ]
+     (x)       Julie F. Schauer              [  ]
+
+6.   Citizenship or Place of Organization:
+
+     (i)       Gerald F. Fitzgerald          U.S.A.
+     (ii)      Marjorie G. Fitzgerald        U.S.A.
+     (iii)     Gerald F. Fitzgerald, Jr.     U.S.A.
+     (iv)      Denise M. Fitzgerald          U.S.A.
+     (v)       James G. Fitzgerald           U.S.A.
+     (vi)      Jane M. Fitzgerald            U.S.A.
+     (vii)     Peter G. Fitzgerald           U.S.A.
+     (viii)    C. Nina Fitzgerald            U.S.A.
+     (ix)      Thomas G. Fitzgerald          U.S.A.
+     (x)       Julie F. Schauer              U.S.A.
+
+Number of Shares Owned by Each Reporting Person:
+
+     7.   Sole Voting Power:
+
+<TABLE>
+<CAPTION>
+                              Class A   Class B
+                              Common    Common
+                              Number    Number
+                                of        of
+Name of Reporting Person      Shares    Shares
+
+<S>                           <C>       <C>
+Gerald F. Fitzgerald  . . . . None      None
+Marjorie G. Fitzgerald  . . . None      None
+Gerald F. Fitzgerald, Jr. . . None      None
+Denise M. Fitzgerald  . . . . None      None
+James G. Fitzgerald . . . . . None      None
+Jane M. Fitzgerald  . . . . . None      None
+Peter G. Fitzgerald . . . . . None      None
+C. Nina Fitzgerald  . . . . . None      None
+Thomas G. Fitzgerald  . . . . None      None
+Julie F. Schauer  . . . . . . None      None
+
+</TABLE>
+<PAGE>
+<PAGE> 4
+
+
+     8.   Shared Voting Power:
+
+<TABLE>
+<CAPTION>
+
+                                      Class A    Class B
+                                      Common     Common
+                                      Number     Number
+                                        of         of
+Name of Reporting Person              Shares     Shares
+
+<S>                                   <C>       <C>
+Gerald F. Fitzgerald  . . . . . . . .  7,950     110,872
+Marjorie G. Fitzgerald  . . . . . . . 51,062     120,204
+Gerald F. Fitzgerald, Jr.(1)  . . . . 46,063     156,677
+Denise M. Fitzgerald  . . . . . . . .      0      20,521
+James G. Fitzgerald(2)  . . . . . . . 31,629     169,618
+Jane M. Fitzgerald  . . . . . . . . . 10,944       8,938
+Peter G. Fitzgerald(3)  . . . . . . . 39,402     161,883
+C. Nina Fitzgerald  . . . . . . . . .  4,215      24,555
+Thomas G. Fitzgerald(4) . . . . . . . 43,994     184,240
+Julie F. Schauer(5) . . . . . . . . . 42,306     182,851
+
+<FN>
+________________________
+
+<PAGE>
+<PAGE> 5
+
+
+(1)  Includes 1,950 Class A shares and 43,587 Class B shares
+     owned by the Celine McMahon Fitzgerald Trust and 450
+     Class A shares owned by the Marguerite G. Schauer Trust,
+     of which Gerald F. Fitzgerald, Jr.  is trustee.
+
+(2)  Includes 11,800 Class A shares and 55,826 Class B shares
+     owned by the Andrew J. Fitzgerald Trust and the Timothy
+     E. Fitzgerald Trust, of which James G. Fitzgerald is
+     trustee.
+
+(3)  Includes 1,010 Class A shares and 36,633 Class B shares
+     owned by the Jake Buchanan Fitzgerald Trust, the
+     Fitzgerald Descendants Trust and the Fitzgerald Children
+     Trust, and 1,356 Class A shares and 14,730 Class B shares
+     owned by the Shannon McMahon Fitzgerald Exclusion Trust,
+     the Shannon McMahon Fitzgerald Primary Trust and the
+     Elyse Ives Schauer Trust, of which Peter G. Fitzgerald is
+     trustee.
+
+(4)  Includes 23,900 Class A shares and 53,790 Class B shares
+     owned by the Lauren Webb Fitzgerald Trust and the Thomas
+     G. Fitzgerald, Jr. Trust, of which Thomas G. Fitzgerald
+     is trustee.
+
+(5)  Includes 11,303 Class A shares and 52,308 Class B shares
+     held of record by Julie F. Schauer's spouse and 3,981
+     Class A shares and 18,069 Class B shares owned by the
+     Elyse Ives Schauer Trust, of which Julie F. Schauer is
+     trustee.
+
+</TABLE>
+
+     9.   Sole Dispositive Power:
+
+<TABLE>
+<CAPTION>
+                                       Class A   Class B
+                                       Common    Common
+                                       Number    Number
+                                         of        of
+Name of Reporting Person               Shares    Shares
+
+<S>                                  <C>         <C>
+Gerald F. Fitzgerald  . . . . . . . .  7,950     110,872
+Marjorie G. Fitzgerald  . . . . . . . 51,062     120,204
+Gerald F. Fitzgerald, Jr.(1)  . . . . 46,063     156,677
+Denise M. Fitzgerald  . . . . . . . .      0      20,521
+James G. Fitzgerald(2)  . . . . . . . 31,629     169,618
+Jane M. Fitzgerald  . . . . . . . . . 10,944       8,938
+Peter G. Fitzgerald(3)  . . . . . . . 39,402     161,883
+C. Nina Fitzgerald  . . . . . . . . .  4,215      24,555
+Thomas G. Fitzgerald(4) . . . . . . . 43,994     184,240
+Julie F. Schauer(5) . . . . . . . . . 42,306     182,851
+
+<FN>
+____________________
+
+(1)  Includes 1,950 Class A shares and 43,587 Class B shares
+     owned by the Celine McMahon Fitzgerald Trust and 450
+     Class A shares owned by the Marguerite G. Schauer Trust,
+     of which Gerald F. Fitzgerald, Jr.  is trustee.
+
+<PAGE>
+<PAGE> 6
+
+
+(2)  Includes 11,800 Class A shares and 55,826 Class B shares
+     owned by the Andrew J. Fitzgerald Trust and the Timothy
+     E. Fitzgerald Trust, of which James G. Fitzgerald is
+     trustee.
+
+(3)  Includes 1,010 Class A shares and 36,633 Class B shares
+     owned by the Jake Buchanan Fitzgerald Trust, the
+     Fitzgerald Descendants Trust and the Fitzgerald Children
+     Trust, and 1,356 Class A shares and 14,730 Class B shares
+     owned by the Shannon McMahon Fitzgerald Exclusion Trust,
+     the Shannon McMahon Fitzgerald Primary Trust and the
+     Elyse Ives Schauer Trust, of which Peter G. Fitzgerald is
+     trustee.
+
+(4)  Includes 23,900 Class A shares and 53,790 Class B shares
+     owned by the Lauren Webb Fitzgerald Trust and the Thomas
+     G. Fitzgerald, Jr. Trust, of which Thomas G. Fitzgerald
+     is trustee.
+
+(5)  Includes 11,303 Class A shares and 52,308 Class B shares
+     held of record by Julie F. Schauer's spouse and 3,981
+     Class A shares and 18,069 Class B shares owned by the
+     Elyse Ives Schauer Trust, of which Julie F. Schauer is
+     trustee.
+
+</TABLE>
+<PAGE>
+<PAGE> 7
+
+
+     10.  Shared Dispositive Power:
+
+<TABLE>
+<CAPTION>
+                                   Class A   Class B
+                                   Common    Common
+                                   Number    Number
+                                     of        of
+Name of Reporting Person           Shares    Shares
+
+<S>                                <C>       <C>
+Gerald F. Fitzgerald  . . . . . .  None      None
+Marjorie G. Fitzgerald  . . . . .  None      None
+Gerald F. Fitzgerald, Jr. . . . .  None      None
+Denise M. Fitzgerald  . . . . . .  None      None
+James G. Fitzgerald . . . . . . .  None      None
+Jane M. Fitzgerald  . . . . . . .  None      None
+Peter G. Fitzgerald . . . . . . .  None      None
+C. Nina Fitzgerald  . . . . . . .  None      None
+Thomas G. Fitzgerald  . . . . . .  None      None
+Julie F. Schauer  . . . . . . . .  None      None
+
+<PAGE>
+<PAGE> 8
+
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting
+     Person:
+
+
+</TABLE>
+<TABLE>
+<CAPTION>
+                                   Class A    Class B
+                                   Common     Common
+                                   Number     Number
+                                     of         of
+Name of Reporting Person           Shares     Shares
+
+<S>                                <C>        <C>
+Gerald F. Fitzgerald  . . . . .     7,950     110,872
+Marjorie G. Fitzgerald  . . . .    51,062     120,204
+Gerald F. Fitzgerald, Jr.(1)  .    46,063     156,677
+Denise M. Fitzgerald  . . . . .         0      20,521
+James G. Fitzgerald(2)  . . . .    31,629     169,618
+Jane M. Fitzgerald  . . . . . .    10,944       8,938
+Peter G. Fitzgerald(3)  . . . .    39,402     161,883
+C. Nina Fitzgerald  . . . . . .     4,215      24,555
+Thomas G. Fitzgerald(4) . . . .    43,994     184,240
+Julie F. Schauer(5) . . . . . .    42,306     182,851
+
+Total Shares Beneficially Owned
+  by Group  . . . . . . . . . .   277,565   1,140,359
+
+<FN>
+________________________
+
+(1)  Includes 1,950 Class A shares and 43,587 Class B shares
+     owned by the Celine McMahon Fitzgerald Trust and 450
+     Class A shares owned by the Marguerite G. Schauer Trust,
+     of which Gerald F. Fitzgerald, Jr. is trustee.
+
+(2)  Includes 11,800 Class A shares and 55,826 Class B shares
+     owned by the Andrew J. Fitzgerald Trust and the Timothy
+     E. Fitzgerald Trust, of which James G. Fitzgerald is
+     trustee. 
+
+(3)  Includes 1,010 Class A shares and 36,633 Class B shares
+     owned by the Jake Buchanan Fitzgerald Trust, the
+     Fitzgerald Descendants Trust and the Fitzgerald Children
+     Trust, and 1,356 Class A shares and 14,730 Class B shares
+     owned by the Shannon McMahon Fitzgerald Exclusion Trust,
+     the Shannon McMahon Fitzgerald Primary Trust and the
+     Elyse Ives Schauer Trust, of which Peter G. Fitzgerald is
+     trustee. 
+
+(4)  Includes 23,900 Class A shares and 53,790 Class B shares
+     owned by the Lauren Webb Fitzgerald Trust and the Thomas
+     G. Fitzgerald, Jr. Trust, of which Thomas G. Fitzgerald
+     is trustee. 
+
+<PAGE>
+<PAGE> 9
+
+
+(5)  Includes 11,303 Class A shares and 52,308 Class B shares
+     held of record by Julie F. Schauer's spouse and 3,981
+     Class A shares and 18,069 Class B shares owned by the
+     Elyse Ives Schauer Trust, of which Julie F. Schauer is
+     trustee.
+
+</TABLE>
+
+12.  Check if the Aggregate Amount in Row (11) Excludes
+     Certain Shares:   [  ]
+
+
+13.  Percent of Class Represented by Amount in Row (11):
+
+<TABLE>
+<CAPTION>
+
+                                  Class A       Class B
+                                  Common        Common
+                                 Percentage    Percentage
+                                   of             of
+Name of Reporting Person          Shares        Shares
+
+<S>                              <C>           <C>
+Gerald F. Fitzgerald  . . .        .4            8.8%
+Marjorie G. Fitzgerald  . .       2.4            9.6
+Gerald F. Fitzgerald, Jr. .       2.2           12.5
+Denise M. Fitzgerald  . . .       0              1.6
+James G. Fitzgerald . . . .       1.5           13.5
+Jane M. Fitzgerald  . . . .        .5             .7
+Peter G. Fitzgerald . . . .       1.9           12.9
+C. Nina Fitzgerald  . . . .        .2            2.0
+Thomas G. Fitzgerald  . . .       2.1           14.7
+Julie F. Schauer  . . . . .       2.0           14.6
+
+Total Percent Represented 
+  by Group  . . . . . . . .      13.1           90.8%
+
+Total Percent Voting Power
+  Represented by Group* . .      79.6%
+
+<FN>
+*  In accordance with the Issuer's Certificate of
+Incorporation, the holders of Class A Common Stock are
+entitled to one vote per share on all matters to be voted on
+by the Issuer's stockholders and the holders of Class B Common
+Stock are entitled to ten votes per share on all matters to be
+voted on by the Issuer's stockholders.
+
+/TABLE
+<PAGE>
+<PAGE> 10
+
+
+14.  Type of Reporting Person:
+
+     (i)       Gerald F. Fitzgerald          IN
+     (ii)      Marjorie G. Fitzgerald        IN
+     (iii)     Gerald F. Fitzgerald, Jr.     IN
+     (iv)      Denise M. Fitzgerald          IN
+     (v)       James G. Fitzgerald           IN
+     (vi)      Jane M. Fitzgerald            IN
+     (vii)     Peter G. Fitzgerald           IN
+     (viii)    C. Nina Fitzgerald            IN
+     (ix)      Thomas G. Fitzgerald          IN
+     (x)       Julie F. Schauer              IN
+
+<PAGE>
+<PAGE> 11
+
+
+Item 1.   Security and Issuer.
+
+     The title of the class of equity securities to which this
+statement relates is the Class A common stock, $1.00 par value
+per share, and Class B common stock, $1.00 par value per
+share, of Suburban Bancorp, Inc., a Delaware corporation (the
+"Issuer").  In accordance with the Issuer's Certificate of
+Incorporation, the holders of Class A Common Stock are
+entitled to one vote per share on all matters to be voted on
+by the Issuer's stockholders and the holders of Class B Common
+Stock are entitled to ten votes per share on all matters to be
+voted on by the Issuer's stockholders.  As of April 15, 1994,
+there were 2,113,514 shares of Class A Common Stock and
+1,256,486 shares of Class B Common Stock issued and
+outstanding.  
+
+     The Issuer's principal executive office is located at 50
+North Brockway Street, Palatine, Illinois 60067. 
+
+
+Item 2.   Identity and Background.
+
+(i)  Gerald F. Fitzgerald
+
+     (a)  Name:  Gerald F. Fitzgerald
+
+     (b)  Business Address:  50 North Brockway Street, 
+          Palatine, Illinois 60067
+
+     (c)  Present Principal Occupation or Employment: 
+          Chairman of the Board of Directors of the Issuer.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(ii) Marjorie G. Fitzgerald
+
+     (a)  Name:  Marjorie G. Fitzgerald
+
+     (b)  Residence Address:  19 Creekside,  Barrington Hills,
+          Illinois 60010
+
+     (c)  Present Principal Occupation or Employment:  None
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+<PAGE>
+<PAGE> 12
+
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(iii)     Gerald F. Fitzgerald, Jr.
+
+     (a)  Name:  Gerald F. Fitzgerald, Jr.
+
+     (b)  Business Address:  50 North Brockway Street, 
+          Palatine, Illinois 60067
+
+     (c)  Present Principal Occupation or Employment: 
+          President and Chief Executive Officer of the Issuer.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(iv) Denise M. Fitzgerald
+
+     (a)  Name:  Denise M. Fitzgerald
+
+     (b)  Residence Address:  1470  Pheasant Trail, Inverness,
+          Illinois 60067  
+
+     (c)  Present Principal Occupation or Employment:  None.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+<PAGE>
+<PAGE> 13
+
+
+(v)  James G. Fitzgerald
+
+     (a)  Name:  James G. Fitzgerald
+
+     (b)  Business Address:  333 North Northwest Highway,
+          Barrington, Illinois 60010
+
+     (c)  Present Principal Occupation or Employment: 
+          Treasurer and Chief Financial Officer of the Issuer
+          and President of the Suburban National Bank of
+          Barrington.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(vi) Jane M. Fitzgerald
+
+     (a)  Name:  Jane M. Fitzgerald
+
+     (b)  Residence Address:  227 Otis Road, Barrington,
+          Illinois 60010
+
+     (c)  Present Principal Occupation or Employment:  None.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(vii)     Peter G. Fitzgerald
+
+     (a)  Name:  Peter G. Fitzgerald
+
+     (b)  Business Address: 50 North Brockway Street,
+          Palatine, Illinois 60067
+
+     (c)  Present Principal Occupation or Employment: 
+          Illinois State Senator 
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+<PAGE>
+<PAGE> 14
+
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(viii)    C. Nina Fitzgerald
+
+     (a)  Name:  C. Nina Fitzgerald
+
+     (b)  Residence Address:  1897 Stuart Lane, Inverness,
+          Illinois 60067
+
+     (c)  Present Principal Occupation or Employment:.  None.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+(ix) Thomas G. Fitzgerald
+
+     (a)  Name:  Thomas G. Fitzgerald
+
+     (b)  Business Address:  311 South Wacker Drive, Suite
+          3000, Chicago, Illinois 60606
+
+     (c)  Present Principal Occupation or Employment:  Partner
+          in the law firm of Freeborn & Peters, Chicago,
+          Illinois.
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+<PAGE>
+<PAGE> 15
+
+
+(x)  Julie F. Schauer
+
+     (a)  Name:  Julie F. Schauer
+
+     (b)  Business Address:  22nd and Lambert Streets, Glen
+          Ellyn, Illinois 60137
+
+     (c)  Present Principal Occupation or Employment:  College
+          Teacher (part time) at College of DuPage, Glen
+          Ellyn, Illinois
+
+     (d)  Convictions in Criminal Proceedings in the Last Five
+          Years:  None.
+
+     (e)  Securities Law Related Proceedings Resulting in a
+          Judgement, Decree or Final Order in the Last Five
+          Years:  None. 
+
+     (f)  Citizenship:  U.S.A.
+
+
+Item 3.   Source and Amount of Funds of Other Consideration.  
+
+          Not applicable.
+
+
+Item 4.   Purpose of Transaction.
+
+     On April 15, 1994, the Issuer entered into a Merger
+Agreement (the "Merger Agreement") with Bank of Montreal
+("BMO") and Harris Bankmont, Inc., a subsidiary of BMO. 
+Pursuant to the Merger Agreement, the Issuer will be merged
+with and into HBI and HBI will continue as the surviving
+corporation (the "Merger").  Pursuant to the Merger, each
+share of the Issuer's Class A and Class B Common Stock, each
+$1.00 par value per share, shall be converted into the right
+to receive BMO common stock, no par value, pursuant to a
+formula as specified in the Merger Agreement. 
+
+     In connection with the Merger Agreement, the Reporting
+Persons entered into a voting agreement with BMO on April 15,
+1994, pursuant to which the Reporting Persons, who own in the
+aggregate more than a majority of the voting power of the
+Issuer both individually and as trustees of certain family
+trusts, agreed to vote their shares of Class A and Class B
+Common Stock in favor of the Merger Agreement, among other
+things (the "Voting Agreement").
+
+     Except as described above or in Item 6 herein, the
+Reporting Persons have no plans or proposals that would relate
+to or result in any of the events set forth in Item 4(a)
+through (j) of Schedule 13D.
+
+<PAGE>
+<PAGE> 16
+
+
+     The specific terms of the Merger and the Voting Agreement
+are more fully described in the Merger Agreement and the
+Voting Agreement filed on April 18, 1994 as exhibits to the
+Issuer's Current Report on Form 8-K and incorporated herein by
+reference (the "Form 8-K").
+
+
+Item 5.   Interest in Securities of the Issuer.
+
+
+(a)  Aggregate Number and Percentage of Shares Beneficially
+     Owned: 
+
+<TABLE>
+<CAPTION>
+                                Number of Shares
+Name of                       Beneficially Owned
+Reporting Person                     Class
+
+<S>                           <C>        <C>
+                                 A         B
+Gerald F. Fitzgerald  . . .    7,950     110,872
+Majorie G Fitzgerald  . . .   51,062     120,204
+Gerald F. Fitzgerald, Jr.(1)  46,063     156,677
+Denise M. Fitzgerald  . . .        0      20,521
+James G. Fitzgerald(2)  . .   31,629     169,618
+Jane M. Fitzgerald  . . . .   10,944       6,938
+Peter G. Fitzgerald(3)  . .   39,402     161,883
+C. Nina Fitzgerald  . . . .    4,215      24,555
+Thomas G. Fitzgerald(4) . .   43,994     184,240
+Julie F. Schauer(5) . . . .   42,306     182,851
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                 Percentage of
+                                     Shares
+                                  Beneficially
+Name of                              Owned
+Reporting Person                     Class
+
+<S>                               <C>     <C>
+                                    A       B
+Gerald F. Fitzgerald  . . .         .4%    8.8%
+Majorie G Fitzgerald  . . .        2.4     9.8
+Gerald F. Fitzgerald, Jr.(1)       2.2    12.5
+Denise M. Fitzgerald  . . .        0       1.6
+James G. Fitzgerald(2)  . .        1.5    13.5
+Jane M. Fitzgerald  . . . .         .5      .7
+Peter G. Fitzgerald(3)  . .        1.9    12.9
+C. Nina Fitzgerald  . . . .         .2     2.0
+
+ <PAGE>
+<PAGE> 17
+
+
+ Thomas G. Fitzgerald(4) . .        2.1    14.7
+ Julie F. Schauer(5) . . . .        2.0    14.6
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                              Number of Shares with
+Name of                         Sole Power to Vote
+Reporting Person                      Class
+
+<S>                            <C>          <C>
+                                A            B
+Gerald F. Fitzgerald  . . .    None         None
+Majorie G Fitzgerald  . . .    None         None
+Gerald F. Fitzgerald, Jr.(1)   None         None
+Denise M. Fitzgerald  . . .    None         None
+James G. Fitzgerald(2)  . .    None         None
+Jane M. Fitzgerald  . . . .    None         None
+Peter G. Fitzgerald(3)  . .    None         None
+C. Nina Fitzgerald  . . . .    None         None
+Thomas G. Fitzgerald(4) . .    None         None
+Julie F. Schauer(5) . . . .    None         None
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                               Number of Shares with
+Name of                         Shared Power to Vote
+Reporting Person                       Class
+
+<S>                            <C>         <C>
+                                   A           B
+Gerald F. Fitzgerald  . . .     7,950      110,872
+Majorie G Fitzgerald  . . .    51,062      120,024
+Gerald F. Fitzgerald, Jr.(1)   46,063      156,677
+Denise M. Fitzgerald  . . .         0       20,521
+James G. Fitzgerald(2)  . .    31,629      169,618
+Jane M. Fitzgerald  . . . .    10,944        8,938
+Peter G. Fitzgerald(3)  . .    39,402      161,883
+C. Nina Fitzgerald  . . . .     4,215       24,555
+Thomas G. Fitzgerald(4) . .    43,994      184,240
+Julie F. Schauer(5) . . . .    42,306      182,851
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                               Number of Shares with
+Name of                        Sole Power to Dispose
+Reporting Person                       Class
+
+<S>                             <C>        <C>
+                                   A           B
+Gerald F. Fitzgerald  . . .     7,950      110,872
+
+ <PAGE>
+<PAGE> 18
+
+
+Majorie G Fitzgerald  . . .    51,062      120,024
+Gerald F. Fitzgerald, Jr.(1)   46,063      156,677
+Denise M. Fitzgerald  . . .         0       20,521
+James G. Fitzgerald(2)  . .    31,629      169,618
+Jane M. Fitzgerald  . . . .    10,944        8,938
+Peter G. Fitzgerald(3)  . .    39,402      161,883
+C. Nina Fitzgerald  . . . .     4,215       24,555
+Thomas G. Fitzgerald(4) . .    43,994      184,240
+Julie F. Schauer(5) . . . .    42,306      182,851
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                               Number of Shares with
+Name of                       Shared Power to Dispose
+Reporting Person                       Class
+
+<S>                              <C>          <C>
+                                   A           B
+Gerald F. Fitzgerald  . . .      None         None
+Majorie G Fitzgerald  . . .      None         None
+Gerald F. Fitzgerald, Jr.(1)     None         None
+Denise M. Fitzgerald  . . .      None         None
+James G. Fitzgerald(2)  . .      None         None
+Jane M. Fitzgerald  . . . .      None         None
+Peter G. Fitzgerald(3)  . .      None         None
+C. Nina Fitzgerald  . . . .      None         None
+Thomas G. Fitzgerald(4) . .      None         None
+Julie F. Schauer(5) . . . .      None         None
+
+
+<FN>
+__________________________
+
+(1)  Includes 1,950 Class A shares and 43,587 Class B shares
+     owned by the Celine McMahon Fitzgerald Trust and 450
+     Class A shares owned by the Marguerite G. Schauer Trust,
+     of which Gerald F. Fitzgerald, Jr. is trustee. 
+
+(2)  Includes 11,800 Class A shares and 55,826 Class B shares
+     owned by the Andrew J. Fitzgerald Trust and the Timothy
+     E. Fitzgerald Trust, of which James G. Fitzgerald is
+     trustee.
+
+(3)  Includes 1,010 Class A shares and 36,633 Class B shares
+     owned by the Jake Buchanan Fitzgerald Trust, the
+     Fitzgerald Descendants Trust and the Fitzgerald Children
+     Trust, and 1,356 Class A shares and 14,730 Class B shares
+     owned by the Shannon McMahon Fitzgerald Exclusion Trust,
+     the Shannon McMahon Fitzgerald Primary Trust and the
+     Elyse Ives Schauer Trust, of which Peter G. Fitzgerald is
+     trustee.
+
+(4)  Includes 23,900 Class A shares and 53,790 Class B shares
+     owned by the Lauren Webb Fitzgerald Trust and the Thomas
+     G. Fitzgerald, Jr. Trust, of which Thomas G. Fitzgerald
+     is trustee.  
+
+(5)  Includes 11,303 Class A shares and 52,308 Class B shares
+     held of record by Julie F. Schauer's spouse and 3,981
+     Class A shares and 18,069 Class B shares owned by the
+     Elyse Ives Schauer Trust, of which Julie F. Schauer is
+     trustee.
+</TABLE>
+<PAGE>
+<PAGE> 19
+
+
+(b)  Power to Vote and Dispose of Shares Beneficially Owned:  
+
+     See table above.  In accordance with the Issuer's
+Certificate of Incorporation, the holders of Class A Common
+Stock are entitled to one vote per share on all matters to be
+voted on by the Issuer's stockholders and the holders of Class
+B Common Stock are entitled to ten votes per share on all
+matters to be voted on by the Issuer's stockholders.  As of
+the April 15, 1994, the total voting power of the Reporting
+Persons as a group was 79.6% based on the stock ownership
+disclosed in the table above.  On such date, there were
+2,113,514 shares of Class A Common Stock and 1,256,486 shares
+of Class B Common Stock issued and outstanding.
+
+     As described above and in Item 6 below, the Reporting
+Persons have entered into a Voting Agreement with BMO.  As a
+result of the Voting Agreement, BMO may be deemed to have
+shared voting power with respect to the shares of Class A and
+Class B Common Stock owned by the Reporting Persons.  BMO has
+filed a Schedule 13D with the SEC.  Please refer to such
+filing, as may be amended from time to time, for information
+relating to BMO and other applicable disclosures.
+
+(c)  Securities Transactions in the Past 60 Days:
+
+
+<TABLE>
+<CAPTION>
+Name                    Transaction Date      Shares            Price
+
+<S>                     <C>         <C>       <C>              <C>
+Gerald F. Fitzgerald    Purchase    3/22/94   7,000 Class A    $41.50
+                        Purchase    3/29/94   2,000 Class A     41.50
+                        Sale        4/7/94    3,000 Class A     40.00
+                        Sale        4/7/94    6,000 Class A     40.50
+</TABLE>
+
+     The purchases on March 22, 1994 and March 29, 1994
+reflected above were executed pursuant to an order placed on
+behalf of Mr. Fitzgerald on March 21, 1994 to purchase 10,000
+shares of Class A Common Stock at a price not to exceed $41.50
+per share.  The March 21, 1994 order was placed two days prior
+to the date on which representatives of Harris Bankorp first
+proposed a price and general structure for a transaction which
+ultimately resulted in the Merger Agreement that was reached
+on April 15, 1994.  On or about April 7, 1994, Mr. Fitzgerald
+gave instructions to rescind the March 22 and March 29 trades. 
+Because rescission at that time was not possible, however, the
+9,000 share position was sold on April 7, 1994 at a loss, as
+indicated above, pursuant to Mr. Fitzgerald's instruction.
+
+(d)  Not Applicable.
+
+(e)  Not Applicable.
+
+Item 6.   Contracts, Arrangements, Understandings or
+          Relationships with Respect to Securities of the
+          Issuer.
+
+<PAGE>
+<PAGE> 20
+
+
+
+     Set forth below is a description of selected provisions
+of the Voting Agreement.
+
+     The Voting Agreement provides that the Reporting Persons,
+both individually and as trustee of certain family trusts
+(referred to in this Item 6 as the "Stockholders"), in
+consideration of the substantial expenses incurred and to be
+incurred by BMO in connection with the Merger Agreement, shall
+vote or cause to be voted or express a written consent with
+respect to all of such Stockholders' shares:
+
+          (a)  in favor of adoption and approval of the Merger
+     Agreement and the Merger at every meeting of the
+     stockholders of the Issuer at which such matters are
+     considered and at every adjournment thereof and in
+     connection with every proposal to take action by written
+     consent with respect thereto; and
+
+          (b)  against any other Acquisition Proposal (as such
+     term is defined in the Merger Agreement) at every meeting
+     of the stockholders of the Issuer at which such matters
+     are considered and at every adjournment thereof and in
+     connection with every proposal to take action by written
+     consent with respect thereto.
+
+     In the event that (i) the Merger Agreement is amended
+after the date thereof to increase the Per Share Stock
+Consideration (as such term is defined in the Voting
+Agreement) or (ii) the Merger Agreement is terminated by the
+Issuer pursuant to Section 9.2(a)(iv)(C) thereof and within
+eighteen months thereafter the Issuer enters into a business
+combination or other transaction with a third party pursuant
+to which the Stockholders receive consideration having a value
+of more than $75 per share, then BMO shall have the right to
+require each Stockholder to pay BMO, in cash (unless otherwise
+agreed by BMO), within two business days following the
+consummation of the Merger or such business combination or
+other transaction, an amount equal to the product of (A) in
+the case of an event described in clause (i) above, the number
+of shares owned by such Stockholder immediately prior to
+consummation of the Merger or, in the case of an event
+described in clause (ii) above, the number of shares owned by
+such Stockholder on the date the Merger Agreement is
+terminated and (B) the amount (if any) by which the value per
+share actually received by the Stockholder in connection with
+the Merger or such business transaction or other transaction,
+as the case may be, exceeds $75.
+
+     The Voting Agreement further provides for the following:
+
+     1.   Each of the Stockholders will not, nor will such
+Stockholder permit any entity under such Stockholder's control
+to, deposit any of such Stockholder's shares in a voting trust
+or subject any of their shares to any agreement, arrangement 
+
+<PAGE>
+<PAGE> 21
+
+
+or understanding with respect to the voting of such shares
+inconsistent with the Voting Agreement.
+
+     2.   During the term of the Voting Agreement, each
+Stockholder will not sell, assign, transfer or dispose of such
+Stockholder's shares except for up to an aggregate of 75,000
+shares by all Stockholders; provided, however, the foregoing
+shall not preclude the pledge of any Stockholder's shares so
+long as such Stockholder retains all voting rights with
+respect thereto.
+
+     The Voting Agreement terminates upon the earlier of (i)
+the Effective Time (as such term is defined in the Merger
+Agreement) of the Merger and (ii) the date on which the Merger
+Agreement is terminated in accordance with its terms.  Upon
+such termination, no party shall have any further obligations
+or liabilities under the Voting Agreement; provided that such
+termination shall not relieve any party from liability for any
+breach of the Voting Agreement prior to such termination.
+
+     The foregoing summary of the terms of the Voting
+Agreement does not purport to be complete and is qualified in
+its entirety by reference to the full text of the Voting
+Agreement, a copy of which is attached as an exhibit to the
+Form 8-K.
+
+
+Item 7.   Material to be Filed as Exhibits.
+
+     Exhibit 1 -    Voting Agreement, dated as of April 15,
+                    1994, by and among Bank of Montreal and
+                    the Reporting Persons (incorporated by
+                    reference to Exhibit 2(b) to the Issuer's
+                    Current Report on Form 8-K filed April 18,
+                    1994, File No. 0-11138).
+
+     Exhibit 2 -    Merger Agreement, dated as of April 15,
+                    1994, by and among Bank of Montreal,
+                    Harris Bankmont, Inc. and the Issuer
+                    (incorporated by reference to Exhibit 2(a)
+                    to the Issuer's Current Report on Form 8-K
+                    filed April 18, 1994, File No. 0-11138).
+
+     Exhibit 24 -   Form of Limited Power of Attorney (filed
+                    herewith).
+
+     Exhibit 99 -   Joint Filing Agreement of the Reporting
+                    Persons (filed herewith).
+
+<PAGE>
+<PAGE> 22
+
+
+                          SIGNATURES
+
+     After reasonable inquiry and to our best knowledge and
+belief, we each certify that the information set forth in this
+statement is true, complete and correct.
+
+Dated:  April 25, 1994
+                         /s/ Gerald F. Fitzgerald*
+                         Gerald F. Fitzgerald
+
+
+                         /s/ Marjorie G. Fitzgerald*
+                         Marjorie G. Fitzgerald
+
+
+                         /s/ Gerald F. Fitzgerald,Jr.*
+                         Gerald F. Fitzgerald, Jr.
+
+
+                         /s/ Denise M. Fitzgerald*
+                         Denise M. Fitzgerald
+
+
+                         /s/ James G. Fitzgerald*
+                         James G. Fitzgerald
+
+
+                         /s/ Jane M. Fitzgerald*
+                         Jane M. Fitzgerald
+
+
+                         /s/ Peter G. Fitzgerald*
+                         Peter G. Fitzgerald
+
+
+                         /s/ C. Nina Fitzgerald*
+                         C. Nina Fitzgerald
+
+
+                         /s/ Thomas G. Fitzgerald                       
+                         Thomas G. Fitzgerald
+
+
+                         /s/ Julie F. Schauer*
+                         Julie F. Schauer
+
+
+  /s/ Thomas G. Fitzgerald                              
+* Thomas G. Fitzgerald,  
+  Attorney-in-fact
+
+<PAGE>
+<PAGE> 23
+
+
+                              INDEX TO EXHIBITS
+
+
+Exhibit No.        Description                                     Page
+
+   (1)             Voting Agreement, dated as of April 15,
+                   1994, by and among Bank of Montreal and
+                   the Reporting Persons (incorporated by
+                   reference to Exhibit 2(b) to the Issuer's
+                   Current Report on Form 8-K filed April 18,
+                   1994, File No. 0-11138).
+
+   (2)             Merger Agreement, dated as of April 15,
+                   1994, by and among Bank of Montreal,
+                   Harris Bankmont, Inc. and the Issuer
+                   (incorporated by reference to Exhibit 2(a)
+                   to the Issuer's Current Report on Form 8-K
+                   filed April 18, 1994, File No. 0-11138).
+
+   (24)            Form of Limited Power of Attorney (filed
+                   herewith).
+
+   (99)            Joint Filing Agreement of the Reporting
+                   Persons (filed herewith).
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<DESCRIPTION>SUBURBAN BANCORP, INC. EXHIBIT 24 - POWER OF ATTORNEY
+<TEXT>
+
+<PAGE> 1
+
+
+
+                                                      Exhibit 24
+                            FORM OF
+                   LIMITED POWER OF ATTORNEY
+
+
+     KNOW ALL BY THESE PRESENTS, that the undersigned hereby
+constitutes and appoints Thomas G. Fitzgerald as the
+undersigned's true and lawful attorney-in-fact to:
+
+     (1)  execute for and on behalf of the undersigned a
+Schedule 13D and any amendments thereto, to be filed in
+connection with Suburban Bancorp, Inc., a Delaware corporation
+(the "Company"), in accordance with Section 13(d) of the
+Securities Exchange Act of 1934 (the "Exchange Act") and the
+rules promulgated thereunder;
+
+     (2)  do and perform any and all acts for and on behalf of
+the undersigned which may be necessary or desirable to
+complete and execute any such Schedule 13D and any amendments
+thereto, and timely file such schedule or amendments with the
+Securities and Exchange Commission and any stock exchange or
+similar authority, as required; and
+
+     (3)  take any other action of any type whatsoever in
+connection with the foregoing which, in the opinion of such
+attorney-in-fact, may be of benefit to, in the best interest
+of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-
+fact on behalf of the undersigned pursuant to this Limited
+Power of Attorney shall be in such form and shall contain such
+terms and conditions as such attorney-in-fact may approve in
+such attorney-in-fact's sole discretion.
+
+     The undersigned hereby grants to such attorney-in-fact
+full power to do and perform any and every act and thing
+whatsoever requisite, necessary, or proper to be done in the
+exercise of any of the rights and powers granted herein, as
+fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of
+substitution or revocation, hereby ratifying and confirming
+all that such attorney-in-fact, or such attorney-in-fact's
+substitute or substitutes, shall lawfully do or cause to be
+done by virtue of this Limited Power of Attorney and the
+rights and powers granted herein.  The undersigned
+acknowledges that the foregoing attorney-in-fact, in serving
+in such capacity at the request of the undersigned, is not
+assuming, nor is the Company assuming, any of the
+undersigned's responsibilities to comply with Section 13(d) of
+the Exchange Act or the rules promulgated thereunder.
+
+     This Limited Power of Attorney shall remain in full force
+and effect until the undersigned is no longer required to file
+a Schedule 13D or any amendments thereto, with respect to the 
+
+<PAGE>
+<PAGE> 2
+
+
+undersigned, unless earlier revoked by the undersigned in a
+signed writing delivered to the foregoing attorney-in-fact.
+
+                  [Signature page to follow.]
+
+
+
+<PAGE>
+<PAGE> 3
+
+
+     IN WITNESS WHEREOF, the undersigned has caused this
+Limited Power of Attorney to be executed as of this 25th day
+of April, 1994.  
+
+
+
+                         /s/ Gerald F. Fitzgerald
+                         Gerald F. Fitzgerald
+
+
+                         /s/ Marjorie G. Fitzgerald
+                         Marjorie G. Fitzgerald
+
+
+                         /s/ Gerald F. Fitzgerald, Jr.
+                         Gerald F. Fitzgerald, Jr.
+
+
+                         /s/ Denise M. Fitzgerald
+                         Denise M. Fitzgerald
+
+
+                         /s/ James G. Fitzgerald
+                         James G. Fitzgerald
+
+
+                         /s/ Jane M. Fitzgerald
+                         Jane M. Fitzgerald
+
+
+                         /s/ Peter G. Fitzgerald
+                         Peter G. Fitzgerald
+
+
+                         /s/ C. Nina Fitzgerald
+                         C. Nina Fitzgerald
+
+
+                         /s/ Julie F. Schauer
+                         Julie F. Schauer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<DESCRIPTION>SUBURBAN BANCORP, INC. EXHIBIT 99 - JOINT FILING AGREEMENT
+<TEXT>
+
+<PAGE> 1
+
+
+                                                      Exhibit 99
+
+
+                           AGREEMENT
+
+     Pursuant to Rule 13d-1(f)(1)(iii) promulgated under the
+Securities Exchange Act of 1934, as amended, each of the
+undersigned Reporting Persons agrees that the Schedule 13D to
+which this Agreement is attached is filed on behalf of each of
+the undersigned.
+
+
+Dated: April 25, 1994
+
+
+                         /s/ Gerald F. Fitzgerald*
+                         Gerald F. Fitzgerald
+
+
+                         /s/ Marjorie G. Fitzgerald*
+                         Marjorie G. Fitzgerald
+
+
+                         /s/ Gerald F. Fitzgerald, Jr.*
+                         Gerald F. Fitzgerald, Jr.
+
+
+                         /s/ Denise M. Fitzgerald*
+                         Denise M. Fitzgerald
+
+
+                         /s/ James G. Fitzgerald*
+                         James G. Fitzgerald
+
+
+                         /s/ Jane M. Fitzgerald*
+                         Jane M. Fitzgerald
+
+
+                         /s/ Peter G. Fitzgerald*
+                         Peter G. Fitzgerald
+
+<PAGE>
+<PAGE> 2
+
+
+                         /s/ C. Nina Fitzgerald*
+                         C. Nina Fitzgerald
+
+
+                         /s/ Thomas G. Fitzgerald                       
+                         Thomas G. Fitzgerald
+
+
+                         /s/ Julie F. Schauer*
+                         Julie F. Schauer
+
+
+
+   /s/ Thomas G. Fitzgerald                              
+*  Thomas G. Fitzgerald, 
+   Attorney-in-fact
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,433 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ISJVMsRSSrPb5719SruXkbqMy/u8jg8lVDVpkL10FnwhKWUpn0yoVcUWdBamsYvb
+ t2YQoBKF1OG6ybRtcl5nZA==
+
+<SEC-DOCUMENT>0001193125-05-142631.txt : 20050715
+<SEC-HEADER>0001193125-05-142631.hdr.sgml : 20050715
+<ACCEPTANCE-DATETIME>20050715060706
+ACCESSION NUMBER:		0001193125-05-142631
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20050715
+DATE AS OF CHANGE:		20050715
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASA BERMUDA LTD
+		CENTRAL INDEX KEY:			0001230869
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80825
+		FILM NUMBER:		05955718
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4TH FLOOR
+		STREET 2:		11 SUMMER STREET
+		CITY:			BUFFALO
+		STATE:			NY
+		ZIP:			14209
+		BUSINESS PHONE:		716-883-2428
+
+	MAIL ADDRESS:	
+		STREET 1:		4TH FLOOR
+		STREET 2:		11 SUMMER STREET
+		CITY:			BUFFALO
+		STATE:			NY
+		ZIP:			14209
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HBK INVESTMENTS L P
+		CENTRAL INDEX KEY:			0001011443
+		IRS NUMBER:				752622581
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CRESCENT CT
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2147586100
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CRESCENT CT
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>dsc13da.txt
+<DESCRIPTION>AMENDMENT NO.3 TO SCHEDULE 13D
+<TEXT>
+<PAGE>
+
+
+                                   UNITED STATES
+                          SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D.C.  20549
+
+                                     SCHEDULE 13D/A
+
+                      Under the Securities Exchange Act of 1934
+                                   (Amendment No. 3)
+
+                                 ASA (BERMUDA) LIMITED
+                                   (Name of Issuer)
+
+                                     Common Stock
+                            (Title of Class of Securities)
+
+                                      G3156P103
+                                    (CUSIP Number)
+
+                                    Jon L. Mosle
+                                HBK Investments L.P.
+                            300 Crescent Court, Suite 700
+                                  Dallas, TX 75201
+                                   (214) 758-6107
+              (Name, Address, and Telephone Number of Person Authorized
+                       to Receive Notices and Communications)
+
+                                    July 13, 2005
+               (Date of Event Which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(e), 3d-1(f), or 13d-1(g), check the following
+box. / /
+
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See Rule 13d-7 for other parties
+to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+CUSIP No. G3156P103
+
+1.  Name of Reporting Person.
+
+    HBK Investments L.P.
+
+2.  Check the Appropriate Box if a Member of a Group
+
+    (a) /  /
+    (b) /  /
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+    WC (1)
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant to Items
+2(d) or 2(e).
+
+    /  /
+
+6.  Citizenship or Place of Organization: Delaware
+
+              7.  Sole Voting Power: 544,609 (1)(2)
+Number of
+Shares
+Beneficially  8.  Shared Voting Power: 0
+Owned By
+Each
+Reporting     9.  Sole Dispositive Power: 544,609 (1)(2)
+Person
+With:
+              10. Shared Dispositive Power:  0
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+     544,609 (1)(2)
+
+12.  Check if the Aggregate Amount in Row (9) Excludes Certain Shares   / /
+
+13.  Percent of Class Represented by Amount in Row (9): 5.7%
+
+14.  Type of Reporting Person: PN
+
+- --------------
+(1)  HBK Investments L.P. ("Investments") has sole voting and dispositive
+     power over the securities identified above (the "Securities") pursuant
+     to Investment Management Agreements with HBK Fund L.P. and HBK
+     Offshore Fund Ltd. (the "Funds").  Accordingly, the Funds have no
+     beneficial ownership of such Securities.  The source of funds used or to
+     be used in making purchases is working capital of the Funds.
+
+(2)  Investments' power is exercised by its general partner, HBK Partners II
+     L.P., whose general partner is HBK Management L.L.C.
+
+<PAGE>
+
+
+Item 1.  Security and Issuer:
+
+This statement on Schedule 13D relates to shares of common stock of ASA
+(Bermuda) Limited, a Bermuda corporation (the "Issuer"). The principal executive
+offices of the Issuer are located at 11 Summer Street, 4th Floor, Buffalo, New
+York 14209.
+
+
+Item 2.  Identity and Background:
+
+This statement on Schedule 13D is filed by HBK Investments L.P., a Delaware
+limited partnership ("Investments"). Investments is an investment management
+firm that provides investment management services to private investment
+funds.  Its principal office is located at 300 Crescent Court, Suite 700,
+Dallas, TX 75201.  Information is also included herein with respect to the
+following persons: HBK Partners II L.P., a Delaware limited partnership
+("Partners II"); HBK Management L.L.C., a Delaware limited liability company
+("Management"); and Kenneth M. Hirsh, Laurence H. Lebowitz, William E. Rose,
+David C. Haley and Jamiel A. Akhtar, members of Management, who may control
+Management ("Managers").  Investments and the other entities and individuals
+identified in this paragraph are sometimes referred to collectively as the
+"Item 2 Persons."
+
+Each of the Managers is a United States citizen. The principal occupation of
+each Manager is serving as a Managing Director of Investments. The business
+address of each Manager is 300 Crescent Court, Suite 700, Dallas, TX 75201,
+except for Mr. Hirsh, whose business address is 350 Park Avenue, 20th Floor, New
+York, NY 10022.
+
+During the last five years, none of the Item 2 Persons has been convicted in a
+criminal proceeding (excluding traffic violations or similar misdemeanors) or
+has been a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction and as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations of, or prohibiting
+or mandating activities subject to, federal or state securities laws or finding
+any violation with respect to such laws.
+
+Item 3.  Source and Amount of Funds or Other Consideration:
+
+The aggregate purchase price for the Securities was approximately $22.1 million.
+The source of funds for the purchase transactions was the Funds' working
+capital. The Securities are held in prime brokerage accounts of the Funds, which
+may from time to time have debit balances. Because other securities are also
+held in such accounts, it is not possible to determine the amounts, if any, of
+financing used at any time with respect to the Securities.
+
+<PAGE>
+
+Item 4.  Purpose of Transaction.
+
+The Securities were acquired by Investments, for the account of the Funds, in
+the ordinary course of business and were not acquired with the purpose or effect
+of changing or influencing control of the Issuer.
+
+As previously stated, the Issuer has called for a vote, at a Special General
+Meeting of Shareholders presently scheduled for July 21, 2005, on proposals to
+reduce or eliminate certain limitations on the Issuer's investment policies.
+Investments opposes these proposals and believes that it would be inappropriate
+to entertain any reduction or elimination on the existing limitations until such
+time as the Issuer acts to reduce the discount between the Issuer's net asset
+value and the trading price of the Issuer's common stock.
+
+In light of the foregoing, Investments has decided that on behalf of the Funds
+it will not attend or vote at the July 21 meeting, in person or by proxy.
+Investments' analysis has led it to conclude that not attending or voting will
+be the most effective way of preventing the Issuer from gaining approval of the
+proposals. If holders of a majority of the Issuer's common stock are not
+represented at the meeting, in person or by proxy, the Issuer will be unable to
+secure the approval of the proposals. Investments has contacted its brokers that
+hold the Securities as nominee for the Funds and obtained a legal proxy from
+such brokers with respect to the Securities, and Investments will refrain from
+appearing or exercising the legal proxy on behalf of the Funds at the July 21
+meeting.
+
+On July 13, 2005, Investments sent a letter to the Issuer requesting its
+management take action to reduce the discount between its net asset value and
+the trading price of its common stock by extending a series of in-kind tender
+offers for its shares at net asset value. On July 13, 2005,
+Investments also sent a letter, which included a copy of the letter to the
+Issuer, to certain ASA shareholders recommending that they do not participate in
+the July 21 meeting. Copies of the letter to the Issuer and the letter to
+certain ASA shareholders were filed with the SEC on Schedule 14A on July 13,
+2005. On July 14, 2005, Investments issued a press release regarding the same
+matters, a copy of which was filed with the SEC on Schedule 14A on July 14,
+2005.
+
+Investments expects to continue to focus efforts on reducing the discount
+between the Issuer's net asset value and the trading price of the Issuer's
+common stock and may determine to solicit votes against the proposals to be
+voted on at the July 21 meeting or any further adjournment thereof or any
+subsequent meeting called to consider such proposals, in which case Investments
+will file a proxy statement and accompanying proxy card with the SEC.
+
+Investments reviews its holdings, including its holdings in the Issuer, on an
+ongoing basis with the objective of identifying and pursuing investment
+opportunities with attractive risk and return characteristics for the Funds.
+Depending on such review, Investments may make additional purchases or sales of
+the Issuer's Common Stock (or derivatives thereof). Any additional transactions
+will depend on various factors, including, without limitation, the outcome of
+discussions between Investments and the Issuer, the outcome of the Special
+General Meeting, the price of the Issuer's Common Stock (and derivatives
+thereof), stock market conditions, and business prospects of the Issuer.
+Investments has engaged from time to time in discussions with the Issuer and
+other shareholders of the Issuer concerning the Issuer and its business and may
+have additional discussions with such parties in the future.
+
+<PAGE>
+
+Except as otherwise described herein, none of the Item 2 Persons has any current
+plans or proposals that relate to or would result in any of the transactions or
+changes contemplated in Items 4(a) through 4(j) of Schedule 13D. Such persons
+may, at any time and from time to time, review or reconsider their position and
+formulate such plans or proposals, but they have no present intention of doing
+so.
+
+Item 5.  Interest in Securities of the Issuer
+
+    (a) - (b)
+
+The Securities referenced in this statement consist of 544,609 shares of common
+stock of the Issuer beneficially owned by Investments, representing
+approximately 5.7% of the 9,600,000 shares of common stock of the Issuer
+outstanding as of November 30, 2004, as reported by the Issuer in the Issuer's
+2004 Certified Shareholder Report filed with the Securities and Exchange
+Commission on January 31, 2005.
+
+Pursuant to an Investment Management Agreement with the Funds, and acting
+through its general partner, Partners II, Investments has the sole power to vote
+or direct the vote and to dispose or to direct the disposition of the
+Securities. Accordingly, Investments may be deemed to be the beneficial owner of
+the Securities. Acting through its general partner, Management, and in its
+capacity as the general partner of Investments, Partners II has the sole power
+to vote or to direct the vote and to dispose or to direct the disposition of the
+Securities. Accordingly, Partners II may be deemed to be the beneficial owner of
+the Securities. In its capacity as the general partner of Partners II,
+Management has the sole power to vote or to direct the vote and to dispose or to
+direct the disposition of the Securities. Accordingly, Management may be deemed
+to be the beneficial owner of the Securities. In their capacity as controlling
+persons of Management, the Managers have the sole power to vote or to direct the
+vote and to dispose or to direct the disposition of the Securities. Accordingly,
+each of the Managers may be deemed to be the beneficial owner of the Securities.
+The Item 2 Persons expressly declare that the filing of this statement on
+Schedule 13D shall not be construed as an admission that they are, for the
+purpose of Section 13(d) or 13(g) of the Securities and Exchange Act of 1934,
+the beneficial owners of the Securities.
+
+    (c)
+
+Except as described below, there have been no acquisitions or dispositions of
+the Issuer's common stock made by Investments, for the account of the Funds,
+during the past 60 days.
+
+  On behalf of HBK Fund L.P.:
+
+  Transaction       Number of      Price per    Transaction   Transaction
+  Date              Shares         Share        Value         Type
+  ----              ------         -----        -----         ----
+  07/14/2005         1,000        $ 39.20   $    39,205.00     Buy
+  07/07/2005         3,400        $ 38.03   $   129,315.26     Buy
+  07/06/2005         3,000        $ 37.83   $   113,505.90     Buy
+  07/01/2005         5,000        $ 38.12   $   190,605.00     Buy
+  06/30/2005        29,200        $ 39.10   $ 1,142,587.24     Buy
+
+<PAGE>
+
+  06/30/2005        20,000        $ 39.15   $   783,600.00     Buy
+  06/30/2005         3,000        $ 38.83   $   116,496.90     Buy
+  06/24/2005           100        $ 38.95   $     3,895.00     Buy
+  06/22/2005           900        $ 38.30   $    34,467.65     Sell
+  06/17/2005         2,200        $ 38.96   $    85,704.30     Buy
+  06/17/2005         2,700        $ 39.02   $   105,356.50     Buy
+  06/03/2005         6,000        $ 37.47   $   224,822.60     Sell
+  06/03/2005           300        $ 37.52   $    11,255.22     Sell
+  05/31/2005         1,000        $ 36.48   $    36,472.47     Sell
+  05/31/2005           300        $ 36.49   $    10,945.04     Sell
+  05/27/2005           600        $ 35.56   $    21,336.60     Buy
+  05/25/2005        10,000        $ 34.90   $   348,980.00     Buy
+  05/25/2005         2,200        $ 34.88   $    76,795.62     Buy
+  05/25/2005         2,400        $ 34.83   $    83,596.40     Buy
+  05/19/2005         2,000        $ 34.39   $    68,790.00     Buy
+  05/18/2005         4,100        $ 34.50   $   141,568.90     Buy
+
+  All of the above transactions were conducted through open market transactions.
+
+
+    (d)
+
+The limited partners or shareholders of the Funds that own the Funds, for which
+Investments acts as investment manager, have the right to participate indirectly
+in the receipt of dividends from, or proceeds from the sale of, the Securities
+in accordance with their respective ownership interests in their respective
+Funds.
+
+    (e)
+
+Not applicable.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with
+Respect to Securities of the Issuer.
+
+The Securities are held in prime brokerage accounts of the Funds and have been
+pledged as collateral to secure debit balances in such accounts which may exist
+from time to time.
+
+Except as described above, to the best knowledge of Investments, there are no
+contracts, arrangements, understandings or relationships (legal or otherwise)
+between any of the Item 2 Persons and any other person with respect to any
+securities of the Issuer, including but not limited to, transfer or voting of
+any of the Shares (including as a result of any pledge), finder's fees, joint
+ventures, loan or option arrangements, puts or calls, guarantees of profits,
+division of profits or loss, or the giving or withholding of proxies.
+
+Item 7.  Exhibits
+
+None.
+
+<PAGE>
+
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+                                            DATED:  July 14, 2005
+
+                                            HBK INVESTMENTS L.P.
+
+
+                                            By:  /s/ Jon L. Mosle
+                                               ---------------------------------
+                                                 Jon L. Mosle
+                                                 Authorized Signatory (1)
+
+(1)  An Authorization Certificate authorizing Jon L. Mosle to act on
+     behalf of HBK Investments L.P. was previously filed.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

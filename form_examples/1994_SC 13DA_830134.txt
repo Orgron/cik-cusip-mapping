@@ -1,0 +1,379 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ FJPhF3TjRBF5MCQ/q95fZoXUcc6LAHCpTfmwRtMV6DcTDzWi2JzUwsyb3HshJ3H3
+ wbxUCVaJqjKgVWoJ+q2rXw==
+
+<IMS-DOCUMENT>0000315066-94-001425.txt : 19940804
+<IMS-HEADER>0000315066-94-001425.hdr.sgml : 19940804
+ACCESSION NUMBER:		0000315066-94-001425
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940803
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BROOKSTONE INC
+		CENTRAL INDEX KEY:			0000830134
+		STANDARD INDUSTRIAL CLASSIFICATION:	5945
+		IRS NUMBER:				061182895
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-43209
+		FILM NUMBER:		94541413
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VOSE FARM ROAD
+		CITY:			PETERBOROUGH
+		STATE:			NH
+		ZIP:			03458
+		BUSINESS PHONE:		6039247181
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FMR CORP
+		CENTRAL INDEX KEY:			0000315066
+		STANDARD INDUSTRIAL CLASSIFICATION:	0000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		82 DEVONSHIRE ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6175706339
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>EFFECTIVE DATE - JULY 27, 1994 - BROOKSTONE INC.
+<TEXT>
+ 
+
+
+SCHEDULE 13D 
+ 
+Amendment No. 1 
+Brookstone Inc. 
+common stock  
+Cusip # 114537103 
+Filing Fee: No 
+
+
+Cusip # 114537103 
+Item 1:	Reporting Person - FMR Corp. - (Tax ID:  04-2507163) 
+Item 4:	PF 
+Item 6:	Commonwealth of Massachusetts 
+Item 7:	161,387 
+Item 8:	None 
+Item 9:	731,287 
+Item 10:	None 
+Item 11:	903,691 
+Item 13:	12.12% 
+Item 14:	HC 
+
+
+PREAMBLE 
+ 
+	The filing of this Schedule 13D is not, and should not be deemed to be, 
+an admission that such Schedule 13D is required to be filed.  See the 
+discussion under Item 2. 
+ 
+Item 1.	Security and Issuer. 
+ 
+	This statement relates to shares of the common stock, $0.00 par value 
+(the "Shares") of Brookstone Inc., a Delaware corporation (the "Company").  
+The principal executive offices of the Company are located at Vose Farm Road, 
+Peterborough, NH  03458. 
+ 
+Item 2.	Identity and Background. 
+ 
+	This statement is being filed by FMR Corp., a Massachusetts Corporation 
+("FMR").  FMR is a holding company one of whose principal assets is the 
+capital stock of a wholly-owned subsidiary, Fidelity Management & Research 
+Company ("Fidelity"), which is also a Massachusetts corporation.  Fidelity is 
+an investment advisor which is registered under Section 203 of the Investment 
+Advisors Act of 1940 and which provides investment advisory services to more 
+than 30 investment companies which are registered under Section 8 of the 
+Investment Company Act of 1940 and serves as investment advisor to certain 
+other funds which are generally offered to limited groups of investors (the 
+"Fidelity Funds").  Fidelity Management Trust Company ("FMTC"), a wholly-owned 
+subsidiary of FMR Corp. and a bank as defined in Section 3(a)(6) of the 
+Securities Exchange Act of 1934, serves as trustee or managing agent for 
+various private investment accounts, primarily employee benefit plans and 
+serves as investment adviser to certain other funds which are generally 
+offered to limited groups of investors (the "Accounts").  Various directly or 
+indirectly held subsidiaries of FMR are also engaged in investment management, 
+venture capital asset management, securities brokerage, transfer and 
+shareholder servicing and real estate development.  The principal offices of 
+FMR, Fidelity, and FMTC are located at 82 Devonshire Street, Boston, 
+Massachusetts 02109. 
+ 
+	Edward C. Johnson 3d owns 24.9% of the outstanding voting common stock 
+of FMR.  Mr. Johnson 3d is Chairman of FMR Corp.  The business address and 
+principal occupation of Mr. Johnson 3d is set forth in Schedule A hereto. 
+ 
+	Fidelity Ventures Associates, Inc. (FVA), incorporated on March 29, 
+1978, is a wholly-owned subsidiary of FMR Corp.  FVA is a corporation engaged 
+in venture capital investing and is the managing general partner of a 
+partnership called Fidelity Venture Associates Limited (FVAL). 
+ 
+	The Shares to which this statement relates are owned directly by seven 
+of the Fidelity Funds, thirteen of the Accounts, by Fidelity Ventures 
+Associates through FVAL, . 
+ 
+	The name, residence or business address, principal occupation or 
+employment and citizenship of each of the executive officers and directors of 
+FMR are set forth in Schedule A hereto. 
+ 
+	Within the past five years, none of the persons named in this Item 2 or 
+listed on Schedule A has been convicted in any criminal proceeding (excluding 
+traffic violations or similar misdemeanors) or has been a party to any civil 
+proceeding and as a result thereof was or is subject to any judgment, decree 
+or final order enjoining future violations of, or prohibiting or mandating 
+activities subject to federal or state securities laws or finding any 
+violations with respect to such laws. 
+ 
+Item 3.	Source and Amount of Funds or Other Consideration. 
+ 
+	The Fidelity Funds which own or owned Shares purchased in the aggregate 
+805,200 Shares for cash in the amount of approximately $11,902,988, including 
+brokerage commissions.  The Fidelity Funds used their own assets in making 
+such purchase and no part of the purchase price is represented by borrowed 
+funds.  Proceeds from 246,300 Shares sold aggregated approximately $3,412,863.  
+The attached Schedule B sets forth Shares purchased and/or sold since May 28, 
+1994. 
+ 
+	The Accounts of FMTC which own or owned Shares purchased in the 
+aggregate 256,587 Shares for cash in the amount of approximately $4,164,229, 
+including brokerage commissions.  The Accounts used their own assets in making 
+such purchase and no part of the purchase price is represented by borrowed 
+funds.  Proceeds from 84,200 Shares sold aggregated approximately $1,067,131.  
+The attached Schedule B sets forth Shares purchased and/or sold since May 28, 
+1994. 
+ 
+Item 4.	Purpose of Transaction. 
+ 
+	The purpose of Fidelity, FVA, FVAL and FMTC in having the Fidelity Funds 
+and the Accounts purchase Shares (see Item 5 below) is to acquire an equity 
+interest in the Company in pursuit of specified investment objectives 
+established by the Board of Trustees of the Fidelity Funds and by the 
+investors in the Accounts. 
+ 
+	Fidelity, FVA, FVAL and FMTC, respectively, may continue to have the 
+Fidelity Funds and the Accounts purchase Shares subject to a number of 
+factors, including, among others, the availability of Shares of sale at what 
+they consider to be reasonable prices and other investment opportunities that 
+may be available to the Fidelity Funds and Accounts. 
+ 
+	Fidelity, FVA, FVAL and FMTC, respectively, intend to review 
+continuously the equity position of the Fidelity Funds and Accounts in the 
+Company.  Depending upon future evaluations of the business prospects of the 
+Company and upon other developments, including, but not limited to, general 
+economic and business conditions and money market and stock market conditions, 
+Fidelity may determine to cease making additional purchases of Shares or to 
+increase or decrease the equity interest in the Company by acquiring 
+additional Shares, or by disposing of all or a portion of the Shares. 
+ 
+	Neither Fidelity nor FMTC has any present plan or proposal which relates 
+to or would result in (i) an extraordinary corporate transaction, such as a 
+merger, reorganization, liquidation, or sale of transfer of a material amount 
+of assets involving the Company or any of its subsidiaries, (ii) any change in 
+the Company's present Board of Directors or management, (iii) any material 
+changes in the Company's present capitalization or dividend policy or any 
+other material change in the Company's business or corporate structure, (iv) 
+any change in the Company's charter or by-laws, or (v) the Company's common 
+stock becoming eligible for termination of its registration pursuant to 
+Section 12(g)(4) of the 1934 Act. 
+ 
+Item 5.	Interest in Securities of Issuer. 
+ 
+	Although Item 5 assumes that FMR, Fidelity, FMTC, and FVA, FVAL, 
+beneficially own all 903,691 Shares, reference is made to Item 2 for a 
+disclaimer of beneficial ownership with respect to the securities which are 
+"beneficially owned" by the other corporations. 
+ 
+	(a)	FMR beneficially owns, through Fidelity, as investment advisor to 
+the Fidelity Funds, 558,900 Shares, or approximately 7.50% of the outstanding 
+Shares of the Company, and through FVA and FVAL, 172,404 Shares or 
+approximately 2.31% of the outstanding Shares of the Company, and through 
+FMTC, the managing agent for the Accounts, 172,387 Shares, or approximately 
+2.31% of the outstanding Shares of the Company.  Neither FMR, Fidelity, FMTC, 
+nor any of its affiliates nor, to the best knowledge of FMR, any of the 
+persons name in Schedule A hereto, beneficially owns any other Shares.  The 
+combined holdings of FMR, Fidelity, FVA, FVAL, and FMTC, are 903,691 Shares, 
+or approximately 12.12% of the outstanding Shares of the Company. 
+ 
+	(b)	FMR, through is control of Fidelity, investment advisor to the 
+Fidelity Funds, and the Funds each has sole power to dispose of the Shares.  
+Neither FMR nor Mr. Johnson has the sole power to vote or direct the voting of 
+the 558,900 Shares owned directly by the Fidelity Funds, which power resides 
+with the Funds' Boards of Trustees.  Fidelity carries out the voting of the 
+Shares under written guidelines established by the Funds' Board of Trustees.  
+Fidelity Ventures Associates, Inc. has sole voting power over the 172,404 
+Shares held by Fidelity Ventures Associates Limited.  FMR, through its control 
+of FMTC, investment manager to the Accounts, and the Accounts each has sole 
+dispositive power over 172,387 Shares and sole power to vote or to direct the 
+voting of 161,387 Shares, and no power to vote or to direct the voting of 
+11,000 Shares owned by the Accounts.   
+ 
+	(c)	Except as set forth in Schedule B, neither FMR, or any of its 
+affiliates, nor, to the best knowledge of FMR, any of the persons named in 
+Schedule A hereto has effected any transaction in Shares during the past sixty 
+(60) days. 
+ 
+Item 6.	Contract, Arrangements, Understandings or Relationships With 
+Respect to Securities of the Issuer. 
+ 
+	Neither FMR nor any of its affiliates nor, to the best knowledge of FMR, 
+any of the persons named in Schedule A hereto has any joint venture, finder's 
+fee, or other contract or arrangement with any person with respect to any 
+securities of the Company. 
+ 
+
+
+Item 7.	Material to be Filed as Exhibits. 
+ 
+	Not Applicable. 
+ 
+	This statement speaks as of its date, and no inference should be drawn 
+that no change has occurred in the facts set forth herein after the date 
+hereof. 
+ 
+Signature 
+ 
+	After reasonable inquiry and to the best of my knowledge and belief, I 
+certify that the information set forth in this statement is true, complete and 
+correct. 
+ 
+						FMR Corp. 
+ 
+ 
+ 
+DATE:	August 2, 1994	By:	/s/Arthur Loring			 
+	Arthur Loring 
+	Vice President-Legal 
+ 
+ 
+	Fidelity Ventures Limited 
+	Fidelity Venture Associates, Inc. 
+	(Managing General Partner) 
+ 
+ 
+ 
+	By:				 
+	John J. Remondi 
+ 
+
+
+SCHEDULE A 
+ 
+	The name and present principal occupation or employment of each 
+executive officer and director of FMR Corp. are set forth below.  The business 
+address of each person is 82 Devonshire Street, Boston, Massachusetts 02109, 
+and the address of the corporation or organization in which such employment is 
+conducted is the same as his business address.  All of the persons listed 
+below are U.S. citizens. 
+ 
+POSITION WITH 
+									PRINCIPAL 
+NAME	FMR CORP.	OCCUPATION 
+ 
+Edward C. Johnson 3d	President,	Chairman of the 
+Director, CEO	Board and CEO, FMR 
+Chairman & 
+Mng. Director 
+ 
+J. Gary Burkhead	Director	President-Fidelity 
+ 
+Caleb Loring, Jr.	Director,	Director, FMR 
+	Mng. Director 
+ 
+James C. Curvey	Director, 	Sr. V.P., FMR 
+	Sr. V.P. 
+ 
+William L. Byrnes	Vice Chairman	Vice Chairman, FIL 
+Director & Mng. 
+Director 
+ 
+Robert C. Pozen	Sr. V.P. & Gen'l	Sr. V.P. & Gen'l 
+	Counsel	Counsel, FMR 
+ 
+Mark Peterson	Exec.	Exec. 
+V.P.-Management	V.P.-Management 
+Resources	Resources, FMR 
+ 
+Denis McCarthy	Sr. Vice Pres. - 	Vice Pres., Chief 
+Chief Financial	Financial Officer, 
+Officer	FMR 
+ 
+
+
+SCHEDULE B 
+ 
+ 
+Brookstone Inc. 
+ 
+One Fidelity Fund(s) purchased Shares since May 28, 1994 at the dates and at 
+the prices set forth below.  The transactions were made for cash in open 
+market transactions or with other investment companies with the same or an 
+affiliated investment advisor. 
+ 
+	DATE	SHARES	PRICE 
+ 
+	07-06-94	5,000	$15.25 
+ 
+
+
+SCHEDULE B 
+ 
+ 
+Brookstone Inc. 
+ 
+Four Fidelity Fund(s) sold Shares since May 28, 1994 at the dates and at the 
+prices set forth below.  The transactions were made for cash in open market 
+transactions or with other investment companies with the same or an affiliated 
+investment advisor. 
+ 
+	DATE	SHARES	PRICE 
+ 
+	05-31-94	17,000	$14.63 
+	06-22-94	3,000	15.00 
+	07-22-94	6,000	13.25 
+	07-25-94	12,000	13.00 
+	07-26-94	2,500	12.75 
+ 
+
+
+SCHEDULE B 
+ 
+ 
+Brookstone Inc. 
+ 
+Two Account(s) sold Shares since May 28, 1994 at the dates and at the prices 
+set forth below.  The transactions were made for cash in open market 
+transactions or with other investment companies with the same or an affiliated 
+investment advisor. 
+ 
+	DATE	SHARES	PRICE 
+ 
+	06-22-94	12,000	$15.00 
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

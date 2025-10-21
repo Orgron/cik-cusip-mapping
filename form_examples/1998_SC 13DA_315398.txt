@@ -1,0 +1,515 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UDU2tyaLfYr+r6TPbk6ozNNo6Ib1V2IaT8BYaFaAMx7VyJzJz276EAujqXZQQegm
+ OkU/kdh7iox7eDrYDDVL0Q==
+
+<SEC-DOCUMENT>0000950135-98-003760.txt : 19980611
+<SEC-HEADER>0000950135-98-003760.hdr.sgml : 19980611
+ACCESSION NUMBER:		0000950135-98-003760
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19980610
+SROS:			BSE
+SROS:			NYSE
+GROUP MEMBERS:		GASTON DON F
+GROUP MEMBERS:		PAULA GASTON
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOSTON CELTICS LIMITED PARTNERSHIP
+		CENTRAL INDEX KEY:			0000805009
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		IRS NUMBER:				042936516
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-37799
+		FILM NUMBER:		98645680
+
+	BUSINESS ADDRESS:	
+		STREET 1:		151 MERRIMAC ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+		BUSINESS PHONE:		6175236050
+
+	MAIL ADDRESS:	
+		STREET 1:		151 MERRIMAC STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GASTON DON F
+		CENTRAL INDEX KEY:			0000315398
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		43 BALDWIN FARMS NORTH
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2038690748
+
+	MAIL ADDRESS:	
+		STREET 1:		43 BALDWIN FARMS NORTH
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>BOSTON CELTICS LIMITED PARTNERSHIP
+<TEXT>
+
+<PAGE>   1
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                 SCHEDULE 13D/A
+
+
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                                 AMENDMENT NO. 4
+
+                       BOSTON CELTICS LIMITED PARTNERSHIP
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                            Limited Partnership Units
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    100576107
+- --------------------------------------------------------------------------------
+                                 (CUSIP number)
+
+                                  Don F. Gaston
+                             43 Baldwin Farms North
+                               Greenwich, CT 06830
+                                 (203) 869-0748
+- --------------------------------------------------------------------------------
+                  (Name, address and telephone number of person
+                authorized to receive notices and communications)
+
+                                 April 14, 1998
+- --------------------------------------------------------------------------------
+             (Date of event which requires filing of this statement)
+
+     If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+     Note. Six copies of this statement, including all exhibits, should be filed
+with the Commission. See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+     *The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+     The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+
+
+                               (Page 1 of 7 Pages)
+
+<PAGE>   2
+- -----------------------                                  -----------------------
+  CUSIP No. 100576107            SCHEDULE 13D/A            Page  2 of  7 Pages
+- --------------------------------------------------------------------------------
+1.      NAME OF REPORTING PERSON
+        S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+        DON F. GASTON
+- --------------------------------------------------------------------------------
+2.      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [ ]
+                                                                        (b) [X]
+- --------------------------------------------------------------------------------
+3.      SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4.      SOURCE OF FUNDS*
+
+- --------------------------------------------------------------------------------
+5.      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+        ITEMS 2(d) or 2(e)                                                  [ ]
+
+- --------------------------------------------------------------------------------
+6.      CITIZENSHIP OR PLACE OF ORGANIZATION
+        
+        U.S.A.
+- --------------------------------------------------------------------------------
+                         7.       SOLE VOTING POWER
+
+                                  320,000
+  NUMBER OF              -------------------------------------------------------
+   SHARES                8.       SHARED VOTING POWER 
+BENEFICIALLY
+  OWNED BY                        403,900
+    EACH                 -------------------------------------------------------
+ REPORTING               9.       SOLE DISPOSITIVE POWER
+  PERSON                          
+   WITH:                          320,000   
+                         -------------------------------------------------------
+                         10.      SHARED DISPOSITIVE POWER
+                                 
+                                  403,900
+- --------------------------------------------------------------------------------
+11.     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        723,900
+- --------------------------------------------------------------------------------
+12.     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                                                                            [X]
+        1,570,000
+- --------------------------------------------------------------------------------
+13.     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+        13.5%
+- --------------------------------------------------------------------------------
+14.     TYPE OF REPORTING PERSON*
+   
+        IN
+================================================================================
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+                              (Page 2 of 7 Pages)
+
+
+<PAGE>   3
+- -----------------------                                  -----------------------
+  CUSIP No. 100576107            SCHEDULE 13D/A            Page  3 of  7 Pages
+- --------------------------------------------------------------------------------
+1.      NAME OF REPORTING PERSON
+        S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+        PAULA B. GASTON
+- --------------------------------------------------------------------------------
+2.      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [ ]
+                                                                        (b) [X]
+- --------------------------------------------------------------------------------
+3.      SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4.      SOURCE OF FUNDS*
+
+- --------------------------------------------------------------------------------
+5.      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+        ITEMS 2(d) or 2(e)                                                  [ ]
+
+- --------------------------------------------------------------------------------
+6.      CITIZENSHIP OR PLACE OF ORGANIZATION
+        
+        U.S.A.
+- --------------------------------------------------------------------------------
+                         7.       SOLE VOTING POWER
+
+                                  0
+  NUMBER OF              -------------------------------------------------------
+   SHARES                8.       SHARED VOTING POWER 
+BENEFICIALLY
+  OWNED BY                        403,900
+    EACH                 -------------------------------------------------------
+ REPORTING               9.       SOLE DISPOSITIVE POWER
+  PERSON                          
+   WITH:                          0   
+                         -------------------------------------------------------
+                         10.      SHARED DISPOSITIVE POWER
+                                 
+                                  403,900
+- --------------------------------------------------------------------------------
+11.     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        403,900
+- --------------------------------------------------------------------------------
+12.     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                                                                            [X]
+        1,890,000
+- --------------------------------------------------------------------------------
+13.     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+        7.6%
+- --------------------------------------------------------------------------------
+14.     TYPE OF REPORTING PERSON*
+   
+        IN
+================================================================================
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+                              (Page 3 of 7 Pages)
+
+<PAGE>   4
+
+     This amendment is being filed in connection with the proposed
+reorganization (the "Reorganization") of Boston Celtics Limited Partnership
+("BCLP") and the acquisition of additional BCLP Units by Don F. Gaston and Paula
+B. Gaston. The Reorganization is described in a Registration Statement on Form
+S-4 (the "Registration Statement") of BCLP, Boston Celtics Limited Partnership
+II ("BCLP II") and Castle Creek Partners, L.P. ("Castle Creek") (File No. 
+333-50367), as amended.
+
+ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+     The Units reported hereby were originally issued to Mr. Gaston on
+December 11, 1986 in exchange for his contribution to BCLP of a certain
+undivided interest in the assets and liabilities of the Boston Celtics franchise
+of the National Basketball Association. On April 24, 1990, Mr. Gaston
+transferred 2,062,300 Units without consideration to himself and his wife, Paula
+B. Gaston, as co-owners. On January 21, 1993, Mr. Gaston and Ms. Gaston
+contributed 18,415 of such Units to Boston Celtics Corporation, a corporation of
+which both Mr. Gaston and Ms. Gaston are stockholders and directors. Immediately
+thereafter, Boston Celtics Corporation contributed 35,278 Units to Celtics
+Limited Partnership, a partnership of which Boston Celtics Corporation is the 1%
+general partner. On or about January 31, 1993, Mr. Gaston and Ms. Gaston
+contributed 1,300,000 Units to Walcott Partners, L.P., a partnership in which
+Mr. Gaston and Ms. Gaston each own a limited partnership interest. On or about
+January 31, 1993, Mr. Gaston and Ms. Gaston contributed 320,000 Units to
+Brookwood Investments Ltd., a limited partnership co-owned by Mr. and Ms. Gaston
+of which Mr. Gaston is the sole general partner.
+
+     On February 5, 1996, Mr. Gaston and Ms. Gaston, as co-owners, contributed
+20,000 Units to Walcott Partners, L.P. As a result, Mr. Gaston and Ms. Gaston
+co-own in their individual capacities an aggregate of 403,885 Units.
+
+     Item 3 of Schedule 13D is hereby amended by adding the information set
+forth below to the information previously disclosed therein.
+
+     On May 8, 1998, Don F. Gaston and Paula B. Gaston purchased 15 Units in the
+open market at a price of $19.75 per Unit.
+
+ITEM 4. PURPOSE OF TRANSACTION
+
+     As originally reported in Schedule 13D dated December 11, 1986, as filed
+December 15, 1986, the Units reported as beneficially owned were acquired in
+connection with the conveyance of the Boston Celtics Franchise to BCLP and the
+initial public offering of Units by BCLP, all as set forth under the heading
+"Conversion to Partnership" on page 14 of the Registration Statement on Form S-1
+of the Partnership filed with the Securities and Exchange Commission on
+October 28, 1986 (File No. 33-9796), which is hereby incorporated by reference.
+
+     As reported in Amendment No. 1 to Schedule 13D dated April 24, 1990, as
+filed May 2, 1990, the Units described therein were transferred by Mr. Gaston to
+himself and his wife, Paula B. Gaston, as co-owners.
+
+     As reported in Amendment No. 2 to Schedule 13D dated January 31, 1993, as
+filed February 10, 1993, the dispositions and acquisitions of Units reported
+thereby were undertaken in connection with a restructuring of certain of the
+businesses owned or operated by or for the benefit of members of the Gaston
+family.
+
+     Filed as an exhibit thereto and incorporated herein by reference is a
+Merger Agreement dated as of December 8, 1992 (the "Merger Agreement") among
+Boston Celtics Communications Limited Partnership ("BCCLP"), BCLP, BCCLP Holding
+Corporation ("Holdings"), a newly formed corporation wholly owned by BCLP, and
+BCCLP Acquisition Limited Partnership ("Acquisition"), a newly formed Delaware
+limited partnership in which the 99% limited partnership interest is held by
+Holdings and the 1% general partnership interest is held by Celtics
+Communications, Inc., which also serves as the general partner of BCCLP ("CCI"
+or the "BCCLP General Partner").
+
+
+
+                               (Page 4 of 7 Pages)
+
+<PAGE>   5
+
+     Pursuant to the Merger Agreement, subject to certain conditions,
+Acquisition was merged with and into BCCLP (the "Merger") and BCCLP became the
+surviving partnership. Upon the consummation of the Merger, (i) holders of the
+5,935,000 issued and outstanding limited partnership units in BCCLP ("BCCLP
+Units") were entitled to receive $2.40 per unit in cash, without interest (the
+"Merger Price"), (ii) the 99% limited partnership interest in Acquisition held
+by BCLP, through Holdings, was converted into a 99% limited partnership interest
+in BCCLP and (iii) the BCCLP General Partner continued to hold the 1% general
+partnership interest in BCCLP. Accordingly, after the Merger, BCCLP became owned
+99% by BCLP, through its corporate subsidiary Holdings, and 1% by the BCCLP
+General Partner.
+
+     Upon consummation of the Merger, the 99% limited partnership interest in
+BCCLP came to be held indirectly by BCLP, in which Don F. Gaston, Alan N. Cohen
+and Paul R. Dupee, Jr. (the "Principal Partnership Unitholders") and certain of
+their affiliates in turn held approximately 56.4% of the partnership interest
+and the 1% general partnership interest in BCCLP continued to be held by BCCLP
+General Partner, which was wholly owned by the Principal Partnership Unitholders
+and their affiliates. Accordingly, the Principal Partnership Unit holders held
+an indirect interest in BCCLP equal to approximately 57.4% following the Merger.
+
+     The BCCLP Units were registered under the Exchange Act. Upon consummation
+of the Merger, such registration was intended to be terminated upon application
+of BCCLP to the Securities and Exchange Commission (the "Commission").
+Termination of registration of the Units under the Exchange Act would relieve
+BCCLP of the obligations theretofore imposed on it to prepare and file financial
+statements and other reports under the Exchange Act and to comply with the proxy
+rules of Regulation 14A under Section 14 of the Exchange Act. In addition,
+BCCLP's officers, directors and Unitholders owning 10% or more of the BCCLP
+Units would be relieved of the reporting requirements and "short swing"
+liability under Section 16 of the Exchange Act. BCCLP indicated that it intended
+to apply for termination of registration under the Exchange Act as soon as
+practicable after the Merger.
+
+     Don F. Gaston indicated to BCCLP that he intended to cause Brookwood
+Investments Inc., a corporation of which Don F. Gaston is the sole stockholder
+and which owned approximately 47.4% of the outstanding BCCLP Units to vote in
+favor of the Merger.
+
+     Item 4 of Schedule 13D is hereby amended by adding the information set
+forth below to the information previously disclosed therein.
+
+     On April 14, 1998, Walcott Partners, L.P. ("Walcott") entered into an
+agreement (the "Letter Agreement") with Stephen C. Schram. In the Letter
+Agreement, Schram, among other things, (i) agreed to exercise certain options
+(the "Unit Option") to acquire 250,000 Boston Celtics Limited Partnership
+("BCLP") Units on June 1, 1998, (ii) agreed to vote the BCLP Units acquired upon
+such exercise (the "Option Units") in favor of the Reorganization, (iii) agreed
+to elect to receive a distribution consisting entirely of limited partnership
+interests in Castle Creek with respect to the Option Units in connection with
+the Reorganization, and (iv) granted BCLP a call option (the "Call") with
+respect to the Option Units.
+
+     Walcott, Paul E. Gaston and their affiliates (including Don F. Gaston and
+Paula B. Gaston) have executed consents with respect to all of their BCLP Units
+in favor of the Reorganization. The consent executed by Schram pursuant to the
+Letter Agreement, when combined with the consents delivered by Walcott, Paul E.
+Gaston and their affiliates and other Unit holders with whom they have
+relationships, achieved the vote required to approve the Reorganization.
+
+     Except as set forth above and elsewhere in this Schedule 13D/A, Don F.
+Gaston and Paula B. Gaston have no present plans or intentions that relate to or
+would result in any of the transactions described in clauses (a) through (j) of
+Item 4 of Schedule 13D. Don F. Gaston's and Paula B. Gaston's intentions with
+respect to BCLP and the Units are subject to change, and each retains its right
+to modify its plans with respect to the transactions described in this Item 4,
+to acquire or dispose of securities of BCLP and to formulate plans and proposals
+that could result in the occurrence of any such events.
+
+
+
+
+                               (Page 5 of 7 Pages)
+
+<PAGE>   6
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER
+
+     Item 5 of Schedule 13D is hereby amended and restated as follows.
+
+     (a)   Don F. Gaston co-owns 403,900 Units with his wife, Paula B. Gaston,
+representing approximately 7.6% of the outstanding Units.
+
+     Walcott beneficially owns 1,570,000 Units, representing approximately 28.1%
+of the outstanding Units. Mr. Gaston and Ms. Gaston each own a limited
+partnership interest in Walcott, and Paul E. Gaston, the son of Mr. and Ms.
+Gaston, is the sole stockholder, officer and director of the general partner of
+Walcott. Mr. and Ms. Gaston expressly disclaim beneficial ownership of the Units
+owned of record by Walcott.
+
+     Brookwood Investments Ltd. owns 320,000 Units, representing approximately
+6.0% of the outstanding Units. Mr. and Mrs. Gaston are the sole co-owners of
+Brookwood Investments Ltd. Mr. Gaston is the sole general partner of Brookwood
+Investments Ltd., and thus Mr. Gaston may be deemed to be the beneficial owner
+of certain of the Units held by Brookwood Investments Ltd. Ms. Gaston expressly
+disclaims beneficial ownership of the Units owned of record by Brookwood
+Investments Ltd.
+
+     This report shall not be deemed an admission for purposes of Section 13 or
+otherwise that Don F. Gaston and Paula B. Gaston are the beneficial owners of
+the Units owned by Walcott and Brookwood Investments Ltd. While Mr. Gaston and
+Ms. Gaston may each be deemed to be the beneficial owner of certain of such
+Units, they expressly disclaim beneficial ownership of the remaining Units.
+
+     (b)   Mr. Gaston has shared voting and dispositive power with respect to
+the Units co-owned with Ms. Gaston. As the sole general partner of Brookwood
+Investments Ltd., Mr. Gaston has the sole voting and dispositive power with
+respect to the Units owned by Brookwood Investments Ltd. Mr. Gaston and Ms.
+Gaston have no voting or dispositive power with respect to the Units owned by
+Walcott.
+
+     (c)   On May 8, 1998, Don F. Gaston and Paula B. Gaston purchased 15 Units
+in the open market at a price of $19.75 per Unit.
+
+     (d)   With respect to the Units co-owned by Mr. Gaston and Ms. Gaston,
+Mr. Gaston and Ms. Gaston share the right to receive or the power to direct the
+receipt of dividends from, or the proceeds from the sale of, such Units.
+
+     (e)   Not applicable.
+
+ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+        SECURITIES OF THE ISSUER
+
+     To the best knowledge of Don F. Gaston and Paula B. Gaston, except as
+disclosed in this Schedule 13D and its amendments, there are at present no
+contracts, arrangements, understandings or relationships (legal or otherwise)
+between Don F. Gaston and Paula B. Gaston and any person with respect to any
+securities of BCLP, including, but not limited to, transfer or voting of any of
+the securities of BCLP, finder's fees, joint ventures, loan or option
+arrangements, puts or calls, guarantees of profits, division of profits or loss
+or the giving or withholding of proxies, or a pledge or contingency the
+occurrence of which would give another person voting power or investment power
+over the BCLP Units (other than standard default and similar provisions
+contained in loan agreements).
+
+
+
+                               (Page 6 of 7 Pages)
+
+<PAGE>   7
+
+
+                                    SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+
+Dated: June 10, 1998
+                                           /s/   DON F. GASTON
+                                           ---------------------------------
+                                           Name: Don F. Gaston
+
+
+
+
+                                           /s/   PAULA B. GASTON
+                                           ---------------------------------
+                                           Name: Paula B. Gaston
+
+
+
+
+
+
+
+
+                               (Page 7 of 7 Pages)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,612 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Jh/CgXx6CQ1/XPB7VNpVgaJsQuYLMPc9H10XfcbKb2wAbBLdrs/MeAbatpQbZirN
+ BavwBeimk1ZfADo8hyQfaA==
+
+<SEC-DOCUMENT>0000950123-07-015741.txt : 20071119
+<SEC-HEADER>0000950123-07-015741.hdr.sgml : 20071119
+<ACCEPTANCE-DATETIME>20071119135453
+ACCESSION NUMBER:		0000950123-07-015741
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20071119
+DATE AS OF CHANGE:		20071119
+GROUP MEMBERS:		EPHRAIM FIELDS
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUPERTEL HOSPITALITY INC
+		CENTRAL INDEX KEY:			0000929545
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				521889548
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1207
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-47793
+		FILM NUMBER:		071255728
+
+	BUSINESS ADDRESS:	
+		STREET 1:		309 NORTH FIFTH STREET
+		CITY:			NORFOLK
+		STATE:			NE
+		ZIP:			68701
+		BUSINESS PHONE:		4023712520
+
+	MAIL ADDRESS:	
+		STREET 1:		309 NORTH FIFTH STREET
+		CITY:			NORFOLK
+		STATE:			NE
+		ZIP:			68701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HUMPHREY HOSPITALITY TRUST INC
+		DATE OF NAME CHANGE:	19940906
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Clarus Capital Group Management LP
+		CENTRAL INDEX KEY:			0001388315
+		IRS NUMBER:				208098367
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		237 PARK AVENUE
+		STREET 2:		SUITE 900
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212 808 7330
+
+	MAIL ADDRESS:	
+		STREET 1:		237 PARK AVENUE
+		STREET 2:		SUITE 900
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>y42923sc13d.txt
+<DESCRIPTION>ORIGINAL FILING ON SCHEDULE 13D
+<TEXT>
+<PAGE>
+
+
+                                  UNITED STATES
+                        SECURITIES & EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+
+                           Supertel Hospitality, Inc.
+                       ----------------------------------
+                                (Name of Issuer)
+
+                           Common Stock, No Par Value
+                     ---------------------------------------
+                         (Title of Class of Securities)
+
+                                    868526104
+                                    ---------
+                                 (CUSIP Number)
+
+                         Ephraim Fields, Managing Member
+                       Clarus Capital Group Management LP
+                            237 Park Ave., Suite 900
+                               New York, NY 10017
+                                 (212)-808-7330
+                                 --------------
+   (Name, address and Telephone Number of Person Authorized to Receive Notices
+                               and Communications)
+
+                                November 19, 2007
+                               ------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remained of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+SCHEDULE  13D
+
+
+  CUSIP  NO.  868526104                               Page  2  of  7  Pages
+
+
+<TABLE>
+<S>              <C>
+- ------------------------------------------------------------------------------
+    1            NAME  OF  REPORTING  PERSON
+                 I.R.S.  IDENTIFICATION  NO.  OF  ABOVE PERSON (ENTITIES ONLY)
+
+                 CLARUS CAPITAL GROUP MANAGEMENT LP
+                 20-8098367
+- ------------------------------------------------------------------------------
+    2            CHECK  THE  APPROPRIATE  BOX IF A MEMBER OF A GROUP (a)  [  ]
+                                                                     (b)  [  ]
+- ------------------------------------------------------------------------------
+    3            SEC  USE  ONLY
+
+- ------------------------------------------------------------------------------
+    4            SOURCE  OF  FUNDS
+                         WC
+- ------------------------------------------------------------------------------
+    5            CHECK  IF  DISCLOSURE  OF  LEGAL  PROCEEDINGS  IS  REQUIRED
+                 PURSUANT  TO  ITEMS  2(d) OR 2(e)                        [  ]
+- ------------------------------------------------------------------------------
+    6            CITIZENSHIP  OR  PLACE  OF  ORGANIZATION
+                 DELAWARE
+- ------------------------------------------------------------------------------
+                   7    SOLE  VOTING  POWER
+                        1,051,848
+   NUMBER  OF
+                 -------------------------------------------------------------
+                   8    SHARED  VOTING  POWER
+    SHARES
+ BENEFICIALLY
+                 -------------------------------------------------------------
+                   9    SOLE  DISPOSITIVE  POWER
+  OWNED  BY             1,051,848
+     EACH
+                 -------------------------------------------------------------
+                  10    SHARED  DISPOSITIVE  POWER
+   REPORTING
+  PERSON  WITH
+- ------------------------------------------------------------------------------
+      11         AGGREGATE  AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                 1,051,848
+- ------------------------------------------------------------------------------
+      12         CHECK  IF  THE  AGGREGATE  AMOUNT  IN  ROW  (11)  EXCLUDES
+                 CERTAIN  SHARES                                          [  ]
+- ------------------------------------------------------------------------------
+      13         PERCENT  OF  CLASS  REPRESENTED  BY  AMOUNT  IN  ROW  (11)
+                 5.1%
+- ------------------------------------------------------------------------------
+      14         TYPE  OF  REPORTING  PERSON
+                 IA, PN
+- ----------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+
+    SCHEDULE  13D
+
+
+  CUSIP  NO.  868526104                               Page  3  of  8  Pages
+
+<TABLE>
+<S>              <C>
+- ------------------------------------------------------------------------------
+    1            NAME  OF  REPORTING  PERSON
+                 I.R.S.  IDENTIFICATION  NO.  OF  ABOVE  PERSON  (ENTITIES ONLY)
+
+                 EPHRAIM  FIELDS
+- ----------------------------------------
+
+    2            CHECK  THE  APPROPRIATE  BOX IF A MEMBER OF A GROUP (a)  [  ]
+                                                                     (b)  [  ]
+- ------------------------------------------------------------------------------
+    3            SEC  USE  ONLY
+
+- ------------------------------------------------------------------------------
+    4            SOURCE  OF  FUNDS
+                         WC
+- ------------------------------------------------------------------------------
+    5            CHECK  IF  DISCLOSURE  OF  LEGAL  PROCEEDINGS  IS  REQUIRED
+                 PURSUANT  TO  ITEMS  2(d) OR 2(e)                        [  ]
+- ------------------------------------------------------------------------------
+    6            CITIZENSHIP  OR  PLACE  OF  ORGANIZATION
+                 UNITED  STATES
+- ------------------------------------------------------------------------------
+                   7    SOLE  VOTING  POWER
+                        1,051,848 (1)
+   NUMBER  OF
+                 -------------------------------------------------------------
+                   8    SHARED  VOTING  POWER
+    SHARES
+ BENEFICIALLY
+                 -------------------------------------------------------------
+                   9    SOLE  DISPOSITIVE  POWER
+   OWNED  BY            1,051,848 (1)
+     EACH
+                 -------------------------------------------------------------
+                  10    SHARED  DISPOSITIVE  POWER
+   REPORTING
+  PERSON  WITH
+- ------------------------------------------------------------------------------
+      11         AGGREGATE  AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                 1,051,848 (1)
+- ------------------------------------------------------------------------------
+      12         CHECK  IF  THE  AGGREGATE  AMOUNT  IN  ROW  (11)  EXCLUDES
+                 CERTAIN  SHARES                                          [  ]
+- ------------------------------------------------------------------------------
+      13         PERCENT  OF  CLASS  REPRESENTED  BY  AMOUNT  IN  ROW  (11)
+                 5.1%
+- ------------------------------------------------------------------------------
+      14         TYPE  OF  REPORTING  PERSON
+                 IN
+- ------------------------------------------------------------------------------
+</TABLE>
+
+(1)      The general partner to Clarus Capital Group Management LP is Clarus
+         Capital Management, LLC. Ephraim Fields is the managing member of
+         Clarus Capital Management, LLC and as such controls Clarus Capital
+         Group Management LP. As such, Mr. Fields may be deemed to have
+         beneficial ownership of the 1,051,848 shares of Common Stock held by
+         the clients of Clarus Capital Group Management LP.
+
+
+<PAGE>
+
+
+ITEM 1. SECURITY AND ISSUER
+
+         This statement on Schedule 13D ("Statement") relates to the common
+stock, no par value ("Common Stock"), of Supertel Hospitality, Inc., a Nebraska
+corporation (the "Issuer"). The principal executive offices of the Issuer are
+located at 309 N. 5th Street, Norfolk, Nebraska 68701.
+
+ITEM 2. IDENTITY AND BACKGROUND
+
+         (a) - (c) AND (f). This Statement is filed by Clarus Capital Group
+Management LP, a Delaware limited partnership ("Clarus") and Ephraim Fields
+(together, the "Reporting Persons").
+
+         Clarus is a private investment management firm which invests in
+publicly traded U.S. equity securities. The general partner to Clarus Capital
+Group Management LP is Clarus Capital Management, LLC. Ephraim Fields is the
+managing member of Clarus Capital Management, LLC and as such controls Clarus
+Capital Group Management LP. Mr. Fields is engaged principally in the business
+of serving as the sole managing member of Clarus and an affiliate, Clarus
+Capital Advisors, LLC. Mr. Fields is a citizen of the United States of America.
+
+         The principal business address of each of the Reporting Persons is 237
+Park Ave., Suite 900, New York, NY 10017.
+
+         (d) - (e). None of the Reporting Persons during the last five years has
+been convicted in a criminal proceeding (excluding traffic violations and
+similar misdemeanors) or was party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction as a result of which any such
+person was or is subject to a judgment, decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to, federal or
+state securities laws or finding any violation with respect to such laws.
+
+ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+         The aggregate purchase price of the 1,051,848 shares of Common Stock
+owned by the Reporting Persons is approximately $6,400,782 including brokerage
+commissions. The shares of Common Stock owned by the Reporting Persons were
+acquired with the working capital of Clarus.
+
+ITEM 4. PURPOSE OF TRANSACTION
+
+         The Reporting Persons purchased the shares of Common Stock based on the
+Reporting Persons' belief that the shares of Common Stock are undervalued and
+represented an attractive investment opportunity. Clarus reserves the right,
+consistent with applicable law, to acquire or dispose of additional securities
+of the Issuer (whether through open market purchases, block trades, private
+acquisitions, tender or exchange offers or otherwise). Clarus intends to review
+its investment in the Issuer on a continuing basis and may engage in discussions
+with management or the Board of Directors of the Issuer concerning the business,
+operations and future plans of the Issuer. Depending on various factors,
+including, without limitation, the Issuer's financial position and investment
+strategy, the price levels of the Common Stock, conditions in the securities
+markets and general economic and industry conditions, Clarus may in the future
+take such actions with respect to its investment in the Issuer as it deems
+
+
+<PAGE>
+
+
+appropriate including, without limitation, seeking Board representation, making
+proposals to the Issuer concerning the capitalization and operations of the
+Issuer, engaging in short selling of or any hedging or similar transaction with
+respect to the Common Stock, or changing its intention partially or entirely
+with respect to any and all matters referred to in Item 4.
+
+
+         On November 19, 2007, Clarus sent a letter to the Board of Directors of
+the Issuer which set forth Clarus' belief that the Issuer's Common Stock is
+undervalued and demanded that the Board of Directors hire a prominent investment
+bank to explore strategic alternatives for enhancing shareholder value,
+including the outright sale of the company. Clarus noted that while it is
+supportive of the company's acquisition strategy, Clarus is concerned that the
+Issuer's senior management (including its 73 year old CEO and 62 year old CFO)
+are distracted by personal, health and other issues which are preventing them
+from acting in the best interests of shareholders. Clarus believes that because
+of the Issuer's tiny market capitalization, the Issuer will have difficulty
+achieving an appropriate valuation in the public market and that shareholders
+would be best served through the sale of the company.  Clarus believes a more
+sophisticated and motivated management team could create significant
+shareholder value from the Issuer's assets by (1) expanding the highly
+accretive acquisition program; (2) monetizing the Issuer's extensive real
+estate holdings, much of which is worth significantly more than its current
+book value; (3) reducing or eliminating the Issuer's relatively high public
+company costs; and (4) lowering the Issuer's overall cost of capital.
+
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER.
+
+         The percentages set forth in this Item 5 are based on the Form 10-Q
+filed by the Issuer on November 9, 2007, which stated that as of October 31,
+2007, there were 20,563,426 shares of Common Stock outstanding.
+
+         (a) As of the close of business on November 16, 2007, the Reporting
+Persons directly own 1,051,848 shares of Common Stock representing approximately
+5.1% of the outstanding Common Stock. As of November 16, 2007, the date
+requiring the filing of this Schedule 13D, the Reporting Persons directly owned
+1,051,848 shares of Common Stock representing approximately 5.1% of the
+outstanding Common Stock.
+
+         (b) The Reporting Persons have the sole power to vote and dispose of
+1,051,848 shares of Common Stock and shared power to vote and dispose of
+1,051,848 of Common Stock. Mr. Fields is the sole managing principal and
+indirectly the 100% owner of Clarus.
+
+         (c) See Appendix A for a list of transactions occurring in the last
+sixty days.
+
+         (d) Not applicable.
+
+         (e) Not applicable.
+
+ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+SECURITIES OF THE ISSUER.
+
+         Other than as described in Item 4 herein, there are no contracts,
+arrangements, understandings or relationships among the Reporting Persons, or
+between the Reporting Persons and any other person, with respect to the
+securities of the Issuer.
+
+
+ITEM 7. MATERIAL TO BE FILED AS EXHIBITS.
+
+         Exhibit A: Letter to the Issuer, dated as of November 19, 2007
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+                                   ----------
+
+         After reasonable inquiry and to the best of its knowledge and belief,
+the undersigned certifies that the information set forth in this statement is
+true, complete and correct.
+
+Dated: November 19, 2007
+
+
+
+                                     CLARUS  CAPITAL  GROUP MANAGEMENT LP
+
+                                     By:  /s/  Ephraim  Fields
+                                          --------------------
+                                          Name:   Ephraim  Fields
+                                          Title:  Managing  Member
+
+                                     EPHRAIM  FIELDS
+
+                                     By:  /s/  Ephraim  Fields
+                                          --------------------
+
+
+<PAGE>
+
+
+APPENDIX  A
+
+<TABLE>
+<CAPTION>
+Transaction  Date   Number of Shares Sold     Average  Price
+- -----------------   ---------------------     --------------
+<S>                 <C>                          <C>
+    10/15/07                     13600              7.5551
+    10/16/07                      3898              7.5035
+    10/17/07                     10285              7.4987
+    10/18/07                       400              7.4824
+    10/19/07                      1785              7.4849
+    10/26/07                      2400              7.4678
+    10/29/07                       300              7.4132
+    10/30/07                      1700              7.4535
+    10/31/07                      1566              7.3871
+    11/07/07                      9400              7.3135
+    11/08/07                     27800              7.0999
+    11/09/07                     35961              6.6179
+    11/13/07                      9700              6.4605
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>y42923exv99wa.htm
+<DESCRIPTION>EX-99.A: LETTER TO THE ISSUER
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>EX-99.A</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">EXHIBIT A
+</DIV>
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">November&nbsp;19, 2007
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Board of Directors<BR>
+Supertel Hospitality, Inc.<BR>
+309 N. 5th Street<BR>
+Norfolk, NE 68701
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">To the Board of Directors:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Clarus Capital Group Management LP beneficially owns approximately 5.1% of the
+outstanding common shares of Supertel Hospitality, Inc. (&#147;SPPR&#148; or the
+&#147;Company&#148;) and we believe we are the Company&#146;s second largest shareholder. We
+have been investors in the Company for over two years and have been patiently
+supportive of management&#146;s acquisition strategy. While we continue to believe
+this strategy is sound, we have grave concerns about the ability of the current
+management team to execute this strategy. The business of indentifying,
+financing and integrating acquisitions is complicated and time consuming and we
+are concerned that SPPR&#146;s senior management (including its 73&nbsp;year old CEO and
+its 62&nbsp;year old CFO) are distracted by personal, health and other issues which
+are preventing them from fully acting in the best interest of all shareholders.
+Furthermore, we question why SPPR remains publicly traded. SPPR is one of the
+smallest publicly traded REITS (and thus incurs disproportionately high public
+company costs) and management makes very little effort to communicate with the
+investment community (management does not conduct earnings conference calls and
+it rarely attends investor conferences or meets with investors).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We believe a more sophisticated and motivated management team could create
+significant shareholder value from SPPR&#146;s assets through:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Expanding the highly accretive acquisition program to
+capitalize on the operating leverage inherent in such a
+strategy;</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Monetizing the company&#146;s extensive real estate holdings. SPPR
+has significant real estate holding, much of which was
+purchased over 20&nbsp;years ago and is worth significantly more
+than its current book value;</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Reducing or eliminating the relatively high public company
+costs; and</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">4)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Lowering the company&#146;s overall cost of capital, in part by
+utilizing a more appropriate amount of debt and by utilizing<BR>
+lower cost debt.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We believe SPPR&#146;s stock is dramatically undervalued. It trades at less than 7x
+2008E FFO, pays an 8% dividend, has a healthy balance sheet and significantly
+undervalued real estate. In the past, we have suggested to you (in private
+communications) that because of its tiny market capitalization SPPR would have
+difficulty achieving an appropriate valuation in the public market and that
+shareholders would be best served through a sale of the company. Since you have
+elected not to accept our advice (and your stock price has continued to decline), <u>we are now publicly demanding that you hire a
+prominent investment bank to explore strategic alternatives for enhancing shareholder value,
+including the</u>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><u>sale of the company</u>. We have studied SPPR and its industry in
+detail and believe SPPR&#146;s shareholders would be best served through the
+outright sale of the company. Furthermore, we believe there are strategic and
+financial buyers who would be interested in acquiring the company if they were
+given the opportunity to do so.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We are the company&#146;s second largest shareholder so it should be apparent that we
+have nothing but SPPR&#146;s shareholders&#146; best interests in mind. As board directors
+you have a fiduciary responsibility to act in the best interests of all SPPR&#146;s
+shareholders and we expect you to aggressively and proactively act in order to
+maximize shareholder value.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 50%">Sincerely,
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 50%">Ephraim Fields
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

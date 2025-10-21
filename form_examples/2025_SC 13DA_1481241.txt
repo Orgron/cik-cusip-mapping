@@ -1,0 +1,1705 @@
+<SEC-DOCUMENT>0001104659-25-072410.txt : 20250731
+<SEC-HEADER>0001104659-25-072410.hdr.sgml : 20250731
+<ACCEPTANCE-DATETIME>20250731061550
+ACCESSION NUMBER:		0001104659-25-072410
+CONFORMED SUBMISSION TYPE:	SC TO-T/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250731
+DATE AS OF CHANGE:		20250731
+GROUP MEMBERS:		GEORGE ECONOMOU
+GROUP MEMBERS:		MARYPORT NAVIGATION CORP.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Performance Shipping Inc.
+		CENTRAL INDEX KEY:			0001481241
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-86020
+		FILM NUMBER:		251169195
+
+	BUSINESS ADDRESS:	
+		STREET 1:		373 SYNGROU AVE.
+		STREET 2:		17564 PALAIO FALIRO
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			00000
+		BUSINESS PHONE:		302166002400
+
+	MAIL ADDRESS:	
+		STREET 1:		373 SYNGROU AVE.
+		STREET 2:		17564 PALAIO FALIRO
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Diana Containerships Inc.
+		DATE OF NAME CHANGE:	20100115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Performance Shipping Inc.
+		CENTRAL INDEX KEY:			0001481241
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-86020
+		FILM NUMBER:		251169194
+
+	BUSINESS ADDRESS:	
+		STREET 1:		373 SYNGROU AVE.
+		STREET 2:		17564 PALAIO FALIRO
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			00000
+		BUSINESS PHONE:		302166002400
+
+	MAIL ADDRESS:	
+		STREET 1:		373 SYNGROU AVE.
+		STREET 2:		17564 PALAIO FALIRO
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Diana Containerships Inc.
+		DATE OF NAME CHANGE:	20100115
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sphinx Investment Corp.
+		CENTRAL INDEX KEY:			0001990966
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O LEVANTE SERVICES LIMITED
+		STREET 2:		LEOFOROS EVAGOROU 31 2ND FL OFF 21 1066
+		CITY:			NICOSIA
+		STATE:			G4
+		ZIP:			1066
+		BUSINESS PHONE:		35722010610
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LEVANTE SERVICES LIMITED
+		STREET 2:		LEOFOROS EVAGOROU 31 2ND FL OFF 21 1066
+		CITY:			NICOSIA
+		STATE:			G4
+		ZIP:			1066
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC TO-T/A
+<SEQUENCE>1
+<FILENAME>tm2522059d1_sctota.htm
+<DESCRIPTION>SC TO-T/A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SCHEDULE TO</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(RULE 14d-100)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Tender Offer Statement under Section&nbsp;14(d)(1)&nbsp;or
+13(e)(1)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>of the Securities Exchange Act of 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Amendment No.&nbsp;11)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Performance
+Shipping Inc.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Name of Subject Company (Issuer))</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Sphinx
+Investment Corp.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Offeror)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Maryport
+Navigation Corp.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Parent of Offeror)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>George
+Economou</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Affiliate of Offeror)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Names of Filing Persons)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase; background-color: white"><B>Common
+shares, $0.01 par value</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase; background-color: white"><B>(including
+the associated Preferred stock purchase rights)</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Title of Class&nbsp;of Securities)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Y67305154</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(CUSIP Number of Class&nbsp;of Securities)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Kleanthis Spathias</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>c/o Levante Services Limited</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Leoforos Evagorou 31, 2<SUP>nd</SUP>&nbsp;Floor,
+Office 21</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>1066 Nicosia, Cyprus</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>+35 722 010610</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Name, address and telephone number of person authorized
+to receive notices and communications on behalf of filing persons)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><I>With
+a copy to</I></B></FONT>:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Richard M. Brand</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Kiran S. Kadekar</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>White &amp; Case LLP</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>1221 Avenue of Americas</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>New York, NY 10020</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(212) 819-8200</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="border-top: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Check
+    the box if the filing relates solely to preliminary communications made before the commencement of a tender offer.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in">Check the appropriate boxes below to designate
+any transactions to which the statement relates:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">third-party
+    tender offer subject to Rule&nbsp;14d-1.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">issuer
+    tender offer subject to Rule&nbsp;13e-4.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">going-private
+    transaction subject to Rule&nbsp;13e-3.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">amendment
+    to Schedule 13D under Rule&nbsp;13d-2.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Check
+the following box if the filing is a final amendment reporting the results of the tender offer: </FONT><FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in">If applicable, check the appropriate box(es)
+below to designate the appropriate rule&nbsp;provision(s)&nbsp;relied upon:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rule&nbsp;13e-4(i)&nbsp;(Cross-Border
+    Issuer Tender Offer)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rule&nbsp;14d-1(d)&nbsp;(Cross-Border
+    Third-Party Tender Offer)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.25in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>As permitted by General Instruction G to Schedule
+TO, this Schedule TO is also Amendment No. 16 to the Schedule 13D filed by Sphinx Investment Corp. (the &ldquo;Offeror&rdquo;), Maryport
+Navigation Corp. and Mr. George Economou on August 25, 2023 (and amended on August 31, 2023, September 5, 2023 and September 15, 2023,
+further amended twice on each of October 11, 2023 and October 30, 2023, and further amended on November 15, 2023, December 5, 2023, March
+26, 2024, June 27, 2024, August 15, 2024, September 17, 2024, December 12, 2024, and February 5, 2025) in respect of the Common Shares
+of the Company.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">CUSIP No.&nbsp;Y67305154</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD COLSPAN="6" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="6">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">1.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Names of Reporting Persons</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sphinx Investment Corp.</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">2.</FONT></TD>
+    <TD COLSPAN="4"><FONT STYLE="font-size: 10pt">Check the Appropriate Box if a Member of a Group (See Instructions)</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">(a)</FONT></TD>
+    <TD><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">(b)</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">3.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">SEC Use Only</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">4.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Source of Funds (See Instructions)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">WC</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">5.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">Check Box if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d)&nbsp;or 2(e)&nbsp;<FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">6.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Citizenship or Place of Organization</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Republic of the Marshall Islands</P></TD></TR>
+  <TR>
+    <TD COLSPAN="3" ROWSPAN="4" STYLE="padding-right: 5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Number of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shares</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Beneficially</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Owned by</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Each</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Reporting</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Person With</P></TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">7.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sole Voting Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">0</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">8.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shared Voting Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">9.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sole Dispositive Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">0</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">10.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shared Dispositive Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">11.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Aggregate Amount Beneficially Owned by Each Reporting Person</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">12.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">Check Box if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions) <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">13.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Percent of Class&nbsp;Represented by Amount in Row (11)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">8.3%**</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">14.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Type of Reporting Person (See Instructions)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">CO</P></TD></TR>
+  <TR>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 83%">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">* All reported Common Shares are held by Sphinx
+Investment Corp. Sphinx Investment Corp. is a wholly-owned subsidiary of Maryport Navigation Corp., which is a Liberian company controlled
+by Mr.&nbsp;Economou.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">** Based on the 12,432,158 Common Shares stated by the Issuer as being outstanding as at May 26, 2025 in Exhibit 99.1 to Form 6-K filed with
+the United States Securities and Exchange Commission (the &ldquo;SEC&rdquo;) on May 27, 2025 (the &ldquo;Form 6-K&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">CUSIP No.&nbsp;Y67305154</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD COLSPAN="6" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="6">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">1.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Names of Reporting Persons</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Maryport Navigation Corp.</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">2.</FONT></TD>
+    <TD COLSPAN="4"><FONT STYLE="font-size: 10pt">Check the Appropriate Box if a Member of a Group (See Instructions)</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">(a)</FONT></TD>
+    <TD><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">(b)</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">3.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">SEC Use Only</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">4.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Source of Funds (See Instructions)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">AF</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">5.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">Check Box if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d)&nbsp;or 2(e)&nbsp;<FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">6.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Citizenship or Place of Organization</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Liberia</P></TD></TR>
+  <TR>
+    <TD COLSPAN="3" ROWSPAN="4" STYLE="padding-right: 5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Number of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shares</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Beneficially</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Owned by</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Each</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Reporting</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Person With</P></TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">7.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sole Voting Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">0</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">8.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shared Voting Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">9.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sole Dispositive Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">0</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">10.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shared Dispositive Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">11.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Aggregate Amount Beneficially Owned by Each Reporting Person</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">12.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">Check Box if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions) <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">13.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Percent of Class&nbsp;Represented by Amount in Row (11)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">8.3%**</P></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">14.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Type of Reporting Person (See Instructions)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">CO</P></TD></TR>
+  <TR>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 83%">&nbsp;</TD></TR>
+  </TABLE><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">* All reported Common Shares are held by Sphinx
+Investment Corp. Sphinx Investment Corp. is a wholly-owned subsidiary of Maryport Navigation Corp., which is a Liberian company controlled
+by Mr.&nbsp;Economou.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">** Based on the 12,432,158 Common Shares stated by the Issuer as being outstanding as at May 26, 2025 in its Form 6-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No.&nbsp;Y67305154</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD COLSPAN="6" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt; text-align: right">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="6">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">1.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Names of Reporting Persons</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">George Economou</P></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">2.</FONT></TD>
+    <TD COLSPAN="4"><FONT STYLE="font-size: 10pt">Check the Appropriate Box if a Member of a Group (See Instructions)</FONT></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">(a)</FONT></TD>
+    <TD><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">(b)</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">3.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">SEC Use Only</FONT></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">4.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Source of Funds (See Instructions)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">AF</P></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">5.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">Check Box if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d)&nbsp;or 2(e)&nbsp;<FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">6.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Citizenship or Place of Organization</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Greece</P></TD></TR>
+  <TR>
+    <TD COLSPAN="3" ROWSPAN="4" STYLE="white-space: nowrap; padding-right: 5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Number of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shares</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Beneficially</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Owned by</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Each</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Reporting</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Person With</P></TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">7.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sole Voting Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">0</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">8.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shared Voting Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">9.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sole Dispositive Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">0</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">10.</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Shared Dispositive Power</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">11.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Aggregate Amount Beneficially Owned by Each Reporting Person</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1,033,859*</P></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">12.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt"><FONT STYLE="font-size: 10pt">Check Box if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions) <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">13.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Percent of Class&nbsp;Represented by Amount in Row (11)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">8.3%**</P></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top"><FONT STYLE="font-size: 10pt">14.</FONT></TD>
+    <TD COLSPAN="4" STYLE="border-bottom: black 1pt solid; padding-bottom: 0.75pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Type of Reporting Person (See Instructions)</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">IN</P></TD></TR>
+  <TR>
+    <TD STYLE="white-space: nowrap; width: 5%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; width: 5%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 83%">&nbsp;</TD></TR>
+  </TABLE><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">* All reported Common Shares are held by Sphinx
+Investment Corp. Sphinx Investment Corp. is a wholly-owned subsidiary of Maryport Navigation Corp., which is a Liberian company controlled
+by Mr.&nbsp;Economou.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">** Based on the 12,432,158 Common Shares stated by the Issuer as being outstanding as at May 26, 2025 in its Form 6-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This Amendment No. 11 (this
+ &ldquo;<B>Amendment No. 11</B>&rdquo;) is filed by the Offeror (as defined below), Maryport (as defined below) and Mr. George Economou
+and amends and supplements the Tender Offer Statement on Schedule TO originally filed with the Securities and Exchange Commission (the
+ &ldquo;<B>SEC</B>&rdquo;) on October 11, 2023 and amended and supplemented pursuant to Amendment No. 1 and Amendment No. 2, each of which
+was filed with the SEC on October 30, 2023, Amendment No. 3 which was filed with the SEC on November 15, 2023, Amendment No. 4 which
+was filed with the SEC on December 5, 2023, Amendment No. 5 which was filed with the SEC on March 26, 2024, Amendment No. 6 which was
+filed with the SEC on June 27, 2024, Amendment No. 7 which was filed with the SEC on August 15, 2024, Amendment No. 8 which was filed
+with the SEC on September 17, 2024, Amendment No. 9 which was filed with the SEC on December 12, 2024, and Amendment No. 10 which was
+filed with the SEC on February 5, 2025 (such original Tender Offer Statement on Schedule TO as so amended and supplemented (including
+any exhibits and annexes attached thereto), the &ldquo;<B>Original Schedule TO</B>&rdquo;), and as hereby amended and supplemented (including
+by the exhibits and annexes hereto), together with any subsequent amendments and supplements thereto, this &ldquo;<B>Schedule TO</B>&rdquo;)
+by Sphinx Investment Corp., a corporation organized under the laws of the Republic of the Marshall Islands (the &ldquo;<B>Offeror</B>&rdquo;),
+Maryport Navigation Corp., a corporation organized under the laws of the Republic of Liberia that is the direct parent of the Offeror
+(&ldquo;<B>Maryport</B>&rdquo;), and Mr. George Economou, who directly owns Maryport and controls each of the Offeror and Maryport. This
+Schedule TO relates to the tender offer by the Offeror to purchase all of the issued and outstanding common shares, par value $0.01 per
+share (the &ldquo;<B>Common Shares</B>&rdquo;), of Performance Shipping Inc., a corporation organized under the laws of the Republic
+of the Marshall Islands (the &ldquo;<B>Company</B>&rdquo;) (including the associated preferred stock purchase rights (the &ldquo;<B>Rights</B>&rdquo;,
+and together with the Common Shares, the &ldquo;<B>Shares</B>&rdquo;) issued pursuant to the Stockholders&rsquo; Rights Agreement, dated
+as of December 20, 2021, between the Company and Computershare Inc. as Rights Agent (as it may be amended from time to time)), for $3.00
+per Share in cash, without interest, less any applicable withholding taxes, upon the terms and subject to the conditions set forth in
+(a) the Amended and Restated Offer to Purchase, dated October 30, 2023, a copy of which is attached to the Schedule TO as Exhibit (a)(1)(G),
+as amended and supplemented by the Supplement to the Amended and Restated Offer to Purchase dated December 5, 2023, a copy of which is
+attached to the Schedule TO as Exhibit (a)(1)(O) (the &ldquo;<B>Offer to Purchase</B>&rdquo;), (b) the related revised Letter of Transmittal,
+a copy of which is attached to the Schedule TO as Exhibit (a)(1)(H) (the &ldquo;<B>Letter of Transmittal</B>&rdquo;), and (c) the related
+revised Notice of Guaranteed Delivery, a copy of which is attached to the Schedule TO as Exhibit (a)(1)(I) (the &ldquo;<B>Notice of Guaranteed
+Delivery</B>&rdquo;) (which three documents, including any amendments or supplements thereto, collectively constitute the &ldquo;<B>Offer</B>&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">As permitted by General Instruction G to Schedule TO, this Schedule TO is also Amendment No. 16 to the Schedule 13D filed by the Offeror,
+Maryport and Mr. Economou on August 25, 2023 (and amended on August 31, 2023, September 5, 2023 and September 15, 2023, further amended
+twice on each of October 11, 2023 and October 30, 2023, and further amended on November 15, 2023, December 5, 2023, March 26, 2024, June
+27, 2024, August 15, 2024, September 17, 2024, December 12, 2024, and February 5, 2025) in respect of the Common Shares.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This Amendment
+No. 11 is being filed to amend and supplement the Schedule TO. Except as amended hereby to the extent specifically provided herein, all
+terms of the Offer and all other disclosures set forth in the Schedule TO and the Exhibits thereto remain unchanged and are hereby expressly
+incorporated into this Amendment No. 11 by reference. Capitalized terms used and not otherwise defined in this Amendment No. 11 shall
+have the meanings assigned to such terms in the Schedule TO and the Offer to Purchase.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Items 1 through 9 and Item 11</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1.</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The Offer to Purchase and Items 1 through 9 and Item 11 of the Schedule TO are hereby amended and supplemented by adding the following paragraph thereto:</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0.5in">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&ldquo;On July 31, 2025, the Offeror announced that it has extended the Expiration Date and Time to
+    11:59 p.m., New York City time, on February 13, 2026. The Offer was previously scheduled to expire at 11:59 p.m., New York City
+    time, on July 31, 2025. The Tender Offer Agent has advised the Offeror that as of 5:00 p.m., New York City time, on July 30, 2025,
+    the last full trading day prior to the announcement of the extension of the Offer, 2,152,961 Shares had been validly tendered into
+    the Offer and not validly withdrawn. The press release announcing the extension of the Offer is attached hereto as Exhibit (a)(1)(U)
+    and is incorporated herein by reference.&rdquo;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2.</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The Offer to Purchase and Items 1 through 9 and Item 11 of the Schedule TO are hereby amended and supplemented as set forth below:</FONT></TD></TR>
+  </TABLE>
+ <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">All references to &ldquo;11:59 p.m., New York City time, on July 31, 2025&rdquo; set forth in the
+                                                Amended and Restated Offer to Purchase (Exhibit (a)(1)(G)), Supplement to Amended and Restated Offer to Purchase dated December 5,
+                                                2023 (Exhibit (a)(1)(O)), Form of revised Letter of Transmittal (Exhibit (a)(1)(H)), Form of revised Notice of Guaranteed Delivery
+                                                (Exhibit (a)(1)(I)), Form of revised Letter to Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees (Exhibit
+                                                (a)(1)(J)) and Form of revised Letter to Clients for Use by Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees
+                                                (Exhibit (a)(1)(K)) shall be replaced with &ldquo;11:59 p.m., New York City time, on February 13, 2026&rdquo;.</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">3.</TD><TD STYLE="text-align: justify">The information set forth in the section of the Offer to Purchase
+entitled &ldquo;<B>SUMMARY TERM SHEET</B>&rdquo; is hereby amended and supplemented by deleting the fourth sentence of the discussion
+set forth under the caption &ldquo;<B>WHO IS OFFERING TO BUY MY SHARES?</B>&rdquo; in its entirety and replacing it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;The Offeror, Maryport and Mr.&nbsp;Economou beneficially own
+an aggregate of approximately 8.3% of the issued and outstanding Shares, based on the number of Shares publicly disclosed by the Company
+as outstanding as of May&nbsp;26, 2025.&rdquo;</TD>
+</TR></TABLE>
+   <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 0.5in">4.</TD><TD STYLE="text-align: justify">The information set forth in the section of the Offer
+                                            to Purchase entitled &ldquo;<B>SUMMARY TERM SHEET</B>&rdquo; is hereby amended and supplemented
+                                            by deleting the last sentence of the discussion set forth under the caption &ldquo;<B>WHAT
+                                            ARE THE CLASSES AND AMOUNTS OF SECURITIES SOUGHT IN THE OFFER?&rdquo; </B>in its entirety
+                                            and replacing it with the following:</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">&nbsp;</TD><TD STYLE="text-align: justify">&ldquo;According to Exhibit 99.1 to Form 6-K, which was filed by the
+Company with the Securities and Exchange Commission (the &ldquo;SEC&rdquo;) on May 27, 2025, there were 12,432,158 Common Shares outstanding
+as of May 26, 2025.&rdquo;</TD>
+</TR></TABLE>
+
+ <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">5.</TD><TD STYLE="text-align: justify">The information set forth in the section of the Offer
+                                            to Purchase entitled &ldquo;<B>SUMMARY TERM SHEET</B>&rdquo; is hereby amended and supplemented
+                                            by deleting the discussion set forth under the caption &ldquo;<B>WHAT IS THE MARKET VALUE
+                                            OF MY SHARES AS OF A RECENT DATE?&rdquo; </B>in its entirety and replacing it with the following:</TD>
+</TR></TABLE>
+
+ <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></TD><TD STYLE="text-align: justify">&ldquo;<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+October&nbsp;10, 2023, the last full trading day before the commencement of the Offer, the closing price of the Shares on the Nasdaq
+Capital Market was $1.68 per Share. On July&nbsp;30, 2025, the last full trading day before the filing of Amendment No.&nbsp;11 to Schedule
+TO, the closing price of Common Shares reported on the Nasdaq Capital Market was $1.72 per Share. The Offer represents a premium
+of 78% over the Company&rsquo;s closing Share price on October&nbsp;10, 2023, and a premium of 74% over the Company&rsquo;s closing
+Share price on July&nbsp;30, 2025. We advise you to obtain a recent quotation for the Shares and further consult with your financial
+and other advisors in deciding whether to tender your Shares. See Section&nbsp;6 of the Offer to Purchase - &ldquo;PRICE RANGE OF THE
+SHARES; DIVIDENDS&rdquo;.&rdquo;</FONT></TD>
+</TR></TABLE>
+
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">6.</TD><TD STYLE="text-align: justify">The information set forth in the section of the Offer to Purchase
+entitled &ldquo;<B>SUMMARY TERM SHEET</B>&rdquo; is hereby amended and supplemented by deleting the discussion set forth under the caption
+ &ldquo;<B>ARE THERE ANY CONSEQUENCES OF THE OFFER ON ANY MATERIAL CONTRACTS OF THE COMPANY</B>?&rdquo; in its entirety and replacing
+it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;Certain of the material contracts that the Company has publicly
+filed with the SEC (including, without limitation, (i)&nbsp;the Guarantee in respect of Hull No.&nbsp;H1596 dated March&nbsp;4, 2025,
+between the Company and Huican (Tianjin) Shipping Leasing Co.,&nbsp;Ltd.; (ii)&nbsp;the Equity Incentive Plan&#894; (iii)&nbsp;the&nbsp;<FONT STYLE="background-color: white">Secured
+Loan Agreement dated August&nbsp;4, 2023 among Taburao Shipping Company Inc. and Tarawa Shipping Company Inc. as borrowers, the Company
+as guarantor, the financial institutions listed in Schedule 1 thereto as lenders, Nordea Bank Abp as hedge counterparties and Nordea
+Bank Abp, filial I Norge as bookrunner, agent, and security agent; (iv)&nbsp;the&nbsp;</FONT>Loan Agreement dated November&nbsp;1, 2022
+between Alpha Bank S.A. as lender, and Garu Shipping Company Inc., as borrower&#894; and (v)&nbsp;the Loan Agreement dated December&nbsp;7,
+2022 between Alpha Bank S.A., as lender, and Arbar Shipping Company Inc., as borrower) contain provisions that may be triggered upon
+a &ldquo;change of control&rdquo; or &ldquo;change in control&rdquo; of the Company as such terms are defined in the applicable underlying
+material contracts. Further, Company contracts that are not filed with the SEC, which have not been made available to us, may also contain
+provisions that may be triggered upon a &ldquo;change of control&rdquo; or &ldquo;change in control&rdquo; of the Company. While the
+consummation of the Offer may trigger any of the foregoing provisions, the Offer is not conditioned upon obtaining any approvals, consents
+or waivers with respect to these material contracts. We also expect that the Company has or may enter into contracts with other companies
+controlled or influenced by members if the Paliou family, and if the Offer is successful, it is possible that the Company or such other
+companies may seek to terminate, cease performing under or determine not to renew any such contracts. We also cannot predict whether
+a successful Offer would adversely affect any of the Company&rsquo;s other existing or prospective commercial relationships. See Section&nbsp;12
+of the Offer to Purchase &ndash; &ldquo;CERTAIN EFFECTS OF THE OFFER&rdquo;.&rdquo;</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">7.</TD><TD STYLE="text-align: justify">The information set forth in the section of the Offer to Purchase
+entitled &ldquo;<B>INTRODUCTION</B>&rdquo; is hereby amended and supplemented by deleting the eighth full paragraph thereof in its entirety
+and replacing it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;According to Exhibit&nbsp;99.1 to Form&nbsp;6-K filed by the
+Company with the SEC on May&nbsp;27, 2025, there were 12,432,158 Common Shares outstanding as of May&nbsp;26, 2025. See Section&nbsp;12
+of the Offer to Purchase &ndash; &ldquo;CERTAIN EFFECTS OF THE OFFER&rdquo;.&rdquo;</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">8.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;5 of the Offer to
+Purchase entitled &ldquo;<B>TAX CONSIDERATIONS</B>&rdquo; is hereby amended and supplemented by:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in; text-align: justify; text-indent: -0.25in">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deleting
+    the fourth paragraph of the discussion set forth under the caption &ldquo;MATERIAL UNITED STATES FEDERAL INCOME TAX CONSIDERATIONS&rdquo;
+    in its entirety and replacing it with the following:</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&ldquo;If an entity or arrangement that
+    is classified as a partnership for U.S. federal income tax purposes owns the Shares, the U.S. federal income tax treatment of a partner
+    will generally depend on the status of the partner and the status and activities of the partnership. If you are a partnership owning the
+    Shares or a partner in such partnership, you should consult your own tax advisors.&rdquo;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in; text-align: justify; text-indent: -0.25in">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deleting
+    the last paragraph of the discussion set forth under the caption &ldquo;MATERIAL UNITED STATES FEDERAL INCOME TAX CONSIDERATIONS&rdquo;
+    in its entirety and replacing it with the following:</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&ldquo;As indicated in the Company&rsquo;s
+    annual report on Form&nbsp;20-F for the fiscal year ended December&nbsp;31, 2024, the Company does not believe that it was a passive foreign
+    investment company (&ldquo;PFIC&rdquo;) for U.S. federal income tax purposes in 2024 and does not anticipate becoming a PFIC in the near
+    future. Except as discussed below under &ldquo;Passive Foreign Investment Company Rules&rdquo;, this summary assumes that the Company
+    has not been a PFIC for any prior taxable year and will not be a PFIC for the current taxable year.&rdquo;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">9.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;5 of the Offer to
+Purchase entitled &ldquo;<B>TAX CONSIDERATIONS</B>&rdquo; is hereby amended and supplemented by deleting the first paragraph of the discussion
+set forth under the caption &ldquo;<B>Passive Foreign Investment Company Rules</B>&rdquo; in its entirety and replacing it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;In general, a non-U.S. corporation will be a PFIC for U.S. federal
+income tax purposes for any taxable year in which, after applying certain look-through rules, either (1)&nbsp;at least 75% of its gross
+income is &ldquo;passive income&rdquo; or (2)&nbsp;at least 50% of the average quarterly value of its assets consists of assets that
+produce &ldquo;passive income&rdquo; or are held for the production of &ldquo;passive income.&rdquo; As indicated in the Company&rsquo;s
+annual report on Form&nbsp;20-F for the fiscal year ended December&nbsp;31, 2024, the Company does not believe that it was a PFIC for
+U.S. federal income tax purposes in 2024 and does not anticipate becoming a PFIC in the near future. However, because PFIC status depends
+upon the composition of the Company&rsquo;s income and assets and the market value of the Company&rsquo;s assets (including, among others,
+goodwill and less than 25% owned equity investments) from time to time, there can be no assurance that the Company has not been, or will
+not be, a PFIC for any taxable year.&rdquo;</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">10.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;6 of the Offer to
+Purchase entitled &ldquo;<B>PRICE RANGE OF THE SHARES; DIVIDENDS</B>&rdquo; is hereby amended and supplemented by deleting the third
+paragraph thereof in its entirety and replacing it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;According to the Company&rsquo;s annual report on Form&nbsp;20-F
+for the fiscal year ended December&nbsp;31, 2024, as of April&nbsp;14, 2025, the Company had 8 shareholders of record.&rdquo;</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">11.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;7 of the Offer to
+Purchase entitled &ldquo;<B>CERTAIN INFORMATION CONCERNING THE COMPANY</B>&rdquo; is hereby amended and supplemented by deleting the
+first and second full paragraphs thereof in their entirety and replacing them with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;According to the Company&rsquo;s annual report on Form&nbsp;20-F
+for the fiscal year ended December&nbsp;31, 2024, Performance Shipping Inc. (formerly Diana Containerships Inc.) is a corporation incorporated
+under the laws of the Republic of the Marshall Islands on January&nbsp;7, 2010. It maintains its principal executive offices at 373 Syngrou
+Avenue, 175 64 Palaio Faliro, Athens, Greece. The Company&rsquo;s telephone number at that address is +30 216 600 2400. The Company&rsquo;s
+agent and authorized representative in the United States is its wholly owned subsidiary, established in the State of Delaware in July&nbsp;2014
+under the name Container Carriers (USA) LLC (which name was changed to Performance Shipping USA LLC as of November&nbsp;20, 2020), which
+is located at 2711 Centerville Road, Suite&nbsp;400, Wilmington, Delaware 19808.</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">According to the Company&rsquo;s annual report on Form&nbsp;20-F for the fiscal year ended
+                                                December&nbsp;31, 2024, the Company provides global shipping transportation services through the ownership of tanker vessels. Each
+                                                of its vessels is owned by a separate wholly owned subsidiary. According to the Form&nbsp;6-K filed by the Company with the SEC on
+                                                May&nbsp;27, 2025, as of May&nbsp;26, 2025, the Company&rsquo;s fleet consisted of six &ldquo;operating&rdquo; Aframax tanker
+                                                vessels, with four additional &ldquo;newbuilding&rdquo; LR1 and LR2 tanker vessels expected to be delivered in August&nbsp;2025,
+                                                September&nbsp;2025, the first quarter of 2026, and the first quarter of 2027.</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">According to Exhibit&nbsp;99.1 to Form&nbsp;6-K filed by the
+Company with the SEC on May&nbsp;27, 2025, there were 12,432,158 Common Shares outstanding as of May&nbsp;26, 2025.&rdquo;</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">12.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;8 of the Offer to
+Purchase entitled &ldquo;<B>CERTAIN INFORMATION CONCERNING THE OFFEROR</B>&rdquo; is hereby amended and supplemented by deleting the
+seventh full paragraph thereof in its entirety and replacing it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left"></TD><TD STYLE="text-align: justify">&ldquo;The Offeror, Maryport and Mr.&nbsp;Economou beneficially own,
+in the aggregate, 1,033,859 Common Shares representing approximately 8.3% of the issued and outstanding Shares. The foregoing percentage
+is based upon the 12,432,158 Shares stated by the Company as being outstanding as of May&nbsp;26, 2025 in Exhibit&nbsp;99.1 to Form&nbsp;6-K
+filed by the Company with the SEC on May&nbsp;27, 2025.&rdquo;</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">13.</TD><TD STYLE="text-align: justify">Section&nbsp;10 of the Offer to Purchase entitled &ldquo;<B>BACKGROUND
+OF THE OFFER; PAST CONTACTS OR NEGOTIATIONS WITH THE COMPANY</B>&rdquo; is hereby supplemented by adding the following to the end thereof:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin: 0pt 0; text-align: justify">&ldquo;On July&nbsp;31, 2025, the Offeror filed
+    Amendment No.&nbsp;11 to Schedule TO with respect to the Offer.&rdquo;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">14.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;12 of the Offer to
+Purchase entitled &ldquo;<B>CERTAIN EFFECTS OF THE OFFER</B>&rdquo; is hereby amended and supplemented by:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deleting
+the discussion set forth under the caption &ldquo;<I>MATERIAL CONTRACTS</I>&rdquo; in its entirety and replacing it with the following:</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&ldquo;Certain of the material contracts
+    that the Company has publicly filed with the SEC, including, without limitation, (i)&nbsp;the Guarantee in respect of Hull No.&nbsp;H1596
+    dated March&nbsp;4, 2025, between the Company and Huican (Tianjin) Shipping Leasing Co.,&nbsp;Ltd.; (ii)&nbsp;the Equity Incentive Plan;
+    (iii)&nbsp;the Secured Loan Agreement dated August&nbsp;4, 2023 among Taburao Shipping Company Inc. and Tarawa Shipping Company Inc. as
+    borrowers, the Company as guarantor, the financial institutions listed in Schedule 1 thereto as lenders, Nordea Bank Abp as hedge counterparties
+    and Nordea Bank Abp, filial I Norge as bookrunner, agent, and security agent; (iv)&nbsp;the Loan Agreement dated November&nbsp;1, 2022
+    between Alpha Bank S.A. as lender, and Garu Shipping Company Inc., as borrower; and (v)&nbsp;the Loan Agreement dated December&nbsp;7,
+    2022 between Alpha Bank S.A., as lender, and Arbar Shipping Company Inc., as borrower, contain provisions that may be triggered upon a
+    &ldquo;change of control&rdquo; or &ldquo;change in control&rdquo; of the Company as such terms are defined in the applicable underlying
+    material contracts. The occurrence of a &ldquo;change of control&rdquo; or &ldquo;change in control&rdquo; of the Company may result in
+    an event of default, cross default and/or accelerated obligations under certain of the agreements that govern the outstanding indebtedness
+    of the Company and its subsidiaries. In addition, for purposes of the Equity Incentive Plan, the occurrence of a &ldquo;change in control&rdquo;
+    would result in the vesting of all awards outstanding thereunder. The determination as to whether these provisions are triggered will
+    depend, among other factors, on the number of Shares that are validly tendered in the Offer and the constitution of the Board and the
+    Company&rsquo;s management team. Further, Company contracts that are not publicly filed with the SEC, which have not been made available
+    to us, may also contain provisions that may be triggered upon a &ldquo;change of control&rdquo; or &ldquo;change in control&rdquo; of
+    the Company. We also expect that the Company has or may enter into contracts with other companies controlled or influenced by members
+    if the Paliou family, and if the Offer is successful, it is possible that the Company or such other companies may seek to terminate, cease
+    performing under or determine not to renew any such contracts. We also cannot predict whether a successful Offer would adversely affect
+    any of the Company&rsquo;s other existing or prospective commercial relationships. While the consummation of the Offer may trigger any
+    of the foregoing provisions, the Offer is not conditioned upon obtaining any approvals, consents or waivers with respect to these material
+    contracts. The Offeror believes that the most advantageous course of action would be for the Company to seek to obtain such approvals,
+    consents or waivers. However, if the Company refuses to do so, then the Offeror plans to use its commercially reasonable efforts to negotiate
+    with such third parties (to the extent it is able to do so prior to the consummation of the Offer) and to seek to obtain appropriate financing,
+    refinancing or bridge financing from third parties or from affiliates of the Offeror such that the trigger of these provisions will not
+    be detrimental to the Company.&rdquo;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deleting
+    the discussion set forth under the caption &ldquo;<I>TAXATION</I>&rdquo; in its entirety and replacing it with the following:</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&ldquo;As indicated in the Company&rsquo;s
+    annual report on Form&nbsp;20-F for the fiscal year ended December&nbsp;31, 2024, the Company believes that in 2024 it was exempt from
+    U.S. federal income taxation on its U.S.-source shipping income under Section&nbsp;883 of the Code because it satisfied the &ldquo;50%
+    Ownership Test&rdquo;, as defined therein, including the substantiation and reporting requirements to claim the benefits of the 50% Ownership
+    Test. Because satisfaction of the 50% Ownership Test depends on both the residence of the shareholders of the Company on at least half
+    the number of days in the taxable year and the willingness and ability of those shareholders to cooperate with the Company&rsquo;s compliance
+    with the substantiation and reporting requirements under the 50% Ownership Test, we believe that if the Offer is consummated, it is likely
+    that the Company will be unable to satisfy the 50% Ownership Test in 2026, and, as a result, may be subject to U.S. federal income taxation
+    on its U.S.-source shipping income in 2026.&rdquo;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.5in; text-align: left">15.</TD><TD STYLE="text-align: justify">The information set forth in Section&nbsp;18 of the Offer to
+Purchase entitled &ldquo;<B>LEGAL PROCEEDINGS</B>&rdquo; is hereby amended and supplemented by deleting the penultimate paragraph thereof
+in its entirety and replacing it with the following:</TD>
+</TR></TABLE>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&ldquo;On September&nbsp;27, 2024, the defendants
+    in the RMI Cancellation Proceedings filed motions to dismiss the RMI Cancellation Proceedings. On October&nbsp;25, 2024, the Offeror filed
+    an omnibus opposition memorandum of law in response to such motions. On November&nbsp;15, 2024, the defendants filed reply memoranda of
+    law in further support of their motions to dismiss. As of July&nbsp;31, 2025, the High Court has neither scheduled oral argument nor issued
+    a decision with respect to the motions to dismiss. On July&nbsp;16, 2025, at the request of counsel to the Offeror and counsel to the
+    defendants in the RMI Cancellation Proceedings, the High Court entered an order staying the RMI Cancellation Proceedings pending resolution
+    of the appeal in a separate case captioned Sphinx v. Tsantanis, et. al., Case No.&nbsp;2024-01680 (the &ldquo;Seanergy Case&rdquo;), which
+    is pending before the Supreme Court of the Marshall Islands and may bear upon related legal issues. The Company is not a party to the
+    Seanergy Case.&rdquo;</P>
+ <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 10 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Item 12. Exhibits.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Item 12 of the Schedule TO
+is hereby amended and supplemented by adding the following text thereto:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 10%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit</B></FONT></TD>
+    <TD STYLE="width: 90%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Description&nbsp;</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><A HREF="tm2522059d1_ex99-a1u.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)(1)(U)</FONT></A></TD>
+    <TD STYLE="text-align: justify"><A HREF="tm2522059d1_ex99-a1u.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Press
+    Release issued by Sphinx Investment Corp. on&nbsp;July 31, 2025 (filed herewith).</FONT></A></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 11 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">After due inquiry and to the
+best of my knowledge and belief,&nbsp;I certify that the information set forth in this statement is true, complete and correct.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: July 31, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>SPHINX INVESTMENT CORP.</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: Levante Services Limited </FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 3%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 47%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Kleanthis Costa Spathias</FONT></TD>
+    <TD STYLE="width: 50%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Kleanthis Costa Spathias</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase"><B>MARYPORT NAVIGATION CORP.</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: Levante Services Limited</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>By:</TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Kleanthis Costa Spathias</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Kleanthis Costa Spathias</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase"><B>George Economou</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ George Economou</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">George Economou</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 12 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT&nbsp;INDEX</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 8%; border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Exhibit</B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 2%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 90%; border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Description</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1a.htm"><FONT STYLE="font-size: 10pt">(a)(1)(A)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1a.htm"><FONT STYLE="font-size: 10pt">Offer to Purchase*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1b.htm"><FONT STYLE="font-size: 10pt">(a)(1)(B)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1b.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of Letter of Transmittal*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1c.htm"><FONT STYLE="font-size: 10pt">(a)(1)(C)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1c.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of Notice of Guaranteed Delivery*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1d.htm"><FONT STYLE="font-size: 10pt">(a)(1)(D)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1d.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of Letter to Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1e.htm"><FONT STYLE="font-size: 10pt">(a)(1)(E)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1e.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of Letter to Clients for Use by Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1f.htm"><FONT STYLE="font-size: 10pt">(a)(1)(F)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-99a1f.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of Summary Advertisement as published in the New York Times on October&nbsp;11, 2023 *</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1g.htm"><FONT STYLE="font-size: 10pt">(a)(1)(G)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1g.htm"><FONT STYLE="font-size: 10pt">Amended and Restated Offer to Purchase*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1h.htm"><FONT STYLE="font-size: 10pt">(a)(1)(H)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1h.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of revised Letter of Transmittal*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1i.htm"><FONT STYLE="font-size: 10pt">(a)(1)(I)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1i.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of revised Notice of Guaranteed Delivery*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1j.htm"><FONT STYLE="font-size: 10pt">(a)(1)(J)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1j.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of revised Letter to Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1k.htm"><FONT STYLE="font-size: 10pt">(a)(1)(K)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1k.htm"><FONT STYLE="font-size: 10pt">Form&nbsp;of revised Letter to Clients for Use by Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1l.htm"><FONT STYLE="font-size: 10pt">(a)(1)(L)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112288/tm2329283d1_ex-99a1l.htm"><FONT STYLE="font-size: 10pt">Complaint filed by Sphinx Investment Corp. in the Supreme Court of the State of New York located in the County of New York*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112617/tm2329283d5_ex-99a1m.htm"><FONT STYLE="font-size: 10pt">(a)(1)(M)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923112617/tm2329283d5_ex-99a1m.htm"><FONT STYLE="font-size: 10pt">Press Release issued by Sphinx Investment Corp. on October&nbsp;30, 2023*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923118587/tm2329283d5_ex-99a1n.htm"><FONT STYLE="font-size: 10pt">(a)(1)(N)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923118587/tm2329283d5_ex-99a1n.htm"><FONT STYLE="font-size: 10pt">Press Release issued by Sphinx Investment Corp. on November&nbsp;15, 2023*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923123638/tm2332175d1_ex-99a1o.htm"><FONT STYLE="font-size: 10pt">(a)(1)(O)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923123638/tm2332175d1_ex-99a1o.htm"><FONT STYLE="font-size: 10pt">Supplement to Amended and Restated Offer to Purchase dated December&nbsp;5, 2023*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924038822/tm249776d1_ex99a1p.htm"><FONT STYLE="font-size: 10pt">(a)(1)(P)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924038822/tm249776d1_ex99a1p.htm"><FONT STYLE="font-size: 10pt">Press Release issued by Sphinx Investment Corp. on&nbsp;March&nbsp;26, 2024*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924075527/tm2418378d1_ex99a1q.htm"><FONT STYLE="font-size: 10pt">(a)(1)(Q)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924075527/tm2418378d1_ex99a1q.htm"><FONT STYLE="font-size: 10pt">Press Release issued by Sphinx Investment Corp. on&nbsp;June&nbsp;27, 2024*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924090132/tm2421785d1_ex99a1r.htm"><FONT STYLE="font-size: 10pt">(a)(1)(R)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924090132/tm2421785d1_ex99a1r.htm"><FONT STYLE="font-size: 10pt">Complaint filed by Sphinx Investment Corp. in the High Court of the Republic of the Marshall Islands on August&nbsp;13, 2024 (and stamped by such Court as received on August&nbsp;15, 2024)*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924100540/tm2424097d1_ex99-a1s.htm"><FONT STYLE="font-size: 10pt">(a)(1)(S)</FONT></A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465924100540/tm2424097d1_ex99-a1s.htm"><FONT STYLE="font-size: 10pt">Press Release issued by Sphinx Investment Corp. on&nbsp;September&nbsp;17, 2024*</FONT></A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465925009708/tm255560d1_ex99-a1t.htm" STYLE="-sec-extract: exhibit">(a)(1)(T)</A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465925009708/tm255560d1_ex99-a1t.htm" STYLE="-sec-extract: exhibit">Press Release issued by Sphinx Investment Corp. on February 5, 2025*</A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><A HREF="tm2522059d1_ex99-a1u.htm">(a)(1)(U)</A></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><A HREF="tm2522059d1_ex99-a1u.htm">Press Release Issued by Sphinx Investment Corp. on July 31, 2025**</A></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">(b)</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-size: 10pt">Not applicable.</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">(d)</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-size: 10pt">Not applicable.</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">(g)</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Not applicable.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">(h)</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Not applicable.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-filingfees.htm"><FONT STYLE="font-size: 10pt">107</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="https://www.sec.gov/Archives/edgar/data/1481241/000110465923108454/tm2328104d2_ex-filingfees.htm"><FONT STYLE="font-size: 10pt">Filing Fee Table*</FONT></A></TD></TR>
+  </TABLE><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">* &nbsp;&nbsp;Previously filed</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">** Filed herewith</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 13; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.(A)(1)(U)
+<SEQUENCE>2
+<FILENAME>tm2522059d1_ex99-a1u.htm
+<DESCRIPTION>EXHIBIT (A)(1)(U)
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit&nbsp;(a)(1)(U)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt; background-color: white">SPHINX INVESTMENT CORP. ANNOUNCES EXTENSION
+OF TENDER OFFER TO PURCHASE ALL OUTSTANDING COMMON SHARES AND ASSOCIATED RIGHTS OF PERFORMANCE SHIPPING INC.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">NEW YORK, July&nbsp;31,
+2025 /PRNewswire/ -- Sphinx Investment Corp. (&ldquo;<U>Sphinx</U>&rdquo;) today announced that it has extended the expiration date of
+its previously announced offer to purchase all of the issued and outstanding common shares, par value $0.01 per share (the &ldquo;<U>Common
+Shares</U>&rdquo;), of Performance Shipping Inc. (&ldquo;<U>Performance</U>&rdquo;) (including the associated preferred stock purchase
+rights (the &ldquo;<U>Rights</U>&rdquo;, and together with the Common Shares, the &ldquo;<U>Shares</U>&rdquo;) for $3.00 per Share in
+cash, without interest, less any applicable withholding taxes (the &ldquo;<U>Offer</U>&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white"><B>The expiration date
+of the Offer has been extended to 11:59 p.m., New York City time, on February&nbsp;13, 2026.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Continental Stock
+Transfer&nbsp;&amp; Trust Company, the tender offer agent for the Offer, has advised Sphinx that as of 5:00 p.m., New York City
+time, on July&nbsp;30, 2025, the last business day prior to the announcement of the extension of the Offer, 2,152,961 Shares had
+been validly tendered into the Offer and not validly withdrawn.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">The Offer is being made
+pursuant to the terms and conditions described in the Amended and Restated Offer to Purchase dated October&nbsp;30, 2023, as amended and
+supplemented by the Supplement to the Amended and Restated Offer to Purchase dated December&nbsp;5, 2023, and as may be further amended
+from time to time (collectively, the &ldquo;Offer to Purchase&rdquo;), the related revised Letter of Transmittal (the &quot;Letter of
+Transmittal&quot;), the related revised Notice of Guaranteed Delivery (the &ldquo;Notice of Guaranteed Delivery&rdquo;), and certain other
+Offer documents, copies of which are attached to the Tender Offer Statement on Schedule TO originally filed by Sphinx, Maryport Navigation
+Corp. and Mr.&nbsp;George Economou with the United States Securities and Exchange Commission (the &ldquo;<U>SEC</U>&rdquo;) on October&nbsp;11,
+2023, as amended and as may be further amended from time to time. Consummation of the Offer continues to be subject to satisfaction or
+waiver of all of the conditions referred to in Section&nbsp;14 &mdash; &quot;Conditions of the Offer&quot; of the Offer to Purchase.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">The Information Agent
+for the Offer is Innisfree M&amp;A Incorporated. The Offer materials may be obtained at no charge by calling Innisfree toll free at (877)
+800-5190, and may also be obtained at no charge at the website maintained by the SEC at www.sec.gov.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white"><B><U>Additional Information
+about the Offer and Where to Find It</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">The tender offer referenced
+herein commenced on October&nbsp;11, 2023. This press release is neither an offer to purchase nor a solicitation of an offer to sell any
+Shares or any other securities, nor is it a substitute for the tender offer materials attached to the Tender Offer Statement on Schedule
+TO filed by Sphinx, Maryport Navigation Corp. and Mr.&nbsp;George Economou with the SEC on Schedule TO on October&nbsp;11, 2023 and amended
+pursuant to Amendment No.&nbsp;1 and Amendment No.&nbsp;2 thereto on October&nbsp;30, 2023, Amendment No.&nbsp;3 thereto on November&nbsp;15,
+2023, Amendment No.&nbsp;4 thereto on December&nbsp;5, 2023, Amendment No.&nbsp;5 thereto on March&nbsp;26, 2024, Amendment No.&nbsp;6
+thereto on June&nbsp;27, 2024, Amendment No.&nbsp;7 thereto on August&nbsp;15, 2024, Amendment No.&nbsp;8 thereto on September&nbsp;17,
+2024, Amendment No.&nbsp;9 thereto on December&nbsp;12, 2024, and Amendment No.&nbsp;10 thereto on February&nbsp;5, 2025 (including the
+Offer to Purchase, the Letter of Transmittal and the Notice of Guaranteed Delivery) (the &ldquo;<U>Tender Offer Materials</U>&rdquo;).
+A solicitation and offer to purchase outstanding Shares is only being made pursuant to the Tender Offer Materials. Performance filed a
+Solicitation/Recommendation Statement on Schedule 14D-9 with respect to the Offer with the SEC on October&nbsp;25, 2023, and amended the
+same by Amendment No.&nbsp;1 thereto filed by Performance with the SEC on November&nbsp;6, 2023, Amendment No.&nbsp;2 thereto filed by
+Performance with the SEC on November&nbsp;14, 2023, Amendment No.&nbsp;3 thereto filed by Performance with the SEC on November&nbsp;15,
+2023, Amendment No.&nbsp;4 thereto filed by Performance with the SEC on November&nbsp;30, 2023, and Amendment No.&nbsp;5 thereto filed
+by Performance with the SEC on December&nbsp;20, 2023 (the &ldquo;<U>Solicitation/Recommendation Statement</U>&rdquo;). <FONT STYLE="text-transform: uppercase">INVESTORS
+AND PERFORMANCE SHAREHOLDERS ARE STRONGLY ADVISED TO READ THE TENDER OFFER MATERIALS (INCLUDING THE OFFER to Purchase, the Letter of Transmittal
+and the Notice of Guaranteed Delivery) </FONT>AND THE SOLICITATION/RECOMMENDATION STATEMENT, AS EACH MAY&nbsp;BE AMENDED OR SUPPLEMENTED
+FR<FONT STYLE="text-transform: uppercase">OM TIME TO TIME, BECAUSE THEY CONTAIN IMPORTANT INFORMATION THAT SHOULD BE CONSIDERED BY INVESTORS
+AND Performance shareholders BEFORE MAKING ANY DECISION WITH RESPECT TO THE OFFER. </FONT>The Tender Offer Materials may be obtained at
+no charge at the website maintained by the Securities and Exchange Commission at <U>www.sec.gov</U>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><U>Important Cautions Regarding Forward-Looking Statements</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Certain statements contained
+in this press release are forward-looking statements, including, but not limited to, statements that are predications of or indicate future
+events, trends, plans or objectives. These statements, which sometimes use words such as &quot;anticipate,&quot; &quot;believe,&quot;
+ &quot;intend,&quot; &quot;estimate,&quot; &quot;expect,&quot; &quot;project,&quot; &quot;strategy,&quot; &quot;opportunity,&quot; &quot;future,&quot;
+ &quot;plan,&quot; &quot;will likely result,&quot; &quot;will,&quot; &quot;shall,&quot; &quot;may,&quot; &quot;aim,&quot; &quot;predict,&quot;
+ &quot;should,&quot; &quot;would,&quot; &quot;continue,&quot; and words of similar meaning and/or other similar expressions that are predictions
+of or indicate future events and/or future trends, reflect the beliefs and expectations of the applicable of the Offeror, Maryport and
+Mr.&nbsp;George Economou at the date of this press release and involve a number of risks, uncertainties and assumptions that could cause
+actual results and performance to differ materially from any expected future results or performance expressed or implied by the forward-looking
+statement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><B><U>About Sphinx</U>:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Sphinx Investment Corp.
+is a corporation organized under the laws of the Republic of the Marshall Islands. The principal business of the Sphinx is the making
+of investments in securities. Sphinx is controlled by Mr.&nbsp;George Economou.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Media Contact:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Innisfree M&amp;A Incorporated</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Jonathan Kovacs / Arthur Crozier / Scott
+Winter</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">jkovacs@innisfreema.com; acrozier@innisfreema.com;
+swinter@innisfreema.com</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">212-750-5833</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">SOURCE Sphinx Investment Corp</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

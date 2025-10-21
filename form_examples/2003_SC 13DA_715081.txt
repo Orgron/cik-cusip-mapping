@@ -1,0 +1,2279 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F9hXQCFjacbpjeojuy3Q4BG+1FZ9xfSdC/R5x+q0ttq8msa3QZyWG2ShCH25b01N
+ nE24t8Exx4KfOARBtpUG0g==
+
+<SEC-DOCUMENT>0001104659-03-012334.txt : 20030616
+<SEC-HEADER>0001104659-03-012334.hdr.sgml : 20030616
+<ACCEPTANCE-DATETIME>20030616104123
+ACCESSION NUMBER:		0001104659-03-012334
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20030616
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UPBANCORP INC
+		CENTRAL INDEX KEY:			0000715081
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				363207297
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-34292
+		FILM NUMBER:		03744752
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4753 N BROADWAY
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60640
+		BUSINESS PHONE:		3128782000
+
+	MAIL ADDRESS:	
+		STREET 1:		4753 N BROADWAY
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60640
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EDWARDS STEPHEN W
+		CENTRAL INDEX KEY:			0001144522
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		61 BRIAR ROAD
+		CITY:			GOLF
+		STATE:			IL
+		ZIP:			60029
+		BUSINESS PHONE:		8474131616
+
+	MAIL ADDRESS:	
+		STREET 1:		61 BRIAR ROAD
+		CITY:			GOLF
+		STATE:			IL
+		ZIP:			60029
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>j1894_sc13da.htm
+<DESCRIPTION>SC 13D/A
+<TEXT>
+<html>
+
+
+
+<head>
+
+
+
+<title>  </title>
+
+
+
+</head>
+
+
+
+<body bgcolor="white">
+
+
+
+<div style="font-family:'Times New Roman';">
+
+
+
+<table border="1" cellpadding="0" width="100%" style="border-bottom:solid windowtext .5pt;border-left:none;border-right:none;border-top:solid windowtext .5pt;width:100.0%;">
+
+ <tr>
+
+  <td width="10%" style="border:none;padding:.75pt .75pt .75pt .75pt;width:10.02%;">
+
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">SEC
+
+  1746<br>
+
+  (11-02)</font></p>
+
+  </td>
+
+  <td width="89%" style="border:none;padding:.75pt .75pt .75pt .75pt;width:89.14%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;"><br>
+
+  Potential persons who are to respond to the collection of information
+
+  contained in this form are not required to respond unless the form displays a
+
+  currently valid OMB control number.<br><br></font></b></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+
+ <tr>
+
+  <td width="20%" valign="top" style="padding:0in .7pt .7pt .7pt;width:20.0%;">
+
+  <p align="center" style="font-size:1.0pt;margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="64%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in .7pt .7pt .7pt;width:64.58%;">
+
+  <p align="center" style="margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+
+  </td>
+
+  <td width="15%" valign="bottom" style="border:solid windowtext 1.0pt;border-left:none;padding:0in .7pt .7pt .7pt;width:15.42%;">
+
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">OMB APPROVAL</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="20%" valign="top" style="padding:0in .7pt .7pt .7pt;width:20.0%;">
+
+  <p align="center" style="font-size:1.0pt;margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="64%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in .7pt .7pt .7pt;width:64.58%;">
+
+  <p align="center" style="margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE<br>
+
+  COMMISSION</font></b></p>
+
+  </td>
+
+  <td width="15%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in .7pt .7pt .7pt;width:15.42%;">
+
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">OMB Number: <br>
+
+  3235-0145</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="20%" valign="top" style="padding:0in .7pt .7pt .7pt;width:20.0%;">
+
+  <p align="center" style="font-size:1.0pt;margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="64%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in .7pt .7pt .7pt;width:64.58%;">
+
+  <p align="center" style="margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Washington,
+
+  D.C. 20549</font></p>
+
+  </td>
+
+  <td width="15%" valign="bottom" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in .7pt .7pt .7pt;width:15.42%;">
+
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Expires: December 31, 2005</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="20%" valign="top" style="padding:0in .7pt .7pt .7pt;width:20.0%;">
+
+  <p align="center" style="font-size:1.0pt;margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="64%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in .7pt .7pt .7pt;width:64.58%;">
+
+  <p align="center" style="margin:0in 0in .0001pt 10.0pt;text-align:center;text-indent:-10.0pt;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SCHEDULE
+
+  13D<br>
+
+  </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">(Rule 13d-101)</font></b></p>
+
+  </td>
+
+  <td width="15%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in .7pt .7pt .7pt;width:15.42%;">
+
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Estimated average burden hours per response. . 11</font></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<h4 align="center" style="font-weight:bold;margin-left:0in;margin-right:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">INFORMATION TO BE INCLUDED IN STATEMENTS
+
+FILED PURSUANT TO<br>
+
+RULE 13d-I (a) AND AMENDMENTS THERETO FILED PURSUANT TO<br>
+
+RULE 13d-2(a)</font></b></h4>
+
+
+
+<h4 align="center" style="font-size:12.0pt;font-weight:bold;margin-left:0in;margin-right:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Under the Securities Exchange Act of 1934 </font><br>
+
+</b><font size="2" style="font-size:10.0pt;">(Amendment No.&#160;
+
+1)*</font></h4>
+
+
+
+<div style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 1.0pt 0in;">
+
+
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Upbancorp, Inc.</font></b></p>
+
+
+
+</div>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name
+
+of Issuer)</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<div style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;">
+
+
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Common Stock</font></b></p>
+
+
+
+</div>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Title
+
+of Class of Securities)</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<div style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;">
+
+
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">915298103</font></b></p>
+
+
+
+</div>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(CUSIP
+
+Number)</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<div style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;">
+
+
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Stephen W. Edwards, 61 Briar Road, Golf, Illinois
+
+60029-0028 (847) 413-1616</font></b></p>
+
+
+
+</div>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name,
+
+Address and Telephone Number of Person<br>
+
+Authorized to Receive Notices and Communications)</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<div style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;">
+
+
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">June 12, 2003</font></b></p>
+
+
+
+</div>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Date
+
+of Event which Requires Filing of this Statement)<br><br></font></p>
+
+
+
+<p style="margin:0in .5in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If the filing person has
+
+previously filed a statement on Schedule 13G to report the acquisition that is
+
+the subject of this Schedule 13D, and is filing this schedule because of
+
+&#167;&#167;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box. [&#160;&#160;&#160;&#160; ]</font></p>
+
+
+
+<p style="margin-left:.5in;margin-right:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Note</font></b><font size="2" style="font-size:10.0pt;">: Schedules filed in paper format shall
+
+include a signed original and five copies of the schedule, including all
+
+exhibits. See &#167;240.13d-7 for other parties to whom copies are to be sent. </font></p>
+
+
+
+<p style="margin-left:.5in;margin-right:.5in;"><sup><font size="2" face="Times New Roman" style="font-size:10.0pt;">*</font></sup><font size="2" style="font-size:10.0pt;"> The remainder
+
+of this cover page shall be filled out for a reporting person&#146;s initial filing
+
+on this form with respect to the subject class of securities, and for any
+
+subsequent amendment containing information which would alter disclosures
+
+provided in a prior cover page. </font></p>
+
+
+
+<p style="margin:0in .5in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The information required on
+
+the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the
+
+purpose of Section 18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or
+
+otherwise subject to the liabilities of that section of the Act but shall be
+
+subject to all other provisions of the Act (however, see the Notes).</font></p>
+
+
+
+<p align="center" style="margin:0in .5in .0001pt 0in;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in .5in .0001pt 0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Continued
+
+on following pages)</font></p>
+
+
+
+<p align="center" style="margin:0in .5in .0001pt 0in;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='',FILE='C:\C2\mvangb\1894_4\t_1630757\j1894_sc13da.htm',USER='mvangb',CD='Jun 13 14:26 2003' -->
+<br clear="all" style="page-break-before:always;">
+
+</font>
+
+
+
+<p align="center" style="font-size:12.0pt;margin:0in 0in .0001pt;text-align:center;">&nbsp;</p>
+
+
+
+<div align="center">
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;">
+
+ <tr>
+
+  <td width="100%" colspan="6" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">CUSIP
+
+  No.&#160; </font></b><font size="2" style="font-size:10.0pt;">&#160;915298103 </font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Names of
+
+  Reporting Persons. I.R.S. Identification Nos. of above persons (entities
+
+  only).</font></b><font size="2" style="font-size:10.0pt;"><br>
+
+  STEPHEN W. EDWARDS</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Check the
+
+  Appropriate Box if a Member of a Group (See Instructions)</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="8%" colspan="3" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.36%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(a)</font></b></p>
+
+  </td>
+
+  <td width="82%" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:82.74%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;[&#160;&#160;&#160; ]</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin-left:0in;margin-right:0in;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="font-size:1.0pt;margin-left:0in;margin-right:0in;">&nbsp;</p>
+
+  </td>
+
+  <td width="8%" colspan="3" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.36%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(b)</font></b></p>
+
+  </td>
+
+  <td width="82%" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:82.74%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;[&#160;&#160;&#160; ]</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">3.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SEC Use
+
+  Only </font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">4.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Source of
+
+  Funds (See Instructions)<br>
+
+  </font></b><font size="2" style="font-size:10.0pt;">N/A</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">5.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Check if Disclosure of Legal
+
+  Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#160; </font></b><font size="2" style="font-size:10.0pt;">&#160;&#160;[&#160;&#160;&#160; ]</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">6.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Citizenship or Place of
+
+  Organization<br>
+
+  </font></b><font size="2" style="font-size:10.0pt;">U.S.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;text-indent:.7in;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="12%" colspan="3" rowspan="7" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:12.04%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Number of<br>
+
+  Shares<br>
+
+  Beneficially<br>
+
+  Owned by<br>
+
+  Each<br>
+
+  Reporting<br>
+
+  Person With</font></b></p>
+
+  </td>
+
+  <td width="4%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:4.46%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">7.</font></b></p>
+
+  </td>
+
+  <td width="83%" colspan="2" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:83.5%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Sole
+
+  Voting Power <br>
+
+  </font></b><font size="2" style="font-size:10.0pt;">-0-</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="87%" colspan="3" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:87.96%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="4%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:4.46%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">8.</font></b></p>
+
+  </td>
+
+  <td width="83%" colspan="2" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:83.5%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Shared
+
+  Voting Power</font></b><font size="2" style="font-size:10.0pt;">  <br>
+
+  -0-</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="87%" colspan="3" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:87.96%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="4%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:4.46%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">9.</font></b></p>
+
+  </td>
+
+  <td width="83%" colspan="2" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:83.5%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Sole
+
+  Dispositive Power</font></b><font size="2" style="font-size:10.0pt;">  <br>
+
+  -0-</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="87%" colspan="3" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:87.96%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="4%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:4.46%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">10.</font></b></p>
+
+  </td>
+
+  <td width="83%" colspan="2" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:83.5%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Shared Dispositive Power</font></b><font size="2" style="font-size:10.0pt;">  <br>
+
+  -0-</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">11.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Aggregate
+
+  Amount Beneficially Owned by Each Reporting Person</font></b><font size="2" style="font-size:10.0pt;">  <br>
+
+  -0-</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">12.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Check if
+
+  the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions)</font></b><font size="2" style="font-size:10.0pt;">&#160;&#160; [&#160;&#160;&#160;
+
+  ]</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">13.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Percent
+
+  of Class Represented by Amount in Row (11)</font></b><font size="2" style="font-size:10.0pt;">  <br>
+
+  -0-%</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="6" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="3%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:3.32%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="5%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:5.58%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">14.</font></b></p>
+
+  </td>
+
+  <td width="91%" colspan="4" style="border:none;border-bottom:solid windowtext .5pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Type of
+
+  Reporting Person (See Instructions)</font></b><font size="2" style="font-size:10.0pt;"><br>
+
+  IN</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr height="0">
+
+  <td width="24" style="border:none;"></td>
+
+  <td width="41" style="border:none;"></td>
+
+  <td width="23" style="border:none;"></td>
+
+  <td width="33" style="border:none;"></td>
+
+  <td width="6" style="border:none;"></td>
+
+  <td width="604" style="border:none;"></td>
+
+ </tr>
+
+</table>
+
+
+
+</div>
+
+
+
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='2',FILE='C:\C2\mvangb\1894_4\t_1630757\j1894_sc13da.htm',USER='mvangb',CD='Jun 13 14:26 2003' -->
+<br clear="all" style="page-break-before:always;">
+
+</font>
+
+
+
+<p align="center" style="font-size:12.0pt;margin:0in 0in .0001pt;text-align:center;">&nbsp;</p>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;">
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Security and Issuer</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">State
+
+  the title of the class of equity securities to which this statement relates
+
+  and the name and address of the principal executive offices of the issuer of
+
+  such securities.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Common Stock<br>
+
+  Upbancorp, Inc.<br>
+
+  4753 North Broadway<br>
+
+  Chicago, IL 60640</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt .5in;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 2.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Identity and Background</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If
+
+  the person filing this statement or any person enumerated in Instruction C of
+
+  this statement is a corporation, general partnership, limited partnership,
+
+  syndicate or other group of persons, state its name, the state or other place
+
+  of its organization, its principal business, the address of its principal
+
+  business, the address of its principal office and the information required by
+
+  (d) and (e) of this item. If the person filing this statement or any person enumerated
+
+  in Instruction C is a natural person, provide the information specified in
+
+  (a) through (f) of this item with respect to such person (s).</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt 1.0in;text-indent:-38.9pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Name;<br>
+
+  <br>
+
+  Stephen W. Edwards</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt 1.0in;text-indent:-38.9pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Residence or business
+
+  address;<br>
+
+  <br>
+
+  61 Briar Road, Golf, Illinois 60029-0028</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Present
+
+  principal occupation or employment and the name, principal business and
+
+  address of any corporation or other organization in which such employment is
+
+  conducted;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Consultant, Planned
+
+  Futures, Inc. and a director of the Issuer.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Whether or
+
+  not during the last five years, such person has been convicted in a criminal
+
+  proceeding (excluding traffic violations or similar misdemeanors) and, if so,
+
+  give the dates, nature of conviction, name and location of court, any penalty
+
+  imposed, or other disposition of the case;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(e)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Whether or
+
+  not, during the last five years, such person was a party to a civil
+
+  proceeding of a judicial or administrative body of competent jurisdiction and
+
+  as a result of such proceeding was or is subject to a judgment, decree or
+
+  final order enjoining future violations of, or prohibiting or mandating
+
+  activities subject to, Federal or State securities laws or finding any
+
+  violation with respect to such laws; and, if so, identify and describe such
+
+  proceedings and summarize the terms of such judgment, decree or final order;
+
+  and</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A.</font></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='3',FILE='C:\C2\mvangb\1894_4\t_1630757\j1894_sc13da.htm',USER='mvangb',CD='Jun 13 14:26 2003' -->
+<br clear="all" style="page-break-before:always;">
+
+</font>
+
+
+
+<p align="center" style="font-size:12.0pt;margin:0in 0in .0001pt;text-align:center;">&nbsp;</p>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;">
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt 1.0in;text-indent:-38.9pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(f)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Citizenship.<br>
+
+  <br>
+
+  U.S.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-38.9pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 3.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Source and Amount of Funds or
+
+  Other Consideration</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">State
+
+  the source and the amount of funds or other consideration used or to be used
+
+  in making the purchases, and if any part of the purchase price is or will be
+
+  represented by funds or other&#160;
+
+  consideration borrowed or otherwise obtained for the purpose of
+
+  acquiring, holding, trading or voting the securities, a description of the
+
+  transaction and the names of the parties thereto.&#160; Where material, such information should also be provided with
+
+  respect to prior acquisitions not previously reported pursuant to this
+
+  regulation. If the source of all or any part of the funds is a loan made in
+
+  the ordinary course of business by a bank, as defined in Section 3 (a) (6) of
+
+  the Act, the name of the bank shall not be made available to the public if
+
+  the person at the time of filing the statement so requests in writing and
+
+  files such request, naming such bank, with the Secretary of the Commission.
+
+  If the securities were acquired other than by purchase, describe the method
+
+  of acquisition.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A.&#160; See response to Item 5(e).</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;text-indent:.5in;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 4.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Purpose of Transaction</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">State
+
+  the purpose or purposes of the acquisition of securities of the issuer.
+
+  Describe any plans or proposals which the reporting persons may have which
+
+  relate to or would result in:</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The acquisition by any person of
+
+  additional securities of the issuer, or the disposition of securities of the
+
+  issuer,</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; An extraordinary corporate transaction, such as a
+
+  merger, reorganization or liquidation, involving the issuer or any of its
+
+  subsidiaries;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A sale or transfer of a material amount of assets of the
+
+  issuer or of any of its subsidiaries;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Any change in the present board of directors or
+
+  management of the issuer, including any plans or proposals to change the
+
+  number or term of directors or to fill any existing vacancies on the board;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(e)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Any material change in the present capitalization or
+
+  dividend policy of the issuer;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(f)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Any other material change in the issuer&#146;s business or
+
+  corporate structure, including but not limited to, if the issuer is a
+
+  registered closed-end investment company, any plans or proposals to make any
+
+  changes in its investment policy for which a vote is required by Section 13
+
+  of the Investment Company Act of 1940;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(g)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Changes in the issuer&#146;s charter, bylaws or instruments
+
+  corresponding thereto or other actions which may impede the acquisition of
+
+  control of the issuer by any person;</font></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='4',FILE='C:\C2\mvangb\1894_4\t_1630757\j1894_sc13da.htm',USER='mvangb',CD='Jun 13 14:26 2003' -->
+<br clear="all" style="page-break-before:always;">
+
+</font>
+
+
+
+<p align="center" style="font-size:12.0pt;margin:0in 0in .0001pt;text-align:center;">&nbsp;</p>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;">
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(h)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Causing a class of securities of the issuer to be
+
+  delisted from a national securities exchange or to cease to be authorized to
+
+  be quoted in an inter-dealer quotation system of a registered national
+
+  securities association;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A class of equity securities of the issuer becoming
+
+  eligible for termination of&#160;
+
+  registration pursuant to Section 12 (g) (4) of the Act; or</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(j)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Any action similar to any of those enumerated above.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A.&#160; See response to Item 5(e).</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="font-size:12.0pt;margin-left:0in;margin-right:0in;">&nbsp;</p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="font-size:12.0pt;margin-left:19.45pt;margin-right:0in;text-indent:-19.45pt;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 5.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Interest in Securities of the
+
+  Issuer</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; State the aggregate number and
+
+  percentage of the class of securities identified pursuant to Item 1 (which
+
+  may be based on the number of securities outstanding as contained in the most
+
+  recently available filing with the Commission by the issuer unless the filing
+
+  person has reason to believe such information is not current) beneficially
+
+  owned (identifying those shares which there is a right to acquire) by each
+
+  person named in item 2.&#160; The above
+
+  mentioned information should also be furnished with respect to persons who,
+
+  together with any of the persons named in Item 2, comprise a group within the
+
+  meaning of Section 13 (d) (3) of the Act;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">- 0 -</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; For each person named in response to paragraph (a),
+
+  indicate the number of shares as to which there is sole power to vote or to
+
+  direct the vote, shared power to vote or to direct the vote, sole or shared
+
+  power to dispose or to direct the disposition. Provide the applicable
+
+  information required by Item 2 with respect to each person with whom the
+
+  power to vote or to direct the vote or to dispose or direct the disposition
+
+  is shared;</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; sole power to vote - See Page 2, Row 7</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(ii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; shared power to vote - See Page 2,
+
+  Row 8</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(iii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; sole power to dispose or to direct
+
+  the disposition - See Page 2, Row 9</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(iv)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; shared power to dispose or to direct
+
+  the disposition- See Page 2, Row 10.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Describe any transactions in the
+
+  class of securities reported on that were effected during the past 60 days or
+
+  since the most recent filing on Schedule 13D, whichever is less, by the
+
+  persons named in response to paragraph (a).</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">See response to Item 5(e).</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; If any other person is known to have the right to
+
+  receive or the power to direct the receipt of dividends from, or the proceeds
+
+  from the sale of, such securities, a statement to that effect should be
+
+  included in response to this item and, if such interest relates to more than
+
+  five percent of the class, such person should be identified. A listing of the
+
+  shareholders of an</font></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='5',FILE='C:\C2\mvangb\1894_4\t_1630757\j1894_sc13da.htm',USER='mvangb',CD='Jun 13 14:26 2003' -->
+<br clear="all" style="page-break-before:always;">
+
+</font>
+
+
+
+<p align="center" style="font-size:12.0pt;margin:0in 0in .0001pt;text-align:center;">&nbsp;</p>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;">
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">investment company registered under the Investment
+
+  Company Act of 1940 or the beneficiaries of an employee benefit plan, pension
+
+  fund or endowment fund is not required.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:0in;margin-right:0in;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">See response to Item 5(e).</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(e)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; If applicable, state the date on
+
+  which the reporting person ceased to be the beneficial owner of more than
+
+  five percent of the class of securities.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin-left:1.0in;margin-right:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On June 12, 2003, the
+
+  Issuer was acquired by Bridgeview Bancorp, Inc. in a cash merger.&#160; The shareholders of the Issuer received
+
+  cash for their shares of Issuer common stock upon the consummation of the
+
+  merger.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin-left:0in;margin-right:0in;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" valign="top" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 6.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Contracts, Arrangements,
+
+  Understandings or Relationships with Respect to Securities of the Issuer</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Describe
+
+  any contracts, arrangements, understandings or relationships (legal or
+
+  otherwise) among the persons named in Item 2 and between such persons and any
+
+  person with respect to any securities of the issuer, including but not
+
+  limited to transfer or voting of any of the securities, finders fees, joint
+
+  ventures, loan or option arrangements, puts or calls, guarantees of profits,
+
+  division of profits or loss, or the giving or withholding of proxies, naming
+
+  the persons with whom such contracts, arrangements, understandings or
+
+  relationships have been entered into. Include such information for any of the
+
+  securities that are pledged or otherwise subject to a contingency the
+
+  occurrence of which would give another person voting power or investment
+
+  power over such securities except that disclosure of standard default and
+
+  similar provisions contained in loan agreements need not be included.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="font-size:12.0pt;margin:0in 0in .0001pt;text-indent:.5in;">&nbsp;</p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="8%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:8.9%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 7.</font></b></p>
+
+  </td>
+
+  <td width="91%" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:91.1%;">
+
+  <p style="margin-left:0in;margin-right:0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Material to Be Filed as Exhibits</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The
+
+  following shall be filed as exhibits: copies of written agreements relating
+
+  to the filing of joint acquisition statements as required by Rule 13d-1(k)
+
+  and copies of all written agreements, contracts, arrangements,
+
+  understandings, plans or proposals relating to: (1) the borrowing of funds to
+
+  finance the acquisition as disclosed in Item 3; (2) the acquisition of issuer
+
+  control, liquidation, sale of assets, merger, or change in business or
+
+  corporate structure or any other matter as disclosed in Item 4; and (3) the
+
+  transfer or voting of the securities, finders fees, joint ventures, options,
+
+  puts, calls, guarantees of loans, guarantees against losses or the giving or
+
+  withholding of any proxy as disclosed in Item 6.</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="100%" colspan="2" style="padding:3.0pt 3.0pt 3.0pt 3.0pt;width:100.0%;">
+
+  <p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A.</font></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='6',FILE='C:\C2\mvangb\1894_4\t_1630757\j1894_sc13da.htm',USER='mvangb',CD='Jun 13 14:26 2003' -->
+<br clear="all" style="page-break-before:always;">
+
+</font>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+
+
+
+<h3 align="center" style="font-weight:bold;margin-left:0in;margin-right:0in;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:13.5pt;">Signature</font></b></h3>
+
+
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">After
+
+reasonable inquiry and to the best of my knowledge and belief, I certify that
+
+the information set forth in this statement is true, complete and correct. </font></p>
+
+
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;">
+
+ <tr>
+
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="50%" valign="bottom" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <div style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 1.0pt 0in;">
+
+  <p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">June 12, 2003</font></p>
+
+  </div>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="50%" valign="bottom" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Date</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="50%" valign="bottom" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><br>
+
+  /s/&#160; Stephen W. Edwards</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p style="font-size:1.0pt;margin-left:0in;margin-right:0in;">&nbsp;</p>
+
+  </td>
+
+  <td width="50%" valign="bottom" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p align="center" style="margin-left:0in;margin-right:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Signature</font></b></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="50%" valign="bottom" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><br>
+
+  Stephen W. Edwards</font></p>
+
+  </td>
+
+ </tr>
+
+ <tr>
+
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+  </td>
+
+  <td width="50%" valign="bottom" style="padding:0in 0in 0in 0in;width:50.0%;">
+
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Name/Title</font></b></p>
+
+  </td>
+
+ </tr>
+
+</table>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7</font></p>
+
+
+
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+
+
+</font></div>
+
+
+
+</div>
+
+
+
+</body>
+
+
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

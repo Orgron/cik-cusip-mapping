@@ -1,0 +1,562 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ct4Zt5pgVU4y3x0hxb7/eFG3cYrB9qT7CgZrAjCuxx61Kph+veifdnlXaZY5+z8X
+ LaME9g2GsjxlExX5cgdnzQ==
+
+<SEC-DOCUMENT>0000950152-00-002768.txt : 20000411
+<SEC-HEADER>0000950152-00-002768.hdr.sgml : 20000411
+ACCESSION NUMBER:		0000950152-00-002768
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20000410
+GROUP MEMBERS:		MAURER ROSS & CO., INCORPORATED
+GROUP MEMBERS:		MR & ASSOCIATES
+GROUP MEMBERS:		RICHARD M. MAURUER
+GROUP MEMBERS:		ROBERT L. ROSS
+GROUP MEMBERS:		WESMAR PARTNERS L P
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			S2 GOLF INC
+		CENTRAL INDEX KEY:			0000782126
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3949]
+		IRS NUMBER:				222388568
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-37060
+		FILM NUMBER:		596835
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18 GLORIA LN
+		CITY:			FAIRFIELD
+		STATE:			NJ
+		ZIP:			07004
+		BUSINESS PHONE:		2012277783
+
+	MAIL ADDRESS:	
+		STREET 1:		18 GLORIA LANE
+		STREET 2:		18 GLORIA LANE
+		CITY:			FAIRFIELD
+		STATE:			NJ
+		ZIP:			07004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLF TECHNOLOGY INC
+		DATE OF NAME CHANGE:	19880804
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESMAR PARTNERS L P
+		CENTRAL INDEX KEY:			0001053875
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		THREE GATEWAY CTR
+		STREET 2:		STE 16 SOUTH
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+		BUSINESS PHONE:		4123922350
+
+	MAIL ADDRESS:	
+		STREET 1:		THREE GATEWAY CTR
+		STREET 2:		STE 16 SOUTH
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>S2 GOLF INC./WESMAR PARTNERS L.P.  AMD#8 SC 13D/A
+<TEXT>
+
+<PAGE>   1
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  Schedule 13D
+                    Under the Securities Exchange Act of 1934
+                                (Amendment No. 8)
+
+
+
+                                  S2 Golf Inc.
+                                (Name of Issuer)
+
+
+                     Common Stock, par value $0.01 per share
+                         (Title of Class of Securities)
+
+
+                                   784850 10 9
+                                 (CUSIP Number)
+
+
+                                Richard M. Maurer
+                         Maurer Ross & Co., Incorporated
+                                 Suite 16 South
+                              Three Gateway Center
+                         Pittsburgh, Pennsylvania 15222
+                                 (412) 392-2350
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+
+                                  March 9, 2000
+             (Date of Event which Requires Filing of this Statement)
+
+
+    If the filing person has previously filed a statement on Schedule 13G to
+    report the acquisition which is the subject of this Schedule 13D, and is
+      filing this schedule because of (S) (S) 240.13d-1(e), 240.13d-1(f) or
+                  240.13d-1(g), check the following box. _____
+
+
+<PAGE>   2
+
+
+SCHEDULE 13D
+
+
+
+CUSIP No. 784850 10 9
+
+
+1.       Name of Reporting Person:      Wesmar Partners Limited Partnership
+         I.R.S. Identification No.:     25-1710943
+
+2.       Check the Appropriate Box if a Member of a Group        (a) ___
+                                                                 (b) ___
+
+3.       SEC Use Only
+
+4.       Source of Funds:  N/A
+
+5.       Check Box if Disclosure of Legal Proceedings is
+         Required Pursuant To Items 2(d) or 2(e)                     ___
+
+6.       Citizenship or Place of Organization:       United States
+
+Number of           7.      Sole Voting Power:                          -0-
+Shares
+Beneficially        8.      Shared Voting Power:                     1,399,096
+Owned by
+   the              9.      Sole Dispositive Power:                     -0-
+Reporting
+Person              10.     Shared Dispositive Power:                1,399,096
+   with
+
+11.      Aggregate Amount Beneficially Owned by the
+         Reporting Person:                                           1,399,096
+
+12.      Check Box if the Aggregate Amount in Row (11)
+         Excludes Certain Shares                                     ___
+
+13.      Percent of Class Represented by Amount in Row (11):              63.0%
+
+14.      Type of Reporting Person:  PN
+
+
+
+
+
+                                       2
+<PAGE>   3
+
+SCHEDULE 13D
+
+
+
+CUSIP No. 784850 10 9
+
+
+1.       Name of Reporting Person:      MR & Associates
+         I.R.S. Identification No.:     23-2377917
+
+2.       Check the Appropriate Box if a Member of a Group        (a) ___
+                                                                 (b) ___
+
+3.       SEC Use Only
+
+4.       Source of Funds:  N/A
+
+5.       Check Box if Disclosure of Legal Proceedings is
+         Required Pursuant To Items 2(d) or 2(e)                     ___
+
+6.       Citizenship or Place of Organization:  United States
+
+Number of           7.      Sole Voting Power:                          -0-
+Shares
+Beneficially        8.      Shared Voting Power:                     1,399,096
+Owned by
+   the              9.      Sole Dispositive Power:                      -0-
+Reporting
+Person              10.     Shared Dispositive Power:                1,399,096
+   with
+
+11.      Aggregate Amount Beneficially Owned by the
+         Reporting Person:                                           1,399,096
+
+12.      Check Box if the Aggregate Amount in Row (11)
+         Excludes Certain Shares
+
+13.      Percent of Class Represented by Amount in Row (11):              63.0%
+
+14.      Type of Reporting Person:  PN
+
+
+
+                                       3
+<PAGE>   4
+
+
+SCHEDULE 13D
+
+
+
+CUSIP No. 784850 10 9
+
+
+1.       Name of Reporting Person:      Maurer Ross & Co., Incorporated
+         I.R.S. Identification No.:     23-2377926
+
+2.       Check the Appropriate Box if a Member of a Group       (a)   ___
+                                                                (b)   ___
+
+3.       SEC Use Only
+
+4.       Source of Funds:  N/A
+
+5.       Check Box if Disclosure of Legal Proceedings is
+         Required Pursuant To Items 2(d) or 2(e)                      ___
+
+6.       Citizenship or Place of Organization:    United States
+
+Number of        7.      Sole Voting Power:                              -0-
+Shares
+Beneficially     8.      Shared Voting Power:                        1,399,096
+Owned by
+   the           9.      Sole Dispositive Power:                         -0-
+Reporting
+Person           10.     Shared Dispositive Power:                   1,399,096
+   with
+
+11.      Aggregate Amount Beneficially Owned by the
+         Reporting Person:                                           1,399,096
+
+12.      Check Box if the Aggregate Amount in Row (11)
+         Excludes Certain Shares
+
+13.      Percent of Class Represented by Amount in Row (11):              63.0%
+
+14.      Type of Reporting Person:  CO
+
+
+
+
+                                       4
+<PAGE>   5
+
+
+SCHEDULE 13D
+
+
+
+CUSIP No. 784850 10 9
+
+
+1.       Name of Reporting Person:  Robert L. Ross
+
+2.       Check the Appropriate Box if a Member of a Group           (a)  ___
+                                                                    (b)  ___
+
+3.       SEC Use Only
+
+4.       Source of Funds:  PF/OO
+
+5.       Check Box if Disclosure of Legal Proceedings is
+         Required Pursuant To Items 2(d) or 2(e)                         ___
+
+6.       Citizenship or Place of Organization:   United States
+
+Number of          7.      Sole Voting Power:                           74,500
+Shares
+Beneficially       8.      Shared Voting Power:                      1,399,096
+Owned by
+   the             9.      Sole Dispositive Power:                      74,500
+Reporting
+Person             10.     Shared Dispositive Power:                 1,399,096
+   with
+
+11.      Aggregate Amount Beneficially Owned by the
+         Reporting Person:                                           1,473,596
+
+12.      Check Box if the Aggregate Amount in Row (11)
+         Excludes Certain Shares                                         ___
+
+13.      Percent of Class Represented by Amount in Row (11):              64.4%
+
+14.      Type of Reporting Person:  IN
+
+
+
+
+                                       5
+<PAGE>   6
+
+
+SCHEDULE 13D
+
+
+
+CUSIP No. 784850 10 9
+
+
+1.       Name of Reporting Person:  Richard M. Maurer
+
+2.       Check the Appropriate Box if a Member of a Group          (a)  ___
+                                                                   (b)  ___
+
+3.       SEC Use Only
+
+4.       Source of Funds:  PF/OO
+
+5.       Check Box if Disclosure of Legal Proceedings is
+         Required Pursuant To Items 2(d) or 2(e)                        ___
+
+6.       Citizenship or Place of Organization:    United States
+
+Number of           7.      Sole Voting Power:                          67,500
+Shares
+Beneficially        8.      Shared Voting Power:                     1,424,396
+Owned by
+   the              9.      Sole Dispositive Power:                     67,500
+Reporting
+Person              10.     Shared Dispositive Power:                1,424,396
+   with
+
+11.      Aggregate Amount Beneficially Owned by the                  1,491,896
+         Reporting Person:
+
+12.      Check Box if the Aggregate Amount in Row (11)
+         Excludes Certain Shares                                        ___
+
+13.      Percent of Class Represented by Amount in Row (11):              65.2%
+
+14.      Type of Reporting Person:  IN
+
+
+
+
+                                       6
+<PAGE>   7
+
+
+           This statement amends Items 3, 5, 6 and 7 of the Amendment No. 7 to
+the Schedule 13D of Wesmar Partners Limited Partnership, MR & Associates, Maurer
+Ross & Co., Incorporated, Robert L. Ross and Richard M. Maurer (collectively the
+"Reporting Persons") filed on November 9, 1999. All capitalized terms used
+herein and not otherwise defined shall have the meanings ascribed to such terms
+in the Amendment No.1 to the Schedule 13D of the Reporting Persons filed on
+March 4, 1998 (the "Amendment No. 1 to the Schedule 13D").
+
+
+Item 3.  Source and Amount of Funds and Other Consideration.
+
+         On March 9, 2000, the Company's Board of Directors granted an
+immediately exercisable option to purchase 10,000 shares of Common Stock to each
+of Robert L. Ross ("Mr. Ross") and Richard M. Maurer ("Mr. Maurer") pursuant to
+the 1998 Employee Stock Plan. Mr. Ross and Mr. Maurer are both directors and
+executive officers of the Company.
+
+Item 5.  Interest in Securities of Issuer.
+
+         The number of shares of Common Stock issued and outstanding and the
+percentage calculations resulting therefrom in this Item 5 are based on the
+number of shares of Common Stock outstanding on March 13, 2000 as provided by
+the Company in its Form 10-K filed on March 30, 2000.
+
+         Wesmar is the record and beneficial owner of 1,399,096 shares of
+Common Stock representing approximately 63.0% of the Common Stock outstanding.
+Each of the other Reporting Persons may be deemed to beneficially own and to
+share voting and dispositive power with Wesmar with respect to such 1,399,096
+shares. Landmark Equity Partners III, L.P., a Delaware limited partnership and
+the sole limited partner of Wesmar, has the right to receive dividends from, and
+the proceeds from the sale of, a portion of the shares owned by Wesmar.
+
+         Robert L. Ross, a director and executive officer of Maurer Ross &
+Co., beneficially owns and has sole voting and dispositive power with respect to
+7,000 shares of Common Stock, representing approximately 0.3% of the Common
+Stock outstanding. Mr. Ross holds currently exercisable options to purchase
+67,500 shares of Common Stock, and, therefore, is deemed to beneficially own
+such shares. Assuming that the 67,500 shares of Common Stock issuable upon
+exercise of Mr. Ross's options are currently issued and outstanding, Mr. Ross
+beneficially owns approximately 3.0% of the Common Stock outstanding.
+
+         Richard M. Maurer, a director and executive officer of Maurer Ross &
+Co., indirectly beneficially owns and shares voting and dispositive power with
+respect to 25,300 shares of Common Stock, representing approximately 1.4% of the
+Common Stock outstanding. Such shares are held by three trusts of which Mr.
+Maurer is a co-trustee. The other co-trustee (the "Co-Trustee") shares voting
+and dispositive power with respect to, and has the right to direct receipt of
+dividends from and the proceeds from the sale of, the 25,300 shares of Common
+Stock held by the trusts. Information concerning the Co-Trustee is set forth on
+Schedule I of the Amendment No. 1 to the Schedule 13D. Mr. Maurer also holds
+currently exercisable options to
+
+
+                                       7
+<PAGE>   8
+
+purchase 67,500 shares of Common Stock, and, therefore, is deemed to
+beneficially own such shares. Assuming that the 67,500 shares of Common Stock
+issuable upon exercise of Mr. Maurer's options are currently issued and
+outstanding, Mr. Maurer beneficially owns approximately 3.4% of the Common Stock
+outstanding.
+
+         All transactions in Common Stock that were effected since the most
+recent filing on Schedule 13D by any Reporting Person or by any person named in
+Item 2 of the Amendment No. 1 to the Schedule 13D are described in Item 3.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with Respect
+         to Securities of the Issuer.
+
+         Wesmar and the Company are parties to a Stock Option Agreement dated as
+of February 29, 1988 pursuant to which the Company has granted Wesmar certain
+rights to require the Company to register shares of Common Stock owned by Wesmar
+under the Securities Act of 1933, as amended, for public offering and sale. As
+discussed in Items 3 and 5, each of Mr. Ross and Mr. Maurer holds a currently
+exercisable option to purchase 10,000 shares of Common Stock at an exercise
+price of $1.84375 per share, a currently exercisable option to purchase 50,000
+shares of Common Stock at an exercise price of $3.0625 per share and a currently
+exercisable option to purchase 7,500 shares of Common Stock at an exercise price
+of $2.3125 per share.
+
+Item 7.  Material to be filed as Exhibits.
+
+A.       Agreement pursuant to Rule 13d-1(k).
+
+B.       Stock Option Agreement, dated as of February 29, 1988, by and between
+S2 Golf Inc. and Wesmar Partners (filed as Exhibit E to the Schedule 13D of
+Wesmar Partners, First Westinghouse Capital Corporation and Maurer Ross & Co.,
+Incorporated, dated February 25, 1988).
+
+
+                                       8
+<PAGE>   9
+
+
+Signatures.
+
+           After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this statement is true, complete and
+correct.
+
+                                      WESMAR PARTNERS
+                                      By:  MR & Associates, its General Partner
+
+         April 7, 2000                By:  /s/ Richard M. Maurer
+- ----------------------------------         ---------------------------
+               Date                        Richard M. Maurer, President
+
+                                      MR & ASSOCIATES
+                                      By:  Maurer Ross & Co., Incorporated, its
+                                           General Partner
+
+
+         April 7, 2000                By:  /s/ Richard M. Maurer
+- ----------------------------------         ---------------------------
+               Date                        Richard M. Maurer, President
+
+                                      MAURER ROSS & CO., INCORPORATED
+
+
+         April 7, 2000                By:  /s/ Richard M. Maurer
+- ----------------------------------         ---------------------------
+               Date                        Richard M. Maurer, President
+
+
+
+         April 7, 2000                     /s/ Richard M. Maurer
+- ----------------------------------    --------------------------------
+               Date                   Richard M. Maurer
+
+
+         April 7, 2000                     /s/ Robert L. Ross
+- ----------------------------------    --------------------------------
+               Date                   Robert L. Ross
+
+
+
+                                       9
+<PAGE>   10
+
+
+
+
+                                    Exhibit A
+
+         Pursuant to Rule 13d-1(k)(1)(iii) of Regulation 13D of the Securities
+and Exchange Commission under the Securities Exchange Act of 1934, as amended,
+each of the undersigned entities agrees that the statement to which this Exhibit
+is attached is filed on its behalf.
+
+                                     WESMAR PARTNERS
+                                     By:  MR & Associates, its General Partner
+
+         April 7, 2000               By:  /s/ Richard M. Maurer
+- ---------------------------------         --------------------------------------
+               Date                       Richard M. Maurer, President
+
+                                     MR & ASSOCIATES
+                                     By:  Maurer Ross & Co., Incorporated, its
+                                          General Partner
+
+
+         April 7, 2000               By:  /s/ Richard M. Maurer, President
+- ---------------------------------         --------------------------------------
+               Date                       Richard M. Maurer, President
+
+                                     MAURER ROSS & CO., INCORPORATED
+
+
+         April 7, 2000               By:  /s/ Richard M. Maurer
+- ---------------------------------         --------------------------------------
+               Date                       Richard M. Maurer, President
+
+
+
+         April 7, 2000               /s/ Richard M. Maurer
+- ---------------------------------    -------------------------------------------
+               Date                  Richard M. Maurer
+
+
+         April 7, 2000               /s/ Robert L. Ross
+- ---------------------------------    -------------------------------------------
+               Date                  Robert L. Ross
+
+
+
+                                       10
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

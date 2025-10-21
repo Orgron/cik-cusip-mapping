@@ -1,0 +1,1877 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ IqMLdGwgEtuHpr9Yda6B8dXqA7L7wamakU8ISOJkomPp5HpTahRjH4BURmIYgO4g
+ c1l5yaokz+GjrgLo6VgulA==
+
+<IMS-DOCUMENT>0000950124-95-002164.txt : 19950719<IMS-HEADER>0000950124-95-002164.hdr.sgml : 19950719
+ACCESSION NUMBER:		0000950124-95-002164
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950718
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANTAGE COMPANIES INC  /DE/
+		CENTRAL INDEX KEY:			0000718451
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				481156618
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0122
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-35573
+		FILM NUMBER:		95554618
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9323 EAST 37TH ST NORTH
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67226
+		BUSINESS PHONE:		3166340333
+
+	MAIL ADDRESS:	
+		STREET 1:		9323 EAST 37TH ST NORTH
+		STREET 2:		9323 EAST 37TH ST NORTH
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			672262000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMCOA INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			THORN AMERICAS INC
+		CENTRAL INDEX KEY:			0000948071
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8200 EAST RENT A CENTER DRIVE
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67226
+		BUSINESS PHONE:		8164746550X3140
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                   Under the Securities Exchange Act of 1934
+
+
+                         Advantage Companies, Inc.    
+                                (Name of Issuer)
+
+                     Common Stock, par value $.01 per share
+                         (Title of Class of Securities)
+
+                                  00756E 10 5
+                                 (CUSIP Number)
+
+                            Joseph J. Hlavacek, Esq.
+                     Staff Attorney and Assistant Secretary
+                              THORN Americas, Inc.
+                         8200 East Rent-A-Center Drive
+                             Wichita, Kansas 67226
+                                 (316) 636-7368
+
+                                with a copy to:
+
+                           Shook, Hardy & Bacon P.C.
+                             One Kansas City Place
+                                1200 Main Street
+                        Kansas City, Missouri 64105-2118
+                         Attention:  Jennings J. Newcom
+                                (816) 474-6550                      
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+July 9, 1995                                             
+(Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule
+<PAGE>   2
+
+13D, and is filing this schedule because of Rule 13d-1(b)(3) or (4), check the
+following box [ ].
+
+Check the following box if a fee is being paid with the statement[X].  (A fee
+is not required only if the reporting person:  (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of less than five percent of such class.
+See Rule 13d-7.)
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+<PAGE>   3
+CUSIP No. 00756E 10 5
+1)   Name of Reporting Person
+     S.S. or I.R.S. Identification No. of Above Person
+     THORN Americas, Inc.                                        
+- -----------------------------------------------------------------  
+2)   Check the Appropriate Box if           (a) [ ]
+     a Member of a Group                    (b) [ ]
+- -----------------------------------------------------------------  
+3)   SEC Use Only
+- -----------------------------------------------------------------  
+4)   Source of Funds
+     Not Applicable                                              
+- -----------------------------------------------------------------  
+5)   Check if Disclosure of Legal
+     Proceedings is Required Pursuant       [ ]
+     to Items 2(d) or 2(e)
+- -----------------------------------------------------------------
+6)   Citizenship or Place of Organization 
+     Delaware
+- -----------------------------------------------------------------
+                           7)  Sole Voting Power
+  Number of                    3,768,922
+   Shares                  ----------------------------------------
+  Beneficially             8)  Shared Voting Power 
+  Owned By
+    Each                       -0-
+  Reporting                ----------------------------------------  
+  Person With
+                           9)  Sole Dispositive Power    
+                               3,768,922 
+                           ----------------------------------------  
+                          10)  Shared Dispositive Power             
+                               -0-                           
+- -------------------------------------------------------------------
+11)  Aggregate Amount Beneficially Owned
+     by Each Reporting Person
+     3,768,922                                                
+- -------------------------------------------------------------------
+12)  Check if the Aggregate Amount in
+     Row (11) Excludes Certain Shares       [ ]                  
+- -------------------------------------------------------------------
+13)  Percent of Class Represented by Amount in Row (11)
+     79.6%
+- -------------------------------------------------------------------
+14)  Type of Reporting Person
+     CO
+- -------------------------------------------------------------------
+<PAGE>   4
+Item 1.    Security and Issuer.
+
+           The class of equity securities to which this Statement on Schedule
+13D (the "Statement") relates is the Common Stock, par value $.01 per share
+(the "Common Stock"), of Advantage Companies, Inc., a Delaware corporation (the
+"Company").  The Company has its principal executive offices at 9323 East 37th
+Street North, Wichita, Kansas 67226-2000.
+
+Item 2.    Identity and Background.
+
+           This statement is being filed by THORN Americas, Inc., a Delaware
+corporation ("THORN"), which conducts its principal business and maintains its
+principal office at 8200 East Rent-A-Center Drive, Wichita, Kansas 67226-2799.
+THORN and its franchisees conduct a rental-purchase operation in the United
+States, currently with 1,168 Rent-A-Center (Registered Trademark) stores in 49
+states and the District of Columbia.  
+
+           THORN EMI North America Holdings Inc., a Delaware corporation
+("TENAH"), conducts its principal business and maintains its principal office
+at Little Falls Centre II, 2751 Centreville Road, Second Floor, Wilmington,
+Delaware 19808. THORN is owned by TENAH and TENAH is owned indirectly by THORN
+EMI plc, a company existing under the laws of England ("PLC").  TENAH's 
+principal business is acting as a holding company for PLC's U.S. operations
+and an investment company.
+
+           PLC conducts its principal business and maintains its principal
+office at 4 Tenterden Street, Hanover Square, London, W1A2AY, England.  PLC is
+a public company and its principal businesses are located in approximately 40 
+countries and relate to (i) the music industry, including retailing of recorded
+music and related products, repertoire development, studio recording and music
+videos, (ii) the rental-purchase industry and (iii) transaction systems, 
+security and electronics.
+
+           The name, residence or business address, present principal
+occupation or employment and the name, principal business and address of any
+corporation in which such employment is conducted and citizenship of each
+executive officer and director of THORN and PLC are set forth on Schedule A,
+which is attached hereto and incorporated herein by reference.
+
+           During the past five years, neither THORN, TENAH nor PLC, nor, to
+the best of THORN's knowledge, any of THORN's or PLC's executive officers or
+directors (i) has been convicted in a
+<PAGE>   5
+
+criminal proceeding (excluding traffic violations or similar misdemeanors) or
+(ii) was a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction and, as a result of such proceeding, was or is subject
+to a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities
+laws or finding any violation with respect to such laws.
+
+Item 3.    Source and Amount of Funds or Other Consideration.
+
+           No funds were used in connection with entering into the Option
+Agreement (as defined in Item 4 of this Statement).
+
+Item 4.    Purpose of Transaction.
+
+           On July 9, 1995, THORN and the Company entered into a letter of
+intent (the "Proposal"), pursuant to which a newly formed subsidiary of THORN
+will be merged with and into the Company (the "Merger").  The Proposal is an
+expression of intent of the parties and is subject to negotiation of a
+definitive merger agreement (the "Definitive Agreement"), legal and government
+approvals and the other terms and conditions set forth therein.  As a result of
+the Merger, the Company will become a wholly owned subsidiary of THORN. 
+Pursuant to the Merger, the stockholders of the Company other than certain
+majority stockholders who have  granted an option to THORN (as discussed
+below), will receive for each share of Common Stock owned at the Merger
+effective time, cash in an amount equal to $18.50 per share (without interest),
+and the certain majority stockholders who are party to the Option Agreement
+will receive $17.50 per share (without interest) (the "Purchase Price"), of
+Common Stock, all on the terms and subject to the conditions contained in the
+Proposal, the Option Agreement and the Definitive Agreement.  As discussed
+above, certain of the Company's majority stockholders entered into the Option
+Agreement with THORN in which such stockholders will vote in favor of the 
+sale of THORN and grant to THORN the option to purchase their security holdings
+at $17.50 per share (without interest), of Common Stock, all on the terms and 
+subject to the conditions contained in the Option Agreement.
+
+           The Proposal provides that THORN's consummation of the Merger is
+subject to (i) the total equity of the Company at the Closing Date (as defined
+below) being at least $28,250,000; provided, however, that the Company may pay
+reasonable expenses not
+<PAGE>   6
+
+to exceed $250,000 arising as a result of the Merger so long as such payments
+do not result in total equity of less than $28,000,000, (ii) bonuses and
+severance packages paid to the Company's personnel between July 9, 1995, and
+the Closing Date not exceeding $1,400,000 (but in no event may the total equity
+of the Company fall below $28,000,000 as a result of such payments) and (iii)
+THORN being satisfied with the results of a complete due diligence
+investigation regarding the Company.
+
+           Pursuant to the Proposal, the obligations of THORN and the Company
+under the Definitive Agreement shall be subject to various conditions
+precedent, including but not limited to:  (i) compliance by the Company and
+THORN with the requirements of the Proposal; (ii) performance by the Company
+and THORN of their respective covenants, obligations and agreements as
+contained in the Definitive Agreement; (iii) the truth and accuracy of the
+respective representations and warranties of the Company and THORN contained in
+the Definitive Agreement as of the date thereof, and as reaffirmed and remade
+as of the Closing Date; (iv) approval of the transaction by the requisite vote
+of the Boards of Directors of THORN and of the Company, and by the stockholders
+of the Company, as required by applicable law; (v) obtaining of all required
+governmental and third party approvals and consents; (vi) no statute, rule,
+regulation, executive order, decree, ruling, injunction or other order having
+been enacted, entered, promulgated or enforced by any court or governmental
+authority of competent jurisdiction within the United States which prohibits
+the Merger or makes the Merger illegal; (vii) execution and delivery by the
+Company and THORN of all documents required by the Definitive Agreement to be
+delivered by the parties at or prior to the Closing Date, each in form and
+substance acceptable to THORN and the Company, respectively.
+
+           The Proposal provides that the obligations of THORN under the
+Definitive Agreement shall be subject to the following additional conditions
+precedent:  (i) completion of the investigation of the Company by THORN,
+confirming that the business, assets, prospects, financial and legal condition
+of the Company are satisfactory to THORN; (ii) non-occurrence of any event,
+fact, condition, change or effect that is or could be materially adverse to the
+business, operations, results of operations, condition (financial or
+otherwise), assets, prospects or liabilities of the Company; (iii) conversion
+or redemption, prior to the Closing Date, of the Preferred Stock; (iv)
+simultaneously with the execution of the Proposal, the execution and delivery
+to THORN of the Option Agreement; and (v) at THORN's option at the Closing
+Date, the execution of a lease allowing THORN to use the Company's current
+office space at no cost for 30 days; provided, however, that THORN shall pay
+utility and telephone
+<PAGE>   7
+
+expenses for such office space during the 30-day period.  The obligations of
+the Company under the Definitive Agreement shall also be subject to the receipt
+of an opinion from an independent firm of investment bankers to the effect that
+the purchase price for the Common Stock is fair from a financial point of view
+to the Company's stockholders other than the Majority Stockholders (as defined
+below).
+
+           Pursuant to the Proposal, from July 9, 1995 until the date of the
+Definitive Agreement, the Company (a) will conduct its business and operations
+in the ordinary course consistent with past practice and use its best efforts
+to preserve its business organization intact, retain the services of its
+present officers and employees at current compensation levels and preserve the
+present business relationships and goodwill of its licensors, licensees,
+suppliers, distributors, customers and others having business relations with
+it; provided, however, that the Company may issue bonus and severance awards
+not to exceed $1,400,000 and transfer the land, building and equipment used by
+the Company as its home office to Mr. Daniel J. Taylor, Chief Executive Officer
+of the Company, in exchange for consideration from Mr. Taylor of not less than
+$500,000, subject to the total equity condition set forth above and (b) will
+not (i) issue any new shares of Common Stock (other than upon exercise of
+existing and outstanding stock options) or Preferred Stock, (ii) issue any
+options or other rights to acquire Common Stock, (iii) hire any new employee or
+replace any departing employee, in each case without THORN's permission or (iv)
+declare any dividends on the Preferred Stock other than those regular quarterly
+dividends declared on July 31, 1995, not to exceed an amount equal to $42,000;
+provided, however, such declaration and subsequent payments do not result in
+total equity less than that set forth above.
+
+           Pursuant to the Proposal, the Company confirmed that it is not
+engaged in any discussions or negotiations with third parties with respect to
+any Acquisition Proposal (as defined in Section 10(a) of the Proposal).  The
+Company also agreed that it will not, directly or indirectly, through any
+officer, director, employee, representative or agent or any of its subsidiaries
+(i) solicit, initiate or encourage any Acquisition Proposal, provided that the
+Company may respond to unsolicited inquiries and proposals, (ii) subject to the
+fiduciary duties of the Company's Board of Directors under applicable law,
+engage in negotiations or discussions concerning, or provide any nonpublic
+information to any person or entity relating to, any Acquisition Proposal or
+(iii) subject to the fiduciary duties of the Company's Board of Directors under
+applicable law, agree to, approve or recommend any Acquisition Proposal.  The
+Company may take the actions set forth in (ii) and (iii) of the immediately
+preceding sentence only upon a majority vote of the directors capable of voting
+thereon that
+<PAGE>   8
+
+such actions are in furtherance of the best interests of the Company's
+stockholders, and only upon a determination that the third-party bidder is
+reputable and financially responsible.
+
+           The Company has agreed in the Proposal to notify THORN immediately
+(in no later than 24 hours) after receipt by the Company of any Acquisition
+Proposal or any request for nonpublic information in connection with an
+Acquisition Proposal or for access to the properties, books or records of the
+Company by any person or entity that informs the Company that it is considering
+making, or has made, an Acquisition Proposal.  If, at any time after July 9,
+1995, and the earlier of the date of the Definitive Agreement or November 30,
+1995, the Company (i) enters into an agreement relating to the sale of the
+Company or any substantial part thereof to a third party, (ii) ceases
+negotiations with THORN for the purpose of entering into negotiations for the
+sale of the Company or any substantial part thereof to a third party, then the
+Company shall be liable for and shall promptly pay to THORN an amount equal to
+all of THORN's out-of-pocket costs, fees and expenses incurred in connection
+with the Merger, including but not limited to, all reasonable legal, investment
+banking and accounting fees.
+
+           Pursuant to the Proposal and in connection with the Merger, THORN
+filed, on July 12, 1995, a motion to stay certain litigation filed by THORN 
+in the District Court of Sedgwick County, Kansas on December 27, 1994, 
+against the Company.  
+
+           Pursuant to the Proposal, THORN and the Company will proceed
+diligently and in good faith to negotiate, execute and deliver the Definitive
+Agreement.  The Definitive Agreement will specify a date of closing (the
+"Closing Date") of the Merger, which will not be later than October 31, 1995;
+provided, however, that such date will be extended if delays occur as a result
+of the regulatory approval process.
+
+           A copy of the Proposal is attached hereto as Exhibit 1 and is
+incorporated herein by reference.  The description of the Proposal herein is
+qualified in its entirety by reference to the full text thereof.
+
+           Simultaneously with the execution and delivery of the Proposal,
+THORN and the four majority stockholders of the Company (the "Majority
+Stockholders") entered into an agreement dated as of July 9, 1995 (the "Option
+Agreement"), pursuant to which the Majority Stockholders granted THORN the
+irrevocable right (the "Option") to purchase 3,268,922 shares of Common Stock
+and 10,000 shares of Preferred Stock from the Majority Stockholders at a price
+of $17.50 per share of
+<PAGE>   9
+
+Common Stock and $875 per share of the Preferred Stock.  The exercise price per
+share of Common Stock is equal to the Purchase Price and the exercise price per
+share of the Preferred Stock is equal to the Purchase Price multiplied by 50 to
+reflect the 50:1 conversion rate of the Preferred Stock into Common Stock.  The
+Preferred Stock is also redeemable by the Company, and the holders thereof are
+not entitled to vote on any matters prior to conversion.  The exercise prices
+are payable in cash (without interest).  The Option must be exercised with
+respect to the shares of Common Stock and Preferred Stock of all Majority 
+Stockholders.
+
+           The Option may be exercised by THORN at any time during the period
+commencing on July 9, 1995, and ending on November 30, 1995 (the "Expiration
+Date"), except that if the Option cannot be exercised by reason of any
+applicable judgment, decree or order granted upon the application of the
+Majority Stockholders the Expiration Date of the Option will be extended until
+five business days after such impediment to exercise has been removed.
+
+           Pursuant to the Option Agreement and for so long as the Option
+Agreement is in effect, (i) the Majority Stockholders will vote, or cause to be
+voted, all of their respective shares of Common Stock in favor of the approval
+and adoption of the Merger as provided for in the Definitive Agreement and the  
+transactions contemplated therein, and (ii) in any meeting of the stockholders
+of the Company, however called, and in any action by consent of the stockholders
+of the Company, the Majority Stockholders will vote or cause to be voted all of
+their respective shares of Common Stock (A) against any action or agreement that
+would result in a breach in any material respect of any covenant, representation
+or warranty or any other obligation of the Company under the Proposal or the
+Definitive Agreement or of the Majority Stockholders under the Option Agreement
+and (B) against any action or agreement that would impede, interfere with or
+discourage the transactions contemplated by the Proposal or the Definitive
+Agreement.
+
+           In addition, upon the execution of the Option Agreement, each
+Majority Stockholder granted THORN an irrevocable proxy appointing THORN or its
+designee(s), with full power of substitution, its attorney and proxy to vote
+all such Majority Stockholder's shares of Common Stock at any meeting of the
+stockholders of the Company, however called, or in connection with any action
+by written consent by the stockholders of the Company.  Each Majority 
+Stockholder acknowledged and agreed that such proxy, if and when given, will 
+be coupled with an interest, will be irrevocable and will not be terminated by
+operation of law or otherwise upon the occurrence of any event and that no 
+subsequent proxies will be given (and if given will not be effective).
+<PAGE>   10
+
+           Pursuant to the terms of the Option Agreement, each Majority 
+Stockholder agreed: (i) not to (either directly or indirectly) sell, transfer,  
+pledge, assign, hypothecate or otherwise dispose of, or enter into any contract,
+option or other arrangement or understanding with respect to the sale, 
+transfer, pledge, assignment, hypothecation or other disposition of such 
+Majority Stockholder's shares of Common Stock or Preferred Stock or options or
+other rights to obtain an equity interest in the Company; (ii) not to (either
+directly or indirectly) grant any proxy to any person regarding his\her
+ownership of any shares of Common Stock or Preferred Stock, deposit such
+securities into a voting trust or enter into a voting agreement regarding such
+securities that would be inconsistent with the terms of this Agreement; (iii)
+not to (either directly or indirectly) take any action which would make any
+representation, warranty or covenant of such Majority Stockholder untrue or
+incorrect; and (iv) to convert into shares of Common Stock all of such Majority
+Stockholder's shares of Preferred Stock prior to the Closing Date.
+
+           The Option Agreement also contains a provision whereby the
+Majority Stockholders agreed that they will not, directly or indirectly,
+individually or with others, engage in the business of rent-to-own, rentals or
+retail installment sales transactions of consumer household durable goods,
+including televisions, video cassette recorders, stereos, furniture, appliances,
+jewelry, pagers, computers or like or similar consumer household durable
+goods merchandise rented or sold by THORN, or any subsidiary, franchisee or
+affiliate thereof, for a period of five years following the purchase of the
+Common Stock and the Preferred Stock by THORN, at any location within the United
+States.  In connection therewith, the Majority Stockholders agreed that they
+will not, individually or with others, directly or indirectly, at any time in
+the future following the purchase of the Common Stock and the Preferred Stock by
+THORN, divulge, communicate, use to the detriment of THORN, or any subsidiary or
+affiliate thereof, or for the benefit of any person or organization any
+Proprietary Information (as defined in Section 7(c) of the Option Agreement). 
+The Majority Stockholders also agreed that for a period of five years following
+the purchase of the Common Stock and the Preferred Stock by THORN, they will
+not, directly or indirectly, solicit the employment or engagement of the
+consulting or other services of any person who will then be employed by THORN or
+who will have been employed by THORN or any subsidiary or affiliate thereof at
+any time within the previous six months, except as provided in the Definitive
+Agreement.
+
+           In accordance with the Option Agreement, the Majority Stockholders 
+agreed (i) that none of the Majority Stockholders is engaged in any discussions
+or negotiations with third parties with respect to any Acquisition Proposal (as
+defined in Section 8(a) of the Option
+<PAGE>   11
+Agreement), (ii) to not solicit, initiate or encourage any Acquisition
+Proposal, (iii) to not engage in negotiations or discussions concerning, or
+provide any nonpublic information to any person or entity relating to, any
+Acquisition Proposal or (iv) to not agree to, approve or recommend any
+Acquisition Proposal.  The Majority Stockholders will notify THORN immediately
+(in no later than 24 hours) after receipt by any Majority Stockholder of any
+Acquisition Proposal or any request for nonpublic information in connection
+with an Acquisition Proposal or for access to the properties, books or records
+of the Company by any person or entity that informed such party that it is
+considering making, or has made, an Acquisition Proposal.
+
+           The Option Agreement will terminate, unless expressly provided
+otherwise therein, upon the earlier of (i) the Closing Date, (ii) the
+Expiration Date or (iii) notice of termination given by THORN to the
+Majority Stockholders.
+
+           The Option Agreement is attached hereto as Exhibit 2 and
+incorporated herein by reference.  The description of the Option Agreement
+herein is qualified in its entirety by reference to the full text thereof.
+Also, a press release issued by THORN on July 10, 1995, announcing the
+execution of the Proposal and the Option Agreement is attached hereto as
+Exhibit 3 and incorporated herein by reference.
+
+           It is expected that immediately following the consummation of the
+Merger the Common Stock will cease to be authorized to be quoted on the
+National Association of Securities Dealers, Inc. Automated Quotation National
+Market System ("NASDAQ") and registration of both the Common Stock and the
+Preferred Stock pursuant to the Securities Exchange Act of 1934, as amended
+(the "Exchange Act"), will be terminated.
+
+           Except as set forth in this Item 4 and as otherwise contemplated by
+the Proposal and the Option Agreement, neither THORN, TENAH nor PLC, nor, to
+the best of THORN's knowledge, any of THORN's or PLC's executive officers or
+directors have any other present plans or proposals which would result in or
+relate to any of the actions described in paragraphs (a) through (j) of Item 4
+of Schedule 13D under the Exchange Act.
+
+Item 5.    Interest in Securities of the Issuer.
+
+           (a)  Pursuant to the Company's Form 10-Q for the quarterly period
+ended April 16, 1995, filed under the Exchange Act, there were 4,236,438 shares
+of Common Stock and 14,000 shares of Preferred Stock issued and outstanding as
+of April 16, 1995.  As
+<PAGE>   12
+
+described under Item 4 of this Statement, THORN may be deemed to be the
+beneficial owner of an aggregate of 3,268,922 shares of Common Stock and
+10,000 shares of Preferred Stock. Pursuant to the Option Agreement, THORN has
+the immediately exercisable right to acquire 3,268,922 shares of Common Stock
+(representing approximately 77.2 percent of the outstanding Common Stock) and
+10,000 shares of Preferred Stock (representing approximately 71.4 percent of
+the outstanding Preferred Stock).  Except as set forth in this Item 5(a),
+neither THORN, TENAH, nor PLC, nor, to the best of THORN's knowledge, any of 
+THORN's or PLC's executive officers or directors owns any shares of Common 
+Stock or Preferred Stock.
+
+           (b)  If THORN were to exercise the Option (i) THORN would have the
+sole power to vote or to direct the vote of 3,268,922 shares of Common Stock
+(as previously discussed, the shares of Preferred Stock confer no voting rights
+upon the holders thereof) and (ii) THORN would have the sole power to dispose
+or direct the disposition of 3,268,922 shares of Common Stock and 10,000 shares
+of Preferred Stock.
+
+           Except as set forth in this Item 5(b), neither THORN, TENAH nor PLC,
+nor, to the best of THORN's knowledge, any of THORN's or PLC's executive 
+officers or directors have the sole or shared power to (i) vote or direct the 
+vote of their shares of Common Stock or (ii) dispose or direct the 
+disposition of their shares of Common Stock or Preferred Stock.
+
+           (c)  Neither THORN, TENAH nor PLC, nor, to the best of THORN's
+knowledge, any of THORN's or PLC's executive officers or directors have
+effected any transactions in the shares of Common Stock or Preferred Stock
+during the past 60 days.
+
+           (d)  No other person is known to have the right to receive or the
+power to direct the receipt of dividends from, or the proceeds from the sale
+of, the Common Stock or Preferred Stock.
+
+           (e)  Not applicable.
+<PAGE>   13
+
+
+Item 6.    Contracts, Arrangements, Understandings or Relationships With
+Respect to Securities of the Issuer.
+
+           In a separate development, the controlling stockholders of Tidewater
+Rental Corp., a Virginia corporation ("Tidewater"), a privately held entity
+affiliated with the Company through common ownership and having common
+management with the Company, entered into a letter of intent and option
+agreement for Tidewater to be acquired by THORN.  Exhibit 3 hereto is a press
+release issued by THORN on July 10, 1995, announcing the execution of such
+agreements regarding Tidewater and is incorporated herein by reference.
+
+           The discussion in Item 4 of this Statement regarding the Option
+Agreement is incorporated herein by reference.
+
+           Except as described in this Statement, neither THORN, TENAH nor PLC,
+nor, to the best of THORN's knowledge, any of THORN's or PLC's executive
+officers or directors have any contracts, arrangements, understandings or
+relationships (legal or otherwise) with any person with respect to any
+securities of the Company.
+
+Item 7.    Material to be Filed as Exhibits.
+
+           Exhibit 1       Letter of Intent dated as of July 9, 1995, between
+THORN Americas, Inc. and Advantage Companies, Inc.
+
+           Exhibit 2       Advantage Agreement dated as of July 9, 1995, among
+THORN Americas, Inc., Daniel J. Taylor, Robert W. Moore, Daniel M. Carney and
+Leslie G. Rudd.
+
+           Exhibit 3       Press Release issued by THORN Americas, Inc. on July
+10, 1995.
+<PAGE>   14
+
+
+           After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this Statement is true, complete
+and correct.
+
+
+Date:  July 18, 1995
+
+
+                           THORN AMERICAS, INC.
+
+                       By: /s/ John H. Slaymaker
+                           ---------------------------------
+                           Name:   John H. Slaymaker
+                           Title:  Executive Vice President
+<PAGE>   15
+
+                                   SCHEDULE A
+
+
+           The following information sets forth the name, residence or business
+address and present principal occupation or employment and the name, principal
+business and address of any corporation, if not THORN or PLC, in which such 
+employment is conducted and the citizenship of each of the directors and 
+executive officers of THORN and PLC.
+
+                  DIRECTORS AND EXECUTIVE OFFICERS OF THORN
+
+
+Walter E. Gates                            Chief Executive Officer/
+THORN Americas, Inc.                       President/Director
+8200 E. Rent-A-Center Drive                
+Wichita, Kansas 67226
+Citizenship:  United States
+
+John H. Slaymaker                          Senior Vice President/Director
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Philip David Egan                          Senior Vice President/
+THORN Americas, Inc.                       General Counsel
+8200 E. Rent-A-Center Drive                Secretary/Director
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Alan St. Clair                             Senior Vice President/Director
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+John R. Isaac, Jr.                         President/Chief Operating
+THORN Americas, Inc.                       Officer-Rent-A-Center
+8200 E. Rent-A-Center Drive                
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Joe  Rotunda                               Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Paul Barry                                 Senior Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Robert Bloom                               Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Robert DiGiacomo                           Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Randy Underwood                            Vice President/Treasurer
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Michael Boone                              Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Robert Alston                              Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Tom Hollingsworth                          Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Joseph J. Hlavacek                         Assistant Secretary
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Phyllis Greif                              Assistant Treasurer
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Vincent Watkins                            Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Jeffrey R. Sims                            Vice President
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Keith Wall                                 Vice President/Controller
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                 
+Wichita, Kansas 67226
+Citizenship:  United States
+
+Stephen P. Lisi                            Vice President of Operations
+THORN Americas, Inc.
+8200 E. Rent-A-Center Drive                
+Wichita, Kansas 67226
+Citizenship:  United States
+
+
+                   DIRECTORS AND EXECUTIVE OFFICERS OF PLC
+
+
+Harald Einsmann                            Nonexecutive Director-PLC/President-
+THORN EMI plc                              Proctor Gamble Europe, Middle   
+4 Tenterden Street                         East & Africa                     
+London W1A 2AY                             The Proctor & Gamble Company
+England                                    European Technical Center
+Citizenship:  German                       Temselaam 100, B-1853
+                                           Strombeck-Bever, Belgium
+
+
+Peter Ingram Walters                       Nonexecutive Deputy Chairman-PLC/ 
+THORN EMI plc                              Chairman-SmithKline Beecham plc  
+4 Tenterden Street                         New Horizons Court               
+London W1A 2AY                             Brentford                        
+England                                    Middlesex TW8 9EP                 
+Citizenship:  British                      England                          
+                                           
+Sir Colin Southgate                        Chairman-PLC
+THORN EMI plc
+4 Tenterden Street
+London W1A 2AY
+England
+Citizenship:  British
+
+Eric Luciano Nicoli                        Nonexecutive Director-PLC/
+THORN EMI plc                              Group Chief Executive-United     
+4 Tenterden Street                         Biscuits (Holdings) plc          
+London W1A 2AY                             Church Road, West Drayton        
+England                                    Middlesex UB7 7PL                
+Citizenship:  British                      England                          
+                                           
+                                           
+Simon Patrick Duffy                        Group Finance Director-PLC
+THORN EMI plc
+4 Tenterden Street
+London W1A 2AY
+England
+Citizenship:  British
+
+James Guy Fifield                          Director-PLC/President and 
+THORN EMI plc                              Chief Executive Officer-EMI     
+4 Tenterden Street                         Music                           
+London W1A 2AY                             
+England                                    
+Citizenship:  United States
+
+Michael Edward Metcalf                     Director-PLC/Chief Executive-
+THORN EMI plc                              THORN Group
+4 Tenterden Street                         
+London W1A 2AY
+England
+Citizenship:  British
+
+Brian Griffiths                            Nonexecutive Director-PLC/ 
+(Lord Griffiths of                         International Advisor
+  Fforestfach)                             - Goldman Sachs International
+THORN EMI plc                              Peterborough Court
+4 Tenterden Street                         133 Fleet Street
+London W1A 2AY                             London EC4A 28B
+England                                    England
+Citizenship:  British
+
+Sir Judson Graham Day                      Nonexecutive Director-PLC/
+THORN EMI plc                              Legal Counsel Stewart, McKelvy,
+4 Tenterden Street                          Sterling & Scales - Lawyers
+London W1A 2AY                             P.O. Box 997                 
+England                                    Purdy's Wharf Tower One      
+Citizenship:  British/Canadian             1959 Upperwater Street       
+                                           Halifax 
+                                           Nova Scotia 835 2K2  
+                                           Canada                       
+
+Robin Charlton                             Company Secretary-PLC
+THORN EMI plc
+4 Tenterden Street
+London W1A 2AY
+England
+Citizenship:  British
+<PAGE>   16
+
+                                  EXHIBIT INDEX    
+
+
+
+
+
+Exhibit                    Description                                    Page  
+- -------                    -----------                                    ----
+
+   1            Letter of Intent dated as of July 9, 1995, between        18
+                THORN Americas, Inc and Advantage Companies, Inc.
+
+   2            Advantage Agreement dated as of July 9, 1995, among       26
+                THORN Americas, Inc., Daniel J. Taylor, Robert W. Moore, 
+                Daniel M. Carney and Leslie G. Rudd.
+
+   3            Press Release issued by THORN Americas, Inc. on           38
+                July 10, 1995.
+<PAGE>   17
+
+                                  July 9, 1995
+
+Mr. Daniel J. Taylor
+Advantage Companies, Inc.
+9323 E. 37th Street North
+Wichita, Kansas 67226-2000
+
+
+           Re:  Proposed Purchase of Advantage Companies, Inc. by THORN
+                Americas, Inc.
+
+Dear Mr. Taylor:
+
+
+           THORN Americas, Inc., acting directly or through an affiliate
+("THORN"), is pleased to set forth the following proposal to acquire Advantage
+Companies, Inc. (the "Company") in a negotiated transaction.  The purpose of
+this proposal is to set forth the basis for proceeding toward the acquisition
+of the Company by THORN (the "Acquisition") and to affirm the parties'
+intention to negotiate in good faith a definitive agreement (the "Definitive
+Agreement") for the Acquisition.
+
+           1.   FORM OF ACQUISITION; CONSIDERATION.  The Acquisition will be
+effectuated by a merger of the Company with a newly formed subsidiary of THORN,
+pursuant to which the Company will survive as a wholly owned subsidiary of
+THORN (the "Surviving Company").  Pursuant to the merger, the shareholders of
+the Company other than those shareholders who are party to the Advantage
+Agreement (as defined below) will receive for each share of the Company's
+common stock, par value $0.01 per share (the "Common Stock"), owned at the
+merger effective time, cash in an amount equal to $18.50 per share (without
+interest), and shareholders who are party to the Advantage Agreement will
+receive $17.50 per share (without interest) of Common Stock, all on the terms
+and subject to the conditions contained herein, in the Advantage Agreement and
+in the Definitive Agreement (collectively, the "Purchase Price").  On a fully
+diluted basis, there are approximately 5,100,000 shares of Common Stock,
+assuming that all existing vested and unvested stock options are exercised and
+all shares of the Company's Class A Cumulative Convertible Preferred Stock, par
+value $100 per share (the "Preferred Stock"), are converted into shares of
+Common Stock.  This proposal is being made based upon information with respect
+to the Company that is publicly available to THORN, and THORN's consummation of
+the Acquisition is subject to (i) the total equity of the Company at the
+Closing Date (as defined below) being at least $28,250,000; provided, however,
+that the Company may pay reasonable expenses not to exceed $250,000 arising as
+a result of the Acquisition so long as such payments do not result in total
+equity of less than $28,000,000; (ii) bonuses and severance packages paid to
+the Company's personnel between the date first written above and the Closing
+Date not exceeding $1,400,000 (but in no event may the total equity of the
+Company fall below $28,000,000
+<PAGE>   18
+
+Mr. Taylor
+July 9, 1995
+Page 2
+
+as a result of such payments); and (iii) THORN being satisfied with the results
+of a complete due diligence investigation regarding the Company.
+
+           2.   KEY EMPLOYEES.  On the Closing Date, the Surviving Company will
+enter into employment agreements with certain key employees upon compensation
+terms comparable to those currently enjoyed by such key employees and such
+other terms as shall be mutually agreed and set forth in the Definitive
+Agreement.
+
+           3.   DUE DILIGENCE; ACCESS.  Promptly following execution of this
+proposal, the Company will grant THORN and its representatives access to
+facilities, personnel, landlords, vendors, records, contracts and other
+documents, including without limitation information related to financial,
+accounting, commercial, legal, environmental, regulatory, tax and employee
+benefits matters of the Company.  THORN and its representatives shall not
+contact or communicate with the Company's customers, employees, creditors,
+outside auditors and other persons having business dealings with the Company
+without the consent of the Company, which shall not be unreasonably withheld.
+
+           4.   CONFIDENTIALITY.  THORN will keep confidential and not divulge
+(except to its employees, counsel, accountants and other advisors who need to
+know such information in connection with the Acquisition) any material
+confidential information obtained by them regarding the business and finances
+of the Company; provided, however, that this prohibition will not include any
+information (i) known generally to the public, (ii) accessible to third parties
+on an unrestricted basis or (iii) of a type generally considered
+nonconfidential by persons engaged in the same or similar business.
+
+           5.   PUBLIC ANNOUNCEMENTS.  From and after the date hereof until the
+date of the Definitive Agreement, the parties shall consult with each other
+upon the content of any press release or public announcement relating to the
+transactions contemplated herein and will not issue any press release or make
+any public announcements prior to such consultation, except as may be required
+by applicable law and acceptable to the other party hereto.  The parties agree
+to issue a press release with respect to this proposal as soon as practicable.
+
+           6.   DEFINITIVE AGREEMENT.  THORN and the Company will proceed
+diligently and in good faith to negotiate, execute and deliver the Definitive
+Agreement. The Definitive Agreement shall specify a date of closing (the
+"Closing Date") the Acquisition, which shall not be later than October 31,
+1995; provided, however, that such date shall be extended if delays occur as a
+result of the
+<PAGE>   19
+
+Mr. Taylor
+July 9, 1995
+Page 3
+
+regulatory approval process.  The Definitive Agreement will contain such
+representations and warranties, agreements and covenants, conditions and other
+provisions as are appropriate in such an agreement for a transaction of the
+size, type and complexity of the Acquisition.
+
+           7.   CONDITIONS PRECEDENT FOR THORN.  The obligations of THORN under
+the Definitive Agreement shall be subject to various conditions precedent,
+including but not limited to:
+
+                (a)  Completion of the investigation of the Company by THORN,
+confirming that the business, assets, prospects, financial and legal condition
+of the Company are satisfactory to THORN;
+
+                (b)  Compliance by the Company with the requirements of this
+proposal;
+
+                (c)  Performance by the Company of its covenants, obligations
+and agreements as contained in the Definitive Agreement;
+
+                (d)  The truth and accuracy of the representations and
+warranties of the Company contained in the Definitive Agreement as of the date
+thereof, and as reaffirmed and remade as of the Closing Date;
+
+                (e)  Approval of the transaction by the requisite vote of the
+Boards of Directors of THORN and of the Company, and by the shareholders of the
+Company, as required by applicable law;
+
+                (f)  Obtaining of all required governmental and third party
+approvals and consents;
+
+                (g)  Non-occurrence of any event, fact, condition, change or
+effect that is or could be materially adverse to the business, operations,
+results of operations, condition (financial or otherwise), assets, prospects or
+liabilities of the Company;
+
+                (h)  No statute, rule, regulation, executive order, decree,
+ruling, injunction or other order having been enacted, entered, promulgated or
+enforced by any court or governmental authority of competent jurisdiction
+within the United States which prohibits the Acquisition or makes the
+Acquisition illegal;
+
+                (i)  Execution and delivery by the Company of all documents
+required by the Definitive Agreement to be delivered by
+<PAGE>   20
+
+Mr. Taylor
+July 9, 1995
+Page 4
+
+it at or prior to the Closing Date, each in form and substance acceptable to
+THORN;
+
+                (j)  Conversion or redemption, prior to the Closing Date, of
+the Preferred Stock;
+
+                (k)  Simultaneously with the execution of this proposal, the
+execution and delivery to THORN by the four majority shareholders of the
+Company of an option, voting and noncompetition agreement between THORN and
+such shareholders (the "Advantage Agreement"); and
+
+                (l)  At THORNS's option at Closing, the execution of a lease
+allowing THORN to use the Company's current office space at no cost for 30
+days; provided, however, that THORN shall pay utility and telephone expenses
+for such office space during the 30-day period.
+
+           8.   CONDITIONS PRECEDENT FOR THE COMPANY.  The obligations of the
+Company under the Definitive Agreement shall be subject to various conditions
+precedent, including but not limited to:
+
+                (a)  Compliance by THORN with the requirements of this proposal;
+
+                (b)  Performance by THORN of its covenants, obligations and
+agreements as contained in the Definitive Agreement;
+
+                (c)  The truth and accuracy of the representations and
+warranties of THORN contained in the Definitive Agreement as of the date
+thereof, and as reaffirmed and remade as of the Closing Date;
+
+                (d)  Approval of the transaction by the requisite vote of the
+Boards of Directors of THORN and of the Company, and by the shareholders of the
+Company, as required by applicable law;
+
+                (e)  Obtaining of all required governmental and third party
+approvals and consents;
+
+                (f)  No statute, rule, regulation, executive order, decree,
+ruling, injunction or other order having been enacted, entered, promulgated or
+enforced by any court or governmental authority of competent jurisdiction
+within the United States which prohibits the Acquisition or makes the
+Acquisition illegal;
+<PAGE>   21
+
+Mr. Taylor
+July 9, 1995
+Page 5
+
+                (g)  Execution and delivery by THORN of all documents required
+by the Definitive Agreement to be delivered by it at or prior to the Closing
+Date, each in form and substance acceptable to the Company; and
+
+                (h)  The receipt of an opinion from an independent firm of
+investment bankers to the effect that the purchase price for the Common Stock
+is fair from a financial point of view to the Company's shareholders other than
+the Company's shareholders who are party to the Advantage Agreement.
+
+           9.   INTERIM OPERATIONS.  From the date hereof until the date of the
+Definitive Agreement, the Company (a) will conduct its business and operations
+in the ordinary course consistent with past practice and use its best efforts
+to preserve its business organization intact, retain the services of its
+present officers and employees at current compensation levels and preserve the
+present business relationships and goodwill of its licensors, licensees,
+suppliers, distributors, customers and others having business relations with
+it; provided, however, that the Company may issue bonus and severance awards
+not to exceed $1,400,000 and transfer the land, building and equipment used by
+the Company as its home office to Mr. Taylor in exchange for consideration from
+Mr. Taylor of not less than $500,000, subject to the total equity condition set
+forth in paragraph 1 hereof; and (b) will not (i) issue any new shares of
+Common Stock (other than upon exercise of existing and outstanding stock
+options) or Preferred Stock, (ii) issue any options or other rights to acquire
+Common Stock, (iii) hire any new employee or replace any departing employee, in
+each case without THORN permission, or (iv) declare any dividends on the
+Preferred Stock other than those regular quarterly dividends declared on July
+31, 1995, not to exceed an amount equal to $42,000; provided, however, such
+declaration and subsequent payments do not result in total equity less than
+that set forth in paragraph 1 hereof.
+
+           10.  NO OTHER ARRANGEMENTS.
+
+                (a)  The Company is not engaged in any discussions or
+negotiations with third parties with respect to any Acquisition Proposal (as
+defined below).  The Company shall not, directly or indirectly, through any
+officer, director, employee, representative or agent or any of its subsidiaries
+(i) solicit, initiate or encourage any inquiries or proposals that constitute,
+or would lead to, a proposal or offer for a sale of the Common Stock or the
+Preferred Stock, merger, consolidation, business combination, sale of
+substantial assets, sale of a substantial percentage of shares of capital stock
+(including, without limitation, by way of a tender
+<PAGE>   22
+
+Mr. Taylor
+July 9, 1995
+Page 6
+
+offer) or similar transactions involving the Company or any of its
+subsidiaries, other than the transactions contemplated by this proposal, the
+Definitive Agreement or the Advantage Agreement (any of the foregoing inquiries
+or proposals being referred to in this proposal as an "Acquisition Proposal"),
+provided that the Company may respond to unsolicited inquiries and proposals,
+(ii) subject to the fiduciary duties of the Company's Board of Directors under
+applicable law, engage in negotiations or discussions concerning, or provide
+any nonpublic information to any person or entity relating to, any Acquisition
+Proposal or (iii) subject to the fiduciary duties of the Company's Board of
+Directors under applicable law, agree to, approve or recommend any Acquisition
+Proposal.  The Company may take the actions set forth in (ii) and (iii) of the
+immediately preceding sentence only upon a majority vote of the directors
+capable of voting thereon that such actions are in furtherance of the best
+interests of the Company's stockholders, and only upon a determination that the
+third-party bidder is reputable and financially responsible.
+
+                (b)  The Company shall notify THORN immediately (in no later
+than 24 hours) after receipt by the Company of any Acquisition Proposal or any
+request for nonpublic information in connection with an Acquisition Proposal or
+for access to the properties, books or records of the Company by any person or
+entity that informs the Company that it is considering making, or has made, an
+Acquisition Proposal.  Such notice shall be made orally or by facsimile and
+shall indicate the identity of the offeror and the terms and conditions of such
+proposal, inquiry or contract.
+
+                (c)  If, at any time after the date hereof and the earlier of
+the date of the Definitive Agreement or November 30, 1995, the Company (i)
+enters into an agreement relating to the sale of the Company or any substantial
+part thereof to a third party, or (ii) ceases negotiations with THORN for the
+purpose of entering into negotiations for the sale of the Company or any
+substantial part thereof to a third party, then the Company shall be liable for
+and shall promptly pay to THORN an amount equal to all of THORN's out-of-pocket
+costs, fees and expenses incurred in connection with the Acquisition, including
+but not limited to, all reasonable legal, investment banking and accounting
+fees.
+
+           11.  LITIGATION.  In connection with the Acquisition, THORN has
+agreed to, on or about July 10, 1995, file a motion to stay certain litigation
+filed by THORN in the District Court of Sedgwick County, Kansas on December 27,
+1994, against the Company.
+
+           12.  FURTHER ASSURANCES.  Subject to the fiduciary duties of the
+Company's Board of Directors under applicable law, the
+<PAGE>   23
+
+Mr. Taylor
+July 9, 1995
+Page 7
+
+Company and THORN agree to use their reasonable best efforts to obtain the
+requisite shareholder approval of, and any requisite third party or
+governmental approvals and consents with respect to, the Acquisition.  Each of
+the parties agrees to prepare and file a notification form under the
+Hart-Scott-Rodino Act of 1976, as amended, as promptly as practicable following
+the execution of this proposal.
+
+           13.  FEES AND EXPENSES.  Except as otherwise set forth in this
+proposal, THORN, on the one hand, and the Company, on the other hand, each
+shall bear its own fees and expenses in connection with the proposed
+transaction, including without limitation the negotiation and preparation of
+this proposal, the negotiation and drafting of the Advantage Agreement and
+
+
+
+                     [THIS SPACE INTENTIONALLY LEFT BLANK]
+<PAGE>   24
+
+Mr. Taylor
+July 9, 1995
+Page 8
+
+the Definitive Agreement, financial advisory fees, legal fees, finders fees and
+the obtaining of all regulatory and other approvals and consents.
+
+           14.  NO BINDING OBLIGATION.  This proposal is an expression of the
+intent of the parties only and is subject to due diligence review and to the
+other terms and conditions set forth herein.  Except for the provisions of
+Paragraphs 4, 5, 9, 10, 13 and 14, this proposal does not constitute or create,
+and shall not be deemed to constitute or create, any legally binding or
+enforceable obligation on the part of any party hereto.  No such obligation
+shall be created, except by the execution and delivery of the Definitive
+Agreement containing such terms and conditions of the proposed transaction as
+shall be agreed upon by the parties, and then only in accordance with the terms
+and conditions of the Definitive Agreement.
+
+           If the foregoing is acceptable to the Company, please so indicate
+acceptance by executing and returning the enclosed copy of this proposal prior
+to 8:30 a.m. Central Daylight Time on Monday, July 10, 1995.  We look forward
+to proceeding with this transaction.
+
+
+AGREED AND ACCEPTED:            Very truly yours,
+
+ADVANTAGE COMPANIES, INC.                  THORN AMERICAS, INC.
+
+
+
+By: /s/ Daniel J. Taylor                   By: /s/ John H. Slaymaker
+   ----------------------------------         ----------------------------------
+     Name:   Daniel J. Taylor                   Name:   John H. Slaymaker
+     Title:  Chief Executive Officer            Title:  Executive Vice President
+<PAGE>   25
+
+                              ADVANTAGE AGREEMENT
+
+           THIS AGREEMENT dated as of July 9, 1995, by and among THORN
+AMERICAS, INC., a Delaware corporation ("THORN"), and the shareholders of
+ADVANTAGE COMPANIES, INC., a Delaware corporation ("Advantage"), who are
+signatories hereto (each, a "Shareholder" and collectively, the
+"Shareholders").
+
+           WHEREAS, simultaneously with the execution and delivery of this
+Agreement, THORN and Advantage are entering into a letter of intent (the
+"Proposal"), which provides, among other things, upon the terms and subject to
+the conditions thereof, that (i) a newly formed subsidiary of THORN will be
+merged with and into Advantage in accordance with the General Corporation Law
+of the State of Delaware and (ii) each share of common stock, par value $0.01
+per share, of Advantage (the "Shares") issued and outstanding at the effective
+time of the merger will, except as otherwise expressly provided in the Proposal
+or in the Definitive Agreement (as defined in the Proposal), be converted into
+the right to receive $17.50 per Share (without interest) in cash (the "Purchase
+Price"); and
+
+           WHEREAS, in order to induce THORN to enter into the Proposal and
+subsequently, into the Definitive Agreement, each Shareholder desires to enter
+into this Agreement.
+
+           NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants and agreements contained herein, and intending to be legally bound
+hereby, THORN and the Shareholders agree as follows.
+
+           SECTION 1.      CAPITALIZED TERMS.  Capitalized terms used but not
+defined herein shall have the meanings assigned to such terms in the Proposal.
+
+           SECTION 2.      REPRESENTATIONS AND WARRANTIES OF THE SHAREHOLDERS.
+Each of the Shareholders hereby represents and warrants to THORN as follows:
+
+           (a)  Each Shareholder owns the number of equity securities of
+Advantage set forth opposite the name of such Shareholder on Schedule A hereto,
+and no Shareholder owns any equity securities of Advantage other than those
+shown on such Schedule.
+
+           (b)  Each Shareholder has good and marketable title to such
+Shareholder's Shares and Preferred Stock, free and clear of any liens,
+encumbrances, restrictions on transfer or rights of others.
+
+           (c)  Other than as disclosed on Schedule A attached hereto, there
+are no options or other rights to acquire any Shares or Preferred Stock from
+any Shareholder or any equity securities from Advantage, to which any
+Shareholder is a party, other than this Agreement.
+<PAGE>   26
+
+           (d)  The execution and delivery of this Agreement, and the
+consummation of the transactions herein provided, do not and will not violate
+any agreement binding upon any Shareholder; and this Agreement is the valid and
+binding agreement of each Shareholder, enforceable against each Shareholder in
+accordance with its terms.
+
+           SECTION 3.      REPRESENTATIONS AND WARRANTIES OF THORN.  THORN
+hereby represents and warrants to the Shareholders that this Agreement has been
+duly authorized by all necessary corporate action on the part of THORN, has
+been duly executed by a duly authorized officer of THORN and constitutes a
+valid and binding agreement of THORN enforceable against THORN in accordance
+with its terms.
+
+           SECTION 4.      COVENANTS.  Each Shareholder agrees:
+
+           (a)  not to (either directly or indirectly) sell, transfer, pledge,
+assign, hypothecate or otherwise dispose of, or enter into any contract, option
+or other arrangement or understanding with respect to the sale, transfer,
+pledge, assignment, hypothecation or other disposition of such Shareholder's
+Shares, Preferred Stock or options or other rights to obtain an equity interest
+in Advantage;
+
+           (b)  not to (either directly or indirectly) grant any proxy to any
+person regarding his\her ownership of any Shares or Preferred Stock, deposit
+such securities into a voting trust or enter into a voting agreement regarding
+such securities that would be inconsistent with the terms of this Agreement;
+
+           (c)  not to (either directly or indirectly) take any action which
+would make any representation, warranty or covenant of such Shareholder untrue
+or incorrect; and
+
+           (d)  to convert into Shares all of such Shareholder's shares of
+Preferred Stock prior to the Closing Date.
+
+           SECTION 5.      VOTING AGREEMENT; PROXY.
+
+           (a)  For so long as this Agreement is in effect, the Shareholders
+shall vote, or cause to be voted, all of their respective Shares in favor of
+the approval and adoption of the merger as provided for in the Definitive
+Agreement and the transactions contemplated therein.
+
+           (b)  For so long as this Agreement is in effect, in any meeting of
+the stockholders of Advantage, however called, and in any action by consent of
+the stockholders of Advantage, the Shareholders shall vote or cause to be voted
+all of their respective Shares:  (i) against any action or agreement that would
+result in a breach in any material respect of any covenant, representation or
+warranty or any other obligation of Advantage under the Proposal or the
+Definitive Agreement or of the Shareholders under this Agreement; and (ii)
+against any action or
+
+
+
+
+
+                                       2
+<PAGE>   27
+
+agreement that would impede, interfere with or discourage the transactions
+contemplated by the Proposal or the Definitive Agreement, including, without
+limitation:  (1) any extraordinary corporate transaction, such as a merger,
+reorganization or liquidation involving Advantage or any of its subsidiaries,
+(2) a sale or transfer of a material amount of assets of Advantage or any of
+its subsidiaries or the issuance of securities by Advantage or any of its
+subsidiaries; provided,  however, that Advantage may issue bonus and severance
+awards and transfer the land, building and equipment used by Advantage as its
+home office to Mr. Taylor subject to the total equity condition set forth in
+paragraph 1 of the Proposal, (3) any change in the Advantage Board of Directors
+(other than as contemplated by the Proposal or the Definitive Agreement), (4)
+any change in the present capitalization or dividend policy of Advantage or any
+of its subsidiaries (other than as contemplated by the Proposal or the
+Definitive Agreement) or (5) any other material change in Advantage's or any of
+its subsidiaries' corporate structure or business.
+
+           (c)  Upon the execution of this Agreement, each Shareholder shall
+grant THORN an irrevocable proxy appointing THORN or its designee(s), with full
+power of substitution, its attorney and proxy to vote all such Shareholder's
+Shares at any meeting of the stockholders of Advantage, however called, or in
+connection with any action by written consent by the stockholders of Advantage.
+Each Shareholder acknowledges and agrees that such proxy, if and when given,
+will be coupled with an interest, will be irrevocable and shall not be
+terminated by operation of law or otherwise upon the occurrence of any event
+and that no subsequent proxies will be given (and if given will not be
+effective).
+
+           SECTION 6.      OPTION TO PURCHASE SHAREHOLDERS' SHARES AND
+PREFERRED STOCK.
+
+           (a)  Each Shareholder grants to THORN an irrevocable option (the
+"Option") (i) to purchase all Shares owned by such Shareholder at the Option
+Closing (as defined below) at the Purchase Price multiplied by the number of
+Shares owned by such Shareholder and (ii) to purchase all shares of Preferred
+Stock owned by such Shareholder at the Option Closing at the Purchase Price
+multiplied by fifty for each share of Preferred Stock so purchased (all such
+amounts being the "Aggregate Purchase Price"), all payable at the Option
+Closing.
+
+           (b)  The Option may be exercised by THORN at any time during the
+period commencing on the date first above written and ending on the Expiration
+Date (as defined below); provided, however, that the Option must be exercised
+with respect to the Shares and Preferred Stock of all Shareholders.
+
+           (c)  In the event that THORN wishes to exercise the Option, THORN
+shall give written notice to each Shareholder of its intention to exercise the
+Option.  The closing of the purchase of the Shareholders' Shares and Preferred
+Stock hereunder (the "Option Closing") shall take place in Wichita, Kansas, on
+a date and at a
+
+
+
+
+
+                                       3
+<PAGE>   28
+
+time designated by THORN at the time that it gives notice of its intention to
+exercise the Option (which date and time may be one day after the delivery of
+such notice or earlier if reasonably practicable).
+
+           (d)  The Option shall expire on November 30, 1995 (the "Expiration
+Date"), except that if the Option cannot be exercised by reason of any
+applicable judgment, decree or order granted upon the application of the
+Shareholders, the Expiration Date of the Option shall be extended until five
+business days after such impediment to exercise shall have been removed.
+
+           (e)  In the event THORN exercises the Option, THORN shall make
+payment of the Aggregate Purchase Price to the Shareholders at the Option
+Closing by delivering immediately available funds.  At the Option Closing, the
+Shareholders shall transfer, assign and deliver to THORN certificates
+evidencing the Shares and Preferred Stock, which shall be duly endorsed in
+blank, or be accompanied by stock powers duly executed in blank, with all
+necessary transfer tax stamps affixed and cancelled and signatures guaranteed.
+
+           (f)  In the event THORN exercises the Option, THORN and the
+Shareholders each will execute and deliver all such further documents and
+instruments and take all such further action as may be necessary in order to
+consummate the transactions contemplated hereby.
+
+           (g)  In the event of any change in the number of Shares or Preferred
+Stock outstanding by recapitalization, declaration of a stock split or
+combination or payment of a stock dividend, the exercise of stock options,
+conversion of preferred stock or the like, the number of Shares or shares of
+Preferred Stock, as the case may be, subject to the Option and the per share
+payments to be made to the Shareholders shall be adjusted appropriately.
+
+
+           SECTION 7.      NONCOMPETITION.
+
+           The provisions of this Section 7 will not be applicable until THORN
+purchases the Shares and the Preferred Stock.
+
+           (a)  The Shareholders hereby acknowledge that the identity and
+particular needs of THORN'S and Advantage's clients are not generally known and
+are confidential information; that, in THORN'S and Advantage's business,
+information is an extremely valuable commodity because of the importance of
+marketing and business strategies with respect to profitability; that THORN and
+Advantage have a proprietary interest in the information concerning the
+identity of its clients, its marketing and business strategies, and its prices
+and profit margins; that THORN and Advantage have a legitimate interest in
+preserving and protecting its customer contacts and good will; that THORN and
+Advantage's customer lists, marketing information, price lists, accounting
+procedures, business plans and the like are the private, privileged, and
+confidential information of THORN and Advantage respectively; and that THORN
+and
+
+
+
+
+
+                                       4
+<PAGE>   29
+
+Advantage have a legitimate interest in protecting their confidential
+information and other proprietary information from even the threat of
+disclosure.
+
+           (b)  The Shareholders jointly and severally agree that they shall
+not directly or indirectly, individually or with others, engage in the business
+of rent-to-own, rentals or retail installment sales transactions of consumer
+household durable goods, including televisions, video cassette recorders,
+stereos, furniture, appliances, jewelry, pagers, computers or like or similar
+household durable goods merchandise rented or sold by THORN,  or any
+subsidiary, affiliate or franchisee thereof, for a period of five years
+following the purchase of Shares and the Preferred Stock by THORN, at any
+location within the United States of America.
+
+           (c)  During the term of the Shareholders's franchise relationship,
+the Shareholders have had access to and become familiar with the confidential
+information and other proprietary information of THORN and Advantage, including
+but not limited to the information referred to in paragraph (a) above.  The
+Shareholders acknowledge that such information is owned by and shall continue
+to be owned solely by THORN and Advantage.  The Shareholders jointly and
+severally agree that they will not, individually or with others, directly or
+indirectly, at any time in the future following the purchase of the Shares and
+the Preferred Stock by THORN, divulge, communicate, use to the detriment of
+THORN, or any subsidiary or affiliate thereof, or for the benefit of any person
+or organization any Proprietary Information.  As used in this Agreement,
+"Proprietary Information" means information disclosed as a result of or related
+to such Shareholder's relationship with Advantage or any of its affiliates,
+whether or not acquired during business hours, concerning Advantage's or it
+affiliates' business, research activities, operations, products, manufacturing
+or other processes, services, customers, customer scattergrams, customer lists,
+vendors and costs and pricing policies, including, but not limited to,
+information relating to research, development, marketing demographics, methods,
+expertise, techniques, inventions, equipment, purchasing, merchandising and
+selling, including, but not limited to, reports relating to inventory,
+administration, profit and loss, and similar financial documents; provided,
+however, this prohibition will not include any information (i) known generally
+to the public, (ii) accessible to third parties on an unrestricted basis or
+(iii) of a type generally considered nonconfidential by persons engaged in the
+same or similar business.
+
+           (d)  The Shareholders jointly and severally agree that for a period
+of five years following the purchase of the Shares and the Preferred Stock by
+THORN, they will not, directly or indirectly, solicit the employment or
+engagement of the consulting or other services of any person who shall then be
+employed by THORN or who shall have been employed by THORN or any subsidiary or
+affiliate thereof (including Advantage or Tidewater Rental Corp.),
+
+
+
+
+
+                                       5
+<PAGE>   30
+
+at any time within the previous six months, except as provided in the
+Definitive Agreement.
+
+           (e)  The Shareholders acknowledge that each has carefully read and
+considered the provisions of this Section 7 and, having done so, agree that the
+restrictions are reasonable and necessary restrictions for purposes of
+protecting the value received by THORN, which includes the expectation of THORN
+or any subsidiary or affiliate thereof, of expanding their business without
+competition from the Shareholders for a five-year period following the purchase
+of the Shares and the Preferred Stock by THORN, and for an indefinite period
+regarding the confidentiality provisions in Section 7(c).  The parties further
+agree that the geographic area described in Section 7(b) above are reasonable.
+
+           (f)  In the event that, notwithstanding the foregoing, any part of
+the covenants set forth in this Section 7 shall be held to be invalid or
+unenforceable, the remaining parts thereof shall nevertheless continue to be
+valid and enforceable as though the invalid or unenforceable parts had not been
+included therein.  In the event that any provision of this Section 7 relating
+to time periods and/or areas of restriction shall be declared by a court of
+competent jurisdiction to exceed the maximum time period or areas such court
+deems reasonable and enforceable, said time period and/or areas of restriction
+shall be deemed to become and thereafter be the maximum time period and/or
+areas which such court deems reasonable and enforceable.  Any provision of this
+Section 7 otherwise prohibited by or unenforceable under any applicable law or
+public policy in any jurisdiction which cannot be reformed in accordance with
+the provisions herein shall, as to such jurisdiction, be ineffective without
+affecting any other provision of this Section or shall be deemed to be severed
+or otherwise modified to conform with such law or public policy; and the
+remaining provisions of this Agreement shall remain in force, provided that the
+purpose of this Agreement can be effected.  To the full extent, however, that
+the provisions of such applicable law or public policy may be waived, this
+Agreement shall be deemed to be a waiver thereof.  The parties hereto
+understand and agree that all of the covenants set forth herein are and shall
+be separately enforceable, and the parties shall promptly meet to negotiate a
+substitute for any invalid provision in order to preserve, to the extent
+legally possible, the original intent of this Agreement.
+
+           (g)  It is agreed by the parties hereto that THORN would be
+irreparably damaged by reason of any violation of the provisions of this
+Section 7 and that any remedy at law for a breach of the provisions of this
+Section would be inadequate.  Therefore, THORN shall be entitled to seek
+injunctive or other equitable relief in a court of competent jurisdiction
+against the Shareholders, their agents, employees, affiliates, partners or
+other associates, for any breach or threatened breach of this Section without
+the necessity of proving actual monetary loss.  It is expressly understood that
+the remedy described in this Section 7(g) shall not be the exclusive remedy of
+THORN for any breach of this Agreement,
+
+
+
+
+
+                                       6
+<PAGE>   31
+
+and THORN shall be entitled to seek such other relief or remedy, at law or in
+equity, to which it may be entitled as a consequence of any breach of this
+Agreement, including its expenses in enforcing this Section 7, including
+attorneys' fees.
+
+           SECTION 8.      NO SOLICITATION.
+
+           (a)  None of the Shareholders is engaged in any discussions or
+negotiations with third parties with respect to any Acquisition Proposal (as
+defined below).  The Shareholders shall not, individually or with others,
+directly or indirectly, through any employee, representative or agent (i)
+solicit, initiate or encourage any inquiries or proposals that constitute, or
+would lead to, a proposal or offer for a sale of the Shares or the Preferred
+Stock, a merger, consolidation, business combination, sale of substantial
+assets, sale of a substantial percentage of Shares of capital stock (including,
+without limitation, by way of a tender  offer) or similar transactions
+involving Advantage or any of its subsidiaries, other than the transactions
+contemplated by this Agreement, the Proposal or the Definitive Agreement (any
+of the foregoing inquiries or proposals being referred to in this Agreement as
+an "Acquisition Proposal"), (ii) engage in negotiations or discussions
+concerning, or provide any nonpublic information to any person or entity
+relating to, any Acquisition Proposal or (iii) agree to, approve or recommend
+any Acquisition Proposal.
+
+           (b)  The Shareholders shall notify THORN immediately (in no later
+than 24 hours) after receipt by any Shareholder of any Acquisition Proposal or
+any request for non-public information in connection with an Acquisition
+Proposal or for access to the properties, books or records of Advantage by any
+person or entity that informed such party that it is considering making, or has
+made, an Acquisition Proposal.  Such notice shall be made orally or by
+facsimile and shall indicate in reasonable detail the identity of the offeror
+and the terms and conditions of such proposal, inquiry or contract.
+
+           SECTION 9.      PUBLIC ANNOUNCEMENTS.  THORN and the Shareholders
+will consult with each other before issuing any press release with respect to
+the transactions contemplated by this Agreement, the Proposal and the
+Definitive Agreement, and shall not issue any press release prior to such
+consultation, except as may be required by applicable law.  Promptly upon
+execution of this Agreement and the Proposal, THORN and Advantage shall issue a
+joint press release.
+
+           SECTION 10.     SPECIFIC PERFORMANCE.  The parties hereto agree that
+irreparable damage would occur in the event any provision of this Agreement was
+not performed in accordance with the terms hereof and that the parties shall be
+entitled to specific performance of the terms hereof, in addition to any other
+remedy at law or in equity.
+
+
+
+
+
+                                       7
+<PAGE>   32
+
+           SECTION 11.     EXPENSES.  Each party shall bear its own expenses
+and costs in connection with this Agreement and the transactions contemplated
+hereby.
+
+           SECTION 12.     SURVIVAL.  Except as otherwise set forth in this
+Agreement, all of the representations, warranties and covenants contained
+herein shall survive the exercise of the Option and the Closing Date
+indefinitely and shall be deemed to have been made as of the date hereof and as
+of the Closing Date.  Notwithstanding anything contained herein to the
+contrary, the representations, warranties and covenants made herein by the
+Shareholders shall be joint and several.
+
+           SECTION 13.     AMENDMENT; ASSIGNMENT.  This Agreement may not be
+modified, amended, altered or supplemented except upon the execution and
+delivery of a written agreement executed by the parties hereto.  No party to
+this Agreement may assign any of its rights or obligations under this Agreement
+without the prior written consent of the other parties and provided that such
+transferee agrees in writing to be bound under this Agreement; provided,
+however, that THORN may assign its rights under this Agreement to an affiliate,
+and an affiliate may assign its rights under this Agreement to another
+affiliate of THORN or to THORN.  As used herein, "THORN" includes THORN and its
+affiliates.
+
+           SECTION 14.     PARTIES IN INTEREST.  This Agreement shall be
+binding upon and inure solely to the benefit of each party hereto and its
+successors and permitted assigns, and nothing in this Agreement, express or
+implied, is intended to or shall confer upon any other person any rights,
+benefits or remedies of any nature whatsoever.
+
+           SECTION 15.     NOTICES.  All notices, requests, claims, demands and
+other communications hereunder, unless this Agreement expressly provides
+otherwise, shall be in writing and shall be given (and shall be deemed to have
+been duly given upon receipt) by delivery in person, by facsimile or by
+registered or certified mail (postage prepaid, return receipt requested), to
+the other party as follows:
+
+
+           (a)  If to THORN, to:
+
+                THORN Americas, Inc.
+                8200 East Rent-A-Center Drive
+                Wichita, Kansas 67226-2799
+                Fax:  316-636-7328
+                Attention:      P. David Egan, Senior Vice President and
+                           General Counsel
+
+                with a copy to:
+
+
+
+
+
+                                       8
+<PAGE>   33
+
+                Shook, Hardy & Bacon P.C.
+                One Kansas City Place
+                1200 Main Street
+                Kansas City, Missouri 64105-2118
+                Fax:  816-421-5547
+                Attention:  Jennings J. Newcom
+
+           (b)  If to the Shareholders, to:
+
+                Daniel J. Taylor
+                9323 East 37th Street North
+                Wichita, Kansas 67226-2000
+                Fax: 316-634-3340
+
+                and
+
+                Robert W. Moore
+                9323 East 37th Street North
+                Wichita, Kansas 67226-2000
+                Fax: 316-634-3340
+
+
+                and
+
+                Daniel M. Carney
+                9323 East 37th Street North
+                Wichita, Kansas 67226-2000
+                Fax: 316-634-3340
+
+
+                and
+
+                Leslie G. Rudd
+                9323 East 37th Street North
+                Wichita, Kansas 67226-2000
+                Fax: 316-634-3340
+
+
+                with a copy to:
+
+                Advantage Companies, Inc.
+                9323 East 37th Street North
+                Wichita, Kansas 67226-2000
+                Fax: 316-634-3340
+                Attention:      Law Department
+
+                and
+
+                Shughart, Thomson & Kilroy, P.C.
+                1800 Twelve Wyandotte Plaza
+                120 West 12th Street
+                Kansas City, Missouri 64105
+                Fax: 816-374-0509
+                Attention:      Robert T. Schendel
+
+
+
+
+
+                                       9
+<PAGE>   34
+
+           SECTION 16.     GOVERNING LAW.  This Agreement shall be governed by
+and construed in accordance with the laws of the State of Kansas without giving
+effect to the provisions thereof relating to conflicts of laws.
+
+           SECTION 17.     TERMINATION.  This Agreement shall terminate, unless
+this Agreement expressly provides otherwise, upon the earlier of (i) the
+Closing Date, (ii) the Expiration Date or (iii) notice of termination being
+given by THORN to the Shareholders.  No such termination shall relieve any
+party from liability for any breach of this Agreement.
+
+           SECTION 18.     SEVERABILITY.  The provisions of this Agreement
+shall be deemed severable and the invalidity or unenforceability of any
+provision shall not affect the validity or enforceability of the other
+provisions hereof.  If any provision of this Agreement, or the application
+thereof to any person or entity or any circumstance, is invalid or
+unenforceable, (a) a suitable and equitable provision shall be substituted
+therefor in order to carry out, so far as may be valid and enforceable, the
+intent and purpose of such invalid and unenforceable provision and (b) the
+remainder of this Agreement and the application of such provision to other
+persons, entities or circumstances shall not be affected by such invalidity or
+unenforceability, nor shall such invalidity or unenforceability affect the
+validity or enforceability of such provision, or the application thereof, in
+any other jurisdiction.
+
+           SECTION 19.     ENTIRE AGREEMENT.  This Agreement constitutes the
+entire agreement among the parties hereto with respect to the subject matter
+hereof and supersedes all other prior agreements and understandings, both
+written and oral, among the parties with respect to the subject matter hereof.
+
+           SECTION 20.     DESCRIPTIVE HEADINGS.  The descriptive headings
+herein are inserted for convenience of reference only and are not intended to
+be part of or to affect the meaning or interpretation of this Agreement.
+
+
+
+
+
+                                       10
+<PAGE>   35
+
+           SECTION 21.     CONSENT TO JURISDICTION.  Each of the parties hereto
+hereby irrevocably and unconditionally consents to submit to jurisdiction of
+the courts of the State of Kansas for any litigation arising out of or relating
+to this Agreement and the transactions contemplated hereby, waives any
+objection to laying of venue of any such litigation in the courts located in
+the State of Kansas and agrees not to plead or claim in any court in the State
+of Kansas that such litigation brought therein has been brought in an
+inconvenient forum.
+
+           SECTION 22.     COUNTERPARTS.  This Agreement may be executed in two
+or more counterparts, each of which shall be deemed to be an original, but all
+of which shall constitute one and the same agreement.
+
+           IN WITNESS WHEREOF, THORN and the Shareholders have caused this
+Agreement to be duly executed on the date first above written.  
+
+                                     THORN AMERICAS, INC.
+
+
+
+                                     By: /s/ John H. Slaymaker
+                                     ----------------------------------
+                                     Name:    John H. Slaymaker
+                                     Title:    Executive Vice President
+
+                                     SHAREHOLDERS:
+
+
+                                     /s/ Daniel J. Taylor
+                                     ----------------------------------
+                                     Daniel J. Taylor
+
+
+                                     /s/ Robert W. Moore
+                                     ----------------------------------
+                                     Robert W. Moore
+
+
+                                     /s/ Daniel M. Carney
+                                     ----------------------------------
+                                     Daniel M. Carney
+
+                                     /s/ Leslie G. Rudd
+                                     ----------------------------------
+                                     Leslie G. Rudd
+
+
+
+
+
+                                       11
+<PAGE>   36
+
+                                   SCHEDULE A
+
+                                   ADVANTAGE
+
+<TABLE>
+<CAPTION>
+                         SHARES OF        SHARES OF         TOTAL SHARES
+NAME                      COMMON          PREFERRED        OF COMMON STOCK
+DATE 1                     STOCK            STOCK            AT CLOSING 
+- ------                     -----            -----          --------------- 
+<S>                      <C>              <C>              <C>
+Daniel J. Taylor           960,750          3,800             1,150,750
+
+Robert W. Moore            849,310          3,900             1,044,310
+
+Daniel M. Carney           797,600          2,300               912,600
+
+Leslie G. Rudd             661,262           None               661,262
+                         ---------         ------             ---------
+                         3,268,922         10,000             3,768,922
+</TABLE>
+
+________________________
+1. Assuming conversion of Preferred Stock.
+
+                                       12
+<PAGE>   37
+
+FOR IMMEDIATE RELEASE:
+
+THORN Americas to Acquire
+Advantage Companies, Inc. and Tidewater Rental Corp.
+
+
+July 10, 1995: Wichita, KS -- Advantage Companies, Inc. (Nasdaq:ADVG) and THORN
+Americas, Inc. today announced the signing of a letter of intent for THORN to
+acquire Advantage Companies, Inc., a Delaware corporation that owns 100 percent
+of the outstanding stock of COMCOA, Inc.  and AdvantEdge Rental Purchase, Inc.
+COMCOA Inc. is a THORN franchisee operating 98 Rent-A-Center stores in Florida,
+Alabama, Mississippi and Georgia.  AdvantEdge operates six rental-purchase
+stores in Colorado and Indiana.
+
+The transaction, with a purchase price of $18.50 per publicly held share of
+Advantage Companies, Inc. common stock, is subject to negotiation of a
+definitive merger agreement and legal and governmental clearance, and the
+approval process of the two companies.  Certain majority shareholders of
+Advantage Companies have entered into an option agreement in which they will
+vote in favor of the sale and grant THORN the option to purchase their security
+holdings at $17.50 per share.  As part of the transaction, THORN has agreed to
+file a motion to stay certain litigation filed by THORN in the District Court
+of Sedgwick County, Kansas, on December 27, 1994, against Advantage Companies.
+
+In a separate development, the controlling shareholders of Tidewater Rental
+Corp., a privately held company affiliated with Advantage Companies, Inc.
+entered a letter of intent for Tidewater to be acquired by THORN.  Tidewater is
+a THORN franchisee, operating 20 Rent-A-Center stores in Virginia.
+
+Daniel J. Taylor, chairman and chief executive officer of Advantage Companies,
+Inc. stated, "We are very pleased to announce the proposed merger with THORN,
+whom we are confident will continue valued relationships with our customers and
+employees, at a cash price which maximizes value for our shareholders."
+
+"These acquisitions will be good additions to THORN Americas for an obvious
+reason:  We have enjoyed a strong relationship with COMCOA and Tidewater as
+Rent-A-Center franchisees, and we know their stores have been operated in a
+well-managed, customer-service oriented manner," said Walter E. "Bud" Gates,
+Chairman and Chief Executive Officer of THORN Americas.
+
+THORN Americas and its franchisees constitute the largest rental-purchase
+operation in the United States, currently with 1,168 Rent-A-Center stores in 49
+states and the District of Columbia.  THORN also operates 19 Rent-A-Center
+stores in Canada, and 121 Remco stores in 16 states.
+
+The reported closing price for Advantage common stock on Friday, July 7, 1995,
+was $16 per share.  CONTACT:  A. Tracy Burton of Advantage Companies, Inc.,
+316-634-0333.
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

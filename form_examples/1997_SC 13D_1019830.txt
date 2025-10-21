@@ -1,0 +1,394 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EF9X2++SHjAMyzc4NL884KozSx8T6VZsuDNBiuxv8dq6/pu959jKueuiO8Us0WeK
+ 0RCYNIsFK5KQ96jjhqWWQg==
+
+<SEC-DOCUMENT>0000891554-97-000224.txt : 19970222
+<SEC-HEADER>0000891554-97-000224.hdr.sgml : 19970222
+ACCESSION NUMBER:		0000891554-97-000224
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970218
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MOORE BENJAMIN & CO
+		CENTRAL INDEX KEY:			0000276999
+		STANDARD INDUSTRIAL CLASSIFICATION:	PAINTS, VARNISHES, LACQUERS, ENAMELS & ALLIED PRODUCTS [2851]
+		IRS NUMBER:				135256230
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-30010
+		FILM NUMBER:		97537169
+
+	BUSINESS ADDRESS:	
+		STREET 1:		51 CHESTNUT RIDGE RD
+		CITY:			MONTVALE
+		STATE:			NJ
+		ZIP:			07645
+		BUSINESS PHONE:		2015739600
+
+	MAIL ADDRESS:	
+		STREET 1:		51 CHESTNUT RIDGE RD
+		CITY:			MONVALE
+		STATE:			NJ
+		ZIP:			07645
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DUPUY YVAN
+		CENTRAL INDEX KEY:			0001019830
+		STANDARD INDUSTRIAL CLASSIFICATION:	PAINTS, VARNISHES, LACQUERS, ENAMELS & ALLIED PRODUCTS [2851]
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		51 CHESTNUT RIDGE RD
+		CITY:			MONTVALE
+		STATE:			NJ
+		ZIP:			07645
+		BUSINESS PHONE:		2015739600
+
+	MAIL ADDRESS:	
+		STREET 1:		51 CHESTNUT RIDGE RD
+		CITY:			MONVALE
+		STATE:			NJ
+		ZIP:			07645
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+
+                                   -------------------------------------------
+                                                  OMB APPROVAL
+                                   -------------------------------------------
+                                     OMB Number:                              
+                                     Expires:                                 
+
+                                     Estimated average burden
+                                     hours per form...................        
+
+                                   -------------------------------------------
+
+
+
+
+                                  UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                 SCHEDULE 13D
+
+                   Under the Securities Exchange Act of 1934
+                          (Amendment No.__________)(1)
+
+
+
+                              Benjamin Moore & Co.
+
+                                (Name of Issuer)
+
+
+                     Common Stock, Par Value $10. Per Share
+                         (Title of Class of Securities)
+
+
+
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+
+
+John T. Rafferty, 51 Chestnut Ridge Road, Montvale, NJ  07645 (201) 573-9600
+- --------------------------------------------------------------------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+
+April 18, 1996 - Appointment as successor trustee and one of three trustees of 
+    Issuer's ESOP which has been a 5% reporting person on Schedule 13G since
+                               December 31, 1990
+- --------------------------------------------------------------------------------
+                      (Date of Event which Requires Filing
+                               of this Statement)
+
+If the filing person has previously  filed a statement on Schedule 13G to report
+the  acquisition  which is the subject of this  Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Note: Six copies of this statement, including all exhibits, should be filed with
+the  Commission.  See Rule  13d-1(a) for other  parties to whom copies are to be
+sent.
+
+(1) The  remainder  of this  cover  page  shall be  filled  out for a  reporting
+person's  initial  filing on this  form with  respect  to the  subject  class of
+securities,  and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+                        (Continued on following page(s))
+
+
+                               Page 1 of 5 Pages
+<PAGE>
+
+CUSIP No.                        Schedule 13D                   
+
+
+
+- --------------------------------------------------------------------------------
+   1   NAME OF REPORTING PERSON
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+
+
+       Yvan Dupuy
+- --------------------------------------------------------------------------------
+   2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                             (a)  [  ]
+                                                             (b)  [x ]
+
+
+- --------------------------------------------------------------------------------
+   3   SEC USE ONLY
+
+
+
+
+- --------------------------------------------------------------------------------
+   4   SOURCE OF FUNDS*
+
+
+
+       No Funds Involved
+- --------------------------------------------------------------------------------
+   5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO 
+       ITEMS 2(d) OR 2(e)                                         [  ]
+
+       Not Applicable
+- --------------------------------------------------------------------------------
+   6   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+
+       Canada
+- --------------------------------------------------------------------------------
+   NUMBER OF      7    SOLE VOTING POWER
+     SHARES            4,740
+  BENEFICIALLY    --------------------------------------------------------------
+    OWNED BY      8    SHARED VOTING POWER
+      EACH             484,296
+   REPORTING      --------------------------------------------------------------
+     PERSON       9    SOLE DISPOSITIVE POWER
+      WITH             4,740
+                  --------------------------------------------------------------
+                  10   SHARED DISPOSITIVE POWER
+                       484,296
+
+- --------------------------------------------------------------------------------
+  11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+       489,036
+
+- --------------------------------------------------------------------------------
+  12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+                                                                      [  ]
+
+- --------------------------------------------------------------------------------
+  13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+       5.4% based on 9,033,585 shares outstanding on December 31, 1996
+
+- --------------------------------------------------------------------------------
+  14   TYPE OF REPORTING PERSON*
+
+       IN
+
+
+- --------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                               Page 2 of 5 Pages
+<PAGE>
+
+                                  Schedule 13D
+
+
+Item 1.  Security and Issuer
+
+         Common Stock, Par Value $10.00 Per Share
+         Benjamin Moore & Co.
+         51 Chestnut Ridge Road
+         Montvale, New Jersey  07645
+
+
+Item 2.  Identity and Background
+
+         (a)     Yvan Dupuy
+
+         (b)     Benjamin Moore & Co.
+                 51 Chestnut Ridge Road
+                 Montvale, New Jersey  07645
+
+         (c)     President,  Director,  Benjamin  Moore  & Co.;  Manufacture,
+                 sale and distribution of a broad line of coatings (paints,
+                 stains and clear finishes) and production finishes coatings.
+
+         (d)     No.
+
+         (e)     No.
+ 
+         (f)     Canada
+
+
+Item 3.  Source and Amount of Funds or Other Consideration
+
+         No funds involved. Reporting person is one of three trustees of the
+         Benjamin Moore & Co. Employees' Stock Ownership Plan.
+
+
+Item 4.  Purpose of Transaction
+
+         (a) through (j)
+
+         None.
+
+
+Item 5.  Interest in Securities of the Issuer
+
+         (a)     489,036 -- 5.4%.  The 489,036 shares consist of 4,740 shares as
+                 to which there is sole voting and dispositive power and 484,296
+                 shares as to which there is shared voting and dispositive
+                 power.
+
+                               Page 3 of 5 Pages
+
+<PAGE>
+
+                                  Schedule 13D
+
+                 The  484,296 shares are held by the Issuer's Employees' Stock
+                 Ownership Plan at December 31, 1996, which shares are voted at
+                 the direction of the employee participants, and of which Plan
+                 the reporting person is one of three trustees.
+
+                 At December 31, 1996 there were 9,033,585 shares of Common
+                 Stock, Par Value $10.00 Per Share, issued and outstanding.
+
+         (b)     sole power to vote or to direct the vote:   4,740
+
+                 shared power to vote or to direct the vote:   484,296
+
+                 sole power to dispose or to direct the disposition
+                 of:   4,740
+
+                 shared power to dispose or to direct the disposition
+                 of:  484,296
+
+         There are 484,296 allocated and unallocated shares in the Employees'
+         Stock Ownership Plan ("Plan") included in the 489,036 shares mentioned
+         above. The reporting person, Yvan Dupuy, has been a trustee of the Plan
+         since April 18, 1996. The Plan became a reporting person on December 
+         31, 1990 and first filed a Schedule 13G on February 14, 1991. 
+         Amendments of Schedule 13G have been filed annually. The proxy
+         statements of Benjamin Moore & Co. for its Annual Meetings of
+         Shareholders in each year from 1983 to and including 1996 have reported
+         the names of the trustees of the Plan, and the number of shares held by
+         the Plan. Each of the Issuer's employees and former employees who is a
+         participant in the Plan is entitled to instruct the trustees of the
+         Plan (currently Benjamin M. Belcher, Jr., Yvan Dupuy and Richard Roob)
+         as to how to vote the shares allocated to the account of such person.
+         Under the Plan the trustees vote securities for which they have not
+         received voting instruction from the participant and securities not
+         allocated to any participant's account in the same manner and
+         proportion as the voting of securities of participants who gave timely 
+         voting instructions.
+
+         Also, with respect to these 484,296 shares in the Plan, in the event of
+         a tender offer for shares in the Plan, under the Plan each Plan
+         participant may direct the trustees to tender or not tender the shares
+         credited to such participant's account under the Plan. The trustees are
+         obligated to follow such directions timely received. The trustees shall
+         also tender a fraction of the unallocated shares held by the Plan, with
+         the numerator of the fraction equal to the number of shares allocated
+         to participants' accounts for which the
+
+                                Page 4 of 5 Pages
+
+<PAGE>
+
+                                  Schedule 13D
+
+
+
+         trustees have received instructions from participants to tender and the
+         denominator of the fraction equal to the total number of shares
+         allocated to participants' accounts. Although the trustees do not 
+         normally trade shares, under certain circumstances a participant may
+         give instructions regarding such participant's account which may result
+         in the transfer of shares by the trustees.
+
+         (c)     Not Applicable
+
+         (d)     Not Applicable.
+
+         (e)     Not Applicable.
+
+Item 6.  Contracts, Arrangements,  Understandings or  Relationships with Respect
+         to Securities of the Issuer.
+
+         None.
+
+
+Item 7.  Material to be Filed as Exhibits
+
+         None.
+
+
+
+                                   Signature
+
+
+     After  reasonable  inquiry and to the best of my  knowledge  and belief,  I
+certify that the information  set forth in this statement is true,  complete and
+correct.
+                                       
+Date:  February 14, 1997                     /s/ Yvan Dupuy
+                                             -----------------------------------
+                                             Signature
+                                             Yvan Dupuy
+                                             Individual
+                                             
+
+                                Page 5 of 5 Pages
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3481 @@
+<SEC-DOCUMENT>0000807249-24-000052.txt : 20240501
+<SEC-HEADER>0000807249-24-000052.hdr.sgml : 20240501
+<ACCEPTANCE-DATETIME>20240501160114
+ACCESSION NUMBER:		0000807249-24-000052
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240501
+DATE AS OF CHANGE:		20240501
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRATTEC SECURITY CORP
+		CENTRAL INDEX KEY:			0000933034
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				391804239
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44639
+		FILM NUMBER:		24902827
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3333 WEST GOOD HOPE ROAD
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53209
+		BUSINESS PHONE:		4142473333
+
+	MAIL ADDRESS:	
+		STREET 1:		3333 W GOOD HOPE ROAD
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53209
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAMCO INVESTORS, INC. ET AL
+		CENTRAL INDEX KEY:			0000807249
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				133056041
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		191 MASON STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		9149215000
+
+	MAIL ADDRESS:	
+		STREET 1:		191 MASON STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GABELLI ASSET MANAGEMENT INC ET AL
+		DATE OF NAME CHANGE:	20020828
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GABELLI FUNDS INC ET AL
+		DATE OF NAME CHANGE:	19940714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>strt_38.htm
+<TEXT>
+<html>
+  <head>
+    <title>&#160;</title>
+    <!-- Licensed to: GAMCO Investors, Inc.
+         Document created using Broadridge PROfile 24.3.1.5224
+         Copyright 1995 - 2024 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt;">
+  <!--PROfilePageNumberReset%Num%1%%%-->
+  <div id="TRGRSegment:e6411d89-ef6e-4ad9-a23e-2c433f146ee0">
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="text-align: center; font-weight: bold;">Washington, D.C. 20549</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">SCHEDULE 13D</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-weight: bold;">Under the Securities Exchange Act of 1934 (Amendment No. 38)</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">Strattec Security Corporation</div>
+    <div>
+      <div style="text-align: center;">(Name of Issuer)</div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">Common Stock</div>
+    <div>
+      <div style="text-align: center;">(Title of Class of Securities)</div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">________</font><u>863111100</u>_________</div>
+    <div style="text-align: center;"><u>(CUSIP Number)</u></div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">David Goldman</div>
+    <div style="text-align: center;">GAMCO Investors, Inc.</div>
+    <div style="text-align: center;">One Corporate Center</div>
+    <div style="text-align: center;">Rye, New York 10580-1435</div>
+    <div style="text-align: center;">(914) 921-5000</div>
+    <div>
+      <div style="text-align: center;">(Name, Address and Telephone Number of Person Authorized to Receive Notices and Communications)</div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">_____________________<u>April 30, 2024</u>________________________</div>
+    <div style="text-align: center;">(Date of Event which Requires Filing of this Statement)</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;">If the filing person has previously filed a statement on Schedule 13G to report the acquisition that is the subject of this Schedule 13D, and is filing
+      this schedule because of &#167;&#167; 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box&#160; .</div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">1</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: justify; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="zbad48f5a6e25446391c4c12be4a0e254" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div><font style="font-weight: bold;">Gabelli Funds, LLC</font><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 144pt">&#160;</font><font style="font-weight: bold;">&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; <font style="font-variant: small-caps;">I.D. No</font>.&#160; 13-4044523</font></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">2</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Source of funds </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;00-Funds of investment advisory clients</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;New York</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">36,800&#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">36,800&#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">36,800&#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">0.90%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;IA, CO</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: left; font-weight: bold;"> <br>
+    </div>
+    <div style="text-align: left; font-weight: bold;"> <br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">2</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z5a650ed7ee28403ba23d20754601730f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div><font style="font-weight: bold;">GAMCO Asset Management Inc.</font><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 216pt">&#160;</font><font style="font-weight: bold;"><font style="font-variant: small-caps;">I.D.
+                  No</font>.&#160; 13-4044521</font></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">2</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Source of funds </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-weight: bold;">&#160;00-Funds of investment advisory clients</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;New York</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">733,415 (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">741,115 (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">741,115 (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">18.22%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;IA, CO</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: left; font-weight: bold;"> <br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">3</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;"><br>
+      CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z87cded56c391452b81447199e2f8242b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div><font style="font-weight: bold;">&#160;Gabelli Foundation, Inc.</font><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 180pt">&#160;</font><font style="font-weight: bold;">&#160; &#160; &#160; &#160; &#160; &#160; &#160; <font style="font-variant: small-caps;">I.D. No</font>.&#160; 94-2975159</font></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">2</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)(a)</div>
+            <div>&#160;</div>
+            <div style="text-indent: 324pt; font-weight: bold;">&#160;&#160;&#160;&#160;(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Source of funds </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;&#160;&#160;WC</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;NV</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">17,000&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">17,000&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">17,000&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;0.42%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;00-Private Foundation</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">4</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z0d78a4df266a4f3081e384b1d4b7ef7f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">Gabelli &amp; Company Investment Advisers, Inc.&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; <font style="font-variant: small-caps;">I.D. No</font>.&#160; 13-3379374</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">2</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Source of funds </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-weight: bold;">00 &#8211; Client funds</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;Delaware</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">2,500&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">2,500&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">2,500&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">0.06%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;HC, CO, IA</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">5</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z24833b4e592f488db9f60b3025887a06" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div><font style="font-weight: bold;">GGCP, Inc.</font><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 72pt">&#160;</font><font style="font-weight: bold;">&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; <font style="font-variant: small-caps;">I.D. No</font>.&#160; 13-3056041</font></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">2</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;">Source of funds (SEE INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">Wyoming</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160; &#160; &#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160; &#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160; &#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>
+              <div style="font-size: 14pt;"><br>
+              </div>
+            </div>
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)&#160; X<br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">0.00%</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;HC, CO</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">6</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z9ff8eeb72baa440582573dd6ea1d8df9" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">&#160;&#160;GAMCO Investors, Inc.&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; <font style="font-variant: small-caps;">I.D. No</font>.&#160; 13-4007862</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;">Source of funds (SEE INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;Delaware</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160; &#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160; &#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160; &#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>
+              <div style="font-size: 12pt; font-weight: bold;"><br>
+              </div>
+            </div>
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)&#160; X<br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;HC, CO</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">7</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z256558812b364f659cb0404e73c17f6e" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">Associated Capital Group, Inc.&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; <font style="font-variant: small-caps;">I.D. No. 47-3965991</font></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group</font> (SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;">Source of funds (SEE INSTRUCTIONS)</div>
+            <div style="font-weight: bold;">None</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;Delaware</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None</font>&#160;&#160; (Item 5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>
+              <div style="font-size: 12pt; font-weight: bold;"><br>
+              </div>
+            </div>
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)&#160; X<br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;HC, CO</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">8</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: left; font-weight: bold;">CUSIP No. 863111100</div>
+    <table cellspacing="0" cellpadding="0" id="z746762bbe657427ba5521b5da8281f59" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">1</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Names of reporting persons</div>
+            <div style="font-variant: small-caps; font-weight: bold;">I.R.S. identification nos. of above persons (entities only)</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">Mario J. Gabelli</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">2</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check the appropriate box if
+                a member of a group </font>(SEE INSTRUCTIONS)<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 12pt">&#160;</font>(a)</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="text-indent: 360pt; font-weight: bold;">(b)</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Sec use only</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">4</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;">Source of funds (SEE INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">5</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Check box if disclosure of
+                legal proceedings is required pursuant to items 2 (</font>d<font style="font-variant: small-caps;">) or 2 (</font>e<font style="font-variant: small-caps;">)</font></div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; font-weight: bold;">6</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Citizenship or place of organization</div>
+            <div style="font-weight: bold;">&#160;&#160;&#160;USA</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 28.15%; vertical-align: top; border-bottom: #000000 2px solid;" rowspan="4" colspan="2">
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Number Of</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Shares</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Beneficially</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Owned</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">By Each</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Reporting</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">Person</div>
+            <div>&#160;</div>
+            <div style="text-align: center; font-variant: small-caps; font-weight: bold;">With</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 7</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 66.61%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole voting power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None&#160; &#160; &#160; &#160;&#160; </font>(Item
+              5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 8</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared voting power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">: 9</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Sole dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None&#160; &#160; &#160; &#160;&#160; </font>(Item
+              5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 23.6%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">:10</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+            <div style="font-weight: bold;">:</div>
+          </td>
+          <td style="width: 5.24%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-variant: small-caps; font-weight: bold;">Shared dispositive power</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">None</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">11</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Aggregate amount beneficially owned by each reporting person</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">None&#160; &#160; &#160; &#160;&#160; </font>(Item
+              5)</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>
+              <div style="font-size: 14pt;"><br>
+              </div>
+            </div>
+            <div style="font-weight: bold;">12</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Check box if the aggregate amount in row (11) excludes certain shares</div>
+            <div style="font-weight: bold;">(SEE INSTRUCTIONS)&#160; X<br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">13</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-variant: small-caps; font-weight: bold;">Percent of class represented by amount in row (11)</div>
+            <div>&#160;</div>
+            <div style="font-variant: small-caps; font-weight: bold;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 4.55%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">14</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 95.45%; vertical-align: top; border-bottom: #000000 2px solid;" colspan="3">
+            <div style="font-weight: bold;"><font style="font-variant: small-caps;">Type of reporting person </font>(SEE
+              INSTRUCTIONS)</div>
+            <div style="font-variant: small-caps; font-weight: bold;">&#160;&#160;&#160;&#160;IN</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">9</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: justify;">Item 1.<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 108pt">&#160;</font><u>Security and Issuer</u></div>
+    <div style="text-align: left; text-indent: 72pt;">This Amendment No. 38 to Schedule 13D on the Common Stock of Strattec Security Corporation (the &#8220;Issuer&#8221;) is being filed on behalf of the
+      undersigned to amend the Schedule 13D, as amended (the &#8220;Schedule 13D&#8221;) which was originally filed on March 27, 2009.&#160; Unless otherwise indicated, all capitalized terms used herein but not defined herein shall have the same meanings as set forth in
+      the Schedule 13D.</div>
+    <div><br>
+    </div>
+    <div style="text-align: left;">Item 2.<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 108pt">&#160;</font><u>Identity and Background</u></div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 36pt;">Item 2 to Schedule 13D is amended, in pertinent part, as follows:</div>
+    <div style="text-align: left; text-indent: 36pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;This statement is being filed by various entities which except for LICT Corporation (&#8220;LICT) and CIBL, Inc. (&#8220;CIBL&#8221;), engage
+      in various aspects of the securities business, primarily as investment adviser to various institutional and individual clients, including registered investment companies and pension plans, and as general partner or the equivalent of various private
+      investment partnerships or private funds and as a registered broker-dealer.&#160; Certain of these entities may also make investments for their own accounts. Mario J. Gabelli (&#8220;Mario Gabelli&#8221;) is deemed to directly or indirectly control these entities
+      through his ownership interest.</div>
+    <div style="text-align: left; text-indent: 72pt;">The foregoing persons in the aggregate often own beneficially more than 5% of a class of equity securities of a particular issuer.&#160;
+      Although several of the foregoing persons are treated as institutional investors for purposes of reporting their beneficial ownership on the short-form Schedule 13G, the holdings of those who do not qualify as institutional investors may exceed the
+      1% threshold presented for filing on Schedule 13G or implementation of their investment philosophy may from time to time require action which could be viewed as not completely passive.&#160; In order to avoid any question as to whether their beneficial
+      ownership is being reported on the proper form and in order to provide greater investment flexibility and administrative uniformity, these persons have decided to file their beneficial ownership reports on the more detailed Schedule 13D form rather
+      than on the short-form Schedule 13G and thereby to provide more expansive disclosure than may be necessary.</div>
+    <div style="text-align: left; text-indent: 72pt;">(a), (b) and (c) - This statement is being filed by one or more of the following persons: GGCP, Inc.&#160; (&#8220;GGCP&#8221;), GGCP Holdings LLC (&#8220;GGCP
+      Holdings&#8221;), GAMCO Investors, Inc. (&#8220;GBL&#8221;), Associated Capital Group, Inc. (&#8220;AC&#8221;), Gabelli Funds, LLC (&#8220;Gabelli Funds&#8221;), GAMCO Asset Management Inc. (&#8220;GAMCO&#8221;), Teton Advisors, LLC (&#8220;Teton Advisors&#8221;), Keeley-Teton Advisors, LLC (&#8220;Keeley-Teton&#8221;),
+      Gabelli &amp; Company Investment Advisers, Inc. (&#8220;GCIA&#8221;), Morgan Group Holding Co., (&#8220;MGH&#8221;), G.research, LLC (&#8220;G.research&#8221;), MJG Associates, Inc. (&#8220;MJG Associates&#8221;), Gabelli Securities International (Bermuda) Limited (&#8220;GSIL&#8221;), Gabelli Foundation,
+      Inc. (&#8220;Foundation&#8221;), Mario Gabelli, LICT and CIBL.&#160; Those of the foregoing persons signing this Schedule 13D are hereinafter referred to as the &#8220;Reporting Persons&#8221;.</div>
+    <div style="text-align: left; text-indent: 72pt;">GGCP makes investments for its own account and is the manager and a member of GGCP Holdings which is the controlling shareholder of GBL and
+      AC.&#160; GBL, a public company whose stock is quoted on the OTCQX platform, is the parent company for a variety of companies engaged in the securities business, including certain of those named below.&#160; AC, a public company listed on the New York Stock
+      Exchange, is the parent company for a variety of companies engaged in the securities business, including certain of those listed below.</div>
+    <div style="text-align: left; text-indent: 72pt;">GAMCO, a wholly-owned subsidiary of GBL, is an investment adviser registered under the Investment Advisers Act of 1940, as amended
+      (&#8220;Advisers Act&#8221;).&#160; GAMCO is an investment manager providing discretionary managed account services for employee benefit plans, private investors, endowments, foundations and others.</div>
+    <div style="text-align: left; text-indent: 72pt;">GCIA, a wholly owned subsidiary of AC, is an investment adviser registered under the Advisers Act and serves as a general partner or
+      investment manager to limited partnerships and offshore investment companies and other accounts.&#160; As a part of its business, GCIA may purchase or sell securities for its own account.&#160; GCIA or its relying advisers, act as a general partner or
+      investment manager of a number of funds or partnerships, including Gabelli Associates Fund, L.P., Gabelli Associates Fund II, L.P., Gabelli Associates Limited, Gabelli Associates Limited II E, Gabelli Intermediate Credit Fund L.P., GAMA Select Plus
+      Master Fund, Ltd., GAMCO Medical Opportunities L.P., and Gabelli Multimedia Partners, L.P.</div>
+    <div style="text-align: left; text-indent: 72pt;">G.research is a wholly owned subsidiary of MGH. G.research, is a broker-dealer registered under the Securities Exchange Act of 1934, as
+      amended (&#8220;1934 Act&#8221;), which may as a part of its business purchase and sell securities for its own account.</div>
+    <div style="text-align: left; text-indent: 72pt;">Gabelli Funds, a wholly owned subsidiary of GBL, is a limited liability company. Gabelli Funds is an investment adviser registered under
+      the Advisers Act which provides advisory services for The Gabelli Equity Trust Inc., The Gabelli Asset Fund, The Gabelli Growth Fund, The Gabelli Convertible and Income Securities Fund Inc., The Gabelli Value 25 Fund Inc., The Gabelli Small Cap
+      Growth Fund, The Gabelli Equity Income Fund, The Gabelli ABC Fund, The Gabelli Global Content &amp; Connectivity Fund, The Gabelli Gold Fund, Inc., The Gabelli Multimedia Trust Inc., The Gabelli Global Rising Income &amp; Dividend Fund, The Gabelli
+      Capital Asset Fund, The Gabelli International Growth Fund, Inc., The Gabelli Global Growth Fund, The Gabelli Utility Trust, The Gabelli Utilities Fund, The Gabelli Dividend Growth Fund, The Gabelli Focused Growth and Income Fund, The Comstock Capital
+      Value Fund, The Gabelli Dividend and Income Trust, The Gabelli Global Utility &amp; Income Trust, The GAMCO Global Gold, Natural Resources, &amp; Income Trust, The GAMCO Natural Resources, Gold &amp; Income Trust, The GDL Fund, Gabelli Enterprise
+      Mergers &amp; Acquisitions Fund, The Gabelli ESG Fund, Inc., The Gabelli International Small Cap Fund, The Gabelli Healthcare &amp; Wellness <sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">Rx</sup> Trust, The Gabelli Global Small and Mid Cap Value Trust, Gabelli Merger Plus+ Trust Plc,&#160; The
+      Gabelli Global Financial Services Fund, The Gabelli Global Mini Mites Fund, The Gabelli Media Mogul Fund, The Gabelli Pet Parents&#8217; Fund, The Gabelli U.S. Treasury Money Market Fund, Bancroft Fund Ltd. and Ellsworth Growth &amp; Income Fund Ltd.,
+      Gabelli Growth Innovators ETF, Gabelli Love Our Planet &amp; People ETF, Gabelli Automation ETF, Gabelli Commercial Aerospace &amp; Defense ETF, Gabelli Financial Services Opportunities ETF (collectively, the &#8220;Funds&#8221;), which are registered investment
+      companies.&#160; Gabelli Funds is also the investment adviser to The GAMCO International SICAV (sub-funds GAMCO Merger Arbitrage and GAMCO All Cap Value), a UCITS III vehicle.</div>
+    <div style="text-align: left; text-indent: 72pt;">Teton Advisors, an investment adviser registered under the Advisers Act, provides discretionary advisory services to The TETON Westwood
+      Mighty Mites<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">sm</sup> Fund, The TETON Convertible Securities Fund, The Teton Westwood Balanced Fund, and The TETON Westwood&#160; Equity Fund. The TETON Westwood Mighty Mites Fund and the Teton Convertible Securities Fund are subadvised by Gabelli
+      Funds, and their holdings are included in this filing.</div>
+    <div style="text-align: left; text-indent: 72pt;">Keeley-Teton, an investment adviser registered under the Advisers Act, provides discretionary advisory services to The Teton Westwood
+      Smallcap Equity Fund, The Keeley Small Cap Dividend Value Fund, The Keeley Small-Mid Cap Value Fund, and The Keeley Mid Cap Dividend Value Fund, as well as to institutional and individual clients.</div>
+    <div style="text-align: left; text-indent: 72pt;">MJG Associates provides advisory services to private investment partnerships and offshore funds.&#160; Mario Gabelli is the sole shareholder,
+      director and employee of MJG Associates.&#160;&#160; MJG Associates is the Investment Manager of Gabelli International Limited and Gabelli Fund, LDC.&#160; Mario J. Gabelli is the general partner of Gabelli Performance Partnership, LP.</div>
+    <div style="text-align: left; text-indent: 72pt;">The Foundation is a private foundation.&#160; Mario Gabelli is the Chairman, a Trustee and the Investment Manager of the Foundation. Elisa M.
+      Wilson is the President of the Foundation.</div>
+    <div style="text-align: left; text-indent: 72pt;">LICT is a holding company with operating subsidiaries engaged primarily in the rural telephone industry. LICT actively pursues new business
+      ventures and acquisitions. LICT makes investments in marketable securities to preserve capital and maintain liquidity for financing their business activities and acquisitions and are not engaged in the business of investing, or trading in securities.
+      Mario J. Gabelli is the Chief Executive Officer, a director, and substantial shareholder of LICT.</div>
+    <div style="text-align: left; text-indent: 72pt;">CIBL is a holding company with interests in telecommunications operations, primarily in the rural telephone industry. CIBL actively pursues
+      new business ventures and acquisitions. CIBL makes investments in marketable securities to preserve capital and maintain liquidity for financing their business activities and acquisitions and are not engaged in the business of investing, or trading
+      in securities. Mario J. Gabelli is a director, and substantial shareholder of CIBL.</div>
+    <div style="text-align: left; text-indent: 72pt;">Mario Gabelli is the controlling stockholder, co-Chief Executive Officer and a director of GGCP and Chairman and Chief Executive Officer of
+      GBL. He is the Executive Chairman of AC.&#160; Mario Gabelli is also a member of GGCP Holdings. Mario Gabelli is the controlling shareholder of&#160; MGH and indirectly of Teton Advisors and Keeley-Teton Advisors..</div>
+    <div style="text-align: left; text-indent: 72pt;">The Reporting Persons do not admit that they constitute a group.</div>
+    <div style="text-align: left; text-indent: 72pt;">GAMCO is a New York corporation and GBL and MGH are Delaware corporations, each having its principal business office at One Corporate
+      Center, Rye, New York 10580. GGCP is a Wyoming corporation and AC and GCIA are Delaware corporations each having its principal business office 191 Mason Street, Greenwich, CT 06830.&#160;&#160; GGCP Holdings is a Delaware limited liability corporation having
+      its principal business office at 191 Mason Street, Greenwich, CT 06830.&#160; G.research is a Delaware limited liability company having its principal officers at One Corporate Center, Rye, New York 10580.&#160; Gabelli Funds is a New York limited liability
+      company having its principal business office at One Corporate Center, Rye, New York 10580.&#160; Teton Advisors is a Delaware limited liability company having its principal place of business at 189 Mason Street, Greenwich, CT 06830.&#160; Keeley-Teton Advisors
+      is a Delaware limited liability company having its principal place of business at 141 W. Jackson Blvd., Chicago, IL 60604. MJG Associates is a Connecticut corporation having its principal business office at 191 Mason Street, Greenwich, CT 06830.&#160; The
+      Foundation is a Nevada corporation having its principal offices at 165 West Liberty Street, Reno, Nevada 89501.&#160; LICT is a Delaware corporation having its principal place of business as 401 Theodore Fremd Avenue, Rye, New York 10580. CIBL, Inc. is a
+      Delaware corporation having its principal place of business as 165 West Liberty Street, Suite 220, Reno, NV 89501.</div>
+    <div style="text-align: left; text-indent: 72pt;">For information required by instruction C to Schedule 13D with respect to the executive officers and directors of the foregoing entities
+      and other related persons (collectively, &#8220;Covered Persons&#8221;), reference is made to Schedule I annexed hereto and incorporated herein by reference.</div>
+    <div style="text-align: left; text-indent: 72pt;">(d) &#8211; Not applicable.</div>
+    <div style="text-align: left; text-indent: 72pt;">(e) &#8211; Not applicable.</div>
+    <div style="text-align: left;"><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 72pt">&#160;</font>(f) &#8211; Reference is made to
+        Schedule I hereto.</div>
+    <div><br>
+    </div>
+    <div style="text-align: left;">Item 3.<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 108pt">&#160;</font><u>Source and Amount of Funds or Other Consideration</u></div>
+    <div style="text-align: left; text-indent: 18pt; margin-left: 54pt;">Item 3 to Schedule 13D is amended, in pertinent part, as follows:</div>
+    <div style="text-align: left; text-indent: 72pt;">The Reporting Persons used an aggregate of approximately $1,582,950 to purchase the additional Securities reported as beneficially owned in
+      Item 5 since the most recent filling on Schedule 13D. GAMCO and Gabelli Funds used approximately $1,486,177 and $74,098, respectively, of funds that were provided through the accounts of certain of their investment advisory clients (and, in the case
+      of some of such accounts at GAMCO, may be through borrowings from client margin accounts) in order to purchase the additional Securities for such clients. Foundation used approximately $22,675 of funds of a private entity to purchase the additional
+      Securities reported by it.</div>
+    <div><br>
+    </div>
+    <div style="text-align: left;">Item 5.<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 108pt">&#160;</font><u>Interest In Securities Of The Issuer</u></div>
+    <div style="text-align: left; text-indent: 18pt; margin-left: 54pt;">Item 5 to Schedule 13D is amended, in pertinent part, as follows:</div>
+    <div style="text-align: left; text-indent: 72pt;">(a) The aggregate number of Securities to which this Schedule 13D relates is 797,415 shares, representing 19.60% of the 4,067,570 shares
+      outstanding as reported in the Issuer&#8217;s most recently filed Form 10-Q for the quarterly period ended December 31, 2023.&#160; The Reporting Persons beneficially own those Securities as follows:</div>
+    <table cellspacing="0" cellpadding="0" id="z397c12231d2a47eb8e75665a74c5dbf5" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 31.36%; vertical-align: top; border-bottom: 2px solid black;">
+            <div style="text-align: justify;">Name</div>
+          </td>
+          <td style="width: 31.66%; vertical-align: top; border-bottom: 2px solid black;">
+            <div style="text-align: center;">Shares of</div>
+            <div style="text-align: center;">Common Stock</div>
+          </td>
+          <td style="width: 36.98%; vertical-align: top; border-bottom: 2px solid black;">
+            <div style="text-align: center;">% of Class of</div>
+            <div style="text-align: center;">Common</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 31.36%; vertical-align: top;">
+            <div style="text-align: justify;">GAMCO</div>
+          </td>
+          <td style="width: 31.66%; vertical-align: top;">
+            <div style="text-align: center;">741,115</div>
+          </td>
+          <td style="width: 36.98%; vertical-align: top;">
+            <div style="text-align: center;">18.22%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 31.36%; vertical-align: top;">
+            <div>&#160;</div>
+            <div style="text-align: justify;">Gabelli Funds</div>
+            <div>&#160;</div>
+            <div style="text-align: justify;">GCIA</div>
+            <div>&#160;</div>
+            <div style="text-align: justify;">Foundation</div>
+          </td>
+          <td style="width: 31.66%; vertical-align: top;">
+            <div>&#160;</div>
+            <div style="text-align: center;">36,800</div>
+            <div>&#160;</div>
+            <div style="text-align: center;">2,500</div>
+            <div>&#160;</div>
+            <div style="text-align: center;">17,000</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 36.98%; vertical-align: top;">
+            <div>&#160;</div>
+            <div style="text-align: center;">0.90%</div>
+            <div>&#160;</div>
+            <div style="text-align: center;">0.06%</div>
+            <div>&#160;</div>
+            <div style="text-align: center;">0.42%</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: left; text-indent: 72pt;">Mario Gabelli is deemed to have beneficial ownership of the Securities owned beneficially by each of the foregoing persons.&#160; AC, GBL and
+      GGCP are deemed to have beneficial ownership of the Securities owned beneficially by each of the foregoing persons other than Mario Gabelli and the Foundation.</div>
+    <div style="text-align: left; text-indent: 72pt;">(b) Each of the Reporting Persons and Covered Persons has the sole power to vote or direct the vote and sole power to dispose or to direct
+      the disposition of the Securities reported for it, either for its own benefit or for the benefit of its investment clients or its partners, as the case may be, except that (i) GAMCO does not have authority to vote 7,700 of the reported shares, (ii)
+      Gabelli Funds has sole dispositive and voting power with respect to the shares of the Issuer held by the Funds so long as the aggregate voting interest of all joint filers does not exceed 25% of their total voting interest in the Issuer and, in that
+      event, the Proxy Voting Committee of each Fund shall respectively vote that Fund&#8217;s shares, (iii) at any time, the Proxy Voting Committee of each such Fund may take and exercise in its sole discretion the entire voting power with respect to the shares
+      held by such fund under special&#160; circumstances such as regulatory considerations, and (iv) the power of Mario Gabelli, GBL, and GGCP is indirect with respect to Securities beneficially owned directly by other Reporting Persons.</div>
+    <div style="text-align: left; text-indent: 72pt;">(c) Information with respect to all transactions in the Securities which were effected during the past sixty days or since the most recent
+      filing on Schedule 13D, whichever is less, by each of the Reporting Persons and Covered Persons is set forth on Schedule II annexed hereto and incorporated herein by reference.</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 36pt;">&#160;(e) Not applicable.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">10</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify;"><u>Signature</u></div>
+    <div style="text-align: justify; text-indent: 36pt;">After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true,
+      complete and correct.</div>
+    <div style="text-align: justify;">Dated:<font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 36pt">&#160;</font>May 1, 2024</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 216pt;">GGCP, INC.</div>
+    <div style="text-align: justify; text-indent: 216pt;">MARIO J. GABELLI</div>
+    <div style="text-align: justify; text-indent: 72pt;"><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 144pt">&#160;</font>GABELLI
+        FOUNDATION, INC.</div>
+    <div style="text-align: justify;"> <br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 216pt;">By:<u>/s/ David Goldman</u></div>
+    <div style="text-align: justify; text-indent: 216pt;">&#160;&#160;&#160;&#160;&#160;David Goldman</div>
+    <div style="text-align: justify; text-indent: 216pt;">&#160;&#160;&#160;&#160;&#160;Attorney-in-Fact</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;">GABELLI FUNDS, LLC</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;">By:<u>/s/ David Goldman</u><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 216pt">&#160;</font></div>
+    <div style="text-align: justify; text-indent: 216pt;">&#160;&#160;&#160;&#160;&#160;David Goldman</div>
+    <div style="text-align: justify; text-indent: 216pt;">&#160;&#160;&#160;&#160;&#160;General Counsel &#8211; Gabelli Funds, LLC</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: left; text-indent: 211.5pt;">&#160;&#160;GAMCO INVESTORS, INC.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;">By:<u>/s/ Peter D. Goldstein</u><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 216pt">&#160;</font></div>
+    <div style="text-align: justify; text-indent: 216pt;">&#160;&#160;&#160;&#160;&#160;Peter D. Goldstein</div>
+    <div style="text-align: justify; text-indent: 180pt;"><font style="font-size: 12pt; font-weight: bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font>General Counsel
+      - GAMCO Investors, Inc.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;">ASSOCIATED CAPITAL GROUP, INC.</div>
+    <div style="text-align: justify; text-indent: 216pt;">GAMCO ASSET MANAGEMENT INC.</div>
+    <div style="text-align: justify; text-indent: 216pt;">GABELLI &amp; COMPANY INVESTMENT ADVISERS, INC.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 216pt;">By:<u>/s/ Douglas R. Jamieson</u><font class="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 252pt">&#160;</font></div>
+    <div style="text-align: justify; text-indent: 216pt;">&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+    <div style="text-align: justify; text-indent: 180pt;"><font style="font-weight: bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font>President
+      &amp; Chief Executive Officer &#8211; Associated Capital</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 216pt;">Group, Inc.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;">&#160;&#160;&#160;&#160;&#160;&#160;President &#8211; GAMCO Asset Management Inc.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;">&#160;&#160;&#160;&#160;&#160;&#160;President &#8211; Gabelli &amp; Company Investment Advisers, Inc.</div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">11</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 180pt;"><font style="font-size: 12pt; font-weight: bold;">&#160;&#160;</font>Schedule I</div>
+    <div style="text-align: left; margin-left: 144pt;">&#160;&#160;&#160;&#160;&#160;Information with Respect to Executive</div>
+    <div style="text-align: center;"><u>Officers and Directors of the Undersigned</u></div>
+    <div style="text-align: center;">Schedule I to Schedule 13D is amended, in pertinent part, as follows:</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z3dc0d4323de24dfd8bb03418f33027b8" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 100%; vertical-align: top;">
+            <div style="text-align: justify;">The following sets forth as to each of the executive officers and directors of the undersigned: his name; his business address; his present
+              principal occupation or employment and the name, principal business and address of any corporation or other organization in which such employment is conducted.&#160; Unless otherwise specified, the principal employer of each such individual is
+              GAMCO Asset Management Inc., Gabelli Funds, LLC, G.research, LLC, Teton Advisors, LLC, or GAMCO Investors, Inc., the business address of each of which is One Corporate Center, Rye, New York 10580, or Gabelli &amp; Company Investment Advisers,
+              Inc. or Associated Capital Group, Inc., the business address of each of which is 191 Mason Street, Greenwich, CT 06830 and each such individual identified below is a citizen of the United States.&#160; To the knowledge of the undersigned, during
+              the last five years, no such person has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors), and no such person was a party to a civil proceeding of a judicial or administrative body of competent
+              jurisdiction as a result of which he was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities law or finding any violation with
+              respect to such laws except as reported in Item 2(d) and (e) of this Schedule 13D.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">12</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z6aa915d7db45431e97c3800c77889a2f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 34.66%; vertical-align: top; border-bottom: 2px solid black;" colspan="2">
+            <div>GAMCO Investors, Inc.</div>
+            <div>Directors:</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div style="text-indent: 36pt;">Raymond C. Avansino</div>
+            <div> &#160;</div>
+            <div>&#160;</div>
+            <div> &#160;</div>
+            <div> &#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Leslie B. Daniels</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Chairman &amp; Chief Executive Officer</div>
+            <div>E.L. Wiegand Foundation</div>
+            <div>165 West Liberty Street</div>
+            <div>Reno, NV 89501</div>
+            <div>&#160;</div>
+            <div>Operating Partner</div>
+            <div>AE Industrial Partners, LP</div>
+            <div>2500 N. Military Trail, Suite 470</div>
+            <div>Boca Raton, FL 33431</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div> &#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Elisa M. Wilson</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Chief Executive Officer and Chief Investment Officer of GGCP, Inc.</div>
+            <div>Chairman &amp; Co- Chief Executive Officer of GAMCO Investors, Inc.</div>
+            <div>Executive Chairman of Associated Capital Group, Inc.</div>
+            <div>Director/Trustee of all registered investment companies advised by Gabelli Funds, LLC.</div>
+            <div>&#160;</div>
+            <div>Director</div>
+            <div>c/o GAMCO Investors, Inc.</div>
+            <div>One Corporate Center</div>
+            <div>Rye, NY 10580</div>
+            <div>&#160;</div>
+            <div>Co- Chief Executive Officer of GAMCO Investors, Inc.</div>
+            <div>President and Chief Executive Officer of Associated Capital Group, Inc.</div>
+            <div>President, Chief Operating Officer and Managing Director of GAMCO Asset Management Inc.</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Robert S. Prather</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>President &amp; Chief Executive Officer</div>
+            <div>Heartland Media, LLC</div>
+            <div>1843 West Wesley Road</div>
+            <div>Atlanta, GA 30327</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Agnes Mullady</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Former Senior Vice President of GAMCO Investors, Inc.</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Alexis Glick</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Former Chief Executive Officer of GENYOUth</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>Officers:</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Chairman, Co-Chief Executive Officer and</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;Co-Chief Investment Officer - Value</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Co-Chief Executive Officer</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Peter D. Goldstein</div>
+            <div>&#160;</div>
+            <div style="text-indent: 36pt;">Kieran Caterina</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Senior Vice President, General Counsel &amp; Secretary</div>
+            <div>&#160;</div>
+            <div>Senior Vice President, Chief Accounting Officer and Principal Financial Officer</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">&#160;</td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top; border-bottom: 2px solid black;" colspan="2">
+            <div>GAMCO Asset Management Inc.</div>
+            <div>Directors:</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Douglas R. Jamieson</div>
+            <div style="text-indent: 36pt;">Regina M. Pitaro</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Paul Swirbul</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Christopher Desmarais</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>Officers:</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Chief Executive Officer and Chief Investment Officer &#8211; Value Portfolios</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Douglas R. Jamieson</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;David Goldman</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>President, Chief Operating Officer and Managing Director</div>
+            <div>&#160;</div>
+            <div>General Counsel, Secretary &amp; Chief Compliance Officer</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top; border-bottom: 2px solid black;" colspan="2">
+            <div>Gabelli Funds, LLC</div>
+            <div>Officers:</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>Chief Investment Officer &#8211; Value Portfolios</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;David Goldman</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Vice President, Corporate Development and General Counsel</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Richard Walz</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Chief Compliance Officer</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Kieran Caterina</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Chief Accounting Officer</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;John Ball</div>
+          </td>
+          <td style="width: 61.89%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Senior Vice President, Fund Administration</div>
+          </td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.66%; vertical-align: top;" colspan="2">&#160;</td>
+          <td style="width: 61.89%; vertical-align: top;">&#160;</td>
+          <td style="width: 3.45%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top; border-bottom: 2px solid black;">
+            <div>&#160;</div>
+            <div>Gabelli Foundation, Inc.</div>
+            <div>Officers:</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;" colspan="3">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mario J. Gabelli</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;" colspan="3">
+            <div>Chairman, Trustee &amp; Chief Investment Officer</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Elisa M. Wilson</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Marc Gabelli</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Matthew R. Gabelli</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Michael Gabelli</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;" colspan="3">
+            <div>President</div>
+            <div>&#160;</div>
+            <div>Trustee</div>
+            <div>&#160;</div>
+            <div>Trustee</div>
+            <div>&#160;</div>
+            <div>Trustee</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">13</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z522462068a0040859ef4c64706113825" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 44.36%; vertical-align: top; border-bottom: 2px solid black;" colspan="2">
+            <div>GGCP, Inc.</div>
+            <div>Directors:</div>
+          </td>
+          <td style="width: 55.64%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mario J. Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>Chief Executive Officer and Chief Investment Officer of GGCP, Inc.</div>
+            <div>Chairman &amp; Chief Executive Officer of GAMCO Investors, Inc.</div>
+            <div>Executive Chairman of Associated Capital Group, Inc.</div>
+            <div>Director/Trustee of all registered investment companies advised by Gabelli Funds, LLC.</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Marc Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>President &#8211; GGCP, Inc.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Matthew R. Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>Vice President &#8211; Trading</div>
+            <div>G.research, LLC</div>
+            <div>One Corporate Center</div>
+            <div>Rye,&#160; NY 10580</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Michael Gabelli</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>President &amp; COO</div>
+            <div>Gabelli &amp; Partners, LLC</div>
+            <div>One Corporate Center</div>
+            <div>Rye, NY 10580</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div> &#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Frederic V. Salerno</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>Chairman</div>
+            <div>Former Vice Chairman and Chief Financial Officer</div>
+            <div>Verizon Communications</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vincent S. Tese</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>Executive Chairman &#8211; FCB Financial Corp</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Elisa M. Wilson</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>Director</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">&#160;</td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>Officers:</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>Chief Executive Officer and Chief Investment Officer</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Marc Gabelli</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>President</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">&#160;</td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top; border-bottom: 2px solid black;">
+            <div>GGCP Holdings LLC</div>
+            <div>Members:</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;GGCP, Inc.</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mario J. Gabelli</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;" colspan="2">
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div>Manager and Member</div>
+            <div>&#160;</div>
+            <div>Member</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">14</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="zba00dc56a18445a48874e5907e90b886" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 35.9%; vertical-align: top; border-bottom: 2px solid black;">
+            <div>&#160;</div>
+            <div>Teton Advisors, LLC</div>
+            <div>Directors:</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Marc Gabelli</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vincent J. Amabile</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Stephen G. Bondi, CPA</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Aaron J. Feingold, M.D.</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nicholas F. Galluccio</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Kevin M. Keeley</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;James C. Abbott, CFA, CAIA</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Herve D. Francois</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Jason D. Lamb</div>
+            <div> &#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>Chairman of the Board</div>
+            <div>&#160;</div>
+            <div>Founder- Amabile Partners</div>
+            <div>&#160;</div>
+            <div>Chief Executive Officer</div>
+            <div>&#160;</div>
+            <div>President and Founder &#8211; Raritan Bay Cardiology Group</div>
+            <div>&#160;</div>
+            <div>Chairman of Teton Advisors, LLC</div>
+            <div>&#160;</div>
+            <div>President &amp; Executive Chairman &#8211; Keeley Teton Advisors, LLC</div>
+            <div>&#160;</div>
+            <div>Former Chairman and CEO of Carillon Tower Advisors</div>
+            <div>&#160;</div>
+            <div>Multifamily real estate investors</div>
+            <div>&#160;</div>
+            <div>Special advisor to IronNet, Inc.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>Officers:</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Stephen G. Bondi</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Patrick B. Huvane, CPA, CFA</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Casey Haars</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tiffany Hayden</div>
+            <div> &#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Chief Executive Officer</div>
+            <div>&#160;</div>
+            <div>Chief Financial Officer</div>
+            <div>&#160;</div>
+            <div>Controller</div>
+            <div>&#160;</div>
+            <div>Chief Compliance Officer</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">&#160;</td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">15</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z4e6d0251547940e88579a735e354afbf" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 35.9%; vertical-align: top; border-bottom: 2px solid black;">
+            <div>&#160;</div>
+            <div>Associated Capital Group, Inc.</div>
+            <div>Directors:</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>Chief Executive Officer and Chief Investment Officer of GGCP, Inc.</div>
+            <div>Chairman &amp; Chief Executive Officer of GAMCO Investors, Inc.</div>
+            <div>Executive Chairman of Associated Capital Group, Inc.</div>
+            <div>Director/Trustee of all registered investment companies advised by Gabelli Funds, LLC.</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Marc Gabelli</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Vice Chairman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>President and Chief Executive Officer</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Bruce Lisman</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>Former Chairman - JP Morgan &#8211; Global Equity Division</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div style="text-indent: 36pt;">Daniel R. Lee</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div> &#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>Chief Executive Officer</div>
+            <div>Full House Resorts, Inc.</div>
+            <div>4670 South Ford Apache Road, Suite 190</div>
+            <div>Las Vegas, NV 89147</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Richard T. Prins</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Former Partner</div>
+            <div>Skadden, Arps, Slate, Meagher &amp; Flom LLP</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div> &#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Salvatore F. Sodano</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Vice Chairman &#8211; Retired</div>
+            <div>Broadridge Financial Solutions</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div> &#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Frederic V. Salerno</div>
+            <div>&#160;</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>See above</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Elisa M. Wilson</div>
+            <div> &#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>Director</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>Officers:</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div style="text-indent: 36pt;">Mario J. Gabelli</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Patrick Huvane</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ian McAdams</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Peter D. Goldstein</div>
+            <div> &#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">
+            <div>Executive Chairman</div>
+            <div>&#160;</div>
+            <div>President and Chief Executive Officer</div>
+            <div>&#160;</div>
+            <div>Vice President &#8211; Corporate Strategy</div>
+            <div>&#160;</div>
+            <div>Chief Financial Officer</div>
+            <div>&#160;</div>
+            <div>Senior Vice President, Chief Legal Officer &amp; Secretary</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">&#160;</td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top; border-bottom: 2px solid black;">
+            <div>Gabelli &amp; Company Investment Advisers, Inc.</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>Directors:</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 35.9%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 64.1%; vertical-align: top;">&#160;</td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="zb3fb4c5a2c3d4b93b0fab7ad72bb728f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>Officers:</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Douglas R. Jamieson</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;John Givissis</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Craig A. Weynand</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">
+            <div>Chief Executive Officer and President</div>
+            <div>&#160;</div>
+            <div>Controller</div>
+            <div>&#160;</div>
+            <div>Chief Compliance Officer</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top; border-bottom: 2px solid black;">
+            <div>&#160;</div>
+            <div>G.research, LLC</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>Officers:</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Cornelius V. McGinity</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">
+            <div>Office of the Chairman</div>
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vincent Amabile</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">
+            <div>President</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Paul Greenhaw</div>
+            <div>&#160;</div>
+            <div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Joseph Fernandez</div>
+            <div>&#160;</div>
+          </td>
+          <td style="width: 65.52%; vertical-align: top;">
+            <div>Chief Compliance Officer</div>
+            <div>&#160;</div>
+            <div>Controller and Financial and Operations Principal</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 34.48%; vertical-align: top;">&#160;</td>
+          <td style="width: 65.52%; vertical-align: top;">&#160;</td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">16</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">SCHEDULE II</div>
+    <div style="text-align: center;">INFORMATION WITH RESPECT TO</div>
+    <div style="text-align: center;">TRANSACTIONS EFFECTED DURING THE PAST SIXTY DAYS OR</div>
+    <div style="text-align: center;">SINCE THE MOST RECENT FILING ON SCHEDULE 13D (1)</div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;SHARES PURCHASED&#160; &#160; &#160; &#160; AVERAGE</div>
+    <div style="text-align: center;">DATE&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; SOLD(-)&#160; &#160; &#160; &#160; &#160; &#160;&#160; PRICE(2)</div>
+    <div style="text-align: left;"> <br>
+    </div>
+    <div style="text-align: left;">&#160;COMMON STOCK - STRATTEC SECURITY CORPORATION</div>
+    <div style="text-align: left;"> <br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z32bd875e0523424ca61c68cf40696249" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 100%; vertical-align: middle;" colspan="5">
+            <div style="color: #000000;">GABELLI FOUNDATION, INC.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/17/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">999</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.7000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/16/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">501</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.9994</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">&#160;</td>
+          <td style="width: 25.64%; vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 100%; vertical-align: middle;" colspan="5">
+            <div style="color: #000000;">GABELLI FUNDS, LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 93.16%; vertical-align: middle;" colspan="4">
+            <div style="color: #000000;">GABELLI EQUITY TRUST</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/13/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">1,000</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.0000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/5/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">1,000</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">25.0000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 93.16%; vertical-align: middle;" colspan="4">
+            <div style="color: #000000;">GABELLI GLOBAL MINI MITES FUND</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/1/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">-400</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">25.8538</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">&#160;</td>
+          <td style="width: 25.64%; vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 100%; vertical-align: middle;" colspan="5">
+            <div style="color: #000000;">GAMCO ASSET MANAGEMENT INC.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/30/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">400</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.8981</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/30/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">1,000</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.9900</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/25/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.6600</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/24/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">300</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.2726</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/22/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">400</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.0000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/18/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">400</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.0000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/17/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">600</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.4719</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/16/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">700</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.9097</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/16/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">273</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.0000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/15/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">-3,600</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.9994</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/15/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.0000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/15/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">727</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.4814</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/10/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.4500</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/9/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">288</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.9826</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/9/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">-300</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">25.0017</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/8/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">212</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.9425</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/5/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">300</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.5607</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/5/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">200</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.9920</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">4/2/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.9100</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/28/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">700</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.7531</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/28/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.8790</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/27/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">23.5643</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/22/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">1,200</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">21.8500</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/21/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">765</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.1000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/20/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">35</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.1000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/20/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">100</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.3720</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/18/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.3500</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/18/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">300</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">22.4500</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/7/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.7271</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/7/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">1,100</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">24.8475</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/4/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">400</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">25.4500</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 6.84%; vertical-align: middle;">&#160;</td>
+          <td style="width: 18.8%; vertical-align: middle;">&#160;</td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="color: #000000;">3/1/2024</div>
+          </td>
+          <td style="width: 24.36%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">-500</div>
+          </td>
+          <td style="width: 25.64%; vertical-align: middle;">
+            <div style="text-align: right; color: #000000;">25.8454</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: left;"> <br>
+    </div>
+    <div style="text-align: left;">(1) UNLESS OTHERWISE INDICATED, ALL TRANSACTIONS WERE EFFECTED</div>
+    <div style="text-align: left;">&#160;&#160;&#160;&#160;ON THE NASDAQ GLOBAL SECURITIES MARKET.</div>
+    <div style="text-align: left;"> <br>
+    </div>
+    <div style="text-align: left;">(2) PRICE EXCLUDES COMMISSION.</div>
+    <div style="text-align: left;"> <br>
+    </div>
+  </div>
+  <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">17</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

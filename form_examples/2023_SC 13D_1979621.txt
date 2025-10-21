@@ -1,0 +1,2405 @@
+<SEC-DOCUMENT>0001140361-23-028095.txt : 20230602
+<SEC-HEADER>0001140361-23-028095.hdr.sgml : 20230602
+<ACCEPTANCE-DATETIME>20230602170020
+ACCESSION NUMBER:		0001140361-23-028095
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20230602
+DATE AS OF CHANGE:		20230602
+GROUP MEMBERS:		ENERGY GROWTH MOMENTUM II LP
+GROUP MEMBERS:		TIGO SPV LP
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGO ENERGY, INC.
+		CENTRAL INDEX KEY:			0001855447
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92838
+		FILM NUMBER:		23989903
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 SAN CLEMENTE DRIVE SUITE 400
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		9497205700
+
+	MAIL ADDRESS:	
+		STREET 1:		888 SAN CLEMENTE DRIVE SUITE 400
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Roth CH Acquisition IV Co.
+		DATE OF NAME CHANGE:	20210406
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Energy Growth Momentum GP II Ltd.
+		CENTRAL INDEX KEY:			0001979621
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Y7
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1ST & 2ND FLOORS, ELIZABETH HOUSE
+		STREET 2:		LES RUETTES BRAYES
+		CITY:			ST PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1EW
+		BUSINESS PHONE:		44 (0) 1481 700300
+
+	MAIL ADDRESS:	
+		STREET 1:		1ST & 2ND FLOORS, ELIZABETH HOUSE
+		STREET 2:		LES RUETTES BRAYES
+		CITY:			ST PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1EW
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>brhc20053925_sc13d.htm
+<DESCRIPTION>SC 13D
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge
+         Document created using Broadridge PROfile 23.5.1.5152
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr align="center" style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;">
+    <div style="margin-left: 9pt;">
+      <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold; font-size: 14pt;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold; font-size: 12pt;">Washington, D.C. 20549</div>
+      <div>&#160;</div>
+      <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold; font-size: 18pt;">SCHEDULE 13D</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;">Under the Securities Exchange Act of 1934</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;">(Amendment No. )*</div>
+      <div>&#160;</div>
+      <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold; font-size: 24pt;"><u>Tigo Energy, Inc.</u></div>
+      <div style="text-align: center; color: #000000;">(Name of Issuer)</div>
+      <div>&#160;</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;"><u>Common Stock, par value $0.0001 per share</u></div>
+      <div style="text-align: center; color: #000000;">(Title of Class of Securities)</div>
+      <div>&#160;</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;"><u>88675P103</u></div>
+      <div style="text-align: center; color: #000000;">(CUSIP Number)</div>
+      <div>&#160;</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;">Energy Growth Momentum LLP</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;">1st &amp; 2nd Floors, Elizabeth House</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;">Les Ruettes Brayes</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;">St Peter Port, Guernsey GY1 1EW</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;"><u>Telephone: +44 (0)1481 700300</u></div>
+      <div style="text-align: center; color: #000000;">(Name, Address and Telephone Number of Person</div>
+      <div style="text-align: center; color: #000000;">Authorized to Receive Notices and Communications)</div>
+      <div>&#160;</div>
+      <div style="text-align: center; color: #000000; font-weight: bold;"><u>May 23, 2023</u></div>
+      <div style="text-align: center; color: #000000;">(Date of Event which Requires Filing of this Statement)</div>
+      <div>&#160;</div>
+      <div style="color: #000000;">If the filing person has previously filed a statement on Schedule 13G to report the acquisition that is the subject of this Schedule 13D, and is filing this schedule because of Rule 13d-1(e), Rule 13d-1(f) or Rule
+        13d-1(g), check the following box. &#9744;</div>
+      <div><br>
+      </div>
+      <div>
+        <hr noshade="noshade" align="left" style="height: 2px; width: 20%; color: #000000; background-color: #000000; margin-left: 0px; margin-right: auto; border: none;"> </div>
+      <div style="text-align: justify; color: #000000;">Note: Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See Rule 13d-7 for other parties to whom copies are to be sent.</div>
+      <div>&#160;</div>
+      <div style="color: #000000;">* The remainder of this cover page shall be filled out for a reporting person&#8217;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which
+        would alter disclosures provided in a prior cover page.</div>
+      <div>&#160;</div>
+      <div style="color: #000000;">The information required on the remainder of this cover page shall not be deemed to be &#8220;filed&#8221; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#8220;Act&#8221;) or otherwise subject to the liabilities of that
+        section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).</div>
+      <div style="color: #000000;"> <br>
+      </div>
+      <div style="color: #000000;">
+        <hr align="center" style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;"> </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">2</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div> </div>
+      <table cellspacing="0" cellpadding="2" border="0" style="border-collapse: collapse; width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">1</div>
+            </td>
+            <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">NAMES OF REPORTING PERSONS</div>
+            </td>
+            <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">Energy Growth Momentum GP II Limited</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr style="HEIGHT: 13px">
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">2</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: right">(a)</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+              <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: right">(b)</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+              <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">3</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%; BACKGROUND-COLOR: #bfbfbf" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SEC USE ONLY</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%; BACKGROUND-COLOR: #bfbfbf">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%; BACKGROUND-COLOR: #bfbfbf">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #bfbfbf">
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #bfbfbf">
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">4</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOURCE OF FUNDS (SEE INSTRUCTIONS)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="text-align: left;">
+                <div style="color: #000000;">AF (See Item 3)</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">5</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEM 2(D) OR 2(E)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+              <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">6</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CITIZENSHIP OR PLACE OF ORGANIZATION</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">Guernsey</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: bold; BORDER-LEFT: #000000 1pt solid; WIDTH: 12.71%" rowspan="12" colspan="2">
+              <div style="TEXT-ALIGN: center">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">7</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE VOTING POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">0</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">8</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED VOTING POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">14,351,182 (1)</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">9</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE DISPOSITIVE POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+              <div style="TEXT-ALIGN: left">&#160;0</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">10</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED DISPOSITIVE POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">14,351,182 (1)</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">11</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">14,351,182 (1)</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">12</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+              <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">13</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">24.7% (2)</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">14</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">
+                <div style="color: #000000;">OO</div>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z5ea3258a3b664e6f9807959b41d7488c">
+
+          <tr>
+            <td style="width: 18pt;"><br>
+            </td>
+            <td style="width: 18pt; vertical-align: top; color: #000000;">1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">This amount includes 9,333 shares of Common Stock (as defined herein) issuable upon the exercise of the Stock Option (as defined herein).</div>
+            </td>
+          </tr>
+
+      </table>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="ze7b22dea94a94dc98f7249b110053083">
+
+          <tr>
+            <td style="width: 18pt;"><br>
+            </td>
+            <td style="width: 18pt; vertical-align: top; color: #000000;">2.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Calculation is based on the sum of (i) 58,144,543 shares of Common Stock outstanding as of May 23, 2023, as reported by the Issuer in its Form 8-K, filed on May 30, 2023, plus (ii) the 9,333 shares of Common
+                Stock issuable upon exercise of the Stock Option, which have been added to the total shares of Common Stock outstanding in accordance with Rule 13d-3(d)(1)(i) under the Act.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">3</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="2" border="0" style="border-collapse: collapse; width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+            <tr>
+              <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">1</div>
+              </td>
+              <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">NAMES OF REPORTING PERSONS</div>
+              </td>
+              <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">Energy Growth Momentum II LP</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr style="HEIGHT: 13px">
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">2</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: right">(a)</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: right">(b)</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">3</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%; BACKGROUND-COLOR: #bfbfbf" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SEC USE ONLY</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%; BACKGROUND-COLOR: #bfbfbf">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%; BACKGROUND-COLOR: #bfbfbf">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr style="BACKGROUND-COLOR: #bfbfbf">
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr style="BACKGROUND-COLOR: #bfbfbf">
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">4</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOURCE OF FUNDS (SEE INSTRUCTIONS)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="text-align: left;">
+                  <div>WC (See Item 3)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">5</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEM 2(D) OR 2(E)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">6</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CITIZENSHIP OR PLACE OF ORGANIZATION</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">Guernsey</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: bold; BORDER-LEFT: #000000 1pt solid; WIDTH: 12.71%" rowspan="12" colspan="2">
+                <div style="TEXT-ALIGN: center">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">7</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE VOTING POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">0</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">8</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED VOTING POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">9,142,557 (1)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">9</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE DISPOSITIVE POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">0</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">10</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED DISPOSITIVE POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">9,142,557 (1)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">11</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">9,142,557 (1)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">12</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">13</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">15.7% (2)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">14</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">PN</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+
+        </table>
+        <div> <br>
+        </div>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z2c29fa6dd0f14fcb894d0479c4377201">
+
+          <tr>
+            <td style="width: 18pt;"><br>
+            </td>
+            <td style="width: 18pt; vertical-align: top; color: #000000;">1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">This amount includes 9,333 shares of Common Stock issuable upon the exercise of the Stock Option.</div>
+            </td>
+          </tr>
+
+      </table>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zf417c366ecfc4c548bcdb7bace2192ab">
+
+          <tr>
+            <td style="width: 18pt;"><br>
+            </td>
+            <td style="width: 18pt; vertical-align: top; color: #000000;">2.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Calculation is based on the sum of (i) 58,144,543 shares of Common Stock outstanding as of May 23, 2023, as reported by the Issuer in its Form 8-K, filed on May 30, 2023, plus (ii) the 9,333 shares of Common
+                Stock issuable upon exercise of the Stock Option, which have been added to the total shares of Common Stock outstanding in accordance with Rule 13d-3(d)(1)(i) under the Act.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">4</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="2" border="0" style="border-collapse: collapse; width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+            <tr>
+              <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">1</div>
+              </td>
+              <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">NAMES OF REPORTING PERSONS</div>
+              </td>
+              <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">Tigo SPV LP</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr style="HEIGHT: 13px">
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">2</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: right">(a)</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: right">(b)</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">3</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%; BACKGROUND-COLOR: #bfbfbf" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SEC USE ONLY</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%; BACKGROUND-COLOR: #bfbfbf">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%; BACKGROUND-COLOR: #bfbfbf">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr style="BACKGROUND-COLOR: #bfbfbf">
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr style="BACKGROUND-COLOR: #bfbfbf">
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">4</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOURCE OF FUNDS (SEE INSTRUCTIONS)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="text-align: left;">
+                  <div style="color: #000000;">WC (See Item 3)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">5</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEM 2(D) OR 2(E)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">6</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CITIZENSHIP OR PLACE OF ORGANIZATION</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">Guernsey</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: bold; BORDER-LEFT: #000000 1pt solid; WIDTH: 12.71%" rowspan="12" colspan="2">
+                <div style="TEXT-ALIGN: center">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">7</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE VOTING POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">0</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">8</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED VOTING POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">5,208,625</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">9</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE DISPOSITIVE POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">0</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">10</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED DISPOSITIVE POWER</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 76.38%" rowspan="2">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">5,208,625</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">11</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">5,208,625</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">12</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; PADDING-RIGHT: 2px; WIDTH: 5.01%">
+                <div style="FONT-FAMILY: ''Times New Roman''; TEXT-ALIGN: left">&#9744;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">&#160;</td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">13</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="TEXT-ALIGN: left">
+                  <div style="color: #000000;">9.0% (1)</div>
+                </div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+                <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">14</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" colspan="3">
+                <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 86.4%" rowspan="2" colspan="3">
+                <div style="text-align: left; color: #000000;">PN</div>
+              </td>
+              <td style="VERTICAL-ALIGN: middle; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.59%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+              <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 5.01%">
+                <div style="TEXT-ALIGN: left">&#160;</div>
+              </td>
+            </tr>
+
+        </table>
+        <div> <br>
+        </div>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z7b963f73b19e4214bf5b9bb23647660f">
+
+          <tr>
+            <td style="width: 18pt;"><br>
+            </td>
+            <td style="width: 18pt; vertical-align: top; color: #000000;">1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Calculation is based on 58,144,543 shares of Common Stock outstanding as of May 23, 2023, as reported by the Issuer in its Form 8-K, filed on May 30, 2023.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">5</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z53c897688783430bada38373e99e0c43">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 1.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">SECURITY AND ISSUER</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">This Schedule 13D (this &#8220;Schedule 13D&#8221;) is being filed by the undersigned, pursuant to &#167;240.13d-1(a), with respect to the Common Stock, par value $0.0001 per share (&#8220;Common Stock&#8221;), of Tigo Energy,
+        Inc., a Delaware corporation (the &#8220;Issuer&#8221; or &#8220;Tigo&#8221;). The principal executive offices of the Issuer are located at 655 Campbell Technology Parkway, Campbell, CA 95008.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z0f0d3b1e31304e119116d0fe17866f72">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 2.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">IDENTITY AND BACKGROUND</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(a, f) This Schedule 13D is being filed jointly by the following persons (collectively, the &#8220;Reporting Persons&#8221;):</div>
+      <div>&#160;</div>
+      <div style="margin-left: 81pt; color: #000000;">1. Energy Growth Momentum GP II Limited, a company incorporated under the laws of Guernsey (&#8220;EGM II GP&#8221;);</div>
+      <div style="margin-left: 81pt; color: #000000;">2. Energy Growth Momentum II LP, a limited partnership regulated by the Guernsey Financial Services Commission (&#8220;EGM II LP&#8221;); and</div>
+      <div style="margin-left: 81pt; color: #000000;">3. Tigo SPV LP, a limited partnership registered in Guernsey (&#8220;Tigo SPV&#8221;).</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">This Schedule 13D relates to shares of Common Stock (i) held directly by EGM II LP, (ii) held directly by Tigo SPV, and (iii) that EGM II LP has the right to acquire upon exercise of the Stock Option
+        (as defined herein) held directly by EGM II LP. EGM II GP is the general partner of each of EGM II LP and Tigo SPV and, in such capacity, may be deemed to have indirect voting and dispositive power over the shares of Common Stock directly
+        beneficially owned by each of EGM II LP and Tigo SPV.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(b) The principal business address of each of the Reporting Persons is 1st &amp; 2nd Floors, Elizabeth House, Les Ruettes Brayes, St Peter Port, Guernsey GY1 1EW.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(c) EGM II LP and Tigo SPV are private investment funds that invest in securities. EGM II GP serves as the designated manager and general partner of each of EGM II LP and Tigo SPV.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(d) During the last five years, none of the Reporting Persons or any of their respective executive officers or directors has been convicted in a criminal proceeding (excluding traffic violations or
+        similar misdemeanors).</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(e) During the last five years, none of the Reporting Persons or any of their respective executive officers or directors was a party to a civil proceeding of a judicial or administrative body of
+        competent jurisdiction and, as a result of such proceeding, was or is subject to a judgment, decree, or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any
+        violation with respect to such laws.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z18789b13c8f64c70a51dccbf0a4fa057">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 3.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Pursuant to the Agreement and Plan of Merger, dated December 5, 2022, as amended on April 6, 2023 (the &#8220;Merger Agreement&#8221;), among Roth CH Acquisition IV Co., a Delaware corporation (&#8220;ROCG&#8221;), Roth IV
+        Merger Sub Inc., a Delaware corporation and a wholly-owned subsidiary of ROCG (&#8220;Merger Sub&#8221;), and Tigo Energy, Inc., a Delaware corporation (&#8220;Legacy Tigo&#8221;), Merger Sub merged with and into Legacy Tigo (the &#8220;Merger&#8221;), with Legacy Tigo surviving the
+        Merger as a wholly-owned subsidiary of ROCG (the Merger, together with the other transactions described in the Merger Agreement, the &#8220;Business Combination&#8221;). In connection with the closing of the Business Combination on May 23, 2023 (the
+        &#8220;Closing&#8221;), ROCG changed its name to &#8220;Tigo Energy, Inc.&#8221;</div>
+      <div>&#160;</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">6</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div style="margin-left: 63pt; color: #000000;">Prior to the Business Combination, EGM II LP directly held (i) 32,334,554 shares of Legacy Tigo&#8217;s Series D convertible preferred stock (&#8220;Series D preferred stock&#8221;), which it acquired in January and
+        February of 2021 for a purchase price of $0.4369 per share using its working capital, (ii) 4,423,401 shares of Legacy Tigo&#8217;s Series E convertible preferred stock (&#8220;Series E preferred stock&#8221;), which it acquired in May of 2022, for a purchase price
+        of $1.2208 per share using its working capital, and (iii) an option to purchase up to 40,000 shares of Legacy Tigo&#8217;s common stock at an exercise price of $0.60 per share, which was granted to EGM II LP on June 23, 2022. Prior to the Business
+        Combination, Tigo SPV directly held 20,952,280 shares of Legacy Tigo&#8217;s Series E preferred stock, which it acquired in June and July of 2022, for a purchase price of $1.2208 per share using its working capital.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Under the terms of the Merger Agreement, immediately prior to the effective time of the Business Combination (the &#8220;Effective Time&#8221;), Legacy Tigo (i) caused each share of Legacy Tigo preferred stock
+        issued and outstanding to be automatically converted into a number of shares of Legacy Tigo common stock (the &#8220;Legacy Tigo common stock&#8221;) in accordance with Legacy Tigo&#8217;s charter (the &#8220;preferred stock conversion&#8221;).</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Pursuant to the Merger Agreement, at the Effective Time, each share of Legacy Tigo common stock issued and outstanding immediately prior to the Closing were cancelled and converted into the right to
+        receive 0.233335 shares of Common Stock. Also at the Effective Time, each outstanding Legacy Tigo stock option (each, a &#8220;Legacy Tigo stock option&#8221;), whether vested or unvested, converted into an option to purchase a number of shares of Common Stock
+        equal to the product of (x) the number of shares of Legacy Tigo common stock underlying such Legacy Tigo stock option immediately prior to closing and (y) 0.233335, at an exercise price per share equal to (A) the exercise price per share of Legacy
+        Tigo common stock underlying such Legacy Tigo stock option immediately prior to the Closing divided by (B) 0.233335.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Accordingly, under the terms of the Merger Agreement, immediately prior to the Effective Time, the 32,334,552 shares of Legacy Tigo&#8217;s Series D preferred stock and 4,423,401 shares of Series E preferred
+        stock, each held directly by EGM II LP, and the 20,952,280 shares of Legacy Tigo&#8217;s Series E preferred stock held directly by Tigo SPV, was converted into Legacy Tigo common stock and, at the Effective Time, EGM II LP acquired (i) 9,133,224 shares
+        of Common Stock in exchange for its Legacy Tigo&#8217;s common stock and (ii) an option to purchase 9,333 shares of Common Stock at an exercise price of $2.57 per share (the &#8220;Stock Option&#8221;), in exchange for its Legacy Tigo stock option, and Tigo SPV
+        acquired 5,208,625 shares of Common Stock in exchange for its Legacy Tigo common stock.&#160; The Stock Option vests 25% on June 23, 2023, and the remainder in 1/48th monthly installments over the following thirty-six months.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z60659311fec442dda29e52469e36c29b">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 4.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">PURPOSE OF TRANSACTION</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">The responses to Item 3 and Item 6 of this Schedule 13D are incorporated by reference herein.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt;"><font style="color: #000000;">The Reporting Persons acquired the securities reported herein for investment purposes. The Reporting Persons expect to review from time to time their investment in the Issuer and may,
+          depending on their evaluation of the Issuer&#8217;s business, prospects and financial condition, other developments concerning the Issuer, their investment strategy and general economic and market conditions, and subject to applicable legal, regulatory
+          and contractual obligations (including the terms of the agreements described in Item 6 of this Schedule 13D),</font>&#160;<font style="color: #000000;">in the future take such actions with respect to their investment in the Issuer as they deem
+          appropriate, including, among other things, to: (i) purchase additional shares of Common Stock, options or related derivatives in the open market, in privately negotiated transactions or otherwise; (ii) sell all or a portion of the shares of
+          Common Stock, options or related derivatives now beneficially owned or hereafter acquired by them; and (iii) engage in other proposals as the Reporting Persons may deem appropriate under the circumstances, including plans or proposals which may
+          relate to, or could result in, any of the matters referred to in paragraphs (a) through (j), inclusive, of the instructions to Item 4 of Schedule 13D.</font></div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Prior to the Business Combination, John Wilson, an employee of Energy Growth Momentum LLP and shareholder of EGM II GP, served as a member of Legacy Tigo&#8217;s board of directors since December 2020. Upon
+        Closing, Mr. Wilson became a member of the Issuer&#8217;s board of directors (the &#8220;Board&#8221;). Consistent with their investment intent, the Reporting Persons may, including through Mr. Wilson, engage in communications with, among others, other members of
+        the Board, Issuer management, other securityholders of the Issuer, other potential investors, potential strategic partners, financial advisors and other industry participants, and other third parties regarding the Issuer, including, among other
+        things, the business, operations, governance, strategy, or control of the Issuer or other such matters referred to in paragraphs (a) through (j), inclusive, of the instructions to Item 4 of Schedule 13D.</div>
+      <div>&#160;</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">7</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div style="margin-left: 63pt; color: #000000;">Except as set forth above, none of the Reporting Persons has any plans or proposals which relate to, or could result in, any of the matters referred to in paragraphs (a) through (j), inclusive, of the
+        instructions to Item 4 of Schedule 13D. The Reporting Persons may, at any time and from time to time and subject to the terms of the agreements described in Item 6 of this Schedule 13D and applicable securities law restrictions and other legal
+        requirements, review or reconsider their position and/or change their purpose and/or formulate plans or proposals with respect thereto.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zd84702db2c724ea2a8dcccf7f3ed41d0">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 5.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">INTEREST IN SECURITIES OF THE ISSUER</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(a) The information relating to the beneficial ownership of the Common Stock by each of the Reporting Persons set forth in Rows 7 through 13 of the cover pages hereto is incorporated by reference herein
+        and is as of the date hereof. Beneficial ownership percentages reported herein are based on 58,144,543 shares of Common Stock outstanding as of May 23, 2023, as reported by the Issuer in its Form 8-K, filed on May 30, 2023, plus, for EGM II GP and
+        EGM II LP, the 9,333 shares issuable upon exercise of the Stock Option, which are added to the total shares of Common Stock outstanding in accordance with Rule 13d-3(d)(1)(i) under the Act.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(b) EGM II GP shares with EGM II LP the power to vote or direct the vote of, and the power to dispose or direct the disposition of, the 9,142,557 shares of Common Stock directly beneficially owned by
+        EGM II LP, which includes 9,333 shares of Common Stock issuable to EGM II LP upon exercise of the Stock Option. EGM II GP shares with Tigo SPV the power to vote or direct the vote of, and the power to dispose or direct the disposition of, the
+        5,208,625 shares of Common Stock directly beneficially owned by Tigo SPV.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(c) The response to Item 3 of this Schedule 13D is incorporated by reference herein. Except as disclosed herein, none of the Reporting Persons have effected any transactions in Common Stock during the
+        past 60 days.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(d) This Item 5(d) is not applicable.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">(e) This Item 5(e) is not applicable.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z52ee76d4bfd54114a1c80a427e9bef35">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 6.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO SECURITIES OF THE ISSUER</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">In connection with the Closing, on May 23, 2023, certain stockholders of ROCG and Legacy Tigo (the &#8220;Holders&#8221;), including EGM II LP and Tigo SPV, entered into an amended and restated Registration Rights
+        Agreement (the &#8220;A&amp;R Registration Rights Agreement&#8221;) with the Issuer. Pursuant to the A&amp;R Registration Rights Agreement, the Issuer agreed to file within 30 days of Closing a shelf registration statement registering the resale of the
+        Registrable Securities (as defined in the A&amp;R Registration Rights Agreement) held by the Holders.&#160; In addition, up to twice in any 12-month period, certain Holders may request to sell all or any portion of their Registrable Securities in an
+        underwritten offering so long as the total offering price is reasonably expected to exceed $25.0 million.&#160; The Issuer also agreed to provide customary &#8220;piggyback&#8221; registration rights, subject to certain requirements and customary conditions.&#160; The
+        Issuer agreed to pay certain expenses related to registrations under the A&amp;R Registration Rights Agreement and to indemnify the Holders against certain liabilities. The forgoing description of the A&amp;R Registration Rights Agreement does not
+        purport to be complete and is qualified in its entirety by reference to the text of the A&amp;R Registration Rights Agreement, a copy of which is filed as Exhibit B to this Schedule 13D and is incorporated by reference herein.</div>
+      <div>&#160;</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">8</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div style="margin-left: 63pt; color: #000000;">Also in connection with the consummation of the Business Combination, on May 23, 2023, certain stockholders of the Issuer, including EGM II LP and Tigo SPV, entered into separate lock-up agreements with
+        the Issuer (each, a &#8220;Lock-Up Agreement&#8221;), pursuant to which they agreed, among other things, not to sell, assign, encumber, pledge, hypothecate, dispose of, loan or otherwise transfer (or enter into any agreement related to such a transfer) any
+        shares of Common Stock held by them immediately after the Closing, including any shares of Common Stock issuable upon the exercise of options or warrants to purchase shares of Common Stock held by them immediately following the Closing, until
+        November 23, 2023 (the date that is six months after Closing).&#160; However, the parties to the Lock-Up Agreement may transfer (subject to restrictions under applicable securities laws), (i) up to 5% of their Common Stock held immediately after
+        Closing, or such Common Stock otherwise issued or issuable in connection with the Business Combination, until August 21, 2023 (the date that is 90 days after Closing), and (ii) from August 22, 2023 (the 91st day after Closing) through November 23,
+        2023, up to an additional 5% (for a total of up to 10% during such periods) of Common Stock held immediately after Closing. The foregoing description of the Lock-Up Agreement does not purport to be complete and is qualified in its entirety by
+        reference to the form of Lock-Up Agreement, a copy of which is filed as Exhibit C to this Schedule 13D and is incorporated by reference herein.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z0d0ea9a896db4c16a9754e0c0b98ee6f">
+
+          <tr>
+            <td style="width: 63pt; vertical-align: top; color: #000000; font-weight: bold;">Item 7.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">MATERIAL TO BE FILED AS EXHIBITS</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Exhibit A: Joint Filing Agreement, dated June 2, 2023.</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Exhibit B: Amended and Restated Registration Rights Agreement, dated May 23, 2023, by and among the Issuer and certain stockholders and equityholders of the Issuer (incorporated by reference to Exhibit
+        10.2 to Issuer&#8217;s Current Report on Form 8-K, filed with the Securities and Exchange Commission on May 30, 2023).</div>
+      <div>&#160;</div>
+      <div style="margin-left: 63pt; color: #000000;">Exhibit C: Form of Lock-Up Agreement (incorporated by reference to Exhibit 10.16 to ROCG&#8217;s Registration Statement on Form S-4/A, filed with the Securities and Exchange Commission on April 20, 2023).</div>
+      <div>&#160;</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">9</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div style="text-align: center; font-weight: bold;">SIGNATURES </div>
+      <div>&#160;</div>
+      <div style="text-indent: 36pt; color: #000000;">After reasonable inquiry and to the best of his or its knowledge and belief, each of the undersigned certifies that the information set forth in this statement is true, complete and correct.</div>
+      <div style="color: #000000;"><br>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="ze0595193fae54f568e7469f56a51f0b2">
+
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;" rowspan="1">
+                <div style="color: #000000;">Date: June 2, 2023</div>
+              </td>
+              <td colspan="2" style="vertical-align: top;" rowspan="1">&#160;</td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;" rowspan="1">&#160;</td>
+              <td colspan="2" style="vertical-align: top;" rowspan="1">&#160;</td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td colspan="2" style="vertical-align: top;">
+                <div style="color: #000000; font-weight: bold;">Energy Growth Momentum GP II Limited</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td colspan="2" style="vertical-align: top;">&#160;</td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">By:</div>
+              </td>
+              <td style="width: 45%; vertical-align: top;">
+                <div style="color: #000000;"><u>/s/ Mark Vidamour</u></div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">Name:</div>
+              </td>
+              <td style="width: 45%; vertical-align: top;">
+                <div style="color: #000000;">Mark Vidamour</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">Title:</div>
+              </td>
+              <td style="vertical-align: top; width: 45%;">
+                <div style="color: #000000;">Director</div>
+              </td>
+            </tr>
+
+        </table>
+        <div> <br>
+        </div>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="za2e7096443294da49347593ca789165f">
+
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td colspan="2" style="vertical-align: top;">
+                <div style="color: #000000; font-weight: bold;">Energy Growth Momentum II LP</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">&#160;</td>
+              <td style="width: 45%; vertical-align: top;">&#160;</td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">By:</div>
+              </td>
+              <td style="width: 45%; vertical-align: top;">
+                <div style="color: #000000;">Energy Growth Momentum GP II Limited, its </div>
+                <div style="color: #000000;">general partner</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">&#160;</td>
+              <td style="width: 45%; vertical-align: top;">&#160;</td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">By:</div>
+              </td>
+              <td style="width: 45%; vertical-align: top;">
+                <div style="color: #000000;"><u>/s/ Mark Vidamour</u></div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">Name:</div>
+              </td>
+              <td style="width: 45%; vertical-align: top;">
+                <div style="color: #000000;">Mark Vidamour</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+              <td style="width: 5%; vertical-align: top;">
+                <div style="color: #000000;">Title:</div>
+              </td>
+              <td style="width: 45%; vertical-align: top;">
+                <div style="color: #000000;">Director</div>
+              </td>
+            </tr>
+
+        </table>
+        <div> <br>
+        </div>
+        <div>
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zc094c0bc8bdb4604a8e4603c284c884a">
+
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td colspan="2" style="vertical-align: top;">
+                  <div style="color: #000000; font-weight: bold;">Tigo SPV LP</div>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td style="width: 5%; vertical-align: top;">&#160;</td>
+                <td style="width: 45%; vertical-align: top;">&#160;</td>
+              </tr>
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td style="width: 5%; vertical-align: top;">
+                  <div style="color: #000000;">By:</div>
+                </td>
+                <td style="width: 45%; vertical-align: top;">
+                  <div style="color: #000000;">Energy Growth Momentum GP II Limited, its</div>
+                  <div style="color: #000000;"> general partner</div>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td style="width: 5%; vertical-align: top;">&#160;</td>
+                <td style="width: 45%; vertical-align: top;">&#160;</td>
+              </tr>
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td style="width: 5%; vertical-align: top;">
+                  <div style="color: #000000;">By:</div>
+                </td>
+                <td style="width: 45%; vertical-align: top;">
+                  <div style="color: #000000;"><u>/s/ Mark Vidamour</u></div>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td style="width: 5%; vertical-align: top;">
+                  <div style="color: #000000;">Name:</div>
+                </td>
+                <td style="width: 45%; vertical-align: top;">
+                  <div style="color: #000000;">Mark Vidamour</div>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+                <td style="width: 5%; vertical-align: top;">
+                  <div style="color: #000000;">Title:</div>
+                </td>
+                <td style="width: 45%; vertical-align: top;">
+                  <div style="color: #000000;">Director</div>
+                </td>
+              </tr>
+
+          </table>
+          <div> <br>
+          </div>
+        </div>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="width: 100%;" class="BRPFPageFooter"></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+        <div class="BRPFPageHeader" style="width: 100%;">
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 40%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">CUSIP No. 88675P103</div>
+                </td>
+                <td style="width: 45%;">
+                  <div style="text-align: left; color: #000000; font-weight: bold;">SCHEDULE 13D</div>
+                </td>
+                <td style="width: 15%;">
+                  <div style="text-align: left; color: #000000; font-size: 12pt;"><font style="font-size: 10pt; font-weight: bold;"><font style="font-weight: normal;">Page</font> <font class="BRPFPageNumber">10</font> <font style="font-weight: normal;">of</font>
+                      10 <font style="font-weight: normal;">Pages</font></font></div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div style="text-align: right; color: #000000; font-weight: bold;">Exhibit A</div>
+      <div>&#160;</div>
+      <div style="text-align: center;"><font style="font-weight: bold;">&#160;&#160;&#160; <u>JOINT FILING AGREEMENT</u></font> </div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">In accordance with Rule 13d-1(k)(1) under the Securities Exchange Act of 1934, as amended, the persons named below agree to the joint filing on behalf of each of them of a statement on Schedule 13D
+        (including amendments thereto) with respect to the Common Stock, par value $0.0001 per share, of Tigo Energy, Inc. a Delaware corporation, and further agree that this Joint Filing Agreement be included as an exhibit to such joint filings.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">In evidence thereof, each of the undersigned hereby executes this Joint Filing Agreement as of June 2, 2023.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z4ec38176450945218ec1d6a96a7d9c51">
+
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td colspan="2" style="vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">Energy Growth Momentum GP II Limited</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td colspan="2" style="vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);"><u>/s/ Mark Vidamour</u></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Name:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Mark Vidamour</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Title:</div>
+            </td>
+            <td style="vertical-align: top; width: 45%;">
+              <div style="color: #000000;">Director</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td colspan="2" style="vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">Energy Growth Momentum II LP</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Energy Growth Momentum GP II Limited, its</div>
+              <div style="color: rgb(0, 0, 0);"> general partner</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);"><u>/s/ Mark Vidamour</u></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Name:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Mark Vidamour</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.74%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Title:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: #000000;">Director</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td colspan="2" style="vertical-align: top;">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">Tigo SPV LP</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Energy Growth Momentum GP II Limited, its</div>
+              <div style="color: rgb(0, 0, 0);"> general partner</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">&#160;</td>
+            <td style="width: 45%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);"><u>/s/ Mark Vidamour</u></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Name:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Mark Vidamour</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 49.72%; vertical-align: top;">&#160;</td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Title:</div>
+            </td>
+            <td style="width: 45%; vertical-align: top;">
+              <div style="color: rgb(0, 0, 0);">Director</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div><br>
+      </div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"> </div>
+    </div>
+  </div>
+  <div style="width: 100%;" class="BRPFPageFooter"></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,634 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Rfb2N5tItyYpCYA1W+E+7FA/wtg+DvixBI4J9gxag2rlYZL204j6Q6dpk6mibN9m
+ fuYk+Ki1gApxRkfVe0506g==
+
+<SEC-DOCUMENT>0001140661-04-000042.txt : 20040301
+<SEC-HEADER>0001140661-04-000042.hdr.sgml : 20040301
+<ACCEPTANCE-DATETIME>20040301172026
+ACCESSION NUMBER:		0001140661-04-000042
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20040301
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DEMARE NICK
+		CENTRAL INDEX KEY:			0001101054
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CHASE MANAGEMENT
+		STREET 2:		1090 W. GEORGIA, SUITE 1305
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			00000
+
+	MAIL ADDRESS:	
+		STREET 1:		1305 1090 W GEORGIA ST
+		CITY:			VANCOUVER CITY BC
+		STATE:			A1
+		ZIP:			9999999999
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TUMI RESOURCES LTD
+		CENTRAL INDEX KEY:			0001191832
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINING, QUARRYING OF NONMETALLIC MINERALS (NO FUELS) [1400]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-79454
+		FILM NUMBER:		04640268
+
+	BUSINESS ADDRESS:	
+		STREET 1:		#1305-1090 W
+		STREET 2:		GEORGIA ST
+		CITY:			VANCOUVER BC
+		STATE:			A1
+		ZIP:			V6E 3V7
+		BUSINESS PHONE:		6046859316
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>nd13dtum.txt
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 13D
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                                 (AMENDMENT __)*
+
+                             TUMI RESOURCES LIMITED
+                                (Name of Issuer)
+
+                           COMMON STOCK, NO PAR VALUE
+                         (Title of Class of Securities)
+
+                                   899694 10 3
+                                 (CUSIP Number)
+
+
+              CRAIG A. STONER, ESQ., 455 SHERMAN STREET, SUITE 300,
+                         DENVER, CO 80203, 303-777-3737
+   (Name, Address and Telephone Number of Person Authorized to Receive Notices
+                               and Communications)
+
+                                FEBRUARY 9, 2004
+             (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously  filed a statement on Schedule 13G to report
+the  acquisition  that is the subject of this  Schedule  13D, and is filing this
+schedule because of ss.ss. 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the
+following box [ ].
+
+NOTE:  Schedules  filed in paper format shall include a signed original and five
+copies of the schedule,  including all exhibits.  See ss.ss. 240.13d-7 for other
+parties to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+
+<PAGE>
+
+
+CUSIP No. 899694 10 3                                               Page 2 of 11
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+      1            NAMES OF REPORTING PERSONS                        NICK DEMARE
+
+                   S.S. OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (Entities
+                   Only)
+- --------------------------------------------------------------------------------
+      2            CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP      (a) [ ]
+                   (See Instructions)                                    (b) [ ]
+- --------------------------------------------------------------------------------
+      3            SEC USE ONLY
+- --------------------------------------------------------------------------------
+      4            SOURCE OF FUNDS (See Instructions)
+                   PF
+- --------------------------------------------------------------------------------
+      5            CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+                   PURSUANT TO ITEMS 2(d) OR 2(e)                            [ ]
+- --------------------------------------------------------------------------------
+      6            CITIZENSHIP OR PLACE OF ORGANIZATION
+                   CANADA
+- --------------------------------------------------------------------------------
+                                   7              SOLE VOTING POWER
+      NUMBER OF                                   1,169,725
+       SHARES      -------------------------------------------------------------
+    BENEFICIALLY
+      OWNED BY                     8              SHARED VOTING POWER
+        EACH                                     -0-
+      REPORTING    -------------------------------------------------------------
+    PERSON WITH
+                                   9              SOLE DISPOSITIVE POWER
+                                                  1,169,725
+                   -------------------------------------------------------------
+                                  10              SHARED DISPOSITIVE POWER
+                                                  -0-
+- --------------------------------------------------------------------------------
+      11           AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+                   PERSON
+                   1,169,725
+- --------------------------------------------------------------------------------
+      12           CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+                   CERTAIN SHARES (See Instructions)                         [ ]
+- --------------------------------------------------------------------------------
+      13           PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                   7.7%
+- --------------------------------------------------------------------------------
+      14           TYPE OF REPORTING PERSON (See Instructions)
+                   IN
+- --------------------------------------------------------------------------------
+
+INCLUDE  BOTH SIDES OF THE COVER PAGE,  RESPONSES  TO ITEMS 1-7          2 OF 11
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+
+<PAGE>
+
+
+
+CUSIP No. 899694 10 3                                               Page 3 of 11
+
+
+ITEM. 1  SECURITY AND ISSUER.
+
+The class of equity  securities to which this Schedule 13D relates is the Common
+Shares,  no par value, of Tumi Resources  Limited (the  "Issuer").  The Issuer's
+principal  executive  offices are located at #1305 - 1090 West  Georgia  Street,
+Vancouver, British Columbia, V6E 3V7, CANADA.
+
+
+ITEM 2.  IDENTITY AND BACKGROUND.
+
+This statement is filed pursuant to Rule 13d-1 under the Securities Exchange Act
+of 1934, as amended, by Nick DeMare.
+
+Mr. DeMare beneficially owns shares of the Issuer's common stock in his own name
+and through DNG Capital Corp. ("DNG Capital").
+
+Mr. DeMare is a citizen and resident of Canada. Mr. DeMare's business address is
+#1305 - 1090 West Georgia Street, Vancouver, British Columbia, V6E 3V7 CANADA.
+
+Since May,  1991,  Mr.  DeMare has been the President of Chase  Management  Ltd.
+("Chase"),  a private  company which  provides a broad range of  administrative,
+management  and financial  services to private and public  companies  engaged in
+mineral  exploration and development,  gold and silver  production,  oil and gas
+exploration and production and venture capital.  Mr. DeMare indirectly owns 100%
+of Chase.  Chase's  address  is #1305 - 1090  West  Georgia  Street,  Vancouver,
+British Columbia,  V6E 3V7 CANADA. Mr. DeMare is also an officer and director of
+the Issuer.
+
+During the last five years,  Mr.  DeMare has not been  convicted in any criminal
+proceeding  (excluding traffic  violations or similar  misdemeanors) and has not
+been a party to a civil  proceeding  of a  judicial  or  administrative  body of
+competent  jurisdiction as a result of which a judgment,  decree, or final order
+has been issued  enjoining  future  violations  of, or  prohibiting or mandating
+activities subject to, United States federal or state securities laws or finding
+any violation with respect to such laws.
+
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+Mr.  DeMare and DNG Capital  acquired  shares of the Issuer's  common stock from
+various  sources,  including,  but not limited to,  purchases from the Issuer in
+private and public offerings,  purchases from private  individuals and entities,
+and purchases in the open market.  In addition,  Mr. DeMare and DNG Capital have
+sold shares in private  transactions  and through the public market.  All of the
+transactions  were funded  through Mr.  DeMare's  personal  funds or the working
+capital of DNG Capital.
+
+During the last 60 days,  Mr.  DeMare and DNG Capital have acquired and disposed
+of shares of the Issuer's common stock, the details of which are as follows:
+
+
+
+
+
+<PAGE>
+
+
+CUSIP No. 899694 10 3                                               Page 4 of 11
+
+
+DNG CAPITAL CORP.
+
+
+<TABLE>
+<CAPTION>
+
+                                                          Source of Funds
+                    No. of Shares       Purchase/         (personal, bank,            Method of Acquisition
+ Date of            Acquired or        Sale Price         working capital,                or Disposition
+ Transaction         (Disposed)           CDN$          affiliate, from the             (private/public)
+                                                          Issuer, other)
+<S>                   <C>                 <C>              <C>                         <C>
+
+
+
+ 12/10/2003             1,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 12/10/2003            (1,000)            1.40             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/11/2003             4,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 12/11/2003            (4,000)            1.40             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/12/2003           (10,000)            1.45             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/12/2003             9,500             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/12/2003            13,500             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/12/2003            (1,000)            1.45             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/12/2003             1,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 12/12/2003              (500)            1.45             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/15/2003            (5,000)            1.50             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/15/2003             5,000             1.50             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/16/2003             1,200             1.50             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/16/2003             1,000             1.50             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/16/2003            (3,000)            1.56             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+
+
+
+<PAGE>
+
+CUSIP No. 899694 10 3                                               Page 5 of 11
+
+
+ 12/16/2003            (3,700)            1.60             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/17/2003             1,000             1.45             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/18/2003             6,300             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/18/2003             2,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/18/2003             1,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/18/2003             1,000             1.45             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/19/2003             2,500             1.25             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/22/2003             1,000             1.42             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/22/2003             1,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/22/2003             5,000             1.33             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 12/22/2003            (1,000)            1.35             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/22/2003            (4,000)            1.32             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/23/2003             5,000             1.44             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 12/23/2003            (5,000)            1.44             N/A                         Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+
+
+<PAGE>
+
+CUSIP No. 899694 10 3                                               Page 6 of 11
+
+
+ 12/23/2003             2,000             1.35             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/24/2003             5,000             1.30             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 12/24/2003            (5,000)            1.30             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/19/2003            (5,000)            1.38             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/30/2003             5,000             1.33             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried our privately
+ 12/30/2003            (5,000)            1.33             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 12/31/2003            (5,000)            1.41             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/02/2004            (5,000)            1.40             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/02/2004             5,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 01/02/2004             2,500             1.36             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/04/2004             5,000             1.42             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 01/04/2004            (5,000)            1.42             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/05/2004            (5,000)            1.40             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+
+<PAGE>
+
+CUSIP No. 899694 10 3                                               Page 7 of 11
+
+ 01/05/2004             2,100             1.36             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/07/2004             1,400             1.36             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 01/07/2004            (1,400)            1.36             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/08/2004             3,600             1.36             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 01/08/2004            (3,600)            1.39             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/08/2004            (3,900)            1.39             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/12/2004            (3,000)            1.49             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/12/2004            (3,100)            1.49             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/16/2004             3,000             1.35             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/16/2004             1,000             1.35             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/16/2004            (4,000)            1.47             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/16/2004             1,000             1.35             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/19/2004             1,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/23/2004               800             1.36             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/23/2004             3,200             1.36             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+
+<PAGE>
+
+CUSIP No. 899694 10 3                                               Page 8 of 11
+
+
+ 01/26/2004             2,000             1.40             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 01/27/2004            (3,000)            1.52             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/01/2004             3,000             1.52             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 02/02/2004             1,500             1.47             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/02/2004            (6,000)            1.50             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/02/2004            (3,000)            1.52             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/02/2004            (3,000)            1.52             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/03/2004             3,000             1.50             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 02/03/2004            (6,000)            1.49             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/04/2004             2,500             1.45             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 02/04/2004            (2,500)            1.45             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/04/2004             1,500             1.45             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/05/2004             2,000             1.42             Personal                    Acquisition of
+                                                                                       Common shares in the
+                                                                                       public market
+
+
+<PAGE>
+
+
+CUSIP No. 899694 10 3                                               Page 9 of 11
+
+
+ 02/06/2004             3,000             1.49             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 02/06/2004            (3,000)            1.49             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+ 02/09/2004             3,500             1.49             Personal                    Acquisition of
+                                                                                       Common shares
+                                                                                       carried out privately
+ 02/09/2004            (3,500)            1.49             N/A                         Disposition of
+                                                                                       Common shares in the
+                                                                                       public market
+</TABLE>
+
+ITEM 4.    PURPOSE OF TRANSACTION.
+
+(a)  Mr.  DeMare is holding his shares of the Issuer  (including  shares held by
+     DNG Capital) for investment purposes but may transfer or sell the shares as
+     necessary,  and may acquire additional shares (in his own name, through DNG
+     Capital, or through other entities).
+
+Mr. DeMare does not have any other present plans or proposals which relate to or
+would result in:
+
+(b)  an extraordinary corporate transaction, such as a merger, reorganization or
+     liquidation, involving the Issuer or any subsidiary thereof;
+
+(c)  a sale or  transfer  of a  material  amount of assets of the  Issuer or any
+     subsidiary thereof;
+
+(d)  any change in the present  board of directors or  management of the Issuer,
+     including  any plans or proposals to change the number or term of directors
+     or to fill any existing vacancies on the board;
+
+(e)  any material change in the present capitalization or dividend policy of the
+     Issuer;
+
+(f)  any other material change in the Issuer's business or corporate structure;
+
+(g)  changes in the Issuer's  charter or bylaws,  or  instruments  corresponding
+     thereto,  or other actions which may impede the  acquisition  of control of
+     the Issuer by any person;
+
+(h)  causing a class of  securities of the Issuer to be delisted from a national
+     securities exchange or to cease to be authorized to be quoted on NASDAQ;
+
+<PAGE>
+
+CUSIP No. 899694 10 3                                              Page 10 of 11
+
+(i)  a  class  of  equity   securities  of  the  Issuer  becoming  eligible  for
+     termination of registration pursuant to Section 12(g)(4) of the Act; or
+
+(j)  any action similar to any of those enumerated above.
+
+Notwithstanding the foregoing, Mr. DeMare will continue to review his investment
+in the Issuer and  reserves the right to change his  intentions  with respect to
+any or all of such matters.
+
+Item 5.  Interest in Securities of the Issuer.
+
+(a)  As of February 9, 2004,  Mr.  DeMare owned  beneficially  1,169,725  (7.7%,
+     based upon  15,134,200  shares  outstanding  as of February 9, 2004) of the
+     Issuer's common shares. Mr. DeMare's beneficial ownership includes:
+
+     Individually,  658,575  shares of the  Issuer's  common  stock,  options to
+     acquire an additional 166,000 common shares, including 41,000 at a price of
+     CDN$0.23/share,  20,000 at CDN$0.55/share, 65,000 at CDN$0.57 and 40,000 at
+     CDN$1.16.
+
+     Through DNG Capital,  145,150 shares of the Issuer's common stock, warrants
+     to acquire an additional 200,000 common shares, including 60,000 at a price
+     of CDN$0.40/share up to December 13, 2004, and 140,000 at CDN$1.00/share up
+     to March 4, 2004 and CDN$1.15/share up to March 4, 2005.
+
+(b)  Mr.  DeMare has the sole power to vote and to dispose of  1,169,725  of the
+     Issuer's common shares.
+
+(c)  During  the prior 60 days,  Mr.  DeMare  and DNG  Capital  did not have any
+     transactions in the shares of the Issuer,  other than as described above in
+     Item 3. See "Item 3. Source and Amount of Funds or Other Consideration."
+
+(d)  No other  person  is known to have the  right to  receive  or the  power to
+     direct the receipt of  dividends  from,  or the  proceeds  from the sale of
+     common shares held by Mr. DeMare or DNG Capital.
+
+(e)  As of February 9, 2004, Mr. DeMare  continues to be the beneficial owner of
+     more than five percent of the outstanding common shares of the Issuer.
+
+
+
+
+<PAGE>
+
+CUSIP No. 899694 10 3                                              Page 11 of 11
+
+ITEM 6.    CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+           TO SECURITIES OF THE ISSUER.
+
+None.
+
+ITEM 7.    MATERIAL TO BE FILED AS EXHIBITS.
+
+None.
+
+                                    SIGNATURE
+
+After  reasonable  inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+
+
+
+Date:   February 25, 2004                 By:    /s/ Nick DeMare
+      ------------------------------            --------------------------------
+                                                 Nick DeMare
+
+
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

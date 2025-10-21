@@ -1,0 +1,2794 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KFSRFcf5dnY0EPI94cP5t+/0qI996khclg5F4UWMVMtA2dlbQ/9DEou+I9EH5SvX
+ QYsor3/1RA9B6nZX89mQjA==
+
+<SEC-DOCUMENT>0000950133-02-003348.txt : 20021007
+<SEC-HEADER>0000950133-02-003348.hdr.sgml : 20021007
+<ACCEPTANCE-DATETIME>20021007143912
+ACCESSION NUMBER:		0000950133-02-003348
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20021007
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARAN GROUP LTD
+		CENTRAL INDEX KEY:			0001177328
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BARAN HOUSE
+		STREET 2:		8 OMARIM ST INDUSTRIAL PARK
+		CITY:			OMER ISRAEL
+		STATE:			L3
+		ZIP:			84965
+
+	MAIL ADDRESS:	
+		STREET 1:		BARAN HOUSE
+		STREET 2:		8 OMARIM ST INDUSTRIAL PARK
+		CITY:			OMER ISRAEL
+		STATE:			L3
+		ZIP:			84965
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			O2WIRELESS SOLUTIONS INC
+		CENTRAL INDEX KEY:			0001113529
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				582467466
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-60243
+		FILM NUMBER:		02783069
+
+	BUSINESS ADDRESS:	
+		STREET 1:		440 INTERSTATE PARKWAY NORTH
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+		BUSINESS PHONE:		7707635620
+
+	MAIL ADDRESS:	
+		STREET 1:		440 INTERSTATE PARKWAY NORTH
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>w64396sc13d.htm
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sc13d</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P align="center"><FONT size="2"><B>SECURITIES AND EXCHANGE COMMISSION<BR>
+WASHINGTON, D.C. 20549</B>
+</FONT>
+
+<P align="center"><FONT size="2"><B>SCHEDULE 13D</B></FONT>
+
+<P align="center"><FONT size="2"><B>UNDER THE SECURITIES EXCHANGE ACT OF 1934</B></FONT>
+
+<P align="center"><FONT size="2"><B>O2WIRELESS SOLUTIONS, INC.</B><BR>(Name of Issuer)
+</FONT>
+
+<P align="center"><FONT size="2"><B>COMMON STOCK</B><BR>(Title of Class of Securities)
+</FONT>
+
+<P align="center"><FONT size="2"><B>689803 10 4</B><BR>(CUSIP Number)
+</FONT>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="65%">
+<TR valign="bottom">
+        <TD width="50%">&nbsp;</TD>
+        <TD width="5%">&nbsp;</TD>
+        <TD width="45%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD align="center" valign="top"><FONT size="2">Meir Dor</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" valign="top"><FONT size="2">
+Copy To:</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD align="center" valign="top"><FONT size="2">Chairman<BR>
+Baran Group Ltd.<BR>
+Baran House<BR>
+8 Omarim St. Industrial Park<BR>
+Omer 84965, Israel<BR>
+Telephone: (972)&nbsp;8-6200-200</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" valign="top"><FONT size="2">
+Wayne M. Zell, Esq.<BR>
+Mintz Levin Cohn Ferris Glovsky<BR>
+and Popeo PC<BR>
+12010 Sunset Hills Road<BR>
+Reston, Virginia 20190<BR>
+Telephone: (703)&nbsp;464-4800</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="center"><FONT size="2">(Name, Address and Telephone Number of Person Authorized to Receive Notices<BR>
+and Communications)
+</FONT>
+<P align="center"><FONT size="2"><B>June&nbsp;5, 2002</B><BR>
+(Date of Event which Requires Filing of this Statement)
+</FONT>
+<P><FONT size="2">If the filing person has previously filed a statement on Schedule&nbsp;13G to report
+the acquisition that is the subject of this Schedule&nbsp;13D, and is filing this
+schedule because of Rule&nbsp;13d-1(e), 13d-1(f) or 13d-1(g), check the following
+box. &#091; &#093;
+</FONT>
+<P><FONT size="2">NOTE: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See Rule&nbsp;13d-7 for other
+parties to whom copies are to be sent.
+</FONT>
+<P><FONT size="2">*The remainder of this cover page shall be filled out for a reporting person&#146;s
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+</FONT>
+<P><FONT size="2">The information required on the remainder of this cover page shall not be
+deemed to be &#147;filed&#148; for the purpose of Section&nbsp;18 of the Securities Exchange
+Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+</FONT>
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<p align="center"><FONT size="2"><b>SCHEDULE 13D</b></FONT>
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="30%">&nbsp;</TD>
+        <TD width="5%">&nbsp;</TD>
+        <TD width="30%">&nbsp;</TD>
+        <TD width="15%">&nbsp;</TD>
+        <TD width="15%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">CUSIP No.&nbsp;&nbsp;&nbsp;<b>689803 10 4</b></FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="6%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="72%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="16%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">1.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+NAME OF REPORTING PERSONS<BR>&nbsp;<BR>I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS<BR>
+(ENTITIES ONLY)</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2"><B>Baran Group Ltd.<br>&nbsp;<br>&nbsp;<br>00-0000000</B></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">2.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">(a) &#091;&nbsp;&nbsp;&nbsp;&#093;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">(b) &#091;X&#093;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">3.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+SEC USE ONLY<BR>&nbsp;
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">4.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+SOURCE OF FUNDS</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2"><b>WC</b></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">5.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="bottom"><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#091;&nbsp;&nbsp;&nbsp;&#093;</FONT></TD>
+</TR>
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">6.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2"><b>Israel</b></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="3%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="10%">&nbsp;</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD width="2%">&nbsp;</TD>
+        <TD width="38%">&nbsp;</TD>
+        <TD width="8%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">NUMBER OF
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">7.
+</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">SOLE VOTING POWER</FONT></TD>
+        <TD align="right"><FONT size="2">5,775,010 (1)</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">SHARES</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD colspan="2"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">BENEFICIALLY</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD colspan="1"><hr size="1" noshade></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">OWNED BY
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">8.
+</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">SHARED VOTING POWER</FONT></TD>
+        <TD align="right"><FONT size="2">13,942,451 (2)</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">EACH</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD colspan="2"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">REPORTING</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD colspan="1"><hr size="1" noshade></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">PERSON
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">9.
+</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">SOLE DISPOSITIVE POWER</FONT></TD>
+        <TD align="right"><FONT size="2">5,559,610 (1)</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">WITH</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">
+</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD colspan="1"><hr size="1" noshade></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD colspan="3" align="center" valign="top"><FONT size="2">
+
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD nowrap align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">10.
+</FONT></TD>
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">SHARED DISPOSITIVE POWER</FONT></TD>
+        <TD align="right"><FONT size="2">0</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="6%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="72%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="16%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">11.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">19,717,461(1)(2)</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">12.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+CHECK  IF THE AGGREGATE AMOUNT IN ROW (11)&nbsp;EXCLUDES CERTAIN SHARES
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#091;&nbsp;&nbsp;&nbsp;&#093;</FONT></TD>
+</TR>
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">13.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">53.88%(1)(2)(3)</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top" colspan="5"><hr size="1" noshade></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">14.</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+TYPE OF REPORTING PERSON</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">CO</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">2</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp; In the event the Warrant (discussed in Items 3 and 4 below) becomes
+exercisable and is exercised in full, Baran Group Ltd. (&#147;Baran&#148;), through its
+wholly-owned subsidiary Baran Acquisition Sub, Inc. (&#147;Baran Acquisition&#148;), will
+have sole voting power with respect to up to 5,559,610 shares of the common
+stock, par value $.0001 (&#147;Common Stock&#148;) of o2wireless Solutions, Inc.
+(&#147;o2wireless&#148;), which, based upon the 30,442,101 shares of o2wireless Common
+Stock outstanding as of September&nbsp;3, 2002, currently equals 18.3% of the
+outstanding shares of o2wireless Common Stock. Prior to the exercise of the
+Warrant, Baran is not entitled to any rights as a shareholder of o2wireless as
+to the shares of o2wireless Common Stock covered by the Warrant. The Warrant
+may only be exercised in the event that the Merger Agreement is terminated due
+to o2wireless&#146; acceptance of an acquisition proposal that is more favorable to
+o2wireless than the proposed Merger. Baran expressly disclaims beneficial
+ownership of any of the shares of o2wireless Common Stock which are purchasable
+by Baran upon exercise of the Warrant until such time as Baran purchases any
+such shares of o2wireless Common Stock upon any such exercise.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp; 13,942,451 shares of o2wireless Common Stock are subject to an
+Irrevocable Proxy entered into by certain shareholders of o2wireless appointing
+the Chairman of the Board and the President of Baran as attorneys and proxies
+to vote all of the shareholders&#146; shares of o2wireless Common Stock in
+connection with issues concerning the Merger (discussed in Item&nbsp;6 below). The
+13,942,451 shares are comprised of 13,348,353 issued and outstanding shares of
+o2wireless Common Stock and 594,098 shares issuable upon the exercise of
+options to purchase shares of o2wireless Common Stock. Baran expressly
+disclaims beneficial ownership of any of the shares of o2wireless Common Stock
+covered by the Irrevocable Proxy. Based on the 30,442,101 shares of o2wireless
+Common Stock outstanding as of September&nbsp;3, 2002, the 594,098 shares issuable
+upon the exercise of options subject to the Irrevocable Proxy, the 5,559,610
+shares subject to the Warrant (discussed in Items 3 and 4 below), and the
+215,400 shares purchased by Baran in open market transactions (discussed in
+Item&nbsp;5 below), the number of shares of o2wireless Common Stock indicated
+represents approximately 53.88% of o2wireless Common Stock.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp; The percentage is based on the 30,442,101 shares of o2wireless Common
+Stock outstanding as of September&nbsp;3, 2002, the 594,098 shares issuable upon the
+exercise of options subject to the Irrevocable Proxy and the 5,559,610 shares
+subject to the Warrant (discussed in Items 3 and 4 below).
+</FONT>
+<P align="center"><FONT size="2">3</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P align="left"><FONT size="2"><B>ITEM 1. SECURITY AND ISSUER.</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This statement relates to the common stock, par value $.0001 per share
+(&#147;Common Stock&#148;), of o2wireless Solutions, Inc., a Georgia corporation
+(&#147;o2wireless&#148;). o2wireless&#146; principal executive offices are located at 2355
+Industrial Park Boulevard, Cumming, Georgia 30441.
+</FONT>
+<P align="left"><FONT size="2"><B>ITEM 2. IDENTITY AND BACKGROUND</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name of Person Filing:
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baran Group Ltd. (&#147;Baran&#148;)</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address of Principal Business Office:
+</FONT>
+<P align="left"><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baran House, 8 Omarim St. Industrial Park, Omer 84965, Israel
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Principal Business:
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baran is a global engineering and contracting firm and is a market leader
+among Israeli companies that provide engineering services. Its core business is
+providing engineering, construction, project management and consulting services
+to the telecommunications industry and various other industry sectors.
+Incorporated in Israel in 1990, to date Baran has more than 30 subsidiaries and
+related companies operating in Israel, Europe, the United States and the Far
+East. Ordinary shares of Baran are traded on the Tel Aviv Stock Exchange under
+the ticker symbol BRAN.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name, business address, present principal occupation or employment and
+citizenship of each director and executive officer of Baran are set forth in
+<u>Annex A</u> hereto and are incorporated herein by reference.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Criminal Proceedings:
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the last five years, neither Baran nor any executive officer or
+director of Baran has been convicted in a criminal proceeding (excluding
+traffic violations or similar misdemeanors).
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Civil Proceedings:
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the last five years, neither Baran nor any executive officer or
+director of Baran has been a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction resulting in a judgment, decree
+or final order enjoining future violations of, or prohibiting or mandating
+activities subject to, federal or state securities laws, or finding any
+violation with respect to such laws.
+</FONT>
+<P align="center"><FONT size="2">4</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place of Organization:
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Israel
+</FONT>
+<P align="left"><FONT size="2"><B>ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the Warrant Agreement (the &#147;Warrant Agreement&#148;), between Baran
+Acquisition and o2wireless described below in Item&nbsp;4, o2wireless granted to
+Baran Acquisition a warrant (the &#147;Warrant&#148;) to purchase up to 5,559,610 shares
+of o2wireless Common Stock at a price of $0.45 per share, which is exercisable
+only in the event that the Merger Agreement is terminated due to o2wireless&#146;
+acceptance of an acquisition proposal that is more favorable to o2wireless than
+the proposed Merger. The exercise of the Warrant to purchase the full number of
+shares of o2wireless Common Stock covered by the Warrant would require
+aggregate funds of $2,501,824.50. If Baran were to purchase o2wireless Common
+Stock pursuant to the Warrant Agreement, Baran currently anticipates that such
+funds would be provided from Baran&#146;s working capital.
+</FONT>
+<P align="left"><FONT size="2"><B>ITEM 4. PURPOSE OF THE TRANSACTION</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On June&nbsp;5, 2002, Baran, Baran Acquisition and o2wireless entered into an
+Agreement and Plan of Merger, as amended on August&nbsp;28, 2002 and September&nbsp;17,
+2002 (the &#147;Merger Agreement&#148;). The Merger Agreement provides for o2wireless to
+be merged with and into Baran Acquisition in accordance with the Georgia
+Business Corporation Code and the Merger Agreement (the &#147;Merger&#148;). The Merger
+is subject to receipt of regulatory approvals, the approval of o2wireless&#146;
+shareholders and other closing conditions. As a result of the Merger, each
+outstanding share of o2wireless Common Stock will be converted into the right
+to receive 0.014919 ordinary shares of Baran. Consummation of the Merger will
+result in the termination of registration of the o2wireless Common Stock
+pursuant to Section&nbsp;12 of the Securities Exchange Act of 1934, as amended.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Merger Agreement, as amended, is attached hereto as Exhibits 99.1,
+99.2 and 99.3 and is incorporated herein by reference.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a condition and inducement to Baran&#146;s entering into the Merger
+Agreement, o2wireless entered into the Warrant Agreement with Baran
+Acquisition. Pursuant to the Warrant Agreement, o2wireless has granted to Baran
+Acquisition a Warrant to purchase up to 5,559,610 shares (the &#147;Warrant Shares&#148;)
+of o2wireless Common Stock at a price of $0.45 per share, which is exercisable
+only in the event that the Merger Agreement is terminated due to o2wireless&#146;
+acceptance of an acquisition proposal that is more favorable to o2wireless than
+the proposed Merger.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the circumstances set forth in the Warrant Agreement, Baran
+Acquisition, as grantee of the Warrant, may surrender the Warrant to o2wireless
+in exchange for o2wireless Common Stock. The Warrant Agreement is attached
+hereto as Exhibit&nbsp;99.4 and is incorporated herein by reference.
+</FONT>
+<P align="center"><FONT size="2">5</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From time to time prior to the consummation of the Merger, Baran or its
+executive officers and directors may purchase shares of o2wireless Common Stock
+in the open market or in privately negotiated transactions, as market
+conditions warrant.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except as set forth in this Item&nbsp;4, Baran has no plans or proposals that
+relate to or would result in any of the actions set forth in clauses (a)
+through (j)&nbsp;of Item&nbsp;4 of Schedule&nbsp;13D.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The preceding summary of certain provisions of the Merger Agreement and
+the Warrant Agreement, copies of which are filed as exhibits hereto, is not
+intended to be complete and is qualified in its entirety by reference to the
+full text of such agreements.
+</FONT>
+<P align="left"><FONT size="2"><B>ITEM 5. INTEREST IN SECURITIES OF THE ISSUER</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a),(b) Pursuant to the Warrant Agreement, Baran, through its
+wholly-owned subsidiary, Baran Acquisition, has the right, exercisable only in
+certain circumstances, none of which have occurred as of the date hereof, to
+acquire up to 5,559,610 shares of o2wireless Common Stock, which represent
+beneficial ownership of approximately 18.3% of the shares of o2wireless Common
+Stock currently outstanding. If Baran were to acquire such shares, it would
+have sole voting and investment power with respect thereto. Because of the
+limited circumstances in which the Warrant granted under the Warrant Agreement
+is exercisable, Baran disclaims beneficial ownership of the shares of
+o2wireless Common Stock that are subject to the Warrant Agreement.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a result of the Irrevocable Proxy (discussed in Item&nbsp;6 below), Baran
+may be deemed to own 13,348,353 shares of o2wireless Common Stock and options
+to purchase 594,098 shares of o2wireless Common Stock. Such o2wireless Common
+Stock, together with the shares underlying the Warrant, and the 215,400 shares
+of o2wireless Common Stock purchased by Baran in open market transactions,
+constitutes approximately 53.88% of o2wireless Common Stock, assuming the
+exercise of options to purchase 594,098 shares of o2wireless Common Stock
+subject to the Irrevocable Proxy and the 5,559,610 shares subject to the
+Warrant. Baran may be deemed to have shared power to vote the shares that are
+subject to the Irrevocable Proxy. However, Baran (i)&nbsp;is not entitled to any
+rights as a shareholder of o2wireless as to the shares that are subject to the
+Irrevocable Proxy and (ii)&nbsp;disclaims any beneficial ownership of the shares of
+o2wireless Common Stock which are covered by the Irrevocable Proxy.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the best knowledge of Baran, no executive officer or director of Baran
+beneficially owns any shares of o2wireless Common Stock.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;27, 2002, a wholly-owned subsidiary of Baran
+purchased 25,000 shares of o2wireless Common Stock in an open market
+transaction at a price of $0.045 per share. On October&nbsp;2, 2002, the same
+wholly-owned subsidiary of Baran purchased 190,400 shares of o2wireless Common
+Stock in an open market transaction at a price of $0.05 per share. Except as
+described above, there have been no transactions in o2wireless Common Stock by
+Baran, or, to the best knowledge of Baran, by any of Baran&#146;s executive officers
+or directors during the past 60&nbsp;days.
+</FONT>
+<P align="center"><FONT size="2">6</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</FONT>
+
+<TABLE cellspacing="0" border="0" cellpadding="0" width="75%">
+<TR valign="bottom">
+        <TD width="1%">&nbsp;</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD width="86%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top" nowrap><FONT size="2"><B>ITEM 6.</B></FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+<B>CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+TO SECURITIES OF THE ISSUER</B></FONT></TD>
+</TR>
+</TABLE>
+<P align="left"><FONT size="2"><i>Irrevocable Proxy</i>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On June&nbsp;5, 2002, in connection with the execution of the Merger Agreement,
+Baran entered into an irrevocable proxy (&#147;Irrevocable Proxy&#148;) with certain
+stockholders and option holders of o2wireless. Each of these shareholders
+and/or option holders has agreed to vote all shares of o2wireless Common Stock
+beneficially owned or controlled by such shareholder and/or option holder in
+favor of the Merger. In the Irrevocable Proxy, each shareholder and/or option
+holder also agreed to vote against any action or agreement that would (i)
+result in a breach of any covenant, representation or warranty or any other
+obligation or agreement of o2wireless under the Merger Agreement or (ii)
+impede, interfere with, delay, postpone or attempt to discourage the Merger.
+The Irrevocable Proxy terminates upon the termination of the Merger Agreement,
+as more fully described in the Irrevocable Proxy. As of September&nbsp;3, 2002, the
+shareholders and/or option holders of o2wireless that have entered into the
+Irrevocable Proxy owned 13,348,353 shares of o2wireless Common Stock and
+options to purchase 594,098 shares of o2wireless Common Stock (representing
+approximately 44.9% of the o2wireless Common Stock, assuming the exercise of
+options to purchase 594,098 shares of o2wireless Common Stock subject to the
+Irrevocable Proxy.
+</FONT>
+<P align="left"><FONT size="2"><i>Loan Agreement</i>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On June&nbsp;5, 2002, Baran Acquisition entered into a working capital loan
+agreement with o2wireless. In the loan agreement, Baran Acquisition agreed to
+provide working capital advances to o2wireless, subject to conditions and
+covenants imposed on o2wireless, and provided that the representations and
+warranties of o2wireless given in the loan agreement remain true and correct on
+the date of each advance to o2wireless by Baran Acquisition.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baran Acquisition extended the first advance on June&nbsp;6, 2002, immediately
+following the execution of the loan agreement and the merger agreement, in the
+amount of $5,000,000, which was evidenced by a working capital note. In
+addition, and provided that no event of default has occurred, Baran Acquisition
+has agreed to advance to o2wireless the following:
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no later than the date o2wireless files its Form&nbsp;10-Q for the quarter
+ended June&nbsp;30, 2002 or August&nbsp;15, 2002, the lesser of (x) $3,000,000 or (y)&nbsp;the
+amount of o2wireless&#146; loss (as defined below) for the quarter ended June&nbsp;30,
+2002; and
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if the loan agreement is in effect as of the later of the date
+o2wireless files its Form&nbsp;10-Q for the quarter ended September&nbsp;30, 2002 or
+November&nbsp;15, 2002, at Baran Acquisition&#146;s discretion, an amount equal to
+o2wireless&#146; loss for the quarter ended September&nbsp;30, 2002.
+</FONT>
+<P align="center"><FONT size="2">7</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Loss&#148; is defined in the loan agreement as o2wireless&#146; consolidated
+earnings before interest, taxes, depreciation, amortization, non-cash
+restructuring expenses and any accrued and unpaid management fees due to Baran
+Acquisition.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All advances bear interest at the rate of two percent (2%) in excess of
+the prime rate of interest as announced by Citibank, N.A. from time to time.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of o2wireless&#146; subsidiaries have jointly and severally guaranteed to
+Baran Acquisition the prompt payment in full when due of all working capital
+advances. As security for the repayment of all working capital advances and the
+performance of all other obligations of o2wireless and its subsidiaries under
+the agreement, o2wireless and each subsidiary has pledged and assigned to Baran
+Acquisition and has given Baran Acquisition a continuing security interest in
+all of o2wireless&#146; and its subsidiaries&#146; inventory, accounts, equipment,
+investment property and proceeds of those items. o2wireless has also pledged
+to Baran Acquisition all of its capital stock in its subsidiaries.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baran Acquisition&#146;s rights and remedies under the loan agreement are
+subordinate in right of payment to the rights of Wachovia Bank, N.A. under an
+amended and restated credit agreement between Wachovia Bank and o2wireless and
+its subsidiaries, dated September&nbsp;29, 2000.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In August 2002, as a result of a higher than anticipated operating loss at
+o2wireless for the quarter ended June&nbsp;30, 2002, Baran and o2wireless agreed to
+reduce the exchange ratio in the Merger Agreement, and Baran decided to delay
+funding of further advances of working capital by Baran Acquisition to
+o2wireless under the loan agreement. In addition, Wachovia Bank agreed to waive
+the default by o2wireless at June&nbsp;30, 2002 in exchange for a principal
+reduction payment of $1,000,000 and o2wireless&#146; agreement not to make any
+payments to Baran without the consent of the bank.
+</FONT>
+<P align="left"><FONT size="2"><i>Management Consulting Agreement</i>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On June&nbsp;5, 2002, Baran and o2wireless entered into an agreement under
+which Baran has begun providing financial and management consulting services to
+o2wireless, on business and financial matters including corporate strategy,
+budgeting of future corporate investments, acquisition and divestiture
+decisions, operational matters and debt and equity financing. In consideration
+for the services rendered by Baran under the agreement, o2wireless will pay
+Baran a retainer of $400,000, and commencing in July 2002 and continuing each
+month thereafter that the agreement is in effect, an amount equal to 6% of
+o2wireless&#146; consolidated monthly revenues. While the agreement is in effect,
+o2wireless will only be required to pay $40,000 of the monthly fees, with any
+remaining fees to be paid when the consulting agreement terminates, or on the
+date on which o2wireless&#146; and its subsidiaries&#146; obligations to Wachovia Bank,
+under its credit agreement with Wachovia Bank, are paid in full.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The preceding summaries of the Irrevocable Proxy, the Loan Agreement and
+the Management Consulting Agreement are qualified in their entirety by
+reference to the full text of
+
+
+
+</FONT>
+
+<P align="center"><FONT size="2">8</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P><FONT size="2">such documents, forms of which are attached hereto as Exhibits 99.5, 99.6
+and 99.7, respectively, and are incorporated herein by reference.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except as set forth in Items 3, 4, 5 and 6, neither Baran nor, to the best
+knowledge of Baran, any of its directors or executive officers has any
+contracts, arrangements, understanding or relationships (legal or otherwise)
+with any other person with respect to any securities of o2wireless.
+</FONT>
+<P align="left"><FONT size="2"><B>ITEM 7. MATERIALS TO BE FILED AS EXHIBITS</B>
+</FONT>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.1</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Agreement and Plan of Merger, dated as of June&nbsp;5, 2002, by
+and among Baran, Baran Acquisition and o2wireless (filed as Exhibit
+2.1 to the Current Report on Form&nbsp;8-K filed by o2wireless on June
+12, 2002 &#091;File No.&nbsp;000-31295&#093; and incorporated herein by reference).</FONT></TD>
+</TR>
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.2</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Amendment to Agreement and Plan of Merger, dated as of August
+28, 2002, by and among Baran, Baran Acquisition and o2wireless
+(filed as Exhibit&nbsp;2.1.1 to the Current Report on Form&nbsp;8-K filed by
+o2wireless on September&nbsp;10, 2002 &#091;File No.&nbsp;000-31295&#093; and
+incorporated herein by reference).</FONT></TD>
+</TR>
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.3</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Amendment to Agreement and Plan of Merger, dated as of
+September&nbsp;17, 2002, by and among Baran, Baran Acquisition and
+o2wireless (filed as Exhibit&nbsp;2.1.2 to the Current Report on Form&nbsp;8-K
+filed by o2wireless on September&nbsp;17, 2002 &#091;File No.&nbsp;000-31295&#093; and
+incorporated herein by reference).</FONT></TD>
+</TR>
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.4</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Warrant Agreement by and between Baran Acquisition and
+o2wireless.</FONT></TD>
+</TR>
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.5</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Form of Irrevocable Proxy Agreement by and between Baran and
+certain shareholders of o2wireless.</FONT></TD>
+</TR>
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.6</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Working Capital Loan Agreement, dated as of June&nbsp;5, 2002, by
+and among Baran Acquisition, o2wireless, and certain subsidiaries of
+o2wireless (filed as Exhibit&nbsp;10.1 to the Current Report on Form&nbsp;8-K
+filed by o2wireless on June&nbsp;12, 2002 &#091;File No.&nbsp;000-31295&#093; and
+incorporated herein by reference).</FONT></TD>
+</TR>
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="1%" align="left" nowrap><FONT size="2">99.7</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="93%"><FONT size="2">Management Consulting Agreement, dated as of June&nbsp;5, 2002, by
+and among Baran, Baran Acquisition, and o2wireless (filed as Exhibit
+10.2 to the Current Report on Form&nbsp;8-K filed by o2wireless on June
+12, 2002 &#091;File No.&nbsp;000-31295&#093; and incorporated herein by reference).</FONT></TD>
+</TR>
+</TABLE>
+<P align="center"><FONT size="2">9</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+
+
+<P align="center"><FONT size="2"><B>SIGNATURE</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+</FONT>
+
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="43%">&nbsp;</TD>
+        <TD width="5%">&nbsp;</TD>
+        <TD width="32%">&nbsp;</TD>
+        <TD width="22%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2"><B>BARAN GROUP LTD.</B></font></TD>
+
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+By: /s/      Aviel Raviv<BR>
+</FONT><HR size="1" noshade></TD>
+
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="bottom"><FONT size="2">Dated: October 7, 2002</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+Name:    Aviel Raviv<BR>
+Title:   Co-Managing Director</FONT></TD>
+
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+
+<P align="center"><FONT size="2">10</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+
+<P align="center"><FONT size="2"><B><u>ANNEX A</u></B>
+</FONT>
+
+<P align="center"><FONT size="2"><B>DIRECTORS AND EXECUTIVE OFFICERS OF BARAN</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name, present principal occupation or employment and material
+occupations, positions, offices or employment for the past five years of each
+of the directors and executive officers of Baran are set forth below. Unless
+otherwise indicated, each person&#146;s business address is the same as that of
+Baran. Each such director and executive officer is a citizen of Israel.
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="75%">
+<TR valign="bottom">
+        <TD width="18%">&nbsp;</TD>
+        <TD width="5%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="5%">&nbsp;</TD>
+        <TD width="69%">&nbsp;</TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2"><B>Name</B></FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+<B>Age</B>
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2"><B>Principal Position</B></FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Meir Dor</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+55
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Chairman of the Board of Directors</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Yom Tov Samia</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+48
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Co-Managing Director and Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Menachem Gal</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+54
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Co-Managing Director, Head of Business Development and Director
+</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Aviel Raviv</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+57
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Co-Managing Director, Head of Baran&#146;s Foreign Operations and Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Israel Gotman</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+55
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Jonathan Inbar</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+60
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Isaac Friedman</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+52
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director, Vice President of Construction</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Israel Scop</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+52
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Shuki Shor</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+55
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Shlomo Sharf</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+53
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Liora Ofer</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+49
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Arieh Shaked</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+53
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Outside Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Tami Gotlieb</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+45
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Outside Director</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">Sasson Shilo</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+47
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Vice President, Chief Financial Officer and Secretary</FONT></TD>
+</TR>
+
+<TR><TD colspan="5"><HR size="1" noshade></TD></TR>
+
+</TABLE>
+</CENTER>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The business experience, principal occupation and employment, as well as
+the periods of service, of each of the board members and key personnel of Baran
+are set forth below:
+</FONT>
+<P><FONT size="2"><B>Meir Dor </B>has served as a director of Baran since 1991 and has served as the
+chairman of the board of directors of Baran since 1992. Mr.&nbsp;Dor is also a
+director of the following Baran subsidiaries: Baran Advanced Technologies
+(1986)&nbsp;Ltd., Technical Products Management and Marketing Ltd., Baran Raviv
+Telecom Ltd., H.A.J.I Ltd., TPS Teleparking Systems Ltd., A.R. &#150; A.D.Y.R.
+Constructions Ltd., Meissner-Baran Ltd., Industrial Centers E.O.D. Ltd., A.L.D.
+Advanced Logistics Development Ltd., Tefen Industrial Engineering Management
+and Systems Analysis Ltd. and Baran Acquisition Sub, Inc. Mr.&nbsp;Dor received his
+BSC in Management and Industrial Engineering from the University of Tel-Aviv,
+Israel in 1978.
+</FONT>
+<P><FONT size="2"><B>Yom Tov Samia </B>has served as a director of Baran since 2001. Until 2001 Mr.
+Samia has served in senior positions in the Israeli army, such as the Chief
+Officer of the Southern Command. Since 2001, Mr.&nbsp;Samia has served as the
+co-managing director of Baran, head of operations of various divisions in
+Baran, and director of the following subsidiaries of Baran: Baran Project
+Construction Ltd., Baran Inbar Projects (1987)&nbsp;Ltd., Baran Advanced
+Technologies (1986)&nbsp;Ltd., Baran Technical Products Management and Marketing
+Ltd., Baran Industries (91)&nbsp;Ltd., Baran Energies International Ltd., Baran
+Raviv Telecom Ltd., Baran Infrastructure and Construction Ltd., Notev -
+Management and Operations Ltd., H.A.J.I. Ltd., Baran Engineering and Projects
+(1983)&nbsp;Ltd., Meissner-Baran Ltd., Industrial Centers E.O.D. Ltd., LEAD Control
+Ltd. and Green Anchors Ltd. Mr.&nbsp;Samia also serves as the Chairman of the
+Council for Regulating of Sports Betting. Mr.&nbsp;Samia holds a B.A. in General
+Studies from the University of Tel Aviv, Israel, (1988)&nbsp;and an M.A. in
+Political Science from the University of Haifa, Israel (1992).
+</FONT>
+<P><FONT size="2"><B>Menachem Gal </B>has served as a director of Baran since 1991, and has served as
+co-managing director and head of business development of Baran since the second
+half of 2001. Mr.&nbsp;Gal also serves as a director of the following Baran
+subsidiaries: Baran Inbar Projects (1987)&nbsp;Ltd., Baran Advanced Technologies
+(1986)&nbsp;Ltd., Baran Technical Products Management and Marketing Ltd., Baran
+Energies International Ltd., Baran Raviv Telecom Ltd., Notev -
+</FONT>
+<P align="center"><FONT size="2"></FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P><FONT size="2">Management &#038; Operation Ltd., Enco Systems Projects (1997)&nbsp;Ltd., A. Etzion
+Consultants &#038; Engineers Ltd., H.A.J.I. Ltd., Baran Engineering and Projects
+(1983)&nbsp;Ltd. and Nes-Pan Ltd.
+</FONT>
+<P><FONT size="2"><B>Aviel Raviv </B>has served as a director of Baran since 1997, and has served as
+co-managing director since 1994. Mr.&nbsp;Raviv served as co-managing director of
+Baran Raviv Startup and Entrepreneur Ltd. until 1997. Until 1999, Mr.&nbsp;Raviv
+served as head of Baran&#146;s telecommunications division. Mr.&nbsp;Raviv serves as a
+director of the following Baran subsidiaries: Baran Project Construction Ltd.,
+Baran Raviv Telecom Ltd., Enco Systems Projects (1997)&nbsp;Ltd., Baran Engineering
+and Projects (1983)&nbsp;Ltd. and Baran Acquisition Sub, Inc. Mr.&nbsp;Raviv received
+his B.Sc. in Mechanical Engineering from Technion, Israel Institute of
+Technology in 1970 and an M.Sc. in Mechanical Engineering (Turbomechanics) from
+Union College, Schenectady, New York, in 1974.
+</FONT>
+<P><FONT size="2"><B>Israel Gotman </B>has served as a director of Baran since 1991. Between the years
+1990 and 2001 Mr.&nbsp;Gotman served as chief executive officer of several of
+Baran&#146;s subsidiaries. Mr.&nbsp;Gotman currently serves as a director of Baran
+Industries (91)&nbsp;Ltd. Mr.&nbsp;Gotman holds a B.Sc. in Mechanical Engineering from
+the Faculty of Mechanical Engineering, Moscow (1972).
+</FONT>
+<P><FONT size="2"><B>Jonathan Inbar </B>has served as a director of Baran since 1991. Between the years
+1995 and 2000 Mr.&nbsp;Inbar served as co-managing director of Baran and was
+responsible for engineering outside Israel. Mr.&nbsp;Inbar received his BSC in
+Chemical Engineering from the Technion, Institute of Technology, Haifa, Israel
+in 1967, his M.Sc. in Chemical Engineering from the Technion, Institute of
+Technology, Haifa, Israel in 1971, and his M.Sc. in Industrial Management from
+Technion, Institute of Technology, Haifa, Israel in 1985.
+</FONT>
+<P><FONT size="2"><B>Isaac Friedman </B>has served as a director of Baran since 1991, and currently is
+the head of the construction division of Baran. Between the years 1990 and
+1999, Mr.&nbsp;Friedman served as vice president of Baran Project Construction Ltd.,
+where he currently serves as chief executive officer. Mr.&nbsp;Friedman serves as a
+director in the following Baran subsidiaries: Baran Project Construction Ltd.
+and Baran Infrastructure &#038; Construction Ltd. Mr.&nbsp;Friedman graduated as a
+Practical Construction Engineer from the Technical College of Negev,
+Beer-Sheva, Israel in 1975, and received his B.Sc. in Business Management from
+Champlain College, Illinois, in 2000.
+</FONT>
+<P><FONT size="2"><B>Israel Scop </B>has served as a director of Baran since 1991. Until 1998 Mr.&nbsp;Scop
+served as vice president in Baran-Project Construction Ltd. Between 1998 and
+2000, Mr.&nbsp;Scop acted as chief engineer of Baran&#146;s engineering companies. As of
+2000, he is responsible for community relations and special engineering
+projects for Baran. Mr.&nbsp;Scop holds a B.Sc. in Mechanical Engineering from the
+Technion, Institute of Technology, Haifa, Israel (1972).
+</FONT>
+<P><FONT size="2"><B>Shuki Shor </B>has served as a director of Baran since 2001. For the past five
+years, Mr.&nbsp;Shor has served as vice president, Electra (Israel) Ltd., and he
+also serves as a director in a number of other Israeli companies: A. Hertz
+Cooling and Air-conditioning Ltd., Electra Financing and Investments Ltd.,
+Electra Real Estate Ltd., G.S.K.O. Marketing Company Ltd., Tal Elevators (Tel
+Aviv) Ltd., and Kedar Air-conditioning Systems (1989)&nbsp;Ltd. Mr.&nbsp;Shor holds a BA
+in Mechanical Engineering from the Ben Gurion University, Beer-Sheva, Israel
+(1972).
+</FONT>
+<P><FONT size="2"><B>Shlomo Sharf </B>has served as a director of Baran since 1998. In the past five
+years he has served as chief executive officer and director in Electra (Israel)
+Ltd. and held various senior positions and directorships in several Israeli
+companies, including the position of director in Shekem Ltd., Elko Industries
+Ltd., Milgam Ltd. and Mendelson Ltd. Mr.&nbsp;Sharf holds a BA in Mechanical
+Engineering from the Ben Gurion University, Beer-Sheva, Israel (1974).
+</FONT>
+<P><FONT size="2"><B>Liora Ofer </B>has served as a director of Baran since 1999. During the past five
+years Ms.&nbsp;Ofer has served in different roles in the Ofer Brothers group of
+companies, including Israel Chemicals Ltd. and its subsidiaries, and has served
+as the managing director of Almog Eilat Shore Ltd. Ms.&nbsp;Ofer also serves as a
+director of a number of Israeli companies: United Mizrahi Bank Ltd., Ofer
+Development and Investments Ltd., Malisron Ltd., Almog Eilat Shore Ltd., Neot
+Almog Shore (1990)&nbsp;Ltd., Almog Hotel Management Ltd., Almog Shore Haifa (1996)
+Ltd., Neve Almog Shore Ltd., Laguna Hotel Ltd., Oro Investments Ltd., Oro
+Foreign Investments (1999)&nbsp;Ltd., Halidor Entrepreneurs Ltd., and Offer Brothers
+Assets (1957)&nbsp;Ltd.
+</FONT>
+<P><FONT size="2"><B>Arieh Shaked </B>has served as an outside director of Baran since 2000. During the
+past five years Mr.&nbsp;Shaked has served as chairman of the board of directors of
+a number of Israeli companies: Enosh Security and Maintenance Ltd., Enosh
+Building Maintenance Ltd., Enosh Human Resources Services and Security Eilat
+Ltd. Mr.&nbsp;Shaked is a
+</FONT>
+<P align="center"><FONT size="2"></FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P><FONT size="2">also a director of Arami Shaked 2000 Ltd. and Nehushtan Investments Ltd. Mr.
+Shaked holds a BA in Political Sciences, Business Management from Bar-Ilan
+University, Tel-Aviv, Israel (1982)&nbsp;and an MA in Social Sciences and
+Mathematics from the University of Haifa, Israel (1989).
+</FONT>
+<P><FONT size="2"><B>Tami Gotlieb </B>joined Baran as an outside director on July&nbsp;4, 2002. Between 1997
+and 2001, Ms.&nbsp;Gotlieb served as co-managing director and director of Investec
+General &#151; Management and Underwriting Ltd. Since 2001, Ms.&nbsp;Gotlieb has acted
+as an independent consultant. Ms.&nbsp;Gotlieb currently serves as a director in a
+number of Israeli companies: Sahar Development and Investments Ltd., Ishpro
+Israeli Company for the Security of Buildings Ltd., Emilia Cracking (M.O.F.)
+Ltd., RoboGroup Ltd., The Provident Funds of Mercantile Discount Bank Ltd.,
+T.R.A. Tel Aviv Radio Ltd., &#147;Dan&#148; Transportation Company Ltd., Incredimail
+Ltd., and Credit Information Association (CIA)&nbsp;Ltd. Ms.&nbsp;Gotlieb holds a BA in
+International Relations from The Hebrew University, Jerusalem, Israel (1978)
+and an MA in Economics from Indiana University, Bloomington, Indiana, USA
+(1980).
+</FONT>
+<P><FONT size="2"><B>Sasson Shilo </B>joined Baran in 1992 and serves as Baran&#146;s vice president of
+finance and as secretary of Baran. Mr.&nbsp;Shilo serves as a director in the
+following Baran subsidiaries: Baran Technical Products Management and Marketing
+Ltd., Baran &#151; Industries (1991)&nbsp;Ltd., Enco Systems Projects (1997)&nbsp;Ltd., A.
+Etzion Consultants &#038; Engineers Ltd. and Industrial Centers E.O.D. Ltd. Mr.
+Shilo holds a BA in Economics from the Ben Gurion University, Beer-Sheva,
+Israel from 1984 and an MBA in Business Management from the Ben Gurion
+University, Beer-Sheva, Israel (1989)
+</FONT>
+
+<P align="center"><FONT size="2"></FONT>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>3
+<FILENAME>w64396exv99w4.htm
+<DESCRIPTION>WARRANT AGMT. BT & BETWEEN BARAN & O2WIRELESS
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w4</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="right"><FONT size="2"><u>Exhibit&nbsp;99.4</u>
+</FONT>
+
+<P><FONT size="2">THIS WARRANT AND THE SHARES OF CAPITAL STOCK ISSUED UPON ANY EXERCISE HEREOF
+HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE
+&#147;<B>SECURITIES ACT</B>&#148;), OR ANY APPLICABLE STATE SECURITIES LAWS AND MAY NOT BE SOLD
+OR OTHERWISE TRANSFERRED BY ANY PERSON, INCLUDING A PLEDGEE, UNLESS (1)&nbsp;EITHER
+(A)&nbsp;A REGISTRATION WITH RESPECT TO THERETO SHALL BE EFFECTIVE UNDER THE
+SECURITIES ACT, OR (B)&nbsp;THE COMPANY SHALL HAVE RECEIVED AN OPINION OF COUNSEL
+SATISFACTORY TO THE COMPANY THAT AN EXEMPTION FROM REGISTRATION UNDER THE
+SECURITIES ACT IS AVAILABLE, AND (2)&nbsp;THERE SHALL HAVE BEEN COMPLIANCE WITH ALL
+APPLICABLE STATE SECURITIES OR &#147;BLUE SKY&#148; LAWS.
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="16%">&nbsp;</TD>
+        <TD width="25%">&nbsp;</TD>
+        <TD width="59%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">No. &#95;&#95;&#95;&#95;&#95;&#95;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">For the Purchase of</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">
+5,559,610 shares</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="right" valign="top"><FONT size="2">
+of Common Stock</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="center"><FONT size="2">WARRANT TO PURCHASE STOCK
+</FONT>
+<P align="center"><FONT size="2">OF
+</FONT>
+<P align="center"><FONT size="2">o2WIRELESS SOLUTIONS, INC.
+</FONT>
+<P align="center"><FONT size="2">(A GEORGIA CORPORATION)
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o2wireless Solutions, Inc. a Georgia corporation (the &#147;<B>Company</B>&#148;), for
+value received, hereby certifies that Baran Acquisition Sub, Inc. (the
+&#147;<B>Holder</B>&#148;), is entitled, subject to the terms set forth below, to purchase from
+the Company, at any time or from time to time at or before the expiration of
+three (3)&nbsp;years following the Effective Date (as defined below) (the
+&#147;<B>Expiration Date</B>&#148;), five million five hundred fifty-nine thousand six hundred
+ten (5,559,610) shares of Common Stock, par value $.0001 per share, of the
+Company (the &#147;<B>Common Stock</B>&#148;), at a purchase price per share equal to forty-five
+cents($.45) per share (the &#147;<B>Base Price</B>&#148;), as adjusted upon the occurrence of
+certain events as set forth in Section&nbsp;3 of this Warrant. The shares of stock
+issuable upon exercise of this Warrant, and the purchase price per share, are
+hereinafter referred to as the &#147;Warrant Stock&#148; and the &#147;Purchase Price,&#148;
+respectively. This Warrant is contingent upon and only effective in the event
+that the merger contemplated under that certain Agreement and Plan of Merger to
+which the Company, the Holder and the Holder&#146;s parent are parties (&#147;Merger
+Agreement&#148;) is terminated as a result of the Company accepting a Superior
+Proposal (as defined in the Merger Agreement). The date of the Company&#146;s
+acceptance of the Superior Proposal is herein referred to as the &#147;Effective
+Date&#148;.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;<u>Exercise</u>.
+</FONT>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Manner of Exercise; Payment in Cash.</u> This Warrant may be
+exercised by the Holder, in whole or in part, by surrendering this
+Warrant, with the purchase form appended hereto as <u>Exhibit&nbsp;A</u> duly
+executed by the Holder, at the principal office of the Company, or at
+such other place as the Company may designate, accompanied by payment in
+full of the Purchase Price payable in respect of the number of shares of
+Warrant Stock purchased upon such exercise. Payment of the Purchase
+Price shall be in cash or by certified or official bank check payable to
+the order of the Company.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Effectiveness.</u> Each exercise of this Warrant shall be deemed to
+have been effected immediately prior to the close of business on the day
+on which this Warrant shall have been surrendered to the Company as
+provided in Section&nbsp;1.1 above. At such time, the person or persons in
+whose name or names any certificates for Warrant Stock shall be issuable
+upon such exercise as provided in Section&nbsp;1.3 below shall be deemed to
+have become the holder or holders of record of the Warrant Stock
+represented by such certificates.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Delivery of Certificates.</u> As soon as practicable after the
+exercise of this Warrant in full or in part, and in any event within ten
+(10)&nbsp;business days thereafter, the Company at its sole expense will cause
+to be</FONT></TD>
+</TR>
+</TABLE>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">issued in the name of, and delivered to, the Holder, or, subject to the
+terms and conditions hereof, as such Holder (upon payment by such Holder
+of any applicable transfer taxes) may direct:</FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="6%"></TD>
+        <TD width="94%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A certificate or certificates for the number of full
+shares of Warrant Stock to which such Holder shall be entitled upon
+such exercise plus, in lieu of any fractional share to which such
+Holder would otherwise be entitled, cash in an amount determined
+pursuant to Section&nbsp;2 hereof, and</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In case such exercise is in part only, a new warrant or
+warrants (dated the date hereof) of like tenor, calling in the
+aggregate on the face or faces thereof for the number of shares of
+Warrant Stock (without giving effect to any adjustment therein)
+equal to the number of such shares called for on the face of this
+Warrant minus the number of such shares purchased by the Holder
+upon such exercise as provided in Section&nbsp;1.1 above.</FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Right to Convert Warrant into Stock: Net Issuance.</u></FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Right to Convert.</u> In addition to and without limiting the
+rights of the Holder under the terms of this Warrant, the Holder shall
+have the right to convert this Warrant or any portion thereof (the
+&#147;Conversion Right&#148;) into shares of Common Stock as provided in this
+Section&nbsp;1.4 at any time or from time to time during the term of this
+Warrant. Upon exercise of the Conversion Right with respect to a
+particular number of shares subject to this Warrant (the &#147;Converted
+Warrant Shares&#148;), the Company shall deliver to the Holder (without
+payment by the Holder of any Purchase Price or any cash or other
+consideration) that number of shares of fully paid and nonassessable
+Common Stock equal to the quotient obtained by dividing (X)&nbsp;the value of
+this Warrant (or the specified portion hereof) on the Conversion Date (as
+defined in subsection (b)&nbsp;hereof), which value shall be determined by
+subtracting (A)&nbsp;the aggregate Purchase Price of the Converted Warrant
+Shares immediately prior to the exercise of the Conversion Right from (B)
+the aggregate fair market value of the Converted Warrant Shares issuable
+upon exercise of this Warrant (or the specified portion hereof) on the
+Conversion Date (as herein defined) by (Y)&nbsp;the fair market value of one
+share of Common Stock on the Conversion Date (as herein defined).</FONT></TD>
+</TR>
+</TABLE>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">
+Expressed as a formula, such conversion shall be computed as follows:
+</FONT></TD>
+</TR>
+</TABLE>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="93%">
+<TR valign="bottom">
+        <TD width="8%">&nbsp;</TD>
+        <TD width="2%">&nbsp;</TD>
+        <TD width="3%">&nbsp;</TD>
+        <TD width="2%">&nbsp;</TD>
+        <TD width="85%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">X</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+=
+</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2"><u>B-A</u></FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;&nbsp;Y</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">where:</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">X = the number of shares of Common Stock that may be issued to Holder</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">Y = the fair market value (FMV)&nbsp;of one share of Common Stock</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">A = the aggregate Warrant Price (Converted Warrant Shares x Purchase Price)</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">B = the aggregate FMV (i.e., FMV x Converted Warrant Shares)</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">No fractional shares shall be issuable upon exercise of the Conversion
+Right, and, if the number of shares to be issued determined in accordance
+with the foregoing formula is other than a whole number, the Company
+shall pay to the Holder an amount in cash equal to the fair market value
+of the resulting fractional share of the Conversation Date (as herein
+defined).</FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Method of Exercise.</u> The Conversion Right may be exercised by
+the Holder by the surrender of this Warrant at the principal office of
+the Company together with the Purchase Form in the form attached hereto
+duly completed and executed and indicating the number of shares subject
+to this Warrant which are being surrendered (referred to in Section
+1.4(a) hereof as the Converted Warrant Shares) in exercise of the
+Conversion Right. Such conversion shall be effective upon receipt by the
+Company of this Warrant together with the aforesaid written statement, or
+on such later date as is specified therein (the &#147;Conversion Date&#148;), and,
+at the election of the Holder hereof, may be made contingent upon the
+occurrence of any of the events specified in such written statement.
+Certificates for the shares issuable upon exercise of the Conversion
+Right and, if applicable, a new Warrant evidencing the balance of the
+shares remaining</FONT></TD>
+</TR>
+</TABLE>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="6%"></TD>
+        <TD width="94%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">subject to this Warrant, shall be issued as of the Conversion Date
+and shall be delivered to the Holder within thirty (30)&nbsp;days following
+the Conversion Date.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Determination of Fair Market Value.</u> For purposes of this
+Section&nbsp;1.4(c), &#147;fair market value&#148; of a share of Common Stock as of a
+particular date (the &#147;Determination Date&#148;) shall mean:</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If traded on a securities exchange, the fair market value of the
+Common Stock shall be deemed to be the average of the closing prices of
+the Common Stock on such exchange over the five-day period ending one
+business day prior to the Determination Date or, if less, such number of
+days as the Common Stock has been traded on such exchange;</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If traded over-the-counter, the fair market value of the Common
+Stock shall be deemed to be the average of the closing bid prices of the
+Common Stock over the five-day period ending one business day prior to
+the Determination Date or, if less, such number of days as the Common
+Stock has been traded over-the-counter; and</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there is no public market for the Common Stock, then fair
+market value shall be determined in good faith by the Board of Directors
+of the Company.</FONT></TD>
+</TR>
+
+</TABLE>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;<u>Fractional Shares.</u> The Company shall not be required upon the exercise
+of this Warrant to issue any fractional shares, but shall make an adjustment
+therefor in cash on the basis of the fair market value of the Warrant Stock
+reasonably determined by the Board of Directors of the Company.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;<u>Certain Adjustments.</u>
+</FONT>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in Common Stock.</u> If the Company shall (i)&nbsp;combine the
+outstanding shares of Common Stock into a lesser number of shares, (ii)
+subdivide the outstanding shares of Common Stock into a greater number of
+shares, or (iii)&nbsp;issue additional shares of Common Stock as a dividend or
+other distribution with respect to the Common Stock, the number of shares
+of Warrant Stock shall be equal to the number of shares which the Holder
+would have been entitled to receive after the happening of any of the
+events described above if such shares had been issued immediately prior
+to the happening of such event, such adjustment to become effective
+concurrently with the effectiveness of such event. The Purchase Price in
+effect immediately prior to any such combination of Common Stock shall,
+upon the effectiveness of such combination, be proportionately increased.
+The Purchase Price in effect immediately prior to any such subdivision
+of Common Stock or at the record date of such dividend shall upon the
+effectiveness of such subdivision or immediately after the record date of
+such dividend be proportionately reduced.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Reorganizations and Reclassifications.</u> If there shall occur any
+capital reorganization or reclassification of the Common Stock (other
+than a change in par value or a subdivision or combination as provided
+for in Section&nbsp;3.1), then, as part of any such reorganization or
+reclassification, lawful provision shall be made so that the Holder shall
+have the right thereafter to receive upon the exercise hereof the kind
+and amount of shares of stock or other securities or property which such
+Holder would have been entitled to receive if, immediately prior to any
+such reorganization or reclassification, such Holder had held the number
+of shares of Common Stock which were then purchasable upon the exercise
+of this Warrant. In any such case, appropriate adjustment (as reasonably
+determined by the Board of Directors of the Company) shall be made in the
+application of the provisions set forth herein with respect to the rights
+and interests thereafter of the Holder such that the provisions set forth
+in this Section&nbsp;3 (including provisions with respect to adjustment of the
+Purchase Price) shall thereafter be applicable, as nearly as is
+reasonably practicable, in relation to any shares of stock or other
+securities or property thereafter deliverable upon the exercise of this
+Warrant.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Merger, Consolidation or Sale of Assets.</u> If there shall be a
+merger or consolidation of the Company with or into another corporation
+(other than a merger or reorganization involving only a change in the
+state of incorporation of the Company or the acquisition by the Company
+of other businesses where the Company survives as a going concern), or
+the sale of all or substantially all of the Company&#146;s capital stock or
+assets to any other person, then as a part of such transaction, provision
+shall be made so that the Holder shall thereafter be entitled to receive
+the number of shares of stock or other securities or property of the
+Company, or</FONT></TD>
+</TR>
+</TABLE>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">of the successor corporation resulting from the merger, consolidation or
+sale, to which the Holder would have been entitled if the Holder had
+exercised its rights pursuant to the Warrant immediately prior thereto.
+In any such case, appropriate adjustment shall be made in the application
+of the provisions of this Section&nbsp;3 to the end that the provisions of
+this Section&nbsp;3 shall be applicable after that event in as nearly
+equivalent a manner as may be practicable.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Certificate of Adjustment.</u> When any adjustment is required to
+be made in the Purchase Price, the Company shall promptly mail to the
+Holder a certificate setting forth the Purchase Price after such
+adjustment and setting forth a brief statement of the facts requiring
+such adjustment. Delivery of such certificate shall be deemed to be a
+final and binding determination with respect to such adjustment unless
+challenged by the Holder within ten (10)&nbsp;days of receipt thereof. Such
+certificate shall also set forth the kind and amount of stock or other
+securities or property into which this Warrant shall be exercisable
+following the occurrence of any of the events specified in this Section
+3.</FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Compliance with Securities Act.</u></FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Unregistered Securities.</u> The Holder acknowledges that this
+Warrant and the Warrant Stock have not been registered under the
+Securities Act of 1933, as amended, and the rules and regulations
+thereunder, or any successor legislation (the &#147;<B>Securities Act</B>&#148;), and
+agrees not to sell, pledge, distribute, offer for sale, transfer or
+otherwise dispose of this Warrant or any Warrant Stock in the absence of
+(i)&nbsp;an effective registration statement under the Securities Act covering
+this Warrant or such Warrant Stock and registration or qualification of
+this Warrant or such Warrant Stock under any applicable &#147;blue sky&#148; or
+state securities law then in effect, or (ii)&nbsp;an opinion of counsel,
+satisfactory to the Company, that such registration and qualification are
+not required.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Investment Letter.</u> Without limiting the generality of Section
+4.1, unless the offer and sale of any shares of Warrant Stock shall have
+been effectively registered under the Securities Act, the Company shall
+be under no obligation to issue the Warrant Stock unless and until the
+Holder shall have executed an investment letter in form and substance
+satisfactory to the Company, including a warranty at the time of such
+exercise that the Holder is acquiring such shares for its own account,
+for investment and not with a view to, or for sale in connection with,
+the distribution of any such shares.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Legend.</u> Certificates delivered to the Holder pursuant to
+Section&nbsp;1.3 shall bear the following legend or a legend in substantially
+similar form:</FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="6%"></TD>
+        <TD width="94%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&#147;THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE BEEN TAKEN
+FOR INVESTMENT AND THEY MAY NOT BE SOLD OR OTHERWISE
+TRANSFERRED BY ANY PERSON, INCLUDING A PLEDGEE, IN THE
+ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT FOR THE
+SHARES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN
+OPINION OF COUNSEL THAT AN EXEMPTION FROM REGISTRATION IS
+THEN AVAILABLE.&#148;</FONT></TD>
+</TR>
+
+</TABLE>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;<u>Reservation of Stock.</u> The Company will at all times reserve and keep
+available, solely for issuance and delivery upon the exercise of this Warrant,
+such shares of Warrant Stock and other stock, securities and property, as from
+time to time shall be issuable upon the exercise of this Warrant. The Company
+covenants that all shares of Warrant Stock so issuable will, when issued, be
+duly and validly issued, fully paid and nonassessable.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;<u>Registration Rights.</u>
+</FONT>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>&#147;Piggy Back&#148; Registration.</u> If at any time the Company shall
+determine to register under the Securities Act, any of its Common Stock,
+other than on Form&nbsp;S-8 or its then equivalent, it shall send to the
+Holder written notice of such determination and, if within thirty (30)
+days after receipt of such notice, the Holder shall so request in
+writing, the Company shall use its best efforts to include in such
+registration</FONT></TD>
+</TR>
+</TABLE>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">statement all or any part of the Warrant Stock except that if, in
+connection with any offering involving an underwriting of Common Stock to
+be issued by the Company, the managing underwriter shall impose a
+limitation on the number of shares of such Common Stock which may be
+included in any such registration statement because, in its judgment,
+such limitation is necessary to effect an orderly public distribution,
+and such limitation is imposed <u>pro rata</u> among the holders of such Common
+Stock having an incidental (&#147;piggy back&#148;) right to include such Common
+Stock in the registration statement according to the amount of such
+Common Stock which each Holder had requested to be included pursuant to
+such right, then the Company shall be obligated to include in such
+registration statement only such limited portion of the Warrant Stock
+with respect to which the Holder has requested inclusion hereunder.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Demand Registrations.</u></FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="6%"></TD>
+        <TD width="94%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At any time after the Effective Date the Holder shall notify
+the Company in writing that it intends to offer or cause to be offered
+for public sale at least fifty percent (50%) of all of the Registrable
+Shares(or any lesser percentage if the reasonably anticipated aggregate
+price to the public of such public offering would exceed $1,000,000
+before calculation of underwriting discounts and commissions), the
+Company will use its best efforts to cause such of the Registrable
+Shares as may be requested by the Holder to be registered under the
+Securities Act as expeditiously as possible. For purposes hereof,
+&#147;Registrable Shares&#148; means shares of Warrant Stock; <u>provided, however,</u>
+that shares of Warrant Stock shall cease to be Registrable Shares upon
+any sale of such shares pursuant to (a)&nbsp;a registration statement filed
+under the Securities Act, (b)&nbsp;Section&nbsp;4(1) of the Securities Act or (c)
+Rule&nbsp;144 promulgated under the Securities Act.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s obligation pursuant to this Section shall be
+satisfied only when a registration statement covering all of the
+Registrable Shares specified in the notice received as aforesaid, for
+sale in accordance with the method of disposition specified by the
+Holder, shall have become effective and, if such method of disposition is
+a firm commitment underwritten public offering, all such shares have been
+sold pursuant thereto.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except for registration statements on Form&nbsp;S-4, S-8 or any
+successor thereto, the Company will not file with the Commission any
+other registration statement with respect to its Common Stock, whether
+for its own account or that of other stockholders, from the date of
+receipt of a notice from the Holder pursuant to this Section&nbsp;6.2 until
+the earlier of (i)&nbsp;termination of the offering or (ii)&nbsp;completion of the
+period of distribution of the registration contemplated thereby.</FONT></TD>
+</TR>
+
+</TABLE>
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Effectiveness.</u> The Company will use its best efforts to
+maintain the effectiveness for up to nine (9)&nbsp;months of any registration
+statement pursuant to which any of the Warrant Stock is being offered,
+and from time to time will amend or supplement such registration
+statement and the prospectus contained therein as and to the extent
+necessary to comply with the Securities Act and any applicable state
+securities statute or regulation. The Company will also provide the
+Holder with as many copies of the prospectus contained in any such
+registration statement as it may reasonably request.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Expenses of Registration.</u> All costs and expenses incurred by
+the Company in connection with any registration pursuant to this Article
+6, including, without limitation, all registration, filing and
+qualification fees, printing expenses, fees and disbursements of counsel
+for the Company, the reasonable fees and disbursements of one counsel
+selected by the Holder, up to a maximum of $25,000, and expenses in
+connection with any special audits of the Company&#146;s financial statements
+incidental to or required by such registration shall be paid by the
+Company; <u>provided, however,</u> that the Company shall have no obligation to
+pay, and the Holder shall pay, any stock transfer taxes, underwriters&#146;
+fees, discounts or commissions attributable to such Registrable Shares
+being sold and any other fees and disbursements of special counsel to the
+Holder. The Company will pay all expenses in connection with any
+registration initiated pursuant to this Article&nbsp;6 which is withdrawn,
+delayed or abandoned at the request of the Company, unless such
+registration is withdrawn, delayed or abandoned solely because of any
+actions of the Holder other than an abandonment or withdrawal resulting
+from any material adverse change pertaining to the Company.</FONT></TD>
+</TR>
+
+</TABLE>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR>
+        <TD width="3%"></TD>
+        <TD width="97%"></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Indemnification of Holder.</u> In the event that the Company
+registers any of the Warrant Stock under the Securities Act, the Company
+will indemnify and hold harmless the Holder, it officers, directors,
+employees, shareholders, agents, controlling persons and underwriters,
+from and against any and all losses, claims, damages, expenses or
+liabilities, to which it becomes subject under the Securities Act or
+under any other statute or at common law or otherwise, and, except as
+hereinafter provided, will reimburse the Holder for any legal or other
+expenses reasonably incurred by it in connection with investigating or
+defending any actions whether or not resulting in any liability, insofar
+as such losses, claims, damages, expenses, liabilities or actions arise
+out of or are based upon any untrue statement or alleged untrue statement
+of a material fact contained in the registration statement, in any
+preliminary or amended preliminary prospectus or in the prospectus (or
+the registration statement or prospectus as from time to time amended or
+supplemented by the Company) or arise out of or are based upon the
+omission or alleged omission to state therein a material fact required to
+be stated therein or necessary in order to make the statements therein
+not misleading or any violation by the Company of any rule or regulation
+promulgated under the Securities Act applicable to the Company and
+relating to action or inaction required of the Company in connection with
+such registration, unless such untrue statement or omission was made in
+such registration statement, preliminary or amended, preliminary
+prospectus or prospectus in reliance upon and in conformity with
+information furnished in writing to the Company in connection therewith
+by the Holder expressly for use therein. Promptly after receipt by the
+Holder of notice of the commencement of any action in respect of which
+indemnity may be sought against the Company, the Holder will notify the
+Company in writing of the commencement thereof, and, subject to the
+provisions hereinafter stated, the Company shall assume the defense of
+such action (including the employment of counsel, who shall be counsel
+reasonably satisfactory to the Holder), and the payment of expenses
+insofar as such action shall relate to any alleged liability in respect
+of which indemnity may be sought against the Company. The Holder shall
+have the right to employ separate counsel in any such action and to
+participate in the defense thereof but the fees and expenses of such
+counsel shall not be at the expense of the Company unless the employment
+of such counsel has been specifically authorized by the Company. The
+Company shall not be liable to indemnify any person for any settlement of
+any such action effected without the Company&#146;s consent.</FONT></TD>
+</TR>
+
+<TR>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Indemnification of Company.</u> In the event that the Company
+registers any of the Warrant Stock under the Securities Act, the Holder
+will indemnify and hold harmless the Company, each of its directors, each
+of its officers who have signed the registration statement, each
+underwriter of the shares so registered (including any broker or dealer
+through whom such of the shares may be sold) and each person, if any, who
+controls the Company within the meaning of Section&nbsp;15 of the Securities
+Act from and against any and all losses, claims, damages, expenses or
+liabilities, joint or several, to which they or any of them may become
+subject under the Securities Act or under any other statute or at common
+law or otherwise, and, except as hereinafter provided, insofar as such
+losses, claims, damages, expenses, liabilities or actions arise out of or
+are based upon any untrue statement or alleged untrue statement of a
+material fact contained in the registration statement, in any preliminary
+or amended preliminary prospectus or in the prospectus (or in the
+registration statement or prospectus as from time to time amended or
+supplemented) or arise out of or are based upon the omission or alleged
+omission to state therein a material fact required to be stated therein
+or necessary in order to make the statements therein not misleading, but
+only insofar as any such statement or omission was made in reliance upon
+and in conformity with information furnished in writing to the Company in
+connection therewith by the Holder expressly for use therein. In no event
+shall the Holder&#146;s obligations hereunder exceed the net proceeds obtained
+by the Holder from the sale of the Warrant Stock. Promptly after receipt
+of notice of the commencement of any action in respect of which indemnity
+may be sought against the Holder, the Company will notify the Holder in
+writing of the commencement thereof, and the Holder shall, subject to the
+provisions hereinafter stated, assume the defense of such action
+(including the employment of counsel, who shall be counsel reasonably
+satisfactory to the Company) and the payment of expenses insofar as such
+action shall relate to the alleged liability in respect of which
+indemnity may be sought against the Holder. The Company and each such
+director, officer, underwriter or controlling person shall have the right
+to employ separate counsel in any such action and to participate in the
+defense thereof but the fees and expenses of such counsel shall not be at
+the expense of the Holder unless employment of such counsel has been
+specifically authorized by the Holder. The Holder shall not be liable to
+indemnify any person for any settlement of any such action effected
+without the Holder&#146;s consent.</FONT></TD>
+</TR>
+
+</TABLE>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;<u>Replacement of Warrants.</u> Upon receipt of evidence reasonably
+satisfactory to the Company of the loss, theft, destruction or mutilation of
+this Warrant and (in the case of loss, theft or destruction) upon delivery of
+an indemnity agreement (with surety if reasonably required) in an amount
+reasonably satisfactory to the Company, or (in the case of mutilation) upon
+surrender and cancellation of this Warrant, the Company will issue, in lieu
+thereof, a new Warrant of like tenor.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;<u>No Rights as Stockholder.</u> Until the exercise of this Warrant, the
+Holder shall not have or exercise any rights by virtue hereof as a stockholder
+of the Company.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;<u>Notices.</u> All notices, requests and other communications hereunder
+shall be in writing, shall be either (i)&nbsp;delivered by hand, (ii)&nbsp;made by telex,
+telecopy or facsimile transmission, (iii)&nbsp;sent by overnight courier, or (iv)
+sent by registered mail, postage prepaid, return receipt requested. In the
+case of notices from the Company to the Holder, they shall be sent to the
+address furnished to the Company in writing by the last Holder who shall have
+furnished an address to the Company in writing. All notices from the Holder to
+the Company shall be delivered to the Company at its offices at 440 Interstate
+North Parkway, Atlanta, Georgia 30339 or such other address as the Company
+shall so notify the Holder. All notices, requests and other communications
+hereunder shall be deemed to have been given (i)&nbsp;by hand, at the time of the
+delivery thereof to the receiving party at the address of such party described
+above, (ii)&nbsp;if made by telex, telecopy or facsimile transmission, at the time
+that receipt thereof has been acknowledged by electronic confirmation or
+otherwise, (iii)&nbsp;if sent by overnight courier, on the next business day
+following the day such notices is delivered to the courier service, or (iv)&nbsp;if
+sent by registered mail, on the fifth business day following the day such
+mailing is made.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.&nbsp;&nbsp;&nbsp;&nbsp;<u>Waivers and Modifications.</u> Any term or provision of this Warrant may
+be waived only by written document executed by the party entitled to the
+benefits of such terms or provisions.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.&nbsp;&nbsp;&nbsp;&nbsp;<u>Headings.</u> The headings in this Warrant are for convenience of
+reference only and shall in no way modify or affect the meaning or construction
+of any of the terms or provisions of this Warrant.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;<u>Governing Law.</u> This Warrant will be governed by and construed in
+accordance with and governed by the laws of the State of Georgia, without
+giving effect to the conflict of law principles thereof.
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="55%">
+<TR valign="bottom">
+        <TD width="1%">&nbsp;</TD>
+        <TD width="43%">&nbsp;</TD>
+        <TD width="56%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD valign="top"><FONT size="2">o2WIRELESS SOLUTIONS, INC</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD valign="top"><FONT size="2">By:&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD valign="top"><FONT size="2">Name:</FONT></TD>
+</TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD valign="top"><FONT size="2">Title:</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="center"><FONT size="2"><B><u>EXHIBIT A</u></B>
+</FONT>
+<P align="center"><FONT size="2"><u>PURCHASE FORM</u>
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+        <TD width="2%">&nbsp;</TD>
+        <TD width="2%">&nbsp;</TD>
+        <TD width="96%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">To:</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+o2WIRELESS SOLUTIONS, INC.</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned pursuant to the provisions set forth in the attached
+Warrant (No.&nbsp;W-&#95;&#95;&#95;&#95;&#95;&#95;), hereby irrevocably elects to (check one):
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="95%">
+<TR valign="bottom">
+        <TD width="8%">&nbsp;</TD>
+        <TD width="5%">&nbsp;</TD>
+        <TD width="87%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&#95;&#95;&#95;&#95;&#95;&#95;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;purchase &#95;&#95;&#95;&#95;&#95;&#95;shares of the Common Stock, par value
+$.0001 per share, of o2wireless Solutions, Inc. (the
+&#147;<B>Common Stock</B>&#148;), covered by such Warrant and herewith makes
+payment of $&#95;&#95;&#95;&#95;&#95;&#95;, representing the full purchase price for
+such shares at the price per share provided for in such
+Warrant; or</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD valign="top"><FONT size="2">&#95;&#95;&#95;&#95;&#95;&#95;</FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top"><FONT size="2">
+(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;convert as of the date this Purchase Form is delivered to
+the Company (or such later date as the Holder specifies)
+&#95;&#95;&#95;&#95;&#95;&#95;Converted Warrant Shares into that number of shares
+of fully paid and nonassessable shares of Common Stock,
+determined pursuant to the provisions of Section&nbsp;1.4 of the
+Warrant.</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P><FONT size="2">The Common Stock for which the Warrant may be exercised or converted shall be
+known herein as the &#147;Warrant Stock&#148;.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned is aware that the Warrant Stock has not been and will not
+be registered under the Securities Act of 1933, as amended (the &#147;<B>Securities
+Act</B>&#148;) or any state securities laws. The undersigned understands that reliance
+by the Company on exemptions under the Securities Act is predicated in part
+upon the truth and accuracy of the statements of the undersigned in this
+Purchase Form.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned represents and warrants that (1)&nbsp;it has been furnished
+with all information which it deems necessary to evaluate the merits and risks
+of the purchase of the Warrant Stock, (2)&nbsp;it has had the opportunity to ask
+questions concerning the Warrant Stock and the Company and all questions posed
+have been answered to its satisfaction, (3)&nbsp;it has been given the opportunity
+to obtain any additional information it deems necessary to verify the accuracy
+of any information obtained concerning the Warrant Stock and the Company and
+(4)&nbsp;it has such knowledge and experience in financial and business matters that
+it is able to evaluate the merits and risks of purchasing the Warrant Stock and
+to make an informed investment decision relating thereto.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned hereby represents and warrant that it is purchasing the
+Warrant Stock for its own account for investment and not with a view to the
+sale or distribution of all or any part of the Warrant Stock.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned understands that because the Warrant Stock has not been
+registered under the Securities Act, it must continue to bear the economic risk
+of the investment for an indefinite period of time and the Warrant Stock cannot
+be sold unless it is subsequently registered under applicable federal and state
+securities laws or an exemption from such registration is available.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned agrees that it will in no event sell or distribute or
+otherwise dispose of all or any part of the Warrant Stock unless (1)&nbsp;there is
+an effective registration statement under the Securities Act and applicable
+state securities laws covering any such transaction involving the Warrant
+Stock, or (2)&nbsp;the Company receives an opinion satisfactory to the Company of
+the undersigned&#146;s legal counsel stating that such transaction is exempt from
+registration. The undersigned consents to the placing of a legend on its
+certificate for the Warrant Stock stating that the Warrant Stock has not been
+registered and setting forth the restriction on transfer contemplated hereby
+and to the placing of a stop transfer order on the books of the Company and
+with any transfer agents against the Warrant Stock until the Warrant Stock may
+be legally resold or distributed without restriction.
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned has considered the federal and state income tax
+implications of the exercise of the Warrant and the purchase and subsequent
+sale of the Warrant Stock.
+</FONT>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="55%">
+<TR valign="bottom">
+        <TD width="33%">&nbsp;</TD>
+        <TD width="11%">&nbsp;</TD>
+        <TD width="56%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD colspan="2" valign="top"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD><FONT size="2">Dated:</FONT></TD>
+        <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD valign="top"><HR size="1" noshade></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="center"><FONT size="2"><B><u>SCHEDULE A</u></B>
+</FONT>
+<P align="center"><FONT size="2"><u>CONVERTIBLE SECURITIES, ETC.</u>
+</FONT>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P align="center"><FONT size="2"><B><u>SCHEDULE B</u></B>
+</FONT>
+<P align="center"><FONT size="2"><u>OTHER REGISTRATION RIGHTS</u>
+</FONT>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>4
+<FILENAME>w64396exv99w5.htm
+<DESCRIPTION>FORM OF IRREVOCABLE PROXY AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w5</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P align="right"><FONT size="2"><u>Exhibit&nbsp;99.5</u></FONT>
+
+<P align="center"><FONT size="2"><B><u>IRREVOCABLE PROXY</u></B></FONT>
+
+<P><FONT size="2">A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference is made to that certain Agreement and Plan of Merger dated as of
+June&nbsp;5, 2002 (the &#147;<u>Merger Agreement</u>&#148;), among Baran Group Ltd., a corporation
+organized under the laws of Israel (&#147;<u>Baran</u>&#148;), Baran Acquisition Sub, Inc., a
+Georgia corporation and a wholly-owned subsidiary of Baran (&#147;<u>Baran Sub</u>&#148;), and
+o2wireless Solutions, Inc., a Georgia corporation (the &#147;<u>Company</u>&#148;), providing
+for, among other things, the merger (the &#147;<u>Merger</u>&#148;) of the Company with an into
+Baran Sub, with Baran Sub surviving the Merger as a wholly-owned subsidiary of
+Baran. Capitalized terms used herein and not otherwise defined shall have the
+meaning ascribed to such terms in the Merger Agreement.
+</FONT>
+<P><FONT size="2">B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned, &#95;&#95;&#95;&#95;&#95;&#95;, as record or beneficial owner of shares of
+Company common stock, par value $.0001 (&#147;<u>Company Common Stock</u>&#148;), as long as the
+Merger Agreement has not been terminated, hereby irrevocably agrees to vote all
+Company Common Stock as to which the undersigned is entitled to vote at a
+meeting of the stockholders of the Company, or by written consent without a
+meeting of the stockholders of the Company as follows: (i)&nbsp;in favor of approval
+and adoption of the Merger and the Merger Agreement and the transactions
+contemplated thereby; (ii)&nbsp;against any action or agreement that would result in
+a breach of any covenant, representation or warranty or any other obligation or
+agreement of the Company under the Merger Agreement; and (iii)&nbsp;against any
+action or agreement (other than the Merger Agreement or the transactions
+contemplated by the Merger Agreement or the termination of the Merger Agreement
+in accordance with its terms), that would, directly or indirectly, impede,
+interfere with, delay, postpone or attempt to discourage the Merger; and (iv)
+in accordance with written instructions from Baran with respect to the election
+or removal from office of any member of the Company&#146;s Board of Directors
+nominated by Baran pursuant to Section&nbsp;5.4 of the Merger Agreement.
+</FONT>
+<P><FONT size="2">C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned hereby irrevocably appoints each of the Chairman of the
+Board and the President of Baran, each with full power of substitution (each
+such individual and his substitutes being referred to herein as the &#147;Proxy&#148;),
+as attorneys and proxies to vote all of the undersigned&#146;s Company Common Stock
+on all matters referred to in Section&nbsp;B above to which the undersigned is
+entitled to vote at a meeting of the stockholders of the Company or to which he
+is entitled to express consent or dissent to corporate action in writing
+without a meeting, in accordance with Section&nbsp;B above. The undersigned agrees
+to refrain from taking any action contrary to or in any manner inconsistent
+with the terms of this Irrevocable Proxy or the Merger Agreement and further
+agrees that this grant of Proxy pursuant hereto may, at any time, name any
+other person as his substituted Proxy to act pursuant hereto, either as to a
+specific matter or as to all matters. In discharging its powers under this
+Irrevocable Proxy, the Proxy may rely upon advice of counsel to Baran, and any
+vote made or action taken by the Proxy in reliance upon such advice of counsel
+shall be deemed to have been made in good faith by the Proxy. This grant of
+proxy shall terminate upon the termination of the Merger Agreement pursuant to
+Section&nbsp;8.1, 8.2, 8.3 or 8.4 thereof.
+</FONT>
+<P><FONT size="2">D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Irrevocable Proxy is coupled with an interest and the undersigned
+intends this Irrevocable Proxy to be irrevocable to the fullest extent
+permitted by law. The undersigned hereby revokes any proxy previously granted
+by the undersigned with respect to his Company Common Stock. The undersigned
+shall perform such further acts and execute such further documents and
+instruments as may reasonably be required to vest in the Company, or any of its
+nominees, the power to carry out and give effect to the provisions of this
+Irrevocable Proxy.
+</FONT>
+<P><FONT size="2">E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with any proposed transfer of shares of its Company Common
+Stock, the undersigned acknowledges that any shares so transferred in the hands
+of each transferee shall remain subject to this Irrevocable Proxy, and each
+such transferee shall so acknowledge in writing, by executing an irrevocable
+proxy identical to this Irrevocable Proxy as a condition precedent to the
+effectiveness of such transfer. No transfer of shares of Company Common Stock
+to a transferee shall be effective if the purpose of such transfer shall have
+been to circumvent the provisions of this Irrevocable Proxy and the Merger
+Agreement.
+</FONT>
+<P><FONT size="2">F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned agrees to return each certificate representing his shares of
+Company Common Stock to the Company to have the following legend placed
+thereon:
+</FONT>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&#147;THE SHARES EVIDENCED HEREBY ARE SUBJECT TO AN IRREVOCABLE PROXY EXECUTED BY
+THE HOLDER, AND BY ACCEPTING ANY INTEREST IN SUCH SHARES THE PERSON ACCEPTING
+SUCH INTEREST SHALL BE DEEMED TO AGREE TO AND SHALL BECOME BOUND BY ALL THE
+PROVISIONS OF SAID IRREVOCABLE PROXY AND SHALL BE REQUIRED TO EXECUTE SAID
+IRREVOCABLE PROXY.&#148;
+</FONT>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, the undersigned has executed this Irrevocable Proxy
+under seal this &#95;&#95;&#95;&#95;&#95;&#95;day of &#95;&#95;&#95;&#95;&#95;&#95;, 2002.
+</FONT>
+
+<P>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="55%">
+<TR valign="bottom">
+        <TD width="33%">&nbsp;</TD>
+        <TD width="11%">&nbsp;</TD>
+        <TD width="56%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+        <TD>&nbsp;</TD>
+        <TD colspan="2"><HR size="1" noshade></TD>
+</TR>
+<TR valign="top">
+        <TD>&nbsp;</TD>
+        <TD><FONT size="2">Name:</FONT></TD>
+        <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+        <TD>&nbsp;</TD>
+        <TD>&nbsp;</TD>
+        <TD valign="top"><HR size="1" noshade></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
