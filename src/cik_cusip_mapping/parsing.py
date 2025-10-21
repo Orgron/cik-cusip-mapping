@@ -93,7 +93,9 @@ def parse_filings_concurrently(
     workers: int = 2,
 ) -> Iterator[ParsedFiling]:
     with ThreadPoolExecutor(max_workers=workers) as executor:
-        pending: Deque[tuple[FilingLike, Future[tuple[str | None, str | None]]]] = deque()
+        pending: Deque[tuple[FilingLike, Future[tuple[str | None, str | None]]]] = (
+            deque()
+        )
         for filing in filings:
             future = executor.submit(parse_text, filing.content, debug=debug)
             pending.append((filing, future))

@@ -58,12 +58,26 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         workers=2,
     ):
         rows = list(filings)
-        calls.append(("stream_to_csv", [row.identifier for row in rows], Path(csv_path), debug, concurrent))
+        calls.append(
+            (
+                "stream_to_csv",
+                [row.identifier for row in rows],
+                Path(csv_path),
+                debug,
+                concurrent,
+            )
+        )
         Path(csv_path).write_text("id,cik,cusip\n")
         return len(rows)
 
     def fake_postprocess(csv_paths, *, output=None):
-        calls.append(("postprocess", [Path(p) for p in csv_paths], Path(output) if output else None))
+        calls.append(
+            (
+                "postprocess",
+                [Path(p) for p in csv_paths],
+                Path(output) if output else None,
+            )
+        )
         if output:
             Path(output).write_text("cik,cusip6,cusip8\n1,123456,12345678\n")
         return DummyFrame(["cik", "cusip6", "cusip8"], rows=[{"cik": 1}])
@@ -72,7 +86,9 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
     monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
     monkeypatch.setattr(pipeline.parsing, "stream_to_csv", fake_stream_to_csv)
-    monkeypatch.setattr(pipeline.postprocessing, "postprocess_mappings", fake_postprocess)
+    monkeypatch.setattr(
+        pipeline.postprocessing, "postprocess_mappings", fake_postprocess
+    )
 
     output_file = tmp_path / "final.csv"
     result = pipeline.run_pipeline(
@@ -108,6 +124,7 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
     monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
+
     def consume_to_csv(filings, csv_path, **kwargs):
         for _ in filings:
             pass

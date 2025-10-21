@@ -11,10 +11,13 @@ from typing import Iterable
 try:  # pragma: no cover - exercised in minimal environments without requests installed
     import requests  # type: ignore
 except ModuleNotFoundError:  # pragma: no cover - fallback stub to keep tests importable
+
     class _RequestsStub:
         class Session:  # pragma: no cover - defensive stub
             def get(self, *args, **kwargs):
-                raise RuntimeError("The requests package is required to download SEC data")
+                raise RuntimeError(
+                    "The requests package is required to download SEC data"
+                )
 
         def get(self, *args, **kwargs):  # pragma: no cover - defensive stub
             raise RuntimeError("The requests package is required to download SEC data")
@@ -26,7 +29,9 @@ from .sec import RateLimiter, build_request_headers
 logger = logging.getLogger(__name__)
 
 
-def _iter_quarters(start_year: int, end_year: int, end_quarter: int) -> Iterable[tuple[int, int]]:
+def _iter_quarters(
+    start_year: int, end_year: int, end_quarter: int
+) -> Iterable[tuple[int, int]]:
     for year in range(start_year, end_year + 1):
         last_quarter = end_quarter if year == end_year else 4
         for quarter in range(1, last_quarter + 1):

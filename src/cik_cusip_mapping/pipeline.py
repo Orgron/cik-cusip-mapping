@@ -31,7 +31,9 @@ def run_pipeline(
     base_path = Path(output_root)
     base_path.mkdir(parents=True, exist_ok=True)
 
-    resolved_index_path = Path(index_path) if index_path else base_path / "full_index.csv"
+    resolved_index_path = (
+        Path(index_path) if index_path else base_path / "full_index.csv"
+    )
     master_path = base_path / "master.idx"
 
     if skip_index:
@@ -46,7 +48,9 @@ def run_pipeline(
             sec_email,
             output_path=master_path,
         )
-        indexing.write_full_index(master_path=master_path, output_path=resolved_index_path)
+        indexing.write_full_index(
+            master_path=master_path, output_path=resolved_index_path
+        )
 
     csv_paths: list[Path] = []
     skip_streaming = skip_download or skip_parse
