@@ -1,17 +1,26 @@
-#!/usr/bin/python
 """Utilities for streaming SEC filing contents."""
 
 from __future__ import annotations
 
-import argparse
 import csv
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Generator, Iterable, Iterator
+from typing import Generator, Iterator
 
-import requests
+try:  # pragma: no cover - exercised in minimal environments without requests installed
+    import requests  # type: ignore
+except ModuleNotFoundError:  # pragma: no cover - fallback stub to keep tests importable
+    class _RequestsStub:
+        class Session:  # pragma: no cover - defensive stub
+            def get(self, *args, **kwargs):
+                raise RuntimeError("The requests package is required to download SEC data")
 
-from sec_utils import RateLimiter, build_request_headers
+        def get(self, *args, **kwargs):  # pragma: no cover - defensive stub
+            raise RuntimeError("The requests package is required to download SEC data")
+
+    requests = _RequestsStub()  # type: ignore
+
+from .sec import RateLimiter, build_request_headers
 
 ARCHIVES_URL = "https://www.sec.gov/Archives/"
 
@@ -103,6 +112,7 @@ def stream_filings_to_disk(
     """Persist streamed filings to disk for archival purposes."""
 
     output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
     count = 0
     for filing in stream_filings(
         form,
@@ -118,53 +128,3 @@ def stream_filings_to_disk(
         file_path.write_text(filing.content, errors="ignore")
         count += 1
     return count
-
-
-def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Stream SEC filings from EDGAR.")
-    parser.add_argument("form", help="SEC form to stream (e.g. 13D, 13G).")
-    parser.add_argument(
-        "--output-dir",
-        help="Optional directory where streamed filings should be written.",
-    )
-    parser.add_argument(
-        "--requests-per-second",
-        type=float,
-        default=10.0,
-        help="Maximum number of requests per second when downloading filings.",
-    )
-    parser.add_argument("--sec-name", help="Contact name to include in SEC requests.")
-    parser.add_argument("--sec-email", help="Contact email to include in SEC requests.")
-    return parser
-
-
-def main(argv: Iterable[str] | None = None) -> None:
-    parser = build_parser()
-    args = parser.parse_args(argv)
-
-    output_dir = Path(args.output_dir) if args.output_dir else None
-    count = 0
-
-    if output_dir is None:
-        for filing in stream_filings(
-            args.form,
-            args.requests_per_second,
-            args.sec_name,
-            args.sec_email,
-        ):
-            count += 1
-            print(filing.identifier)
-    else:
-        count = stream_filings_to_disk(
-            args.form,
-            output_dir,
-            args.requests_per_second,
-            args.sec_name,
-            args.sec_email,
-        )
-
-    print(f"Streamed {count} {args.form} filings.")
-
-
-if __name__ == "__main__":
-    main()
