@@ -4,19 +4,20 @@ import csv
 import os
 from pathlib import Path
 
-import pandas as pd
 import requests
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("filing", type=str)
-    parser.add_argument("folder", type=str)
+from sec_utils import RateLimiter, build_request_headers
 
-    user_agent = {"User-agent": "Mozilla/5.0"}
 
-    args = parser.parse_args()
-    filing = args.filing
-    folder = args.folder
+def download_filings(
+    filing: str,
+    folder: str,
+    requests_per_second: float,
+    name: str | None,
+    email: str | None,
+) -> None:
+    headers = build_request_headers(name, email)
+    limiter = RateLimiter(requests_per_second)
 
     to_dl = []
     with open("full_index.csv", "r") as f:
@@ -42,10 +43,38 @@ if __name__ == "__main__":
         if os.path.exists(file_path):
             continue
         try:
-            txt = requests.get(
-                f"https://www.sec.gov/Archives/{url}", headers=user_agent, timeout=60
-            ).text
+            limiter.wait()
+            response = requests.get(
+                f"https://www.sec.gov/Archives/{url}",
+                headers=headers,
+                timeout=60,
+            )
+            response.raise_for_status()
+            txt = response.text
             with open(file_path, "w", errors="ignore") as f:
                 f.write(txt)
-        except:
+        except Exception:
             print(f"{cik}, {date} failed to download")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filing", type=str)
+    parser.add_argument("folder", type=str)
+    parser.add_argument(
+        "--requests-per-second",
+        type=float,
+        default=10.0,
+        help="Maximum number of requests per second when downloading filings.",
+    )
+    parser.add_argument("--sec-name", help="Contact name to include in SEC requests.")
+    parser.add_argument("--sec-email", help="Contact email to include in SEC requests.")
+
+    args = parser.parse_args()
+    download_filings(
+        args.filing,
+        args.folder,
+        args.requests_per_second,
+        args.sec_name,
+        args.sec_email,
+    )
