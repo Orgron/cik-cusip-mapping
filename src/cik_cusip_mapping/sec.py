@@ -32,6 +32,7 @@ class RateLimiter:
 
 def build_request_headers(name: Optional[str], email: Optional[str]) -> Dict[str, str]:
     """Construct SEC-compliant request headers using optional identifiers."""
+
     identifier_parts = ["CIK-CUSIP-Mapping/1.0"]
     if name:
         identifier_parts.append(name.strip())

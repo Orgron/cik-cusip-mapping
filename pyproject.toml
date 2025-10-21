@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cik-cusip-mapping"
+version = "0.1.0"
+description = "Tools for building a mapping between SEC CIKs and CUSIPs."
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+  { name = "CIK CUSIP Maintainers" }
+]
+keywords = ["sec", "edgar", "cik", "cusip", "finance"]
+dependencies = [
+  "pandas>=2.0",
+  "requests>=2.0",
+]
+
+[project.scripts]
+cik-cusip-run-pipeline = "cik_cusip_mapping.cli:run_pipeline_cli"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

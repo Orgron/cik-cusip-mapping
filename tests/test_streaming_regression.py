@@ -1,7 +1,7 @@
 import csv
 from types import SimpleNamespace
 
-import parse_cusip
+from cik_cusip_mapping import parsing
 
 
 def test_streaming_matches_legacy(tmp_path):
@@ -18,11 +18,11 @@ def test_streaming_matches_legacy(tmp_path):
     legacy_path = legacy_dir / "sample.txt"
     legacy_path.write_text(text)
 
-    legacy_result = parse_cusip.parse_file(legacy_path)
+    legacy_result = parsing.parse_file(legacy_path)
 
     csv_path = tmp_path / "stream.csv"
     filing = SimpleNamespace(identifier="sample", content=text)
-    parse_cusip.stream_to_csv([filing], csv_path)
+    parsing.stream_to_csv([filing], csv_path)
 
     with csv_path.open(newline="") as handle:
         reader = csv.reader(handle)
