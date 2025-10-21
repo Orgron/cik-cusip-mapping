@@ -5,10 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Iterable
 
-try:  # pragma: no cover - exercised when pandas is unavailable in the test environment
-    import pandas as pd
-except ModuleNotFoundError:  # pragma: no cover - fallback for minimal environments
-    pd = None  # type: ignore[assignment]
+import pandas as pd
 
 
 def postprocess_mappings(
@@ -17,9 +14,6 @@ def postprocess_mappings(
     output: Path | str | None = None,
 ) -> pd.DataFrame:
     """Combine per-form CSV files into the final mapping DataFrame."""
-
-    if pd is None:  # pragma: no cover - defensive guard for minimal environments
-        raise RuntimeError("pandas is required to post-process CIK/CUSIP mappings")
 
     frames: list[pd.DataFrame] = []
     for csv_path in csv_paths:
