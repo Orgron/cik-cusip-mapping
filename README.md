@@ -17,8 +17,8 @@ python run_pipeline.py
 The command above will:
 
 1. Download the full EDGAR master index.
-2. Download every 13D and 13G filing referenced in the index.
-3. Parse the CUSIPs from the downloaded filings.
+2. Stream every 13D and 13G filing referenced in the index directly from EDGAR.
+3. Parse the CUSIPs from the streamed filings without persisting the raw text.
 4. Post-process the parsed data into the final `cik-cusip-maps.csv` file.
 
 You can customise the run, for example to use a different output directory or run only for form 13G:
@@ -54,12 +54,14 @@ dl_idx.py will download the EDGAR index file containing addresses for each filin
 python dl_idx.py --requests-per-second 5 --sec-email jane@example.com
 ```
 
-dl.py will download a certain type of filing, check form_type.txt for available filing types. for example,
+dl.py can stream a certain type of filing, check form_type.txt for available filing types. For example,
 ```python
-python dl.py 13G 13G --sec-email jane@example.com # this will download all 13G (second 13G) filing into 13G (first 13G) folder
+python dl.py 13G --output-dir 13G --sec-email jane@example.com
 ```
+By default `dl.py` now streams filings to stdout; the optional `--output-dir` argument persists them for legacy workflows.
+
 ```python
-python parse_cusip.py 13G # this will process all files in 13G directory, creating a file called 13G.csv with filing name, cik, cusip number.
+python parse_cusip.py 13G --output 13G.csv  # parse files on disk into a CSV compatible with post_proc.py
 ```
 Finally, you can clean the resulting csv files and get the mapping
 ```python
