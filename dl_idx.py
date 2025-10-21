@@ -1,10 +1,15 @@
 #!/bin/python
 import argparse
 import csv
+import logging
+from pathlib import Path
 
 import requests
 
 from sec_utils import RateLimiter, build_request_headers
+
+
+logger = logging.getLogger(__name__)
 
 
 def download_master_index(requests_per_second: float, name: str | None, email: str | None) -> None:
@@ -26,16 +31,25 @@ def download_master_index(requests_per_second: float, name: str | None, email: s
 
 
 def write_full_index() -> None:
+    master_path = Path("master.idx")
     with open("full_index.csv", "w", newline="", errors="ignore") as csvfile:
         wr = csv.writer(csvfile)
         wr.writerow(["cik", "comnam", "form", "date", "url"])
-        with open("master.idx", "r", encoding="latin1") as f:
+        with open(master_path, "r", encoding="latin1") as f:
             for r in f:
                 if ".txt" in r:
                     wr.writerow(r.strip().split("|"))
 
+    existed = master_path.exists()
+    master_path.unlink(missing_ok=True)
+    if existed:
+        logger.info("Removed master.idx after creating full_index.csv.")
+    else:
+        logger.info("No master.idx file found to remove after creating full_index.csv.")
+
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--requests-per-second",
