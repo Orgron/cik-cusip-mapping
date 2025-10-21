@@ -65,12 +65,39 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         ]
     )
 
+    default_rate_args = ["--requests-per-second", "10.0"]
     expected_calls = [
-        [run_pipeline.sys.executable, "dl_idx.py"],
-        [run_pipeline.sys.executable, "dl.py", "13G", folder_arg],
+        [run_pipeline.sys.executable, "dl_idx.py", *default_rate_args],
+        [run_pipeline.sys.executable, "dl.py", "13G", folder_arg, *default_rate_args],
         [run_pipeline.sys.executable, "parse_cusip.py", folder_arg],
         [run_pipeline.sys.executable, "post_proc.py", csv_path],
     ]
     assert recorder.calls == expected_calls
     assert output_file.exists()
     assert not Path("cik-cusip-maps.csv").exists()
+
+
+def test_pipeline_passes_identifiers(monkeypatch, tmp_path):
+    recorder = SubprocessRecorder()
+    monkeypatch.setattr(run_pipeline.subprocess, "run", recorder)
+
+    run_pipeline.main(
+        [
+            "--sec-name",
+            "Jane Doe",
+            "--sec-email",
+            "jane@example.com",
+        ]
+    )
+
+    expected_args = [
+        "--requests-per-second",
+        "10.0",
+        "--sec-name",
+        "Jane Doe",
+        "--sec-email",
+        "jane@example.com",
+    ]
+    assert recorder.calls[0] == [run_pipeline.sys.executable, "dl_idx.py", *expected_args]
+    assert recorder.calls[1][:4] == [run_pipeline.sys.executable, "dl.py", "13D", "13D"]
+    assert recorder.calls[1][4:] == expected_args

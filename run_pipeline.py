@@ -6,7 +6,7 @@ import os
 import subprocess
 import sys
 from pathlib import Path
-from typing import List
+from typing import List, Sequence
 
 
 def run_step(description: str, command: List[str]) -> None:
@@ -17,7 +17,7 @@ def run_step(description: str, command: List[str]) -> None:
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Run the entire CIK to CUSIP mapping pipeline."
+        description="Run the entire CIK to CUSIP mapping pipeline.",
     )
     parser.add_argument(
         "--forms",
@@ -34,6 +34,20 @@ def build_parser() -> argparse.ArgumentParser:
         "--output-file",
         default="cik-cusip-maps.csv",
         help="Destination for the final mapping CSV produced by post_proc.py.",
+    )
+    parser.add_argument(
+        "--requests-per-second",
+        type=float,
+        default=10.0,
+        help="Maximum number of requests per second when downloading from the SEC.",
+    )
+    parser.add_argument(
+        "--sec-name",
+        help="Contact name to include in SEC download requests.",
+    )
+    parser.add_argument(
+        "--sec-email",
+        help="Contact email to include in SEC download requests.",
     )
     parser.add_argument(
         "--skip-index",
@@ -53,9 +67,9 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def main() -> None:
+def main(argv: Sequence[str] | None = None) -> None:
     parser = build_parser()
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
 
     base_path = Path(args.output_root)
     base_path.mkdir(parents=True, exist_ok=True)
@@ -68,7 +82,18 @@ def main() -> None:
             )
         print("Skipping master index download; using existing full_index.csv.")
     else:
-        run_step("Downloading EDGAR master index", [sys.executable, "dl_idx.py"])
+        download_flags = [
+            "--requests-per-second",
+            str(args.requests_per_second),
+        ]
+        if args.sec_name:
+            download_flags.extend(["--sec-name", args.sec_name])
+        if args.sec_email:
+            download_flags.extend(["--sec-email", args.sec_email])
+        run_step(
+            "Downloading EDGAR master index",
+            [sys.executable, "dl_idx.py", *download_flags],
+        )
 
     forms = args.forms
     form_entries = []
@@ -83,10 +108,18 @@ def main() -> None:
     if args.skip_download:
         print("Skipping filing downloads.")
     else:
+        download_flags = [
+            "--requests-per-second",
+            str(args.requests_per_second),
+        ]
+        if args.sec_name:
+            download_flags.extend(["--sec-name", args.sec_name])
+        if args.sec_email:
+            download_flags.extend(["--sec-email", args.sec_email])
         for form, folder, _ in form_entries:
             run_step(
                 f"Downloading {form} filings",
-                [sys.executable, "dl.py", form, folder],
+                [sys.executable, "dl.py", form, folder, *download_flags],
             )
 
     if args.skip_parse:
