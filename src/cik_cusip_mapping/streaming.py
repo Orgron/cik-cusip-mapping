@@ -59,6 +59,7 @@ def stream_filings(
     headers = build_request_headers(name, email)
     limiter = RateLimiter(requests_per_second)
     index_path = Path(index_path)
+    created_session = session is None
     http = session or requests.Session()
 
     description = progress_desc or f"Streaming {form} filings"
@@ -98,6 +99,8 @@ def stream_filings(
     finally:
         if progress is not None:
             progress.close()
+        if created_session:
+            http.close()
 
 
 def stream_filings_to_disk(
