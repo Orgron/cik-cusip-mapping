@@ -1,0 +1,330 @@
+<SEC-DOCUMENT>0000315066-17-001861.txt : 20170214
+<SEC-HEADER>0000315066-17-001861.hdr.sgml : 20170214
+<ACCEPTANCE-DATETIME>20170214114156
+ACCESSION NUMBER:		0000315066-17-001861
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20170214
+DATE AS OF CHANGE:		20170214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHSTAR REALTY FINANCE CORP.
+		CENTRAL INDEX KEY:			0001273801
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80132
+		FILM NUMBER:		17605038
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE,
+		STREET 2:		18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-547-2640
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE,
+		STREET 2:		18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHSTAR REALTY
+		DATE OF NAME CHANGE:	20031218
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FMR LLC
+		CENTRAL INDEX KEY:			0000315066
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				043532603
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		245 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+		BUSINESS PHONE:		6175706339
+
+	MAIL ADDRESS:	
+		STREET 1:		245 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FMR CORP
+		DATE OF NAME CHANGE:	19920717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>filing.txt
+<TEXT>
+SCHEDULE 13G
+
+Amendment No. 0
+NORTHSTAR RLTY FIN CORP
+COMMON STOCK
+Cusip #66704R803
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+[x] 	  Rule 13d-1(b)
+[ ] 	  Rule 13d-1(c)
+[ ] 	  Rule 13d-1(d)
+Cusip #66704R803
+Item 1: 	   	Reporting Person - FMR LLC
+Item 2: 	   	(a)  	[ ]
+   	   	(b)  	[ ]
+Item 4: 	   	Delaware
+Item 5: 	   	2,261,276
+Item 6: 	   	0
+Item 7: 	   	15,008,699
+Item 8: 	   	0
+Item 9: 	   	15,008,699
+Item 11: 	   	8.302%
+Item 12: 	   	HC
+Cusip #66704R803
+Item 1: 	   	Reporting Person - Abigail P. Johnson
+Item 2: 	   	(a)  	[ ]
+   	   	(b)  	[ ]
+Item 4: 	   	United States of America
+Item 5: 	   	0
+Item 6: 	   	0
+Item 7: 	   	15,008,699
+Item 8: 	   	0
+Item 9: 	   	15,008,699
+Item 11: 	   	8.302%
+Item 12: 	   	IN
+
+Item 1(a). 	    	Name of Issuer:
+
+  	  	          	NORTHSTAR RLTY FIN CORP
+
+Item 1(b). 	    	Address of Issuer's Principal Executive Offices:
+
+  	  	          	399 Park Avenue
+18th floor
+  	  	          	New York, NY 10022
+  	  	          	USA
+
+Item 2(a). 	     	 Name of Person Filing:
+
+  	   	               	 FMR LLC
+
+Item 2(b). 	     	 Address or Principal Business Office or, if None,
+Residence:
+
+  	   	               	 245 Summer Street, Boston, Massachusetts 02210
+
+Item 2(c). 	     	 Citizenship:
+
+  	   	               	 Not applicable
+
+Item 2(d). 	     	 Title of Class of Securities:
+
+  	   	               	 COMMON STOCK
+
+Item 2(e). 	     	 CUSIP Number:
+
+  	   	               	 66704R803
+
+Item 3. 	    	This statement is filed pursuant to Rule 13d-1(b) or 13d-2(b)
+or (c) and the
+person filing, FMR LLC, is a parent holding company in accordance with
+Section 240.13d-1(b)(1)(ii)(G).   (Note:  See Exhibit A).
+
+Item 4. 	    	Ownership
+
+  	  	     	(a)    Amount Beneficially Owned: 	15,008,699
+
+  	  	     	(b)    Percent of Class: 	8.302%
+
+  	  	     	(c)    Number of shares as to which such person has:
+
+  	  	     	       (i)    sole power to vote or to direct the vote:
+2,261,276
+
+  	  	     	       (ii)    shared power to vote or to direct the vote: 	0
+
+  	  	     	       (iii)    sole power to dispose or to direct the
+disposition of: 	15,008,699
+
+  	  	     	       (iv)    shared power to dispose or to direct the
+disposition of: 	0
+
+Item 5. 	    	Ownership of Five Percent or Less of a Class.
+
+  	    	     	Not applicable.
+
+Item 6. 	    	Ownership of More than Five Percent on Behalf of Another
+Person.
+
+  	 Various persons have the right to receive or the power to direct the
+receipt of dividends from, or the proceeds from the sale of, the COMMON
+STOCK of NORTHSTAR RLTY FIN CORP. No one other person's interest in the
+COMMON STOCK of NORTHSTAR RLTY FIN CORP is more than five percent of the
+total outstanding COMMON STOCK.
+
+Item 7. 	    	Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on By the Parent Holding Company.
+
+  	    	     	See attached Exhibit A.
+
+Item 8. 	    	Identification and Classification of Members of the Group.
+
+  	    	     	Not applicable.
+
+Item 9. 	    	Notice of Dissolution of Group.
+
+  	    	  	Not applicable.
+
+Item 10. 	    	Certifications.
+
+
+
+By signing below I certify that, to the best of my knowledge and belief,
+the securities referred to above were acquired and are held in the ordinary
+course of business and were not acquired and are not held for the purpose
+of or with the effect of changing or influencing the control of the issuer
+of the securities and were not acquired and are not held in connection with
+or as a participant in any transaction having that purpose or effect.
+
+
+Signature
+
+
+
+After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete
+and correct.
+
+  	February 13, 2017
+  	Date
+
+  	/s/ Marc R. Bryant
+  	Signature
+
+  	Marc R. Bryant
+  	 Duly authorized under Power of Attorney effective as of September 23,
+2015, by and on behalf of FMR LLC and its direct and indirect subsidiaries*
+
+
+* This power of attorney is incorporated herein by reference to Exhibit 24
+to the Schedule 13G filed by FMR LLC on June 10, 2016, accession number:
+0000315066-16-005935
+
+
+Exhibit A
+
+
+                 Pursuant to the instructions in Item 7 of Schedule 13G,
+the following table lists the identity and Item 3 classification, if
+applicable, of each relevant entity that beneficially owns shares of the
+security class being reported on this Schedule 13G.
+
+
+Entity 	ITEM 3 Classification
+FIAM LLC 	IA
+Fidelity Institutional Asset Management Trust Company 	BK
+FMR CO., INC * 	IA
+STRATEGIC ADVISERS, INC. 	IA
+
+
+* Entity beneficially owns 5% or greater of the outstanding shares of the
+security class being reported on this Schedule 13G.
+
+
+
+
+
+                Abigail P. Johnson is a Director, the Chairman and the
+Chief Executive Officer of FMR LLC.
+
+
+
+                Members of the Johnson family, including Abigail P.
+Johnson, are the predominant owners, directly or through trusts, of Series
+B voting common shares of FMR LLC, representing 49% of the voting power of
+FMR LLC. The Johnson family group and all other Series B shareholders have
+entered into a shareholders' voting agreement under which all Series B
+voting common shares will be voted in accordance with the majority vote of
+Series B voting common shares. Accordingly, through their ownership of
+voting common shares and the execution of the shareholders' voting
+agreement, members of the Johnson family may be deemed, under the
+Investment Company Act of 1940, to form a controlling group with respect to
+FMR LLC.
+
+
+
+                Neither FMR LLC nor Abigail P. Johnson has the sole power
+to vote or direct the voting of the shares owned directly by the various
+investment companies registered under the Investment Company Act ("Fidelity
+Funds") advised by Fidelity Management & Research Company ("FMR Co"), a
+wholly owned subsidiary of FMR LLC, which power resides with the Fidelity
+Funds' Boards of Trustees. Fidelity Management & Research Company carries
+out the voting of the shares under written guidelines established by the
+Fidelity Funds' Boards of Trustees.
+
+
+
+                This filing reflects the securities beneficially owned, or
+that may be deemed to be beneficially owned, by FMR LLC, certain of its
+subsidiaries and affiliates, and other companies (collectively, the "FMR
+Reporters"). This filing does not reflect securities, if any, beneficially
+owned by certain other companies whose beneficial ownership of securities
+is disaggregated from that of the FMR Reporters in accordance with
+Securities and Exchange Commission Release No. 34-39538 (January 12, 1998).
+
+
+
+
+
+RULE 13d-1(k)(1) AGREEMENT
+
+
+                The undersigned persons, on February 13, 2017, agree and
+consent to the joint filing on their behalf of this Schedule 13G in
+connection with their beneficial ownership of the COMMON STOCK of NORTHSTAR
+RLTY FIN CORP at December 30, 2016.
+
+
+  	FMR LLC
+
+  	By /s/ Marc R. Bryant
+  	Marc R. Bryant
+  	Duly authorized under Power of Attorney effective as of September 23,
+2015, by and on behalf of FMR LLC and its direct and indirect subsidiaries*
+
+  	Abigail P. Johnson
+
+  	By /s/ Marc R. Bryant
+  	Marc R. Bryant
+  	Duly authorized under Power of Attorney effective as of December 16,
+2015, by and on behalf of Abigail P. Johnson*
+
+
+* This power of attorney is incorporated herein by reference to Exhibit 24
+to the Schedule 13G filed by FMR LLC on June 10, 2016, accession number:
+0000315066-16-005935
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

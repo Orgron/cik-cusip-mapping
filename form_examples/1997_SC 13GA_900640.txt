@@ -1,0 +1,337 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V0dYvWmQXeLFssTzqfmDajFdjH+412sHrrHjG9r78tLFIq2ly3XixYT1xP4FEY8X
+ rrvx+0pc/UfO3VB4xOvI4w==
+
+<SEC-DOCUMENT>0000930661-97-000417.txt : 19970226
+<SEC-HEADER>0000930661-97-000417.hdr.sgml : 19970226
+ACCESSION NUMBER:		0000930661-97-000417
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+CONFIRMING COPY:	
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970225
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VEST H D INC /TX/
+		CENTRAL INDEX KEY:			0000819521
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				752154244
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-42230
+		FILM NUMBER:		00000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 E LAS COLINAS BLVD
+		STREET 2:		THIRD FL
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+		BUSINESS PHONE:		2145561651
+
+	MAIL ADDRESS:	
+		STREET 1:		433 E LAS COLINES BLVD
+		STREET 2:		THIRD FLOOR
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VEST HERB D
+		CENTRAL INDEX KEY:			0000900640
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 E LAS COLINAS BLVD
+		STREET 2:		THIRD FL
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+	MAIL ADDRESS:	
+		STREET 1:		433 E LAS COLINAS BLVD
+		STREET 2:		3RD FLOOR
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G AMENDMENT #5
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                 SCHEDULE 13G
+
+                   Under the Securities Exchange Act of 1934
+                              (Amendment No.  5 )
+                                             --- 
+
+                                H.D. Vest, Inc.
+- --------------------------------------------------------------------------------
+                               (Name of Issuer)
+
+                                 Common Stock
+- --------------------------------------------------------------------------------
+                        (Title of Class of Securities)
+
+                                  404150-10-4
+- --------------------------------------------------------------------------------
+                                (CUSIP Number)
+
+
+
+Check the following block if a fee is being paid with this statement [_].  (A
+fee is not required only if the filing person: (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+<PAGE>
+ 
+CUSIP No.    404150-10-4                  13G              Page  1  of  4  Pages
+          -----------------                                     ---    ---      
+
+- --------------------------------------------------------------------------------
+
+1)      NAME OF REPORTING PERSON
+        S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+        Herb D. Vest, ###-##-####
+
+- --------------------------------------------------------------------------------
+
+2)      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*      N/A
+         
+        (a).. . . . . . . . . . . . . . . . . . . . . .. . . . . .  [_]
+
+        (b).. . . . . . . . . . . . . . . . . . . . . .. . . . . .  [_]
+
+- --------------------------------------------------------------------------------
+
+3)      SEC USE ONLY. . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- -------------------------------------------------------------------------------
+
+4)        CITIZENSHIP OR PLACE OF ORGANIZATION  . . . . . . . . . .   USA
+                                                                    -------
+- -------------------------------------------------------------------------------
+ 
+                  5)  Sole Voting Power. . . . . . . . . . . . . . . 48.5%
+ Number of                                                         -------
+  Shares        ---------------------------------------------------------------
+Beneficially      6) Shared Voting Power. . . . . . . . . . . . . .   0%
+ Owned by                                                           -------
+   Each         ---------------------------------------------------------------
+ Reporting        7)  Sole Dispositive Power. . . . . . . . . . . .  11.9%
+  Person                                                            -------  
+   With         ----------------------------------------------------------------
+                  8)  Shared Dispositive Power. . . . . . . . . . .  18.3% 
+                                                                    -------    
+- --------------------------------------------------------------------------------
+
+(9)  Aggregate Amount Beneficially Owned by Reporting Person. . . . 2,630,290
+                                                                    ---------
+- --------------------------------------------------------------------------------
+
+(10) Check if the Aggregate Amount in Row (9) Excludes
+     Certain Shares*. . . . . . . . . . . . . . . . . . . . . . . .    N/A
+                                                                    ---------
+- --------------------------------------------------------------------------------
+
+(11) Percent of Class Represented by Amount in Row 9. . . . . . . .  48.5%
+                                                                    --------
+- --------------------------------------------------------------------------------
+
+(12) Type of Reporting Person*. . . . . . . . . . . . . . . . . . .    IN
+                                                                    --------
+- --------------------------------------------------------------------------------
+
+                     *SEE INSTRUCTION BEFORE FILLING OUT!
+<PAGE>
+ 
+                                 SCHEDULE 13G
+                                 ------------
+
+
+Item 1.   (a)  Name of Issuer:
+
+               H.D. Vest, Inc.
+
+          (b)  Address of Issuer's Principal Executive Offices:
+
+               433 E. Las Colinas Boulevard
+               Third Floor
+               Irving, Texas  75039
+
+Item 2.   (a)  Name of Person Filing:
+
+               Herb D. Vest
+
+          (b)  Address of Principal Business Office or, if none,
+               Residence:
+
+               433 E. Las Colinas Boulevard
+               Third Floor
+               Irving, Texas  75039
+
+          (c)  Citizenship:
+
+               Citizen of U.S.A.
+
+          (d)  Title of Class of Securities:
+
+               Common Stock
+
+          (e)  CUSIP Number:
+ 
+               404150-10-4
+
+ 
+Item 3  If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b),
+        check whether the person filing is a: N/A
+          (a)  [ ]  Broker or Dealer registered under Section 15 of the Act
+          (b)  [ ]  Bank as defined in section 3(a)(6) of the Act
+          (c)  [ ]  Insurance Company as defined in section 3(a)(19) of the Act
+          (d)  [ ]  Investment Company registered under section 8 of the
+                    Investment Company Act
+
+                                      -2-
+<PAGE>
+ 
+          (e)  [ ]  Investment Adviser registered under section 203 of the
+                    Investment Advisers Act of 1940
+          (f)  [ ]  Employee Benefit Plan, Pension Fund which is subject to the
+                    provisions of the Employee Retirement Income Security Act of
+                    1974 or Endowment Fund; see Paragraph 240.13d-1(b)(1)(ii)(F)
+          (g)  [ ]  Parent Holding Company, in accordance with Paragraph 
+                    240.13d-1(b)(ii)(G) (Note: See Item 7)
+          (h)  [ ]  Group, in accordance with Paragraph 240.13d-1(b)(1)(ii)(H)
+                                 
+Item 4.   Ownership.
+
+          If the percent of the class owned, as of December 31 of the year
+          covered by the statement, or as of the last day of any month described
+          in Rule 13d-1 (b)(2), if applicable, exceeds five percent, provide the
+          following information as of that date and identify those shares which
+          there is a right to acquire.
+
+          (a)  Amount Beneficially Owned:  2,630,290
+ 
+          (b)  Percent of Class:  48.5%
+ 
+          (c)  Number of shares as to which such person has:
+
+               (i)   sole power to vote or to direct the vote
+
+                     2,630,290
+
+               (ii)  shared power to vote or to direct the vote
+
+                     -0-
+
+               (iii) sole power to dispose or to direct the
+                     disposition of
+
+                     647,322 (The remaining shares of stock are currently
+                     subject to an Escrow Agreement with the State of Texas and
+                     a Security Agreement with H.D. Vest, Inc.)
+
+               (iv)  shared power to dispose or to direct the disposition of
+
+                     989,764
+
+                                      -3-
+<PAGE>
+ 
+Item 5.   Ownership of Five Percent or less of a Class.
+
+          If this statement is being filed to report the fact that as of the
+          date hereof the reporting person has ceased to be the beneficial owner
+          of more than five percent of the class of securities, check the
+          following [ ].    N/A
+
+
+Item 6.   Ownership of More than Five Percent on Behalf of Another Person.
+
+          N/A
+
+
+Item 7.   Identification and Classification of the Subsidiary Which Acquired the
+          Security Being Reported on By the Parent Holding Company.
+
+          N/A
+
+
+Item 8.   Identification and Classification of Members of the Group.
+
+          N/A
+
+
+Item 9.   Notice of Dissolution of Group.
+
+          N/A
+
+
+Item 10.  Certification.
+
+                                 SIGNATURE
+
+          After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+                                             1/22/97
+                                    ------------------------------------
+                                    Date
+
+
+                                          /s/ Herb D. Vest
+                                    ------------------------------------
+                                    Signature
+
+
+                                    Herb D. Vest/Chairman & CEO
+                                    ------------------------------------
+                                    Name/Title
+
+                                      -4-
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

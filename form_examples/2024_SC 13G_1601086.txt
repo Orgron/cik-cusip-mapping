@@ -1,0 +1,1385 @@
+<SEC-DOCUMENT>0001172661-24-005104.txt : 20241114
+<SEC-HEADER>0001172661-24-005104.hdr.sgml : 20241114
+<ACCEPTANCE-DATETIME>20241114153616
+ACCESSION NUMBER:		0001172661-24-005104
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20241114
+DATE AS OF CHANGE:		20241114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rani Therapeutics Holdings, Inc.
+		CENTRAL INDEX KEY:			0001856725
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92761
+		FILM NUMBER:		241461100
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2051 RINGWOOD AVENUE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+		BUSINESS PHONE:		(408) 457-3700
+
+	MAIL ADDRESS:	
+		STREET 1:		2051 RINGWOOD AVENUE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARMISTICE CAPITAL, LLC
+		CENTRAL INDEX KEY:			0001601086
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		510 MADISON AVENUE, 7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 231-4932
+
+	MAIL ADDRESS:	
+		STREET 1:		510 MADISON AVENUE, 7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>armistice-rani093024.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+<hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="4">
+<hr style="MARGIN-TOP: -10px; COLOR: #000000" noshade size="1">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE
+COMMISSION<BR> Washington, DC 20549</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SCHEDULE 13G</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Under the Securities
+Exchange Act of 1934</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(Amendment No. )*</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><BR STYLE="mso-special-character: line-break">
+<BR STYLE="mso-special-character: line-break">
+<FONT STYLE="font-size: 24pt"><B>Rani Therapeutics Holdings, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 100%; border-bottom: windowtext 1pt solid; font: bold 18pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(Name of Issuer)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Class A common stock, par value $0.0001 per share</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: windowtext 1pt solid; font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(Title of Class of Securities)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>753018100</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B></B></P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: windowtext 1pt solid; font: bold 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(CUSIP Number)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+                <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: windowtext 1pt solid; font: bold 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">
+    September 30, 2024</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(Date of Event Which Requires Filing of this Statement)</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Check the appropriate box to designate the
+rule pursuant to which this Schedule is filed:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify"><FONT STYLE="font-family: Wingdings">x</FONT><FONT STYLE="font-size: 10pt">&#9;Rule
+13d-1(b)</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify"><FONT STYLE="font-family: Wingdings">o</FONT><FONT STYLE="font-size: 10pt">&#9;Rule
+13d-1(c)</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify"><FONT STYLE="font-family: Wingdings">o</FONT><FONT STYLE="font-size: 10pt">&#9;Rule
+13d-1(d)</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">*The remainder of this cover page shall be
+filled out for a reporting person&rsquo;s initial filing on this form with respect to the subject class of securities, and for
+any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The information required in the remainder of
+this cover page shall not be deemed to be &ldquo;filed&rdquo; for the purpose of Section 18 of the Securities Exchange Act of 1934
+(&ldquo;Act&rdquo;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions
+of the Act (however, see the Notes).</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+<div>
+<hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="1">
+<hr style="MARGIN-TOP: -13px; COLOR: #000000" noshade size="4">
+</div>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</P>
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP No.&#160;&#160;753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></FONT><B></B></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page&#160;2
+of 8 Pages</font></div>
+</td>
+</tr></table>
+
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;
+
+<div align="center">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: medium none; BORDER-RIGHT: medium none"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">&#160;</font></td>
+<td width="12%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid">&#160;</td>
+<td width="66%" style="BORDER-BOTTOM: black 2px solid">&#160;</td>
+<td align="left" width="6%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: medium none">&#160;</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">1</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NAME OF REPORTING </font>PERSONS</FONT></DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><FONT STYLE="display: inline; font: 10pt times new roman"></font></DIV>
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left">&nbsp;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">Armistice Capital, LLC</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"></DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">2</font></div>
+</td>
+<td colspan="3" width="86%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(a) <font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(b) <font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td nowrap width="6%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">3</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SEC USE ONLY</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">4</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></DIV>
+<DIV ALIGN="LEFT" STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt"><FONT STYLE="display: inline; font: 10pt times new roman">&nbsp;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">Delaware</div>
+</td>
+</tr><tr>
+<td colspan="2" rowspan="4" width="20%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NUMBER OF</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SHARES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">BENEFICIALLY</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">OWNED BY</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">EACH</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">REPORTING</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PERSON</font></div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">WITH</font></div>
+</td>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">5</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SOLE VOTING POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify">0</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">6</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SHARED VOTING POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">   2,574,000 </div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">7</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SOLE DISPOSITIVE POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left">0</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><FONT STYLE="font: 10pt times new roman"></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">8</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SHARED DISPOSITIVE POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+  2,574,000 </div>
+</div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">9</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"></div>
+  2,574,000 </div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">10</font></div>
+</td>
+<td colspan="3" width="86%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</td>
+<td valign="top" width="6%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt"><font style="DISPLAY: inline; FONT-FAMILY: wingdings; FONT-SIZE: 10pt">o</font></font></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">11</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">8.66% </div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">12</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">TYPE OF REPORTING PERSON </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">IA, OO</div>
+</td>
+</tr></table>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt"><!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+<div>
+<hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="1">
+<hr style="MARGIN-TOP: -13px; COLOR: #000000" noshade size="4">
+</div>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</P>
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP No.&#160;&#160;753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></FONT><B></B></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page
+3 of&#160;8 Pages</font></div>
+</td>
+</tr></table>
+
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;
+
+<div align="center">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: medium none; BORDER-RIGHT: medium none"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">&#160;</font></td>
+<td width="12%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid">&#160;</td>
+<td width="66%" style="BORDER-BOTTOM: black 2px solid">&#160;</td>
+<td align="left" width="6%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: medium none">&#160;</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">1</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NAME OF REPORTING </font>PERSONS</FONT></DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><FONT STYLE="display: inline; font: 10pt times new roman"></FONT></DIV>
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><FONT STYLE="display: inline; font: 10pt times new roman">&nbsp;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">Steven Boyd</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"></DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">2</font></div>
+</td>
+<td colspan="3" width="86%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(a) <font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(b) <font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td nowrap width="6%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">3</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SEC USE ONLY</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">4</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CITIZENSHIP OR PLACE OF ORGANIZATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</DIV>
+<DIV ALIGN="JUSTIFY" STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt">United States of America</div>
+</td>
+</tr><tr>
+<td colspan="2" rowspan="4" width="20%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NUMBER OF</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SHARES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">BENEFICIALLY</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">OWNED BY</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">EACH</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">REPORTING</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PERSON</font></div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">WITH</font></div>
+</td>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">5</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SOLE VOTING POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify">0</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">6</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SHARED VOTING POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">  2,574,000 </div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">7</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SOLE DISPOSITIVE POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</DIV>
+
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left">0</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><FONT STYLE="font: 10pt times new roman"></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">8</font></div>
+</td>
+<td colspan="2" width="72%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SHARED DISPOSITIVE POWER</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+   2,574,000 </div>
+</div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">9</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"></div>
+  2,574,000 </div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">10</font></div>
+</td>
+<td colspan="3" width="86%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</td>
+<td valign="top" width="6%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt"><font style="DISPLAY: inline; FONT-FAMILY: wingdings; FONT-SIZE: 10pt">o</font></font></div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">11</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">8.66%</div>
+</td>
+</tr><tr>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 14pt">12</font></div>
+</td>
+<td colspan="4" width="92%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">TYPE OF REPORTING PERSON </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</DIV>
+<DIV STYLE="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify">IN, HC</div>
+</td>
+</tr></table>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+
+
+
+<!-- Field: /Page -->
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+<div>
+<hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="1">
+<hr style="MARGIN-TOP: -13px; COLOR: #000000" noshade size="4">
+</div>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;<DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP
+No.&#160;753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></FONT><B></B></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page&#160;4
+of 8 Pages</font></div>
+</td>
+</tr></table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<div align="left"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: left">
+<TD NOWRAP STYLE="width: 33pt; text-align: left"><FONT STYLE="letter-spacing: -0.15pt"><B>Item 1.</B></FONT></TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: left"><FONT STYLE="letter-spacing: -0.15pt"><B>(a)&#9;Name of Issuer</B></FONT></TD>
+</TR></TABLE></div>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">Rani Therapeutics Holdings, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<TABLE width="100%" CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="text-align: left; width: 33pt"><FONT STYLE="letter-spacing: -0.15pt"><B>Item 1.<FONT STYLE="letter-spacing: -0.15pt"><B></B></FONT></TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>(b)&#9;Address of Issuer&rsquo;s Principal
+Executive Offices</B></FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">2051
+Ringwood Avenue</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">San
+Jose, California 95131</P>
+
+<TABLE width="100%" CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 33pt; text-align: left"><FONT STYLE="letter-spacing: -0.15pt"><B>Item 2.</B></FONT></TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>(a)&#9;Names of Person Filing:</B></FONT></TD>
+</TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P></DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Armistice Capital, LLC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Steven Boyd</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Collectively, the "Reporting Persons"</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<TABLE width="100%" CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 33pt; text-align: left"><FONT STYLE="letter-spacing: -0.15pt"><B>Item 2.</B></FONT></TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>(b) Address of Principal Business Office:</B></FONT></TD>
+</TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P></DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Armistice
+Capital, LLC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">510
+Madison Avenue, 7th Floor</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">New
+York, New York 10022</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">United
+States of America</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Steven Boyd</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">c/o
+Armistice Capital, LLC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">510
+Madison Avenue, 7th Floor</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">New
+York, New York 10022</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">United
+States of America</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+
+<TABLE width="100%" CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 33pt; text-align: left"><FONT STYLE="letter-spacing: -0.15pt"><B>Item 2.</B></FONT></TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>(c) Citizenship:</B></FONT></TD>
+</TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P></DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Armistice Capital, LLC - Delaware</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Steven Boyd - United States of America </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+
+<TABLE width="100%" CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 33pt; text-align: left"><B>Item 2.</TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>(d)&#9;Title of Class of Securities</B></FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Class A common stock, par value $0.0001 per share (&ldquo;Shares&rdquo;)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<TABLE width="100%" CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 33pt; text-align: left"><FONT STYLE="letter-spacing: -0.15pt"><B><B>Item 2.</B></FONT></TD><TD STYLE="width: 5pt"></TD><TD STYLE="text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>(e) CUSIP No.: </B></FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">753018100</P>
+
+
+<DIV STYLE="text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP No.&#160;&#160;753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></FONT></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page&#160;5
+of 8 Pages</font></div>
+</td>
+</tr></table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: bottom; text-align: center">
+    <TH>&nbsp;</TH></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 100%"><div align="center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt 1in; text-align: justify; text-indent: -1in"><B>Item 3.&#9;If
+this statement is filed pursuant to &sect;&sect;240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:</B></P></TD></TR>
+</TABLE><DIV STYLE="text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt 1in; text-align: justify; text-indent: -1in"></P></DIV>
+
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" STYLE="Font-Size: 10pt"><TR VALIGN="TOP"><TD ALIGN="LEFT" WIDTH="22pt">&nbsp;</TD>
+     <TD ALIGN="LEFT" WIDTH="22pt">(a)</TD>
+     <TD ALIGN="LEFT" WIDTH="22pt"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(b)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(c)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(d)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(e)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">x</FONT></TD>
+     <TD>An investment adviser in accordance with &#167;240.13d-1(b)(1)(ii)(E);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(f)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>An employee benefit plan or endowment fund in accordance with &#167;240.13d-1(b)(1)(ii)(F);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(g)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">x</FONT></TD>
+     <TD>A parent holding company or control person in accordance with &#167;240.13d-1(b)(1)(ii)(G);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(h)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(i)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the
+     Investment Company Act of 1940 (15 U.S.C. 80a-3);</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(j)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>A non-U.S. institution in accordance with &#167;240.13d-1(b)(1)(ii)(J);</TD></TR>                                                                                                                                                                                                                              <TR STYLE="vertical-align: top">
+<TR VALIGN="TOP" STYLE="Font-Size: 6pt">
+     <TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="TOP">
+     <TD>&nbsp;</TD>
+     <TD ALIGN="LEFT">(k)</TD>
+     <TD ALIGN="LEFT"><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT></TD>
+     <TD>A group, in accordance with &#167;240.13d-1(b)(1)(ii)(K). If filing as a non-U.S. institution in accordance with &#167;240.13d-1(b)(1)(ii)(J),
+     please specify the type of institution:<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></TD></TR>
+<TR STYLE="vertical-align: top">
+     <TD>&nbsp;</TD>
+     <TD STYLE="text-align: left">&nbsp;</TD>
+     <TD STYLE="text-align: left">&nbsp;</TD>
+     <TD>&nbsp;</TD></TR>
+</TABLE>
+
+<DIV STYLE="text-align: center"><P STYLE="font: 12pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify"></P> </P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: 0pt">&nbsp;</FONT></P></DIV>
+<P STYLE="margin: 0"></P>
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP
+No. 753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></FONT><B></B></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page
+6           of&#160;8 Pages</font></div>
+</td>
+</tr></table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+4.&#9;Ownership</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P></DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Provide
+the following information regarding the aggregate number and percentage of the class of securities of the issuer identified in Item 1.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">(a)
+Amount beneficially owned as of September 30, 2024:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">Armistice
+Capital, LLC -   2,574,000 </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">Steven
+Boyd -   2,574,000 &nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">(b)
+Percent of Class as of September 30, 2024:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">Armistice
+Capital, LLC - 8.66%</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">Steven
+Boyd - 8.66%&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">(c)
+Number of shares as to which the person has:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">(i)
+Sole power to vote or to direct the vote</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Armistice
+Capital, LLC - 0</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Steven
+Boyd - 0&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">(ii)
+Shared power to vote or to direct the vote</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Armistice
+Capital, LLC -   2,574,000 </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Steven
+Boyd -   2,574,000 &nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">(iii)
+Sole power to dispose or to direct the disposition of</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Armistice
+Capital, LLC - 0</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Steven
+Boyd - 0&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify"></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">(iv)
+Shared power to dispose or to direct the disposition of</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Armistice
+Capital, LLC -   2,574,000 </P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify">Steven
+Boyd -   2,574,000 </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 40pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">The
+percentage of Shares reported to be beneficially owned by the Reporting Persons are based on information from the Issuer. </P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">Armistice Capital, LLC (&ldquo;Armistice Capital&rdquo;) is the investment manager of Armistice Capital Master Fund Ltd. (the "Master Fund"), the direct holder of the Shares, and pursuant to an Investment Management Agreement, Armistice Capital exercises voting and investment power over the securities of the Issuer held by the Master Fund and thus may be deemed to beneficially own the securities of the Issuer held by the Master Fund. Mr. Boyd, as the managing member of Armistice Capital, may be deemed to beneficially own the securities of the Issuer held by the Master Fund. The Master Fund specifically disclaims beneficial ownership of the securities of the Issuer directly held by it by virtue of its inability to vote or dispose of such securities as a result of its Investment Management Agreement with Armistice Capital.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 20pt; text-align: justify">&nbsp;</P>
+
+<DIV STYLE="text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+5.&#9;Ownership of Five Percent or Less of a Class</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"><FONT STYLE="letter-spacing: -0.15pt"><B></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial
+owner of more than five percent of the class of securities, check the following [ ].</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+6.&#9;Ownership of More Than Five Percent on Behalf of Another Person</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">The
+Master Fund, a Cayman Islands exempted company that is an investment advisory client of Armistice Capital, has the right to receive
+dividends from, or the proceeds from the sale of, the reported securities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+7. Identification and Classification of the Subsidiary which Acquired the Security Being Reported on by the Parent
+Holding Company or Control Person</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">Not Applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+8. Identification and Classification of Members of the Group</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt">Not Applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+9. Notice of Dissolution of Group</B></FONT><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 22pt; text-indent: 22pt; text-align: justify">Not Applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="letter-spacing: -0.15pt"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"><FONT STYLE="letter-spacing: -0.15pt"><B>Item
+10. Certification</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"><FONT STYLE="letter-spacing: -0.15pt"><B></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P></DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt; margin-left: 44pt; text-indent: 0pt; text-align: justify">By
+signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held
+in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or
+influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant
+in any transaction having that purpose or effect.</P>
+
+
+
+<DIV STYLE="text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-align: justify; text-indent: -1in">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt"></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP No.&#160;753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></FONT><B></B></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page
+7         of&#160;8 Pages</font></div>
+</td>
+</tr></table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>SIGNATURE</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">After reasonable inquiry
+and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Dated: November 14, 2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD></TD></TR>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>&nbsp;</B></FONT></TD>
+    <TD COLSPAN="3"><P STYLE="margin-top: 0; margin-bottom: 0">Armistice Capital, LLC</P>
+                    <P STYLE="margin-top: 0; margin-bottom: 0"></P></TD></TR>
+
+
+
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 50%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 26%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;<I>/s/
+    Steven Boyd</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">Steven Boyd</FONT></P>
+        <P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">Managing Member</FONT></P></TD>
+    </TR>
+
+    <TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR></TABLE>
+
+
+
+    <TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B></B></FONT></TD>
+    <TD COLSPAN="3"><P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B></B></FONT></P>
+                    <P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-size: 10pt"></FONT></P></TD></TR>
+
+
+
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 50%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 26%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;<I>/s/
+    Steven Boyd</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><P STYLE="margin-top: 0; margin-bottom: 0">Steven Boyd</P>
+        <P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"></FONT></P></TD></TR></TABLE>
+
+
+    <TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    </TR>
+
+<TR STYLE="vertical-align: top; text-align: left">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 50%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 23%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 23%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+
+
+
+
+
+    </TABLE>
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt"></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+<table cellpadding="8" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CUSIP No.&#160;753018100</div>
+</td>
+<td valign="top" width="40%">
+<div style="TEXT-ALIGN: center"><FONT STYLE="font: 10pt times new roman">&#160;<B>SCHEDULE 13G</B></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Page&#160;8
+of&#160;8 Pages</font></div>
+</td>
+</tr></table>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><U></U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><U>Exhibit I</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>JOINT FILING STATEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>PURSUANT TO RULE 13d-1(k)</B></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The undersigned acknowledge and agree that the foregoing statement on Schedule 13G, is filed on behalf of each of the undersigned
+and that all subsequent amendments to this statement on Schedule 13G, shall be filed on behalf of each of the undersigned
+without the necessity of filing additional joint acquisition statements. The undersigned acknowledge that each shall be responsible
+for the timely filing of such amendments, and for the completeness and accuracy of the information concerning him or it contained
+therein, but shall not be responsible for the completeness and accuracy of the information concerning the others, except to
+the extent that he or it knows or has reason to believe that such information is inaccurate.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Dated: November 14, 2024</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD></TD></TR>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></P></DIV>
+
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>&nbsp;</B></FONT></TD>
+    <TD COLSPAN="3"><P STYLE="margin-top: 0; margin-bottom: 0">Armistice Capital, LLC</P></TD></TR>
+
+
+
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 50%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 26%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;<I>/s/
+    Steven Boyd</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><P STYLE="margin-top: 0; margin-bottom: 0">Steven Boyd</P>
+        <P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">Managing Member</FONT></P></TD>
+    </TR>
+
+    <TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR></TABLE>
+
+
+
+    <TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>&nbsp;</B></FONT></TD>
+    <TD COLSPAN="3">
+                    <P STYLE="margin-top: 0; margin-bottom: 0"></P></TD></TR>
+
+
+
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 50%"></TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"></FONT></TD>
+    <TD STYLE="width: 26%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"></FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;<I>/s/
+    Steven Boyd</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD><P STYLE="margin-top: 0; margin-bottom: 0">Steven Boyd</P></TD></TR></TABLE>
+
+
+    <TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+<TR STYLE="vertical-align: top; text-align: left">
+    </TR>
+
+<TR STYLE="vertical-align: top; text-align: left">
+<TR STYLE="vertical-align: top; text-align: left">
+    <TD STYLE="width: 50%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 23%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="width: 23%"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+
+
+
+
+
+    </TABLE>
+
+
+
+    <TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

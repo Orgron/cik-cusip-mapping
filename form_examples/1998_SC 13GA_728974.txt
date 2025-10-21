@@ -1,0 +1,330 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IFk61YNaoaJocPhAhW9q6RuUCDhBJNtTxKsyRVK8RIdhS3MJ8T2mhwYYL498ApRy
+ GCUc2yoJq9tPobG5Z7IzRw==
+
+<SEC-DOCUMENT>0000728974-98-000014.txt : 19981002
+<SEC-HEADER>0000728974-98-000014.hdr.sgml : 19981002
+ACCESSION NUMBER:		0000728974-98-000014
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19981001
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MATRIX SERVICE CO
+		CENTRAL INDEX KEY:			0000866273
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		IRS NUMBER:				731352174
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-41526
+		FILM NUMBER:		98719167
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10701 E UTE ST
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74116-1517
+		BUSINESS PHONE:		9188388822
+
+	MAIL ADDRESS:	
+		STREET 1:		10701 E UTE ST
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74116-1517
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EQUITRUST INVESTMENT MANAGEMENT SERVICES INC
+		CENTRAL INDEX KEY:			0000728974
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				420954363
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5400 UNIVERSITY AVE
+		CITY:			WEST DES MOINES
+		STATE:			IA
+		ZIP:			50266-5997
+		BUSINESS PHONE:		5152255400
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FBL INVESTMENT ADVISORY SERVICES INC /ADV
+		DATE OF NAME CHANGE:	19960511
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FBL INVESTMENT ADVISORY SERVICES INC                    /ADV
+		DATE OF NAME CHANGE:	19960511
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<TEXT>
+
+               SECURITIES AND EXCHANGE COMMISSION
+                    Washington, D.C.  20549
+                                
+                          SCHEDULE 13G
+                                
+           Under the Securities Exchange Act of 1934
+                 (Amendment No.     2      )*
+                                
+                                
+                   Matrix Service Company
+                        (Name of Issuer)
+                                
+                                
+                         Common Stock                         
+                 (Title of Class of Securities)
+                                
+                                
+                            576853105                            
+                         (CUSIP Number)
+
+
+     Check the following box if a fee is being paid with this
+statement /   /.  (A fee is not required only if the filing
+person:
+(1) has a previous statement on file reporting beneficial
+ownership
+of more than five percent of the class of securities described in
+Item 1; and (2) has filed no amendment subsequent thereto
+reporting
+beneficial ownership of five percent or less of such class.) 
+(See
+Rule 13d-7.)
+
+     *The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the
+subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior page.
+
+     The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of
+the Securities Exchange Act of 1934 ("Act") or otherwise subject
+to
+the liabilities of that section of the Act but shall be subject
+to
+all other provisions of the Act (however, see the Notes).
+
+                (Continued on following page(s))
+                                
+                     Page 1 of   5   Pages
+
+
+
+
+
+
+CUSIP No.        576853105     13G      Page  
+2   of   5   Pages 
+
+
+EquiTrust Investment Management Services, Inc.     42-0954363
+(1) Names of Reporting Persons.  S.S. or I.R.S. Identification
+Nos.
+Of Above Persons
+
+/   / (a)      /   / (b)
+(2) Check the Appropriate Box if a Member of a Group*
+
+
+(3) SEC Use Only
+
+
+Delaware
+(4) Citizenship or Place of Organization
+
+
+Number of Shares Beneficially Owned by Each Reporting Person With
+
+565,750
+(5) Sole Voting Power
+
+
+(6) Shared Voting Power
+
+565,750
+(7) Sole Dispositive Power
+
+
+(8) Shared Dispositive Power
+
+565,750
+(9) Aggregate Amount Beneficially Owned by Each Reporting Person
+
+
+(10) Check Box if The Aggregate Amount in Row (9) Excludes
+Certain Shares*
+
+5.87%
+(11) Percent of Class Represented by Amount in Row (9)
+
+IA
+(12) Type of Reporting Person*
+
+           *SEE INSTRUCTION SHEET BEFORE FILLING OUT!
+                                             Page 3 of 5 Pages
+
+                           SCHEDULE 13G
+
+Item 1(a)  Name of Issuer:         Matrix Service Company
+
+Item 1(b)  Address of Issuer's Principal Executive Office:  
+                                   
+                         10701 East Ute Street
+                         Tulsa, OK 74116-1517
+
+Item 2(a)   Name of Person Filing: EquiTrust Investment
+Management Services, Inc.
+
+Item 2(b)  Address of Principal Business Office:       
+
+                         5400 University Avenue
+                         West Des Moines, IA 50266
+
+Item 2(c)  Citizenship:       Delaware
+
+Item 2(d)  Title of Class of Securities:     
+
+                         Common Stock
+
+Item 2(e)  CUSIP Number:      576853105
+
+Item 3  If this statement is filed pursuant to Rules 13d-1(b), or
+13d-2(b), check whether the person filing is a:
+
+     (a) [ ] Broker or Dealer registered under Section 15 of the
+Act
+     (b) [ ] Bank as defined in section 3(a)(6) of the Act
+     (c) [ ] Insurance Company as defined in section 3(a)(19) of
+the Act
+     (d) [ ] Investment Company registered under section 8 of the
+Investment Company Act
+     (e) [X] Investment Adviser registered under section 203 of
+the
+Investment Advisers Act of 1940.
+     (f) [ ] Employee Benefit Plan, Pension Fund which is subject
+to the provisions of the Employee Retirement Income
+Security Act of 1974 or Endowment Fund; see section
+240.13d-1(b)(1)(ii)(F)
+     (g) [ ] Parent Holding Company, in accordance with section
+240.13d-1(b)(ii)(G) (Note: See Item 7)
+     (h) [ ] Group, in accordance with section
+240.13d-1(b)(1)(ii)(H)
+
+
+
+
+                                        Page 4 of 5 Pages
+
+Item 4  Ownership
+
+     If the percent of the class owned, as of December 31 of the
+year covered by the statement, or as of the last day of any month
+described in Rule 13d-1 (b)(2), if applicable, exceeds five
+percent, provide the following information as of that date and
+identify those shares which there is a right to acquire.
+
+     (a) Amount beneficially owned:
+
+          565,750 shares of common stock
+
+     (b) Percent of class:
+
+          5.87%
+
+     (c) Number of shares as to which such person has:
+          (i) sole power to vote or to direct the vote            
+           565,750
+          (ii) shared power to vote or to direct the vote         
+                -0-
+          (iii) sole power to dispose or to direct the
+disposition
+of 565,750
+          (iv) shared power to dispose or to direct the
+disposition
+of -0-
+
+Item 5  Ownership of Five Percent or Less of a Class
+
+	If this statement is being filed to report the fact that
+as of the date hereof the reporting person has ceased to be the 
+beneficial owner of more than five percent of the class of 
+securities, check the following [ ]
+
+Item 6  Ownership of More than Five Percent on Behalf of Another
+Person
+
+     All of the shares reported herein are owned on behalf of
+     various investment advisory clients of the reporting person,
+     which have the right to receive or the power to direct the
+     receipt of dividends from, or the proceeds from a sale of,
+     such securities.  None of such clients individually own more
+     than five percent.
+
+Item 7  Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on By the Parent Holding
+Company             N/A
+
+Item 8  Identification and Classification of Members of the Group 
+   N/A
+
+Item 9  Notice of Dissolution of Group                 N/A
+
+Item 10  Certification.
+
+     By signing below I certify that, to the best of my knowledge
+and belief, the securities referred to above were acquired in the
+ordinary course of business and were not acquired for the purpose
+of and do not have the effect of changing or influencing the
+control of the issuer of such securities and were not acquired in
+connection with or as a participant in any transaction having
+such
+purposes or affect.
+
+
+                                             Page 5 of 5 Pages
+
+
+Signature.
+
+     After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this
+statement
+it true, complete and correct.
+
+October 1, 1998
+Date
+
+EQUITRUST INVESTMENT MANAGEMENT SERVICES, INC.
+
+
+By: /s/ Dennis M. Marker
+Dennis M. Marker, Investment Vice President, Administration
+Name/Title
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

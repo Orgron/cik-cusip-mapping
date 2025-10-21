@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001998813-23-000002.txt : 20240520
+<SEC-HEADER>0001998813-23-000002.hdr.sgml : 20240520
+<ACCEPTANCE-DATETIME>20231218072325
+ACCESSION NUMBER:		0001998813-23-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20231218
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Clearmind Medicine Inc.
+		CENTRAL INDEX KEY:			0001892500
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93839
+		FILM NUMBER:		231492240
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101-1220 WEST 6TH AVENUE
+		CITY:			VANCOUVER, BRITISH COLUMBIA
+		STATE:			Z4
+		ZIP:			V6H1A5
+		BUSINESS PHONE:		972-54-5704749
+
+	MAIL ADDRESS:	
+		STREET 1:		101-1220 WEST 6TH AVENUE
+		CITY:			VANCOUVER, BRITISH COLUMBIA
+		STATE:			Z4
+		ZIP:			V6H1A5
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Polatov Eli
+		CENTRAL INDEX KEY:			0001998813
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	MAIL ADDRESS:	
+		STREET 1:		48 ROTHSCHILD ST.
+		CITY:			BAT YAM
+		STATE:			L3
+		ZIP:			5938243
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001998813-23-000001</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001998813</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/05/2023</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001892500</issuerCik>
+        <issuerName>Clearmind Medicine Inc.</issuerName>
+        <issuerCusip>1850532047</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>101-1220 WEST 6TH AVENUE</com:street1>
+          <com:street2>101-1220 WEST 6TH AVENUE</com:street2>
+          <com:city>VANCOUVER, BRITISH COLUMBIA</com:city>
+          <com:stateOrCountry>Z4</com:stateOrCountry>
+          <com:zipCode>V6H1A5</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Polatov Eli</reportingPersonName>
+      <citizenshipOrOrganization>L3</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Clearmind Medicine Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>101-1220 WEST 6TH AVENUE, 101-1220 WEST 6TH AVENUE, VANCOUVER, BRITISH COLUMBIA, , V6H1A5.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Eli Polatov</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>48 Rothschild St., Bat Yam, Israel</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Israel</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>0</amountBeneficiallyOwned>
+        <classPercent>0</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Armon Real Estate Agency Ltd., an Israeli company wholly-owned
+by Eli Polatov</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Polatov Eli</reportingPersonName>
+      <signatureDetails>
+        <signature>Eli Polatov</signature>
+        <title>Individual</title>
+        <date>12/18/2023</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

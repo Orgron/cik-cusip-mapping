@@ -1,0 +1,471 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U5+Q8T+KYDt/ZtALhFbpUFPIcOELFIg4ad0kGHem1vz0F2Bmiukz4IbNhESIKR4z
+ lx+qEDp4undjwo4e2BE/ng==
+
+<SEC-DOCUMENT>0001019687-00-000096.txt : 20000209
+<SEC-HEADER>0001019687-00-000096.hdr.sgml : 20000209
+ACCESSION NUMBER:		0001019687-00-000096
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20000208
+GROUP MEMBERS:		DAVID J. DUNN, TRUSTEE, DUNN FAMILY TRUST
+GROUP MEMBERS:		IDANTA PARTNERS LTD
+GROUP MEMBERS:		IDANTA PARTNERS LTD.
+GROUP MEMBERS:		JONATHAN HUBERMAN
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HI/FN INC
+		CENTRAL INDEX KEY:			0001065246
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				330732700
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-55125
+		FILM NUMBER:		526075
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2105 HAMILTON AVE
+		STREET 2:		STE 230
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95125
+		BUSINESS PHONE:		4085588066
+
+	MAIL ADDRESS:	
+		STREET 1:		2105 HAMILTON AVE
+		STREET 2:		STE 230
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95125
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IDANTA PARTNERS LTD
+		CENTRAL INDEX KEY:			0001025857
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				952743760
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4660 LAJOLLA VILLAGE DR
+		STREET 2:		STE 850
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92122
+		BUSINESS PHONE:		8584529690
+
+	MAIL ADDRESS:	
+		STREET 1:		4660 LAJOLLA VILLAGE DR
+		STREET 2:		STE 850
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT #1
+<TEXT>
+
+
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. 1)(1)
+
+
+                                   HI/FN, INC.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                     COMMON STOCK, $.001 PAR VALUE PER SHARE
+- --------------------------------------------------------------------------------
+                         (Title and Class of Securities)
+
+
+                                    428358105
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+                                September 1, 1999
+- --------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+         [ ]        Rule 13d-1(b)
+         [X]        Rule 13d-1(c)
+         [ ]        Rule 13d-1(d)
+
+(1) The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter the disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 or otherwise subject to the liabilities of that section of the Act but
+shall be subject to all other provisions of the Act (however, see the Notes).
+
+                                   Page 1 of 8
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 2 of 8 Pages
+
+- --------------------------------------------------------------------------------
+
+1   NAME OF REPORTING PERSONS
+    I.R.S. IDENTIFICATION NOs. OF ABOVE PERSONS (entities only)
+    IDANTA PARTNERS LTD.
+- --------------------------------------------------------------------------------
+
+2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                   (a) [ ]
+                                                                        (b) [X]
+- --------------------------------------------------------------------------------
+
+3   SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+
+4   CITIZENSHIP OR PLACE OF ORGANIZATION
+    TEXAS, UNITED STATES OF AMERICA
+- --------------------------------------------------------------------------------
+
+NUMBER OF          5        SOLE VOTING POWER
+SHARES                      None  (1)
+                ----------------------------------------------------------------
+BENEFICIALLY       6        SHARED VOTING POWER
+OWNED BY                    None
+                ----------------------------------------------------------------
+EACH               7        SOLE DISPOSITIVE POWER
+REPORTING                   None  (1)
+                ----------------------------------------------------------------
+PERSON             8        SHARED DISPOSITIVE POWER
+WITH                        None
+- --------------------------------------------------------------------------------
+
+9   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                            None
+- --------------------------------------------------------------------------------
+
+10   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES* [ ]
+- --------------------------------------------------------------------------------
+
+11   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+                            0.0%
+- --------------------------------------------------------------------------------
+
+12   TYPE OF REPORTING PERSON*                   PN
+- --------------------------------------------------------------------------------
+                      *SEE INSTRUCTION BEFORE FILLING OUT!
+
+(1)  As exercised by its general partners, The Dunn Family Trust, David J. Dunn,
+     Trustee, and Jonathan Huberman.
+
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 3 of 8 Pages
+
+- --------------------------------------------------------------------------------
+
+1    NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NOs. OF ABOVE PERSONS (entities only)
+     THE DUNN FAMILY TRUST, DAVID J. DUNN, TRUSTEE
+- --------------------------------------------------------------------------------
+
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                   (a) [ ]
+                                                                         (b) [X]
+- --------------------------------------------------------------------------------
+
+3    SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+
+4    CITIZENSHIP OR PLACE OF ORGANIZATION
+     UNITED STATES OF AMERICA
+- --------------------------------------------------------------------------------
+
+NUMBER OF           5        SOLE VOTING POWER
+SHARES                       None
+                ----------------------------------------------------------------
+BENEFICIALLY        6        SHARED VOTING POWER
+OWNED BY                     None  (1)
+                ----------------------------------------------------------------
+EACH                7        SOLE DISPOSITIVE POWER
+REPORTING                    None
+                ----------------------------------------------------------------
+PERSON              8        SHARED DISPOSITIVE POWER
+WITH                         None  (1)
+- --------------------------------------------------------------------------------
+
+9    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                             None
+- --------------------------------------------------------------------------------
+
+10   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES* [ ]
+- --------------------------------------------------------------------------------
+
+11   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+                             0.0% (2)
+- --------------------------------------------------------------------------------
+
+12   TYPE OF REPORTING PERSON*      OO       (GRANTOR TRUST FOR INDIVIDUAL)
+- --------------------------------------------------------------------------------
+                      *SEE INSTRUCTION BEFORE FILLING OUT!
+
+(1)  Solely in his capacity as Trustee of The Dunn Family Trust, a general
+     partner of Idanta Partners Ltd.
+
+(2)  By virtue of (1) and his individual ownership of -0- shares of the Stock.
+
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 4 of 8 Pages
+
+- --------------------------------------------------------------------------------
+
+1    NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NOs. OF ABOVE PERSONS (entities only)
+     JONATHAN HUBERMAN
+- --------------------------------------------------------------------------------
+
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                   (a) [ ]
+                                                                         (b) [X]
+- --------------------------------------------------------------------------------
+
+3    SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+
+4    CITIZENSHIP OR PLACE OF ORGANIZATION
+     UNITED STATES OF AMERICA
+- --------------------------------------------------------------------------------
+
+NUMBER OF          5        SOLE VOTING POWER
+SHARES                      None
+              ------------------------------------------------------------------
+BENEFICIALLY       6        SHARED VOTING POWER
+OWNED BY                    None  (1)
+              ------------------------------------------------------------------
+EACH               7        SOLE DISPOSITIVE POWER
+REPORTING                   None
+              ------------------------------------------------------------------
+PERSON             8        SHARED DISPOSITIVE POWER
+WITH                        None  (1)
+- --------------------------------------------------------------------------------
+
+9    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                            None  (1)
+- --------------------------------------------------------------------------------
+
+10   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES* [ ]
+- --------------------------------------------------------------------------------
+
+11   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+                            0.0% (2)
+- --------------------------------------------------------------------------------
+
+12       TYPE OF REPORTING PERSON*        IN
+- --------------------------------------------------------------------------------
+                      *SEE INSTRUCTION BEFORE FILLING OUT!
+
+
+(1)  Solely in his capacity as a general partner of Idanta Partners Ltd.
+
+(2)  By virtue of (1) and his individual ownership of -0- shares of the Stock.
+
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 5 of 8 Pages
+
+         Pursuant to Rule 13d-2(b) of Regulation 13D-G of the General Rules and
+Regulations under the Securities Exchange Act of 1934, as amended (the "Act"),
+the undersigned hereby amend their schedule 13G Statement dated January 27, 1999
+(the "Schedule 13G"), relating to the Common Stock, $.001 par value per share
+(the "Stock"), of Hi/fn, Inc. (the "Issuer").
+
+         Unless otherwise indicated, all defined terms used herein shall have
+the same meanings as those set forth in the Schedule 13G. As defined in the
+previous filing, Idanta Partners Ltd. is referred to as "IPL", Dunn Family
+Trust, David J. Dunn, Trustee, are referred to as "DFT" and "DJD," respectively,
+and Jonathan Huberman is referred to as "JH".
+
+
+ITEM 4.  OWNERSHIP.
+         ----------
+
+Item 4 as reported in the Schedule 13G is hereby amended as follows:
+
+         (a)-(b)
+
+         1)       IPL
+
+         The aggregate number of shares of the Stock that IPL owns beneficially,
+pursuant to Rule 13d-3 of the Act, is -0-, which constitutes 0.0% of the
+outstanding shares of the Stock.
+
+         2)       DJD
+
+         Because of his position as Trustee of DFT, a general partner of IPL,
+and because of DFT's ownership of -0- shares of the Stock, DJD may, pursuant to
+Rule 13d-3 of the Act, be deemed to be beneficial owner of -0- shares in the
+aggregate, which constitutes 0.0% of the outstanding shares of the Stock.
+
+         3)       JH
+
+         Because of his position as a general partner of IPL, and because of
+JH's ownership of -0- shares of the Stock, JH may, pursuant to Rule 13d-3 of the
+Act, be deemed to be beneficial owner of -0- shares in the aggregate, which
+constitutes 0.0% of the outstanding shares of the Stock.
+
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 6 of 8 Pages
+
+         (c)
+
+         1)       IPL
+
+         Acting through its general partners, IPL has the sole power to vote or
+to direct the vote and to dispose or to direct the disposition of -0- shares of
+the Stock.
+
+         2)       DJD
+
+         In his capacity as Trustee of DFT, a general partner of IPL, DJD has
+the shared power to vote or to direct the vote and to dispose or to direct the
+disposition of -0- shares of the Stock. DJD shares such power with JH. DJD also
+has the sole power to vote or direct the vote and to dispose or to direct the
+disposition of -0- shares of the Stock owned by DFT.
+
+         3)       JH
+
+         In his capacity as a general partner of IPL, JH has the shared power to
+vote or to direct the vote and to dispose or to direct the disposition of -0-
+shares of the Stock. JH shares such power with DJD. JH also has the sole power
+to vote or direct the vote and to dispose or to direct the disposition of -0-
+shares of the Stock owned by JH.
+
+
+ITEM 5   OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS.     [X]
+         ---------------------------------------------
+
+         Item 5 is being amended to report the fact that as of December 31,
+1999, the Reporting Persons have ceased to be the beneficial owner of more than
+five percent of the securities.
+
+
+ITEM 8   IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.
+         ----------------------------------------------------------
+
+         This Schedule 13G Statement is being filed on behalf of each of the
+Reporting Persons pursuant to Rules 13d-1(c) and 13d-1(k)(1). The agreement
+required by Rule 13d-1(k)(1) is attached hereto as Exhibit A.
+
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 7 of 8 Pages
+
+
+                                   Signatures:
+
+
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+Dated: February 8, 2000
+
+IDANTA PARTNERS LTD.
+a Texas limited partnership
+
+
+By:      /s/ Jonathan Huberman
+         ----------------------
+         Jonathan Huberman, General Partner
+
+
+THE DUNN FAMILY TRUST
+
+
+By:      /s/ David J. Dunn
+         -----------------
+         David J. Dunn, Trustee
+
+
+JONATHAN HUBERMAN
+
+
+         /s/ Jonathan Huberman
+         ---------------------
+         Jonathan Huberman
+
+<PAGE>
+
+CUSIP NO. 428358105                 FORM 13G                   Page 8 of 8 Pages
+
+                                   EXHIBIT "A"
+
+         Pursuant to Rule 13d-1(k)(1) of the General Rules and Regulations of
+the Securities and Exchange Commission under the Securities Exchange Act of
+1934, as amended, the undersigned agree that the statement to which this Exhibit
+is attached is filed on behalf of them in the capacities set forth below.
+
+
+
+IDANTA PARTNERS LTD.
+a Texas limited partnership
+
+
+By:      /s/ Jonathan Huberman
+         ---------------------
+         Jonathan Huberman, General Partner
+
+
+THE DUNN FAMILY TRUST
+
+
+By:      /s/ David J. Dunn
+         -----------------
+         David J. Dunn, Trustee
+
+
+JONATHAN HUBERMAN
+
+
+         /s/ Jonathan Huberman
+         ---------------------
+         Jonathan Huberman
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

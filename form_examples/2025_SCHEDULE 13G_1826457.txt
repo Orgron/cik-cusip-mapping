@@ -1,0 +1,278 @@
+<SEC-DOCUMENT>0002012383-25-000642.txt : 20250204
+<SEC-HEADER>0002012383-25-000642.hdr.sgml : 20250204
+<ACCEPTANCE-DATETIME>20250204154544
+ACCESSION NUMBER:		0002012383-25-000642
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250204
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Monte Rosa Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001826457
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92649
+		FILM NUMBER:		25587840
+
+	BUSINESS ADDRESS:	
+		STREET 1:		321 HARRISON AVENUE
+		STREET 2:		SUITE 900
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02118
+		BUSINESS PHONE:		617-949-2643
+
+	MAIL ADDRESS:	
+		STREET 1:		321 HARRISON AVENUE
+		STREET 2:		SUITE 900
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02118
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackRock, Inc.
+		CENTRAL INDEX KEY:			0002012383
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				991116001
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		(212) 810-5800
+
+	MAIL ADDRESS:	
+		STREET 1:		50 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlackRock Funding, Inc. /DE
+		DATE OF NAME CHANGE:	20240215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+    <headerData>
+                <submissionType>SCHEDULE 13G</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0002012383</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <coverPageHeader>
+            <securitiesClassTitle>Common Stock</securitiesClassTitle>
+
+            <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+            <issuerInfo>
+                <issuerCik>0001826457</issuerCik>
+                <issuerName>Monte Rosa Therapeutics, Inc.</issuerName>
+                <issuerCusip>61225M102</issuerCusip>
+                <issuerPrincipalExecutiveOfficeAddress>
+                    <com:street1>321 HARRISON AVENUESUITE 900</com:street1>
+                    <com:city>BOSTON</com:city>
+                    <com:stateOrCountry>MA</com:stateOrCountry>
+                    <com:zipCode>02118</com:zipCode>
+                </issuerPrincipalExecutiveOfficeAddress>
+            </issuerInfo>
+            <designateRulesPursuantThisScheduleFiled>
+                <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+            </designateRulesPursuantThisScheduleFiled>
+        </coverPageHeader>
+        <coverPageHeaderReportingPersonDetails>
+
+            <reportingPersonName>BlackRock, Inc.</reportingPersonName>
+            <memberGroup>b</memberGroup>
+            <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+            <reportingPersonBeneficiallyOwnedNumberOfShares>
+                <soleVotingPower>3782397</soleVotingPower>
+                <sharedVotingPower>0</sharedVotingPower>
+                <soleDispositivePower>3840165</soleDispositivePower>
+                <sharedDispositivePower>0</sharedDispositivePower>
+            </reportingPersonBeneficiallyOwnedNumberOfShares>
+            <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3840165</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+            <classPercent>6.3</classPercent>
+            <typeOfReportingPerson>HC</typeOfReportingPerson>
+        </coverPageHeaderReportingPersonDetails>
+        <items>
+            <item1>
+                <issuerName>Monte Rosa Therapeutics, Inc.</issuerName>
+                <issuerPrincipalExecutiveOfficeAddress>321 HARRISON AVENUESUITE 900 BOSTON MA 02118</issuerPrincipalExecutiveOfficeAddress>
+            </item1>
+            <item2>
+                <filingPersonName>BlackRock, Inc.
+                In accordance with SEC Release No. 34-39538 (January 12, 1998), this Schedule 13G reflects the securities beneficially owned, or deemed to be beneficially owned, by certain business units (collectively, the "Reporting Business Units") of BlackRock, Inc. and its subsidiaries and affiliates. It does not include securities, if any, beneficially owned by other business units whose beneficial ownership of securities are disaggregated from that of the Reporting Business Units in accordance with such release.</filingPersonName>
+                <principalBusinessOfficeOrResidenceAddress>BlackRock, Inc. 50 Hudson Yards New York, NY 10001</principalBusinessOfficeOrResidenceAddress>
+                <citizenship>See Item 4 of Cover Page</citizenship>
+            </item2>
+            <item3>
+                <notApplicableFlag>N</notApplicableFlag>
+                <typeOfPersonFiling>HC</typeOfPersonFiling>
+            </item3>
+            <item4>
+                <amountBeneficiallyOwned>3840165</amountBeneficiallyOwned>
+                <classPercent>6.3</classPercent>
+                <numberOfSharesPersonHas>
+                    <solePowerOrDirectToVote>3782397</solePowerOrDirectToVote>
+                    <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+                    <solePowerOrDirectToDispose>3840165</solePowerOrDirectToDispose>
+                    <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+                </numberOfSharesPersonHas>
+            </item4>
+            <item5>
+                  <notApplicableFlag>Y</notApplicableFlag>
+                  <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+            </item5>
+            <item6>
+                <notApplicableFlag>N</notApplicableFlag>
+               <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Various persons have the right to receive or the power to direct
+               the receipt of dividends from, or the proceeds from the sale of
+               the common stock of
+               Monte Rosa Therapeutics, Inc..
+               No one person's interest in the common stock of
+               Monte Rosa Therapeutics, Inc.
+               is more than five percent of the total outstanding common shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+
+
+            </item6>
+            <item7>
+                <notApplicableFlag>N</notApplicableFlag>
+                <subsidiaryIdentificationAndClassification>See Exhibit 99</subsidiaryIdentificationAndClassification>
+            </item7>
+            <item8>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item8>
+            <item9>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item9>
+            <item10>
+                <notApplicableFlag>N</notApplicableFlag>
+                <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+            </item10>
+        </items>
+        <signatureInformation>
+            <reportingPersonName>BlackRock, Inc.</reportingPersonName>
+            <signatureDetails>
+                <signature>Spencer Fleming</signature>
+                <title>Managing Director</title>
+                <date>02/04/2025</date>
+            </signatureDetails>
+        </signatureInformation>
+    </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>PowerOfAttorney.txt
+<DESCRIPTION>EXHIBIT 24: POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+
+The undersigned, BlackRock, Inc., a corporation duly organized under the
+laws of the State of Delaware, United States (the "Company"), does hereby
+make, constitute and appoint each of Eric Andruczyk, Richard Cundiff,
+R. Andrew Dickson, III, Spencer Fleming, Laura Hildner, David Maryles,
+Christopher Meade, Charles Park, James Raby, Daniel Riemer, David
+Rothenberg and Brenda Schulz, acting severally, as its true and lawful
+attorneys-in-fact, for the purpose of, from time to time, executing, in its
+name and on its behalf and on behalf of its direct and indirect
+subsidiaries and affiliates, any and all documents, certificates,
+instruments, statements, filings, agreements and amendments
+(collectively, "documents") determined by such person to be necessary or
+appropriate to comply with ownership or control-person reporting
+requirements imposed by any United States or non-United States governmental
+or regulatory authority, including, without limitation, Schedules 13D and
+13G and Forms 3, 4, 5, 13F, 13H, SHO and N-PX and any amendments to any of
+the foregoing as may be required to be filed with the Securities and
+Exchange Commission, and delivering, furnishing or filing any such
+documents with the appropriate governmental or regulatory authority or
+other person, and giving and granting to each such attorney-in-fact full
+power and authority to do and perform any and every act and thing
+whatsoever requisite, necessary or proper to be done in the exercise of any
+of the rights and powers herein granted, as fully and to all intents and
+purposes as the Company and/or its direct and indirect subsidiaries, as
+applicable, might or could do if personally present by one of its
+authorized signatories, hereby ratifying and confirming all that said
+attorney-in-fact shall lawfully do or cause to be done by virtue hereof.
+Any such determination by an attorney-in-fact named herein shall be
+conclusively evidenced by such person's execution, delivery, furnishing or
+filing of the applicable document.
+
+This power of attorney shall expressly revoke the power of attorney dated
+30th day of April, 2023 in respect of the subject matter hereof, shall
+be valid from the date hereof and shall remain in full force and effect
+until either revoked in writing by the Company, or, in respect of any
+attorney-in-fact named herein, until such person ceases to be an employee
+of the Company or one of its affiliates.
+
+IN WITNESS WHEREOF, the undersigned has caused this power of attorney to be
+executed as of this 21st day of January, 2025.
+
+BLACKROCK, INC.
+
+
+By: /s/ R. Andrew Dickson, III
+Name:  R. Andrew Dickson, III
+Title: Corporate Secretary
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>ITEM7.txt
+<DESCRIPTION>EXHIBIT 99: ITEM 7
+<TEXT>
+ Aperio Group, LLC
+ BlackRock Advisors, LLC
+ SpiderRock Advisors, LLC
+ BlackRock Asset Management Canada Limited
+ BlackRock Fund Advisors
+ BlackRock Asset Management Ireland Limited
+ BlackRock Institutional Trust Company, National Association
+ BlackRock Financial Management, Inc.
+ BlackRock Investment Management, LLC
+
+
+
+*Entity beneficially owns 5% or greater of the outstanding
+shares of the security class being reported on this
+Schedule 13G.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

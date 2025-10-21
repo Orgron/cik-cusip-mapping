@@ -1,0 +1,250 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AvzHzOyDGWMgscvCcrprIUayidUAly/9yb+fV1pPO+1AOe4YGUQ8WYD85sARxk/D
+ 92NTxQReCZCPflEXSKofKQ==
+
+<SEC-DOCUMENT>0000906304-07-000021.txt : 20070117
+<SEC-HEADER>0000906304-07-000021.hdr.sgml : 20070117
+<ACCEPTANCE-DATETIME>20070117130112
+ACCESSION NUMBER:		0000906304-07-000021
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20070117
+DATE AS OF CHANGE:		20070117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Answers CORP
+		CENTRAL INDEX KEY:			0001283073
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80429
+		FILM NUMBER:		07534324
+
+	BUSINESS ADDRESS:	
+		STREET 1:		237 W. 35TH STREET
+		STREET 2:		SUITE 1101
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		845-818-3988
+
+	MAIL ADDRESS:	
+		STREET 1:		237 W. 35TH STREET
+		STREET 2:		SUITE 1101
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GuruNet CORP
+		DATE OF NAME CHANGE:	20050715
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GURUNET CORP
+		DATE OF NAME CHANGE:	20040309
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROYCE & ASSOCIATES LLC
+		CENTRAL INDEX KEY:			0000906304
+		IRS NUMBER:				522343049
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1414 AVE OF AMERICA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2124861495
+
+	MAIL ADDRESS:	
+		STREET 1:		1414 AVE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROYCE & ASSOCIATES INC /NY
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	QUEST ADVISORY CORP/NY
+		DATE OF NAME CHANGE:	19970805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>answ1.txt
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                  SCHEDULE 13G
+                                 (Rule 13d-102)
+            Information statement pursuant to Rules 13d-1 and 13d-2
+
+                    Under the Securities Exchange Act of 1934
+                                 (Amendment No.1)
+
+                              Answers Corporation
+                                (Name of Issuer)
+
+                                  Common Stock
+                         (Title of Class of Securities)
+
+                                    03662X100
+                                 (CUSIP Number)
+
+Date of  Event Which Requires Filing of this Statement: December 31, 2006
+
+*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter the disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes).
+
+CUSIP No. 03662X100   13G
+  1   NAME OF REPORTING PERSON
+  S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+  Royce & Associates, LLC    52-2343049
+  2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                (a)  [ ]
+                                                (b)
+  3   SEC USE ONLY
+  4   CITIZENSHIP OR PLACE OF ORGANIZATION
+                       New York
+  NUMBER OF        5  SOLE VOTING POWER
+    SHARES           972,610
+ BENEFICIALLY      6      SHARED VOTING POWER
+   OWNED BY
+     EACH          7  SOLE DISPOSITIVE POWER
+  REPORTING          972,610
+   PERSON          8  SHARED DISPOSITIVE POWER
+    WITH
+  9  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON          972,610
+ 10  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9)
+     EXCLUDES CERTAIN SHARES             [ ]
+ 11  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+                     12.49%
+ 12  TYPE OF REPORTING PERSON
+                      IA
+
+
+CUSIP No. 03662X100   13G
+Item 1(a)    Name of Issuer:
+Answers Corporation
+
+Item 1(b)    Address of Issuer's Principal Executive Offices:
+V.P. Investor Relations
+237 West 35th Street
+New York, NY   10001
+Item 2(a)    Name of Persons Filing:
+             Royce & Associates, LLC
+Item 2(b)    Address of Principal Business Office, or, if None, Residence:
+     1414 Avenue of the Americas, New York, NY  10019
+Item 2(c)    Citizenship:
+             New York Corporation
+Item 2(d)    Title of Class of Securities:
+              Common Stock
+Item 2(e)    CUSIP Number:
+03662X100
+Item 3   If this statement is filed pursuant to rules 13d-1(b), or 13d-
+         2(b), check whether the person filing is a:
+     (a) [ ] Broker or Dealer registered under Section 15 of the Act
+     (b) [ ] Bank as defined in Section 3(a)(6) of the Act
+     (c) [ ] Insurance Company as defined in Section 3(a)(19) of the Act
+     (d) [ ] Investment Company registered under Section 8 of
+             the Investment Company Act
+     (e) [X] Investment Adviser registered under Section 203 of
+             the Investment Advisers Act of 1940
+     (f) [ ] Employee Benefit Plan, Pension Fund which is
+             subject to the provisions of the Employee
+             Retirement Income Security Act of 1974 or Endowment Fund
+     (g) [ ] Parent Holding Company, in accordance with Rule 13d-1 (b)(ii)(G)
+     (h) [ ] Group
+CUSIP No. 03662X100   13G
+ Item 4  Ownership
+     (a) Amount Beneficially Owned:
+                          972,610
+     (b) Percent of Class:
+                          12.49%
+     (c)     Number of shares as to which such person has:
+
+         (i) sole power to vote or to direct the vote
+                                              972,610
+
+         (ii)    shared power to vote or to direct the vote
+                                         __________
+        (iii)    sole power to dispose or to direct the disposition
+                 of                              972,610
+         (iv)    shared power to dispose or to direct the
+                 disposition of                  __________
+Item 5   Ownership of Five Percent or Less of a Class. [       ]
+Item 6   Ownership of More than Five Percent on Behalf of Another Person .
+             NOT APPLICABLE
+Item 7   Identification and Classification of the Subsidiary Which Acquired
+         The Security Being Reported on by the Parent Holding
+         Company.
+             NOT APPLICABLE
+Item 8   Identification and Classification of Members of the Group.
+             NOT APPLICABLE
+Item 9   Notice of Dissolution of Group.
+             NOT APPLICABLE
+
+CUSIP No. 03662X100   13G
+Item 10  Certification.
+
+ By signing below I certify that, to the best of my knowledge and belief,
+ the securities referred to above were acquired  and are held in the ordinary
+ course of business and were not acquired and are not held for the purpose of
+ or with the effect of changing or influencing the control of the issuer of
+ the securities and were not acquired and are not held in connection with
+ or as a participant in any transaction having that purpose or effect.
+
+                                   Signature
+
+ After reasonable inquiry and to the best of my knowledge and belief,
+ I certify that the information set forth in this statement with respect
+ to it is true, complete and correct.
+
+Date:    January 17, 2007
+
+
+
+
+
+
+By: W. Whitney George, Vice President
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

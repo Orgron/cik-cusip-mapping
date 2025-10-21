@@ -1,0 +1,541 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ djRsE6JFbHAJU5F2I/K+g4EOe8toq7aRs9oL+iaJSGhpwsSibeqzg3PuklZszKYv
+ JOhraYfoMbT12gooj+wXTw==
+
+<IMS-DOCUMENT>0000950130-95-000234.txt : 19950515
+<IMS-HEADER>0000950130-95-000234.hdr.sgml : 19950515
+ACCESSION NUMBER:		0000950130-95-000234
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		19950210
+SROS:			NONE
+GROUP MEMBERS:		GOLDMAN SACHS GROUP LP
+GROUP MEMBERS:		GOLDMAN, SACHS & CO.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NOVELL INC
+		CENTRAL INDEX KEY:			0000758004
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				870393339
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-37354
+		FILM NUMBER:		95508245
+
+	BUSINESS ADDRESS:	
+		STREET 1:		122 EAST 1700 SOUTH
+		CITY:			PROVO
+		STATE:			UT
+		ZIP:			84606
+		BUSINESS PHONE:		8014297000
+
+	MAIL ADDRESS:	
+		STREET 1:		122 E. 1700 S.
+		CITY:			PROVO
+		STATE:			UT
+		ZIP:			84606
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP LP
+		CENTRAL INDEX KEY:			0000904571
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133501777
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 BROAD ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		2129021000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+<PAGE>
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+
+                                 SCHEDULE 13G
+            Information Statement Pursuant to Rules 13d-1 and 13d-2
+
+
+
+                                 Novell, Inc.
+                     ------------------------------------
+                               (Name of Issuer)
+
+
+
+                                 Common Stock
+                     ------------------------------------       
+                        (Title of Class of Securities)
+
+
+
+
+                                   670006105
+                               ----------------
+                                (CUSIP Number)
+
+
+
+
+Check the following box if a fee is being paid with this statement   X  .  (A 
+                                                                   -----
+fee is not required only if the filing person:  (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in item 1:  and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+
+
+
+
+
+                        (Continued on following pages)
+
+
+
+                               Page 1 of 9 Pages
+<PAGE>
+ 
+- ------------------
+CUSIP NO. 
+670006105                
+- -------------
+- ------------------------------------------------------------------------------
+ 1.   NAME OF REPORTING PERSON
+      S.S. or I.R.S. Identification No. of Above Person
+                          
+      Goldman, Sachs & Co.
+- ------------------------------------------------------------------------------
+ 2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                     (a) [_]
+                                                     (b) [_]
+- ------------------------------------------------------------------------------
+ 3.   SEC USE ONLY
+ 
+
+- ------------------------------------------------------------------------------
+ 4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+    
+                   New York
+- ------------------------------------------------------------------------------
+NUMBER OF          5.    SOLE VOTING POWER
+SHARES                         
+BENEFICIALLY                 0
+OWNED BY           ------------------------------------
+EACH               6.    SHARED VOTING POWER
+REPORTING           
+PERSON                       19,851,448
+WITH               ---------------------------------------------
+                   7.    SOLE DISPOSITIVE POWER
+                          
+                             0
+                   ------------------------------------
+                   8.    SHARED DISPOSITIVE POWER
+                  
+                             19,851,448
+- ------------------------------------------------------------------------------
+ 9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                             
+                                                  19,851,448
+- ------------------------------------------------------------------------------
+10.   CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES
+                  
+
+- ------------------------------------------------------------------------------
+11.   PERCENT OF CLASS REPRESENTING BY AMOUNT IN ROW (11)
+    
+                                    5.5%
+- ------------------------------------------------------------------------------
+12.   TYPE OF REPORTING PERSON
+
+           BD-PN-IA
+- ------------------------------------------------------------------------------
+
+
+
+                               Page 2 of 9 Pages
+
+
+<PAGE>
+ 
+
+- -----------------------                       
+CUSIP NO. 
+670006105                  
+- ----------------
+- ------------------------------------------------------------------------------
+ 1.   NAME OF REPORTING PERSON
+      S.S. or I.R.S. Identification No. of Above Person
+                          
+      The Goldman Sachs Group, L.P. 
+- ------------------------------------------------------------------------------
+ 2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                     (a) [_]
+                                                     (b) [_]
+- ------------------------------------------------------------------------------
+ 3    SEC USE ONLY
+
+
+- ------------------------------------------------------------------------------
+ 4    CITIZENSHIP OR PLACE OF ORGANIZATION
+    
+          Delaware
+- ------------------------------------------------------------------------------
+NUMBER OF           5    SOLE VOTING POWER
+SHARES                          
+BENEFICIALLY                 0
+OWNED BY            -------------------------------------         
+EACH                6    SHARED VOTING POWER
+REPORTING           
+PERSON                        19,851,448
+WITH                ----------------------------------------------
+                    7    SOLE DISPOSITIVE POWER
+                          
+                              0
+                    -------------------------------------
+                    8    SHARED DISPOSITIVE POWER
+                     
+                              19,851,448
+                    ------------------------------------------------
+ 9    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     
+                                        19,851,448
+- ------------------------------------------------------------------------------
+10    CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES
+                  
+
+- ------------------------------------------------------------------------------
+11    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+    
+                                    5.5%
+- ------------------------------------------------------------------------------
+12    TYPE OF REPORTING PERSON
+
+          HC-PN
+- ------------------------------------------------------------------------------
+
+           
+
+                               Page 3 of 9 pages
+
+
+<PAGE>
+ 
+Item 1(a).    Name of Issuer:
+              Novell, Inc.
+
+Item 1(b).    Address of Issuer's Principal Executive Offices:
+              122 East 1700 South, Provo, Utah  84606
+
+Item 2(a).    Name of Person Filing:    
+              The Goldman Sachs Group, L.P. and Goldman, Sachs & Co.
+
+Item 2(b).    Address of Principal Business Office, or, if None, Residence:
+              85 Broad Street
+              New York, NY  10004
+
+Item 2(c).    Citizenship:    
+              The Goldman Sachs Group, L.P. - Delaware
+              Goldman, Sachs & Co. - New York
+
+Item 2(d).    Title and Class of Securities:
+              Common Stock
+
+Item 2(e).    CUSIP Number:
+              670006105
+
+Item 3.       If this statement is filed pursuant to Rules 13d-1(b), or 
+              13d-2(b). check whether the person filing is a:
+
+        (a).X Broker or dealer registered under Section 15 of the Act,
+                    Goldman, Sachs & Co. 
+
+        (b).  Bank as defined in Section 3(a)(6) of the Act,
+
+        (c).  Insurance Company as defined in Section 3(a)(19) of the Act,
+
+        (d).  Investment Company registered under Section 8 of the Investment
+              Company Act,
+
+        (e).X Investment Adviser registered under Section 203 of the Investment 
+              Advisers Act of 1940,
+                     Goldman, Sachs & Co.
+
+        (f).  Employee Benefit Plan, Pension Fund which is subject to the
+              provisions of the Employee Retirement Income Security Act of 1974
+              or Endowment Fund; see 13d-1(b)(1)(ii)(F),
+
+
+                               Page 4 of 9 Pages
+<PAGE>
+ 
+       (g).X Parent Holding Company, in accordance with Rule 13d-1(b)(ii)(G); 
+             see Item 7,
+                        The Goldman Sachs Group, L.P.
+
+       (h).  Group, in accordance with Rule 13d-1(b)(ii)(H).
+
+
+Item 4.      Ownership.
+
+       (a).  Amount beneficially owned:
+             See the response(s) to Item 9 on the attached cover page(s).
+
+       (b).  Percent of class: 
+             See the response(s) to Item 11 on the attached cover page(s). 
+
+       (c).  Number of shares as to which such person has:
+ 
+             (i)    Sole power to vote or to direct the vote:
+                           See the response(s) to Item 5 on the attached cover 
+                           page(s).
+
+             (ii)   Shared power to vote or direct the vote:
+                           See the response(s) to Item 6 on the attached cover 
+                           page(s).
+
+             (iii)  Sole power to dispose or to direct the disposition of:
+                           See the response(s) to Item 7 on the attached cover 
+                           page(s).
+
+             (iv)   Shared power to dispose or to direct the disposition of:
+                           See the response(s) to Item 8 on the attached cover 
+                           page(s).
+
+Item 5.      Ownership of Five Percent or Less of a Class.
+                    Not Applicable
+
+Item 6.      Ownership of More than Five Percent on Behalf of Another Person.
+                    Not Applicable
+
+Item 7.      Identification and Classification of the Subsidiary Which Acquired 
+             the Security Being Reported on by the Parent Holding Company.
+                    See Exhibit(2)
+
+Item 8.      Identification and Classification of Members of the Group.
+                    Not Applicable
+
+Item 9.      Notice of Dissolution of Group.
+                    Not Applicable
+
+
+                               Page 5 of 9 Pages
+<PAGE>
+ 
+Item 10.    Certification.
+
+            By signing below I certify that, to the best of my knowledge and 
+            belief, the securities referred to above were acquired in the
+            ordinary course of business and were not acquired for the purpose
+            of and do not have the effect of changing or influencing the
+            control of the issuer of such securities and were not acquired in
+            connection with or as a participant in any transaction having such
+            purpose or effect.
+
+
+
+                                   SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I 
+         certify that the information set forth in this statement is true,
+         complete and correct.
+
+
+
+Date:  February 10, 1995
+                
+
+
+
+                                                   THE GOLDMAN SACHS GROUP, L.P.
+
+
+                                                   By: /s/ William J. Buckley
+                                                      --------------------------
+                                                   Name: William J. Buckley
+                                                   Title: General Partner
+
+
+
+
+                                                   GOLDMAN, SACHS & CO.
+
+
+                                                   By: /s/ William J. Buckley
+                                                      --------------------------
+                                                   Name: William J. Buckley
+                                                   Title: General Partner
+                                                   
+
+
+
+
+
+                               Page 6 of 9 Pages
+<PAGE>
+ 
+                               INDEX TO EXHIBITS
+
+
+
+
+
+Exhibit No.         Exhibit 
+- -----------         -------
+
+   99.1             Joint Filing Agreement, dated February 10, 1995, between 
+                    The Goldman Sachs Group, L.P., and Goldman, Sachs & Co.
+
+   99.2             Item 7 Information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 7 of 9 Pages
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 99.1
+
+
+
+
+                            JOINT FILING AGREEMENT
+
+
+
+     In accordance with Rule 13d-1(f) promulgated under the Securities Exchange 
+Act of 1934, the undersigned agree to the joint filing of a Statement on 
+Schedule 13G (including any and all amendments thereto) with respect to the 
+shares of Novell, Inc., and further agree to the filing of this agreement as an 
+Exhibit thereto.  In addition, each party to this Agreement expressly authorizes
+each other party to this Agreement to file on its behalf any and all amendments 
+to such Statement on Schedule 13G.
+
+
+
+Date:  February 10, 1995
+               
+
+
+THE GOLDMAN SACHS GROUP, L.P.                  GOLDMAN, SACHS & CO.
+
+
+
+By: /s/ William J. Buckley                     By: /s/ William J. Buckley
+   -----------------------------------------      --------------------------
+Name: William J. Buckley                       Name: William J. Buckley
+Title: General Partner                         Title: General Partner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 8 of 9 Pages
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<DESCRIPTION>ITEM 7 INFORMATION
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 99.2
+
+
+
+                              ITEM 7 INFORMATION
+
+
+
+     Goldman, Sachs & Co. is a broker or dealer registered under Section 15 of 
+the Act and an investment adviser registered under Section 203 of the Investment
+Advisers Act of 1940.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 9 of 9 Pages
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

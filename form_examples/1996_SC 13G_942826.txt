@@ -1,0 +1,752 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DubsERnQtjU027iQ7XOn08LdtIIlPZ1u5eBXaofaombHckq45SXKrkwRGDQSiL/g
+ L81tHCkGHaURctmDG5LBNg==
+
+<SEC-DOCUMENT>0000913355-96-000009.txt : 19960216
+<SEC-HEADER>0000913355-96-000009.hdr.sgml : 19960216
+ACCESSION NUMBER:		0000913355-96-000009
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		19960214
+SROS:			NYSE
+GROUP MEMBERS:		ANDREW M. BOAS
+GROUP MEMBERS:		CARL MARKS MANAGEMENT CO L P /NY/
+GROUP MEMBERS:		MARTIN J. WHITMAN
+GROUP MEMBERS:		ROBERT C. RUOCCO
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PIPER JAFFRAY COMPANIES INC
+		CENTRAL INDEX KEY:			0000078778
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				411233380
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-06073
+		FILM NUMBER:		96519916
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 S NINTH ST
+		STREET 2:		PIPER JAFFRAY TOWER
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+		BUSINESS PHONE:		6123426000
+
+	MAIL ADDRESS:	
+		STREET 1:		222 SOUTH 9TH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIPER JAFFRAY INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CARL MARKS MANAGEMENT CO L P /NY/
+		CENTRAL INDEX KEY:			0000942826
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133434745
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 E 57TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2129098400
+
+	MAIL ADDRESS:	
+		STREET 1:		135 EAST 57TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                SCHEDULE 13G
+
+
+                   UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+                         (AMENDMENT NO.             )*
+
+                         PIPER JAFFRAY COMPANIES, INC.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                     Common Stock, Par Value $1.00 Per Share
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                724-081-104
+                       ---------------------------------
+                               (CUSIP Number)
+
+ Check  the following box if a fee is being paid with this statement.  (A fee
+ is not required only if the filing person:  (1) has a previous statement on
+ file reporting beneficial ownership of more than five percent of the class of
+ securities described in Item 1; and (2) has filed no amendment subsequent
+ thereto reporting beneficial ownership of five percent or less of such class.)
+ (See Rule 13d-7.)
+
+ *The remainder of this cover page shall be filled out for a reporting person's
+ initial filing on this form with respect to the subject class of securities,
+ and for any  subsequent amendment containing information which would alter the
+ disclosures provided in a prior cover page.
+
+ The information required in the remainder of this cover page shall not be
+ deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+ Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+ the Act but shall be subject to all other provisions  of the Act (however, see
+ the Notes).
+
+
+
+
+ SEC 1745 (2/92)
+<PAGE>
+
+
+
+
+
+
+CUSIP NO.   724-081-104                   13G                 PAGE 2 of 9 Pages
+            -----------                                            -    -
+
+- ------------------------------------------------------------------------------
+[1]      NAME OF REPORTING PERSON
+         S.S. or I.R.S. IDENTIFICATION NOS. OF ABOVE PERSON
+
+               Carl Marks Management Company, L.P.
+- ------------------------------------------------------------------------------
+[2]      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                      (a)  [ ]
+                                                                      (b)  [ ]
+- ------------------------------------------------------------------------------
+[3]      SEC ONLY
+- ------------------------------------------------------------------------------
+[4]      CITIZENSHIP OR PLACE OF ORGANIZATION
+               Delaware
+- ------------------------------------------------------------------------------
+                                    [5]  SOLE VOTING POWER
+                                              902,600 shares**
+         NUMBER OF                  ------------------------------------------
+          SHARES                    [6]  SHARED VOTING POWER
+       BENEFICIALLY                      
+         OWNED BY                   ------------------------------------------
+           EACH                     [7]  SOLE DISPOSITIVE POWER
+         REPORTING                            902,600 shares**
+          PERSON                    ------------------------------------------
+           WITH                     [8]  SHARED DISPOSITIVE POWER
+                                           --
+- ------------------------------------------------------------------------------
+[9]      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING 
+PERSON
+             902,600 shares**
+- ------------------------------------------------------------------------------
+[10]     CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN 
+SHARES*
+
+- ------------------------------------------------------------------------------
+[11]     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+             5.2%**
+- ------------------------------------------------------------------------------
+[12]     TYPE OF REPORTING PERSON*
+              IA, PN
+- ------------------------------------------------------------------------------
+
+SEC 1745 (2/92)      *SEE INSTRUCTION BEFORE FILLING OUT!
+**Includes shares reported herein as beneficially owned by other reporting
+  persons.
+<PAGE>
+
+
+
+
+
+
+CUSIP NO.   724-081-104                   13G                 PAGE 3 of 9 Pages
+            -----------                                            -    -
+
+- ------------------------------------------------------------------------------
+[1]      NAME OF REPORTING PERSON
+         S.S. or I.R.S. IDENTIFICATION NOS. OF ABOVE PERSON
+
+               Andrew M. Boas
+- ------------------------------------------------------------------------------
+[2]      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                      (a)  [ ]
+                                                                      (b)  [ ]
+- ------------------------------------------------------------------------------
+[3]      SEC ONLY
+- ------------------------------------------------------------------------------
+[4]      CITIZENSHIP OR PLACE OF ORGANIZATION
+               U.S.A.
+- ------------------------------------------------------------------------------
+                                    [5]  SOLE VOTING POWER
+                                           
+         NUMBER OF                  ------------------------------------------
+          SHARES                    [6]  SHARED VOTING POWER
+       BENEFICIALLY                        1,077,500 shares**
+         OWNED BY                   ------------------------------------------
+           EACH                     [7]  SOLE DISPOSITIVE POWER
+         REPORTING                         
+          PERSON                    ------------------------------------------
+           WITH                     [8]  SHARED DISPOSITIVE POWER
+                                           1,077,500 shares**
+- ------------------------------------------------------------------------------
+[9]      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING 
+PERSON
+            1,077,500 shares**
+- ------------------------------------------------------------------------------
+[10]     CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN 
+SHARES*
+
+- ------------------------------------------------------------------------------
+[11]     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+             6.1%**
+- ------------------------------------------------------------------------------
+[12]     TYPE OF REPORTING PERSON*
+              HC, IN
+- ------------------------------------------------------------------------------
+
+SEC 1745 (2/92)      *SEE INSTRUCTION BEFORE FILLING OUT!
+**Includes shares reported herein as beneficially owned by other reporting
+  persons.
+<PAGE>
+
+
+
+
+
+
+CUSIP NO.   724-081-104                   13G                 PAGE 4 of 9 Pages
+            -----------                                            -    -
+
+- ------------------------------------------------------------------------------
+[1]      NAME OF REPORTING PERSON
+         S.S. or I.R.S. IDENTIFICATION NOS. OF ABOVE PERSON
+
+               Robert C. Ruocco
+- ------------------------------------------------------------------------------
+[2]      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                      (a)  [ ]
+                                                                      (b)  [ ]
+- ------------------------------------------------------------------------------
+[3]      SEC ONLY
+- ------------------------------------------------------------------------------
+[4]      CITIZENSHIP OR PLACE OF ORGANIZATION
+               U.S.A.
+- ------------------------------------------------------------------------------
+                                    [5]  SOLE VOTING POWER
+                                            
+         NUMBER OF                  ------------------------------------------
+          SHARES                    [6]  SHARED VOTING POWER
+       BENEFICIALLY                         1,077,500 shares**
+         OWNED BY                   ------------------------------------------
+           EACH                     [7]  SOLE DISPOSITIVE POWER
+         REPORTING                          
+          PERSON                    ------------------------------------------
+           WITH                     [8]  SHARED DISPOSITIVE POWER
+                                            1,077,500 shares**
+- ------------------------------------------------------------------------------
+[9]      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING 
+PERSON
+             1,077,500 shares**
+- ------------------------------------------------------------------------------
+[10]     CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN 
+SHARES*
+
+- ------------------------------------------------------------------------------
+[11]     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+             6.1%**
+- ------------------------------------------------------------------------------
+[12]     TYPE OF REPORTING PERSON*
+              HC, IN
+- ------------------------------------------------------------------------------
+
+SEC 1745 (2/92)      *SEE INSTRUCTION BEFORE FILLING OUT!
+**Includes shares reported herein as beneficially owned by other reporting
+  persons.
+<PAGE>
+
+
+
+
+
+
+CUSIP NO.   724-081-104                   13G                 PAGE 5 of 9 Pages
+            -----------                                            -    -
+
+- ------------------------------------------------------------------------------
+[1]      NAME OF REPORTING PERSON
+         S.S. or I.R.S. IDENTIFICATION NOS. OF ABOVE PERSON
+
+               Martin J. Whitman
+- ------------------------------------------------------------------------------
+[2]      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                      (a)  [ ]
+                                                                      (b)  [ ]
+- ------------------------------------------------------------------------------
+[3]      SEC ONLY
+- ------------------------------------------------------------------------------
+[4]      CITIZENSHIP OR PLACE OF ORGANIZATION
+               U.S.A.
+- ------------------------------------------------------------------------------
+                                    [5]  SOLE VOTING POWER
+                                            688,600 shares
+         NUMBER OF                  ------------------------------------------
+          SHARES                    [6]  SHARED VOTING POWER
+       BENEFICIALLY                         1,077,500 shares**
+         OWNED BY                   ------------------------------------------
+           EACH                     [7]  SOLE DISPOSITIVE POWER
+         REPORTING                          688,600 shares
+          PERSON                    ------------------------------------------
+           WITH                     [8]  SHARED DISPOSITIVE POWER
+                                            1,077,500 shares**
+- ------------------------------------------------------------------------------
+[9]      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING 
+PERSON
+             1,766,100 shares**
+- ------------------------------------------------------------------------------
+[10]     CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN 
+SHARES*
+
+- ------------------------------------------------------------------------------
+[11]     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+             10.1%**
+- ------------------------------------------------------------------------------
+[12]     TYPE OF REPORTING PERSON*
+              HC, IN
+- ------------------------------------------------------------------------------
+
+SEC 1745 (2/92)      *SEE INSTRUCTION BEFORE FILLING OUT!
+**Includes shares reported herein as beneficially owned by other reporting
+  persons.
+<PAGE>
+
+
+
+CUSIP NO.   724-081-104                   13G                 PAGE 6 of 9 Pages
+            -----------                                            -    -
+
+
+
+ ITEM 1(a)       NAME OF ISSUER:
+                 --------------
+
+                 Piper Jaffray Companies, Inc. (the "Company")
+
+ ITEM 1(b)       ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES:
+                 -----------------------------------------------
+
+                 222 South Ninth St., Minneapolis, Minnesota 55402-3804
+
+ ITEM 2(a)       NAME OF PERSON FILING:
+                 ---------------------
+
+                 This Schedule is being jointly filed by Carl Marks Management
+                 Company, L.P., a registered investment adviser ("CMMC"), and
+                 the three individual general partners of CMMC, Messrs. Andrew
+                 M. Boas ("Boas"), Robert C. Ruocco ("Ruocco") and Martin J.
+                 Whitman ("Whitman").  Attached hereto as Exhibit 99.1 is a
+                 copy of the joint Schedule 13G filing agreement among the
+                 reporting persons.  Whitman previously filed a Schedule 13D,
+                 dated September 2, 1994, with respect to certain shares of
+                 Common Stock reported herein; such ownership will hereafter
+                 be reported on Schedule 13G in lieu of 13D.
+
+ ITEM 2(b)       ADDRESS OF PRINCIPAL BUSINESS OFFICE:
+                 ------------------------------------
+
+                 The principal business office of each of the reporting
+                 persons is as follows:
+
+                 CMMC, BOAS AND RUOCCO:
+                 ---------------------
+                 135 E. 57th Street
+                 New York, New York 10022
+
+                 WHITMAN
+                 -------
+                 767 Third Avenue, Fifth Floor
+                 New York, New York  10017
+
+ITEM 2(c)        CITIZENSHIP:
+                 -----------
+
+                 The citizenship or place of organization of each of the
+                 reporting persons is as follows:
+
+                     CMMC
+                     ----
+                     A Delaware limited partnership.
+
+                     MESSRS. BOAS, RUOCCO AND WHITMAN
+                     --------------------------------
+                     U.S. Citizens.
+
+ ITEM 2(D)       TITLE OF CLASS OF SECURITIES:
+                 ----------------------------
+
+                 Common Stock, par value $1.00 per share.
+
+
+<PAGE>
+
+
+
+
+                                                              PAGE 7 of 9 Pages
+                                                                   -    -
+
+
+ ITEM 2(e)       CUSIP NUMBER:
+
+                 724-081-104
+
+ ITEM 3          IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B), OR
+                 13d-2(b), CHECK WHETHER THE PERSON FILING IS A:
+
+
+                 (a) [ ] Broker or Dealer registered under Section 15 of the
+                         Act
+                 (b) [ ] Bank as defined in section 3(a)(6) of the Act
+                 (c) [ ] Insurance Company as defined in section 3(a)(19)
+                         of the Act
+                 (d) [ ] Investment Company registered under section 8 of the
+                         Investment Company Act
+                 (e) [x] Investment Adviser registered under section 203 of
+                         the Investment Advisers Act of 1940 (CMMC)
+                 (f) [ ] Employee Benefit Plan, Pension Fund which is subject
+                         to the provisions of the Employee Retirement Income
+                         Security Act of 1974 or Endowment Fund; see  section
+                         240.13d-1(b)(1)(ii)(F)
+                 (g) [x] Parent Holding Company, in accordance with section 
+                         240.13d-1(b)(ii)(G) (Note: See Item 7) (Boas, Ruocco
+                         and Whitman)
+                 (h) [ ] Group, in accordance with section 240.13d-
+                         1(b)(1)(ii)(H)
+
+ ITEM 4          OWNERSHIP:
+ ------          ---------
+
+                 CMMC
+                 ----
+                 (a)  Amount Beneficially Owned:               902,600 shares
+                 (b)  Percent of Class:                                  5.2%
+                 (c)  Number of shares as to which such
+                      person has:
+                      (i)    sole power to vote or to direct
+                             the vote:                         902,600 shares
+                      (ii)   shared power to vote or to 
+                             direct the vote:                            None
+                      (iii)  sole power to dispose or to
+                             direct the disposition of:        902,600 shares
+                      (iv)   shared power to dispose or to
+                             direct disposition of:                      None
+                 BOAS
+                 ----
+                 (a)  Amount Beneficially Owned:             1,077,500 shares
+                 (b)  Percent of Class:                                  6.1%
+                 (c)  Number of shares as to which such
+                      person has:
+                      (i)    sole power to vote or to
+                             direct the vote:                            None
+                      (ii)   shared power to vote or to
+                             direct the vote:                1,077,500 shares
+                      (iii)  sole power to dispose or to
+                             direct the disposition of:                  None
+                      (iv)   shared power to dispose or
+                             to direct disposition of:       1,077,500 shares
+<PAGE>
+
+
+
+
+                                                              PAGE 8 of 9 Pages
+                                                                   -    -
+
+ ITEM 4          OWNERSHIP (CONTINUED):
+ ------          ---------------------
+                 RUOCCO
+                 ------
+                 (a)  Amount Beneficially Owned:             1,077,500 shares
+                 (b)  Percent of Class:                                  6.1%
+                 (c)  Number of shares as to which such
+                      person has:
+                      (i)    sole power to vote or to
+                             direct the vote:                            None
+                      (ii)   shared power to vote or to
+                             direct the vote:                1,077,500 shares
+                      (iii)  sole power to dispose or to
+                             direct the disposition of:                  None
+                      (iv)   shared power to dispose or
+                             to direct disposition of:       1,077,500 shares
+
+                 WHITMAN
+                 -------
+                 (a)  Amount Beneficially Owned:             1,766,100 shares
+                 (b)  Percent of Class:                                 10.1%
+                 (c)  Number of shares as to which such
+                      person has:
+                      (i)    sole power to vote or to direct
+                             the vote:                         688,600 shares
+                      (ii)   shared power to vote or to
+                             direct the vote:                1,077,500 shares
+                      (iii)  sole power to dispose or to
+                             direct the disposition of:        688,600 shares
+                      (iv)   shared power to dispose or to
+                             direct disposition of:          1,077,500 shares
+
+ ITEM 5          OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS.
+ ------          --------------------------------------------
+
+                 Not applicable.
+
+ ITEM 6          OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER
+ ------          --------------------------------------------------------
+                 PERSON
+                 ------
+
+                 Various funds, partnerships and accounts directly or
+                 indirectly managed by one or more of the reporting persons
+                 have the right to receive the receipt of dividends from, or
+                 the proceeds from the sale of, the shares of Common Stock
+                 reported herein.  No such party beneficially owns more than
+                 5% of the class.
+
+ ITEM 7          IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH
+ ------          ---------------------------------------------------------
+                 ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING
+                 -------------------------------------------------------------
+                 COMPANY.
+                 -------
+
+               Messrs. Boas, Ruocco and Whitman are filing this Schedule as
+               individuals each eligible to be treated as a "parent holding
+               company" under Rule 13d-1(b)(ii)(G).  See Exhibit 99.2 to this
+               Schedule for a list of their respective subsidiaries.
+
+<PAGE>
+
+
+
+
+                                                              PAGE 9 of 9 Pages
+                                                                   -    -
+
+
+
+
+
+ ITEM 8          IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.
+ ------          ----------------------------------------------------------
+
+                 Not applicable.
+
+ ITEM 9         NOTICE OF DISSOLUTION OF GROUP.
+
+                Not applicable.
+
+ ITEM 10        CERTIFICATION.
+
+       By signing below I certify that, to the best of my knowledge and
+belief, the securities referred to above were acquired in the ordinary
+course of business and were not acquired for the purpose of and do not have
+the effect of changing or influencing the control of the issuer of such
+securities and were not acquired in connection with or as a participant in
+any transaction having such purposes or effect.
+
+              SIGNATURE
+
+       After reasonable inquiry and to the best of my knowledge and belief,
+ I certify that the information set forth in this statement is true, complete
+ and correct.
+
+                            Dated:  February 14, 1996
+
+                            CARL MARKS MANAGEMENT COMPANY, L.P.
+
+
+
+                               /s/ ANDREW M. BOAS
+                            By----------------------------------------------
+                              Title:   General Partner
+
+                               /s/ ANDREW M. BOAS
+                              ----------------------------------------------
+                              ANDREW M. BOAS
+
+                              /s/ ROBERT C. RUOCCO
+                              ----------------------------------------------
+                              ROBERT C. RUOCCO
+
+                              /s/ MARTIN J. WHITMAN
+                              ----------------------------------------------
+                              MARTIN J. WHITMAN
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>JOINT SCHEDULE 13G FILING AGRMT
+<TEXT>
+
+
+                                   EXHIBIT 99.1
+                                   ------------
+
+                      JOINT SCHEDULE 13G FILING AGREEMENT
+                      -----------------------------------
+
+
+
+
+          This JOINT SCHEDULE 13G FILING AGREEMENT, made as of the 14th day of
+ FEBRUARY, 1996, by and among Carl Marks Management Company, L.P. ("CMMC"), a
+ Delaware limited partnership, and Andrew M. Boas ("Boas"), Robert C. Ruocco
+ ("Ruocco") and Martin J. Whitman ("Whitman"), individually.
+
+                              W I T N E S S E T H:
+
+          That, in consideration of the promises herein contained, the parties
+ hereto agree as follows:
+
+          1.   JOINT FILING.  CMMC and Boas, Ruocco and Whitman agree to file
+ from time to time joint Schedules 13G with respect to the beneficial ownership
+ of securities by CMMC (or by such other parties as may be deemed beneficially
+ owned by any of such parties), and to file jointly any further amendments or
+ schedules that may be required with respect to such ownership.
+
+          2.   REPRESENTATIONS AND WARRANTIES.  Each of the parties hereto
+ represents and warrants to the others that it is eligible to file a Schedule
+ 13G and each warrants to the others that all information regarding such
+ persons provided for use in preparing a Schedule 13G pursuant hereto and any
+ amendments thereto shall be accurate and complete.
+
+          3.   RESPONSIBILITY FOR FILING.  Each party hereto retains
+ responsibility, as required by Securities and Exchange Commission's
+ regulations, for the timely filing of any and all Schedules 13G and any
+ amendments thereto and for the completeness and accuracy of the information
+ concerning such party.  Each party hereto is not responsible, however, for the
+ completeness and accuracy of the information concerning the other parties
+ hereto, unless such person knows or has reason to believe that such
+ information is inaccurate.
+
+<PAGE>
+
+
+
+
+
+          4.   DISCLAIMER OF GROUP.  Each party disclaims the existence of a
+ "group" with any other party, and as between any and all entities which may
+ beneficially own directly the securities which may be reported in one or more
+ Schedules 13G pursuant hereto, except as otherwise expressly stated in such
+ Schedules.
+
+
+          IN WITNESS WHEREOF, the parties hereto have set their hands as of
+the 14th day of February, 1996.
+
+
+                            CARL MARKS MANAGEMENT COMPANY, L.P.
+
+
+
+                               /s/ ANDREW M. BOAS
+                            By----------------------------------------------
+                              Title:   General Partner
+
+                              /s/ ANDREW M. BOAS
+                              ----------------------------------------------
+                              ANDREW M. BOAS
+
+                              /s/ ROBERT C. RUOCCO
+                              ----------------------------------------------
+                              ROBERT C. RUOCCO
+
+                              /s/ MARTIN J. WHITMAN
+                              ----------------------------------------------
+                              MARTIN J. WHITMAN
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF PARENT HOLDING
+<TEXT>
+
+
+                                   EXHIBIT 99.2
+                                   ------------
+
+                    SUBSIDIARIES OF PARENT HOLDING COMPANIES
+                    ----------------------------------------
+
+
+          The following are the respective "subsidiaries" of the individual
+ reporting persons treated as "parent holding companies":
+
+          BOAS, RUOCCO AND WHITMAN
+          ------------------------
+
+          Carl Marks Management Company, L.P., a registered investment adviser
+ (902,600 shares).
+
+          Carl Marks Offshore Management, Inc., an unregistered investment
+ adviser holding less than 1% (0.9%) of the outstanding shares in accordance
+ with Rule 13d-1(b)(ii)(G).
+
+          WHITMAN
+          -------
+
+          EQSF Advisers, Inc., a registered investment adviser, 362,100 shares
+ (owned by Third Avenue Value Fund, Inc., a registered investment company).
+
+          M.J. Whitman Advisers, Inc., a registered investment adviser,
+ 326,500 shares.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

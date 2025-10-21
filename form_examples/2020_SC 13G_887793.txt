@@ -1,0 +1,1305 @@
+<SEC-DOCUMENT>0000930413-20-000384.txt : 20200214
+<SEC-HEADER>0000930413-20-000384.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214112737
+ACCESSION NUMBER:		0000930413-20-000384
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PENN NATIONAL GAMING INC
+		CENTRAL INDEX KEY:			0000921738
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		IRS NUMBER:				232234473
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45655
+		FILM NUMBER:		20615916
+
+	BUSINESS ADDRESS:	
+		STREET 1:		825 BERKSHIRE BLVD STE 200
+		STREET 2:		WYOMISSING PROFESSIONAL CENTER
+		CITY:			WYOMISSING
+		STATE:			PA
+		ZIP:			19610
+		BUSINESS PHONE:		6103732400
+
+	MAIL ADDRESS:	
+		STREET 1:		825 BERKSHIRE BLVD
+		STREET 2:		SUITE 200
+		CITY:			WYOMISSING
+		STATE:			PA
+		ZIP:			19610
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIAA CREF INVESTMENT MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0000887793
+		IRS NUMBER:				133586142
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		730 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017-3206
+		BUSINESS PHONE:		2129166042
+
+	MAIL ADDRESS:	
+		STREET 1:		730 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017-3206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIAA CREF INVESTMENT MANAGEMENT INC
+		DATE OF NAME CHANGE:	19980223
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>c95154_sc13g.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0pt; text-align: center; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>WASHINGTON, D.C. 20549</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SCHEDULE 13G</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNDER THE SECURITIES EXCHANGE ACT OF
+1934</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(AMENDMENT NO.)*</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><U>Penn National Gaming, Inc.</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Name of Issuer)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><U>Common</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Title of Class of Securities)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><U>707569109 </U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(CUSIP Number)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><U>December 31, 2019</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Date of Event Which Requires Filing of
+this Statement)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">Check the appropriate box to designate the rule pursuant to
+which this Schedule is filed:</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 180pt"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 40%">&nbsp;</TD>
+    <TD STYLE="width: 60%"><FONT STYLE="font-family: Wingdings">x</FONT>&nbsp;Rule 13d-1(b)</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT>&nbsp;Rule 13d-1(c)</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT>&nbsp;Rule 13d-1(d)</TD>
+    </TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 180pt"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT"><DIV STYLE="font-size: 1pt; border-top: Black 1px solid; width: 20%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">*The remainder of this cover page shall be filled out for a
+reporting person&rsquo;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided in a prior cover page.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">The information required in the remainder of this cover page
+shall not be deemed to be &ldquo;filed&rdquo; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&ldquo;Act&rdquo;)
+or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes).</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0pt; text-align: center; margin-bottom: 0pt">(Continued on following page(s))</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 2 of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">1.</FONT></TD>
+    <TD STYLE="width: 55%"><FONT STYLE="font-size: 10pt">NAME OF REPORTING PERSONS</FONT></TD>
+    <TD STYLE="width: 38%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Nuveen Asset Management, LLC</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27-4357327</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">2.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">(a) <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">(b) <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">3.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SEC USE ONLY</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">4.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Delaware</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">NUMBER OF SHARES BENEFICIALLY OWNED</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">BY EACH REPORTING PERSON WITH:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%">&nbsp;</TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">5.</FONT></TD>
+    <TD STYLE="width: 46%"><FONT STYLE="font-size: 10pt">SOLE VOTING POWER</FONT></TD>
+    <TD STYLE="width: 40%"><FONT STYLE="font-size: 10pt">209,705</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">6.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SHARED VOTING POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">0</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">7.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SOLE DISPOSITIVE POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">209,705</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">8.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SHARED DISPOSITIVE POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">0</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%; text-indent: 0pt"><FONT STYLE="font-size: 10pt">9.</FONT></TD>
+    <TD STYLE="width: 93%; text-indent: 0pt"><FONT STYLE="font-size: 10pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">209,705</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-size: 10pt">10.</FONT></TD>
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-size: 10pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">11.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">0.18%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">12.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">TYPE OF REPORTING PERSON</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">IA</FONT></TD></TR>
+</TABLE>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 3 of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">1.</FONT></TD>
+    <TD STYLE="width: 55%"><FONT STYLE="font-size: 10pt">NAME OF REPORTING PERSONS</FONT></TD>
+    <TD STYLE="width: 38%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">TIAA-CREF Investment Management, LLC</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">2.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">(a) <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">(b) <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">3.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SEC USE ONLY</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">4.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Delaware</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">NUMBER OF SHARES BENEFICIALLY OWNED</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">BY EACH REPORTING PERSON WITH:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%">&nbsp;</TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">5.</FONT></TD>
+    <TD STYLE="width: 46%"><FONT STYLE="font-size: 10pt">SOLE VOTING POWER</FONT></TD>
+    <TD STYLE="width: 40%"><FONT STYLE="font-size: 10pt">4,368,525</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">6.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SHARED VOTING POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">0</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">7.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SOLE DISPOSITIVE POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">4,368,525</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">8.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SHARED DISPOSITIVE POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">0</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%; text-indent: 0pt"><FONT STYLE="font-size: 10pt">9.</FONT></TD>
+    <TD STYLE="width: 93%; text-indent: 0pt"><FONT STYLE="font-size: 10pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">4,368,525</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-size: 10pt">10.</FONT></TD>
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-size: 10pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">11.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">3.77%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">12.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">TYPE OF REPORTING PERSON</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">IA</FONT></TD></TR>
+</TABLE>
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 4 of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">1.</FONT></TD>
+    <TD STYLE="width: 55%"><FONT STYLE="font-size: 10pt">NAME OF REPORTING PERSONS</FONT></TD>
+    <TD STYLE="width: 38%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Teachers Advisors, LLC</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">2.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">(a) <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">(b) <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">3.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SEC USE ONLY</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">4.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">CITIZENSHIP OR PLACE OF ORGANIZATION</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Delaware</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">NUMBER OF SHARES BENEFICIALLY OWNED</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">BY EACH REPORTING PERSON WITH:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%">&nbsp;</TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">5.</FONT></TD>
+    <TD STYLE="width: 46%"><FONT STYLE="font-size: 10pt">SOLE VOTING POWER</FONT></TD>
+    <TD STYLE="width: 40%"><FONT STYLE="font-size: 10pt">1,270,996</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">6.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SHARED VOTING POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">0</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">7.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SOLE DISPOSITIVE POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">1,270,996</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">8.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">SHARED DISPOSITIVE POWER</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">0</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%; text-indent: 0pt"><FONT STYLE="font-size: 10pt">9.</FONT></TD>
+    <TD STYLE="width: 93%; text-indent: 0pt"><FONT STYLE="font-size: 10pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">1,270,996</FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-size: 10pt">10.</FONT></TD>
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-size: 10pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES <FONT STYLE="font-family: Wingdings">o</FONT></FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">11.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9</FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">1.10%</FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">12.</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">TYPE OF REPORTING PERSON</FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    </TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">IA</FONT></TD>
+    </TR>
+</TABLE>
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</font></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 5 of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 15%"><FONT STYLE="font-size: 10pt"><B>Item 1(a).</B></FONT></TD>
+    <TD STYLE="width: 85%"><FONT STYLE="font-size: 10pt"><B>NAME OF ISSUER:</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt">Penn National Gaming, Inc.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt"><B>Item 1(b).</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>ADDRESS OF ISSUER&rsquo;S PRINCIPAL EXECUTIVE OFFICES:</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt">825 Berkshire Boulevard </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt">Suite 200</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt">Wyomissing, PA 19610</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt">United States</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt"><B>Items 2(a)-2(c).</B></FONT></TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt"><B>NAME, ADDRESS OF PRINCIPAL BUSINESS OFFICE, AND CITIZENSHIP OF PERSONS FILING:</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">Nuveen Asset
+Management, LLC (&ldquo;NAM&rdquo;)</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">333 W. Wacker
+Drive</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">Chicago, IL
+60606</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">Citizenship:
+Delaware</P>
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">&nbsp;</P>
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0"></P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">TIAA-CREF Investment
+Management, LLC (&ldquo;TCIM&rdquo;)</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">730 Third Avenue</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">New York, NY
+10017-3206</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">Citizenship: Delaware</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">&nbsp;</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">Teachers Advisors,
+LLC (&ldquo;TAL&rdquo;)</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">730 Third Avenue</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">New York, NY 10017-3206</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0">Citizenship:
+Delaware</P>
+
+<P STYLE="margin: 0pt 0 0pt 40pt; text-align: justify; text-indent: 0"></P>
+
+</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt"><B>Item 2(d).</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>TITLE OF CLASS OF SECURITIES: </B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="padding-left: 40pt"><FONT STYLE="font-size: 10pt">Common Stock</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt"><B>Item 2(e).</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>CUSIP NUMBER:</B>&nbsp;&nbsp;707569109</font></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt"><B>Item 3.</B></FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>IF THIS STATEMENT IS FILED PURSUANT TO RULES 13d-1(b), OR 13d-2(b) or (c), CHECK WHETHER THE PERSON FILING
+IS A:</b></font></TD></TR>
+</TABLE>
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 6  of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt"><B>NAM</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 7%"><font style="font-size: 10pt">(a)</font></td>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="width: 85%"><font style="font-size: 10pt">Broker or dealer registered under Section 15 of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(b)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Bank as defined in Section 3(a)(6) of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(c)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Insurance Company as defined in Section 3(a)(19) of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(d)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Investment Company registered under Section 8 of the Investment Company Act of 1940. </font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(e)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">x</FONT></td>
+    <TD><font style="font-size: 10pt">An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E).&nbsp;&nbsp;</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(f)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">An employee benefit plan or endowment fund in accordance with Rule 13d-1(b)(1)(ii)(F).</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(g)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">A parent holding company or control person in accordance with Rule 13d-1(b)(1)(ii)(G).</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(h)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">A savings association as defined in Section 3(b) of the Federal Deposit Insurance Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="text-indent: 0pt"><font style="font-size: 10pt">(i)</font></td>
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="text-indent: 0pt"><font style="font-size: 10pt">A church plan that is excluded from the definition of an investment company under Section 3(c)(14) of the Investment Company Act of 1940. </font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(j)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Group, in accordance with Rule 13d-1(b)(1)(ii)(J).</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt"><B>TCIM</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 7%"><font style="font-size: 10pt">(a)</font></td>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="width: 85%"><font style="font-size: 10pt">Broker or dealer registered under Section 15 of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(b)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Bank as defined in Section 3(a)(6) of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(c)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Insurance Company as defined in Section 3(a)(19) of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(d)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Investment Company registered under Section 8 of the Investment Company Act of 1940. </font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(e)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">x</FONT></td>
+    <TD><font style="font-size: 10pt">An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E).&nbsp;&nbsp;</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(f)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">An employee benefit plan or endowment fund in accordance with Rule 13d-1(b)(1)(ii)(F).</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(g)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">A parent holding company or control person in accordance with Rule 13d-1(b)(1)(ii)(G).</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(h)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">A savings association as defined in Section 3(b) of the Federal Deposit Insurance Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="text-indent: 0pt"><font style="font-size: 10pt">(i)</font></td>
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="text-indent: 0pt"><font style="font-size: 10pt">A church plan that is excluded from the definition of an investment company under Section 3(c)(14) of the Investment Company Act of 1940. </font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(j)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Group, in accordance with Rule 13d-1(b)(1)(ii)(J).</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt"><B>TAL</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 7%"><font style="font-size: 10pt">(a)</font></td>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="width: 85%"><font style="font-size: 10pt">Broker or dealer registered under Section 15 of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(b)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Bank as defined in Section 3(a)(6) of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(c)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Insurance Company as defined in Section 3(a)(19) of the Exchange Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(d)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">Investment Company registered under Section 8 of the Investment Company Act of 1940. </font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(e)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">x</FONT></td>
+    <TD><font style="font-size: 10pt">An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E).&nbsp;&nbsp;</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(f)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD><font style="font-size: 10pt">An employee benefit plan or endowment fund in accordance with Rule 13d-1(b)(1)(ii)(F).</font></td></tr>
+</table>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 7  of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 7%"><font style="font-size: 10pt">(g)</font></td>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="width: 85%; text-align: justify"><font style="font-size: 10pt">A parent holding company or control person in accordance with Rule 13d-1(b)(1)(ii)(G).</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(h)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">A savings association as defined in Section 3(b) of the Federal Deposit Insurance Act.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="text-indent: 0pt"><font style="font-size: 10pt">(i)</font></td>
+    <TD STYLE="text-indent: 0pt"><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="text-align: left; text-indent: 0pt"><font style="font-size: 10pt">A church plan that is excluded from the definition of an investment company under Section 3(c)(14) of the Investment Company Act of 1940.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt">(j)</font></td>
+    <TD><FONT STYLE="font-family: Wingdings">o</FONT></td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">Group, in accordance with Rule 13d-1(b)(1)(ii)(J).</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If this statement is filed pursuant to
+Rule 13d-1(c), check this box. <FONT STYLE="font-family: Wingdings">o</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 15%"><font style="font-size: 10pt"><b>Item 4.</b></font></td>
+    <TD STYLE="width: 33%"><font style="font-size: 10pt"><b>OWNERSHIP</b></font></td>
+    <TD STYLE="width: 52%">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="white-space: nowrap"><font style="font-size: 10pt">(a)&nbsp;&nbsp;Aggregate amount beneficially owned:&nbsp;&nbsp;</font></td>
+    <TD><font style="font-size: 10pt">5,849,226 &nbsp;(See Exhibit A attached)</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">(b)&nbsp;&nbsp;Percent of class:</font></td>
+    <TD><font style="font-size: 10pt">5.05%</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">(c)&nbsp;&nbsp;Number of shares as to which person has:</FONT> </td></tr>
+</table>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 8pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 25%">&nbsp;</td>
+    <TD STYLE="width: 14%">&nbsp;</td>
+    <TD STYLE="width: 14%">&nbsp;</td>
+    <TD STYLE="width: 14%">&nbsp;</td>
+    <TD STYLE="width: 33%; background-color: White">&nbsp;</TD></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><U>NAM</U></td>
+    <TD><U>TCIM</U></td>
+    <TD><U>TAL</U></td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top; background-color: rgb(229,255,255)">
+    <TD>Sole Voting Power:</td>
+    <TD>209,705</td>
+    <TD>4,368,525</td>
+    <TD>1,270,996</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top; background-color: White">
+    <TD>Shared Voting Power:</td>
+    <TD>0</td>
+    <TD>0</td>
+    <TD>0</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top; background-color: rgb(229,255,255)">
+    <TD>Sole Dispositive Power:</td>
+    <TD>209,705</td>
+    <TD>4,368,525</td>
+    <TD>1,270,996</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+<TR STYLE="vertical-align: top; background-color: White">
+    <TD>Shared Dispositive Power:</td>
+    <TD>0</td>
+    <TD>0</td>
+    <TD>0</td>
+    <TD STYLE="background-color: White">&nbsp;</TD></tr>
+</table>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<tr style="vertical-align: top">
+    <TD STYLE="width: 15%"><font style="font-size: 10pt"><b>Item 5.</b></font></td>
+    <TD STYLE="width: 85%; text-align: justify"><font style="font-size: 10pt"><b>OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS.</b></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: left"><font style="font-size: 10pt">If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the following <FONT STYLE="font-family: Wingdings">o</FONT>.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt"><b>Item 6.</b></font></td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt"><b>OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON.</b></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">See Exhibit A attached</font></td></tr>
+</table>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 8  of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 15%"><font style="font-size: 10pt"><b>Item 7.</b></font></td>
+    <TD STYLE="width: 85%; text-align: justify"><font style="font-size: 10pt"><b>IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY.</b></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">Not Applicable</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt"><b>Item 8.</b></font></td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt"><b>IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.</b></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">Not Applicable</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt"><b>Item 9.</b></font></td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt"><b>NOTICE OF DISSOLUTION OF GROUP.</b></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">Not Applicable</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD><font style="font-size: 10pt"><b>Item 10.</b></font></td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt"><b>CERTIFICATIONS.</b></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with nomination under <font style="font-family: Arial, Helvetica, Sans-Serif">&sect;</font>240.14a-11</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">SIGNATURE.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD STYLE="text-align: justify"><font style="font-size: 10pt">Date: February 14, 2020</font></td></tr>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+</table>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD STYLE="width: 60%">&nbsp;</td>
+    <TD STYLE="width: 40%"><font style="font-size: 10pt">NUVEEN ASSET MANAGEMENT, LLC</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">By:&nbsp;&nbsp;<u>/s/ Diane S. Meggs</u></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">Diane S. Meggs</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">Chief Compliance Officer</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">TIAA-CREF INVESTMENT MANAGEMENT, LLC</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">By: <u>&nbsp;/s/ Stuart R. Brunet</u></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">Stuart Brunet, Managing Director,</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">Chief Compliance Officer</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">TEACHERS ADVISORS, LLC</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">By:&nbsp;&nbsp;<u>/s/ Stuart R. Brunet</u></font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">Stuart Brunet, Managing Director,</font></td></tr>
+<tr style="vertical-align: top">
+    <TD>&nbsp;</td>
+    <TD><font style="font-size: 10pt">Chief Compliance Officer</font></td></tr>
+</table>
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 10pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: left; width: 100%"><PAGE></PAGE></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP No. <FONT STYLE="font-size: 10pt">707569109</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 38%; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 32%; font: 12pt Times New Roman, Times, Serif">13G</TD>
+    <TD STYLE="width: 30%; font: 12pt Times New Roman, Times, Serif">Page 9  of 9</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 72pt; text-align: justify; text-indent: -72pt">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>EXHIBIT A</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>ITEM 6. OWNERSHIP.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">TIAA-CREF Investment Management, LLC (&ldquo;TCIM&rdquo;) is
+the investment adviser to the College Retirement Equities Fund (&ldquo;CREF&rdquo;), a registered investment company, and may be
+deemed to be a beneficial owner of 4,368,525 shares of Issuer&rsquo;s common stock owned by CREF. Teachers Advisors, LLC (&ldquo;TAL&rdquo;)
+is the investment adviser to three registered investment companies, TIAA-CREF Funds (&ldquo;Funds&rdquo;), TIAA-CREF Life Funds
+(&ldquo;Life Funds&rdquo;), and TIAA Separate Account VA-1 (&ldquo;VA-1&rdquo;), as well as one or more separately managed accounts
+of Advisors (collectively, the &ldquo;Separate Accounts&rdquo;), and may be deemed to be a beneficial owner of 1,270,996 shares
+of Issuer&rsquo;s common stock owned separately by Funds, Life Funds, VA-1, and/or the Separate Accounts. Nuveen Asset Management,
+LLC (&ldquo;NAM&rdquo;), is a registered investment adviser affiliated with TCIM and TAL. NAM may be deemed to be a beneficial
+owner of 209,705 shares of Issuer&rsquo;s common stock. These shares were acquired in the ordinary course of business, and not
+with the purpose or effect of changing or influencing control of the Issuer.</P>
+
+
+
+
+
+
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Silver 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 12pt Arial, Helvetica, Sans-Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

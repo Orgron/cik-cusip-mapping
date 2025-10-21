@@ -1,0 +1,282 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M+sXm1ezSFnQGGe0NfdEk4gVoEa/wu5WXmFrZnqFT/mTKdjfgN4BT7o2VCGRVCoN
+ E+vOJ2lSIkf/7RGXiFja+w==
+
+<SEC-DOCUMENT>0001169232-08-000752.txt : 20080214
+<SEC-HEADER>0001169232-08-000752.hdr.sgml : 20080214
+<ACCEPTANCE-DATETIME>20080214170327
+ACCESSION NUMBER:		0001169232-08-000752
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20080214
+DATE AS OF CHANGE:		20080214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KAYDON CORP
+		CENTRAL INDEX KEY:			0000740694
+		STANDARD INDUSTRIAL CLASSIFICATION:	BALL & ROLLER BEARINGS [3562]
+		IRS NUMBER:				133186040
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-36006
+		FILM NUMBER:		08618501
+
+	BUSINESS ADDRESS:	
+		STREET 1:		315 E. EISENHOWER PARKWAY, SUITE 300
+		CITY:			ANN ARBOR
+		STATE:			MI
+		ZIP:			48108
+		BUSINESS PHONE:		7347477025
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRAMER ROSENTHAL MCGLYNN LLC
+		CENTRAL INDEX KEY:			0000820743
+		IRS NUMBER:				133156718
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		520 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2124150474
+
+	MAIL ADDRESS:	
+		STREET 1:		520 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CRAMER ROSENTHAL MCGLYNN INC
+		DATE OF NAME CHANGE:	19980601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>d73610_sc13g-a.txt
+<DESCRIPTION>AMENDMENT TO STATEMENT OF BENEFICIAL OWNERSHIP
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. 3)*
+
+                               Kaydon Corporation
+                                (Name of Issuer)
+
+                                  COMMON STOCK
+                         (Title of Class of Securities)
+
+                                    486587108
+                                 (CUSIP Number)
+
+Check the following box if a fee is being paid with this statement [ ]. (A fee
+is not required only if the filing person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act(however, see the Notes).
+
+<PAGE>
+
+CUSIP No. 486587108                   13G
+
+- --------------------------------------------------------------------------------
+1     NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      CRAMER ROSENTHAL MCGLYNN, LLC
+      IRS ID# 13-3156718
+- --------------------------------------------------------------------------------
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                               (a) [ ]
+                                                               (b) [X]
+- --------------------------------------------------------------------------------
+3     SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      INCORPORATED IN THE STATE OF NEW YORK
+
+- --------------------------------------------------------------------------------
+                 5    SOLE VOTING POWER
+
+  NUMBER OF           1,031,002
+   SHARES        ---------------------------------------------------------------
+BENEFICIALLY     6    SHARED VOTING POWER
+  OWNED BY
+   EACH               3,253
+ REPORTING       ---------------------------------------------------------------
+  PERSON         7    SOLE DISPOSITIVE POWER
+   WITH
+                      1,062,527
+                 ---------------------------------------------------------------
+                 8    SHARED DISPOSITIVE POWER
+
+                      15,653
+- --------------------------------------------------------------------------------
+9     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      1,078,180 SHARES
+- --------------------------------------------------------------------------------
+10    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+
+- --------------------------------------------------------------------------------
+11    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+      3.90%
+- --------------------------------------------------------------------------------
+12    TYPE OF REPORTING PERSON*
+
+      IA
+- ------------------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT
+
+<PAGE>
+
+Item 1.    (a)   Name of Issuer:  Kaydon Corporation
+
+
+
+           (b)   Address of Issuer's Principal Executive Offices:
+
+                 315 E. EISENHOWER PARKWAY, SUITE 300
+                 ANN ARBOR MI 48108
+
+
+Item 2.    (a)   Name of Person Filing:
+
+                 CRAMER ROSENTHAL MCGLYNN, LLC
+
+           (b)   Address of Principal Business Office:
+
+                 520 Madison Avenue, New York, New York 10022
+
+           (c)   Citizenship:
+
+                  INCORPORATED IN THE STATE OF NEW YORK
+
+           (d)   Title of Class of Securities:
+
+                 COMMON STOCK
+
+           (e)   CUSIP Number: 486587108
+
+
+
+
+
+Item 3.     If this statement is filed pursuant to Rules 13d-1(b), or
+            13d-2(b), check whether the person filing is a:
+
+            (a)   [ ] Broker or Dealer registered under Section 15 of the Act
+
+            (b)   [ ] Bank as defined in section 3(a)(6) of the Act
+
+            (c)   [ ] Insurance Company as defined in section
+                     3(a)(19)of the Act
+
+            (d)   [ ] Investment Company registered under section 8 of the
+                        Investment Company Act
+
+            (e)   [X] Investment Adviser registered under section 203 of
+                     the Investment Advisers Act of 1940
+
+            (f)   [ ] Employee Benefit Plan, Pension Fund which is subject
+                     to the provisions of the Employee Retirement Income
+                     Security Act of 1974 or Endowment Fund; see Section
+                     240.13d-1(b)(1)(ii)(F)
+
+            (g)   [ ] Parent Holding Company, in accordance with
+                                 section 240.13d-1(b)(1)(ii)(G)
+
+            (h)   [ ] Group, in accordance with Section 240.13d-1(b)(1)(ii)(H)
+
+<PAGE>
+
+Item 4.     Ownership.
+
+Item 5.     Ownership of Five Percent or Less of a Class.
+
+            NOT APPLICABLE
+
+Item 6.     Ownership of More Than Five Percent on Behalf of Another Person.
+
+            NOT APPLICABLE
+
+Item 7.     Identification and Classification of the Subsidiary which Acquired
+            the Security Being Reported on By the Parent Holding Company.
+
+            NOT APPLICABLE
+
+Item 8.     Identification and Classification of Members of the Group.
+
+            NOT APPLICABLE
+
+Item 9.     Notice of Dissolution of Group.
+
+            NOT APPLICABLE
+
+Item 10.    Certification.
+
+
+By signing below I certify that, to the best of my knowledge and belief, the
+securities referred to above were acquired in the ordinary course of business
+and were not acquired for the purpose of and do not have the effect of changing
+or influencing the control of the issuer of such securities and were not
+acquired in connection with or as a participant in any transaction having such
+purpose or effect.
+
+
+                                      Signature.
+
+                                      /s/ Steven Yadegari
+                                      -------------------------------------
+                                            General Counsel
+
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+Date: 2/10/08
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

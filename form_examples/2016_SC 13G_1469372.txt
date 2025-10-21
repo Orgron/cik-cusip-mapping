@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0000936753-16-000278.txt : 20160212
+<SEC-HEADER>0000936753-16-000278.hdr.sgml : 20160212
+<ACCEPTANCE-DATETIME>20160212111105
+ACCESSION NUMBER:		0000936753-16-000278
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20160212
+DATE AS OF CHANGE:		20160212
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MSG NETWORKS INC.
+		CENTRAL INDEX KEY:			0001469372
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				270624498
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-85271
+		FILM NUMBER:		161416143
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 PENNSYLVANIA PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		(212)465-6400
+
+	MAIL ADDRESS:	
+		STREET 1:		11 PENNSYLVANIA PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Madison Square Garden Co
+		DATE OF NAME CHANGE:	20110503
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Madison Square Garden, Inc.
+		DATE OF NAME CHANGE:	20090730
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARIEL INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0000936753
+		IRS NUMBER:				020712418
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 EAST RANDOLPH STREET
+		STREET 2:		SUITE 2900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+		BUSINESS PHONE:		(312) 726-0140
+
+	MAIL ADDRESS:	
+		STREET 1:		200 EAST RANDOLPH STREET
+		STREET 2:		SUITE 2900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARIEL CAPITAL MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20040218
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARIEL CAPITAL MANAGEMENT INC
+		DATE OF NAME CHANGE:	19950202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>msgn.txt
+<DESCRIPTION>SC13G MSGN DEC15
+<TEXT>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+Schedule 13G
+Under the Securities Exchange Act of 1934
+(Amendment No.0)*
+MSG Networks Inc
+(Name of Issuer)
+Class A Common Stock
+(Title of Class of Securities)
+553573106
+(CUSIP Number)
+12/31/2015
+(Date of Event Which Requires Filing of this Statement)
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+
+[X]	Rule 13d-1(b)
+[_]	Rule 13d-1(c)
+[_]	Rule 13d-1(d)
+
+The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that Section
+of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes).
+
+CUSIP No. 553573106
+1.	Names of Reporting Persons
+	I.R.S. Identification Nos. of above persons (entities only).
+	Ariel Investments, LLC
+	# 02-0712418.
+2.	Check the Appropriate Box if a Member of a Group (See
+	Instructions)	(a)[_]
+				(b)[_]
+	Not Applicable
+3.	SEC Use Only
+4.	Citizenship or Place of Organization
+
+	Delaware Limited Liability Company
+
+Number of
+Shares Beneficially Owned By
+Each Reporting Person With
+5.	Sole Voting Power
+
+	Ariel: 3,098,947
+6.	Shared Voting Power
+
+	Ariel: 0
+7.	Sole Dispositive Power
+
+	Ariel: 3,355,502
+8.	Shared Dispositive Power
+
+	Ariel: 0
+9.	Aggregate Amount Beneficially Owned by Each Reporting Person
+
+	Ariel: 3,355,502
+10.	Check if the Aggregate Amount in Row (9) Excludes Certain
+	Shares (See Instructions)	[_]
+
+	Not Applicable
+
+11.	Percent of Class Represented by Amount in Row (9)
+
+	Ariel: 3,355,502/61,145,088=5.5%
+12.	Type of Reporting Person (See
+	Instructions)
+
+	Ariel - IA
+Item 1.
+(a)	Name of Issuer
+(b)	Address of Issuer's Principal Executive Offices
+Item 2.
+
+(a)	Name of Person Filing
+
+	Ariel Investments, LLC
+(b)	Address of Principal Business Office, or if none, Residence
+
+	200 E. Randolph Street, Suite 2900, Chicago, IL 60601
+(c)	Citizenship
+
+	a Delaware Limited Liability Company
+(d)	Title of Class of Securities
+
+	Class A Common Stock
+(e)	CUSIP Number
+
+	553573106
+Item 3.	If this statement is filed pursuant to sections 240.13d-1(b) or
+		240.13d-2(b) or (c), check whether the person filing is a:
+
+(a)	[_]	Broker or dealer registered under section 15 of the Act (15
+		U.S.C. 78o).
+(b)	[_]	Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c).
+(c)	[_]	Insurance company as defined in section 3(a)(19) of the
+		Act(15 U.S.C. 78c).
+(d)	[_] 	Investment company registered under section 8 of the
+		Investment Company Act of 1940 (15 U.S.C. 80a-8).
+(e)	[X]	An investment adviser in accordance with section
+		240.13d-1(b)(1)(ii)(E);
+(f)	[_]	An employee benefit plan or endowment fund in accordance with
+		section240.13d-1(b)(1)(ii)(F);
+(g)	[_]	A parent holding company or control person in accordance with
+		section240.13d-1(b)(1)(ii)(G);
+(h)	[_]	A savings associations as defined in Section 3(b) of the Federal
+		Deposit Insurance Act (12 U.S.C. 1813);
+(i)	[_]	A church plan that is excluded from the definition of an investment
+		company under section 3(c)(14) of the Investment Company Act of 1940
+		(15 U.S.C. 80a-3);
+(j)	[_]	Group, in accordance with section 240.13d-1(b)(1)(ii)(J).
+Item 4.	Ownership.
+		Provide the following information regarding the aggregate number and
+percentage of the class of securities of the issuer identified in Item 1.
+	(a)	Amount beneficially owned:
+		(See Page 1, No. 9)
+	(b)	Percent of class:
+		(See Page 2, No. 11)
+	(c)	Number of shares as to which such person has:
+	(i)	Sole power to vote or to direct the vote
+		(See Page 1, No. 5)
+	(ii)	Shared power to vote or to direct the vote
+		(See Page 1, No. 6)
+	(iii)	Sole power to dispose or to direct the disposition of
+		(See Page 1, No. 7)
+	(iv)	Shared power to dispose or to direct the disposition of
+		(See Page 1, No. 8)
+Item 5.	Ownership of Five Percent or Less of a Class.
+	If this statement is being filed to report the fact that as of the
+date hereof the reporting person has ceased to be the beneficial owner of more
+than five percent of the class of securities check the following [_].
+Item 6.	Ownership of More than Five Percent on Behalf of Another Person.
+	Ariel Investments, LLC's adviser clients have the right to receive
+or the power to direct the receipt of dividends from, or the proceeds from the
+sale of, all securities reported upon this Schedule.  None of Ariel Investments,
+LLC's clients have an economic interest in more than 5% of the
+subject securities reported upon this Schedule.
+Item 7.	Identification and Classification of the Subsidiary Which Acquired
+the Security Being Reported on by the Parent Holding Company.
+		Not Applicable
+Item 8.	Identification and Classification of Members of the Group.
+		Not Applicable
+Item 9.	Notice of Dissolution of Group.
+		Not Applicable
+Item 10.	Certifications.
+	By signing below I certify that, to the best of my knowledge and belief,
+the securities referred to above were acquired and are held in the ordinary
+course of business and were not acquired and are not held for the purpose
+of or with the effect of changing or influencing the control of the issuer of
+the securities and were not acquired and are not held in connection with or
+as a participant in any transaction having that purpose or effect.
+
+SIGNATURE
+	After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+Ariel Investments, LLC
+By:  /s/ Wendy D. Fox
+	________________________________
+	Wendy D. Fox
+	Vice President/Chief Compliance Officer
+
+The original statement shall be signed by each person on whose behalf the
+statement is filed or his authorized representative.  If the statement is
+signed on behalf of a person by his authorized representative other than an
+executive officer or general partner of the filing person, evidence of the
+representative's authority to sign on behalf of such person shall be filed
+with the statement, provided, however, that a power of attorney for this
+purpose which is already on file with the Commission may be incorporated by
+reference.  The name and any title of each person who signs the statement
+shall be typed or printed beneath his signature.
+NOTE:  Schedules filed in paper format shall include a signed original and
+five copies of the schedule, including all exhibits.  See section 240.13d-7
+for other parties for whom copies are to be sent.
+Attention: Intentional misstatements or omissions of fact constitute Federal
+criminal violations (See 18 U.S.C. 1001)
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,320 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VDuo8+9kIOTfuJdnlighMENNW/sIWRU2f/Roipn7jXW5uH11ZPKc9jhnU3IzcxGZ
+ ZfH55Jg43ua5+9sYH0y41g==
+
+<SEC-DOCUMENT>0001005477-99-004836.txt : 19991022
+<SEC-HEADER>0001005477-99-004836.hdr.sgml : 19991022
+ACCESSION NUMBER:		0001005477-99-004836
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19991021
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VOXCOM HOLDINGS INC
+		CENTRAL INDEX KEY:			0001061554
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CONSUMER CREDIT REPORTING, COLLECTION AGENCIES [7320]
+		IRS NUMBER:				752715335
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-54645
+		FILM NUMBER:		99731738
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8115 PRESTON RD
+		STREET 2:		8TH FL EAST
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+		BUSINESS PHONE:		2146910055
+
+	MAIL ADDRESS:	
+		STREET 1:		8115 PRESTON RD
+		STREET 2:		8TH FL EAST
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOMINION CAPITAL FUND LTD
+		CENTRAL INDEX KEY:			0001044781
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CARRIBBEAN SERV LTD P O BOX 13136
+		STREET 2:		SHIRLEY & CHARLOTTE STS
+		CITY:			NASSAU BAHAMAS
+		BUSINESS PHONE:		2423565928
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CARRIBBEAN SERV LTD P O BOX 13136
+		STREET 2:		SHIRLEY & CHARLOTTE STS
+		CITY:			NASSAU BAHAMAS
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT NO. 1 TO SCHEDULE 13G
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+
+                    Under the Securities Exchange Act of 1934
+
+                                (Amendment No. 1)
+
+                              VOXCOM HOLDINGS, INC.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                         Common Stock, $.0001 par value
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    928957109
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                                 April 28, 1999
+- --------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of This Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+      |_| Rule 13d-1(b)
+      |X| Rule 13d-1(c)
+      |_| Rule 13d-1(d)
+<PAGE>
+
+CUSIP No. 928957109               SCHEDULE 13G
+- --------------------------------------------------------------------------------
+1     NAME OF REPORTING PERSONS
+      I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+      Dominion Capital Fund, Limited
+- --------------------------------------------------------------------------------
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                         (a) |_|
+                                                                         (b) |X|
+- --------------------------------------------------------------------------------
+3     SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      Bahamas
+
+- --------------------------------------------------------------------------------
+                  5     SOLE VOTING POWER
+
+                        0 (see Note A)
+                  --------------------------------------------------------------
+  NUMBER OF       6     SHARED VOTING POWER
+    SHARES
+ BENEFICIALLY           N/A
+   OWNED BY       --------------------------------------------------------------
+     EACH         7     SOLE DISPOSITIVE POWER
+  REPORTING
+    PERSON              0 (see Note A)
+     WITH         --------------------------------------------------------------
+                  8     SHARED DISPOSITIVE POWER
+
+                        N/A
+- --------------------------------------------------------------------------------
+9     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      0 (see Note A)
+- --------------------------------------------------------------------------------
+10    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+      CERTAIN SHARES*                                                        |_|
+
+- --------------------------------------------------------------------------------
+11    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+      0% (see Note A)
+- --------------------------------------------------------------------------------
+12    TYPE OF REPORTING PERSON*
+
+      CO
+- --------------------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+
+ITEM 1      (a)   NAME OF ISSUER
+
+                  VOXCOM HOLDINGS, INC.
+
+            (b)   ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+
+                  8115 Preston Road, Eighth Floor - East
+                  Dallas, TX 75225
+
+ITEM 2      (a)   NAME OF PERSON FILING
+
+                  Dominion Capital Fund, Limited
+
+            (b)   ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE,
+                  RESIDENCE
+
+                  c/o Citco Fund Services, Bahamas Financial Centre, 3rd Floor
+                  Charlotte & Sherley Street
+                  P.O. Box CB-13136
+                  Nassau, Bahamas
+
+            (c)   CITIZENSHIP
+
+                  Bahamas
+
+            (d)   TITLE OF CLASS OF SECURITIES
+
+                  Common Stock, $.0001 par value
+
+            (e)   CUSIP NUMBER
+
+                  928957109
+
+<PAGE>
+
+ITEM 3      If This Statement is Filed Pursuant to Rule 13d-1(b), or 13d-2(b) or
+            (c), Check Whether the Person Filing is a:
+
+      (a)   |_| Broker or dealer registered under section 15 of the Act
+
+      (b)   |_| Bank as defined in section 3(a)(6) of the Act
+
+      (c)   |_| Insurance company as defined in section 3(a)(19) of the Act
+
+      (d)   |_| Investment company registered under section 8 of the Investment
+            Company Act of 1940
+
+      (e)   |_| An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E)
+
+      (f)   |_| An employee benefit plan or endowment fund in accordance with
+            Rule 13d-1(b)(1)(ii)(F)
+
+      (g)   |_| A parent holding company or control person in accordance with
+            Rule 13d-1(b)(1)(ii)(G)
+
+      (h)   |_| A savings association as defined in section 3(b) of the Federal
+            Deposit Insurance Act
+
+      (i)   |_| A church plan that is excluded from the definition of an
+            investment company under section 3(c)(14) of the Investment Company
+            Act of 1940
+
+      (j)   |_| Group, in accordance with Rule 13d-1(b)(1)(ii)(J)
+
+      If this statement is filed pursuant to Rule 13d-1(c), check this box [ x ]
+
+ITEM 4      OWNERSHIP
+
+      (a)   Amount beneficially owned:
+
+            0 (see Note A)
+
+      (b)   Percent of class:
+
+            0% (see Note A)
+
+<PAGE>
+
+      (c)   Number of shares as to which the person has:
+
+            (i) Sole power to vote or to direct the vote: 0 (see Note A)
+
+            (ii) Shared power to vote or to direct the vote: N/A
+
+            (iii) Sole power to dispose or to direct the disposition of: 0 (see
+            Note A)
+
+            (iv) Shared power to dispose or to direct the disposition of: N/A
+
+ITEM 5      OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS
+
+      If this statement is being filed to report the fact that as of the date
+      hereof the reporting person has ceased to be the beneficial owner of more
+      than five percent of the class of securities, check the following [ x ]
+
+ITEM 6      OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON
+
+            N/A
+
+ITEM 7      IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED
+            THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY
+
+            N/A
+
+ITEM 8      IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP
+
+            N/A
+
+ITEM 9      NOTICE OF DISSOLUTION OF GROUP
+
+            N/A
+
+ITEM 10     CERTIFICATION
+
+            By signing below I certify that, to the best of my knowledge and
+            belief, the securities referred to above were not acquired are not
+            being held for the purpose of or with the effect of changing or
+            influencing the control of the issuer of the securities and were not
+            acquired and are not held in connection with or as a participant in
+            any transaction having that purpose or effect.
+<PAGE>
+
+                                    SIGNATURE
+
+      After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                                     October 15, 1999
+                                             -----------------------------------
+                                                           (Date)
+
+                                             DOMINION CAPITAL FUND, LIMITED
+
+
+                                             By: /s/ David Sims
+                                                 -------------------------------
+                                                         (Signature)
+
+                                             David Sims
+                                             Navigator Management Ltd., Director
+                                             -----------------------------------
+                                                         (Name/Title)
+<PAGE>
+
+                                     NOTE A
+
+As of April 28, 1999, Reporting Person no longer owns any Common Stock or Series
+B Convertible Preferred Stock of the Issuer.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

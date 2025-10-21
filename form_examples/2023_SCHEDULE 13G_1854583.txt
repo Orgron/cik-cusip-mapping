@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0002006228-23-000001.txt : 20231228
+<SEC-HEADER>0002006228-23-000001.hdr.sgml : 20231228
+<ACCEPTANCE-DATETIME>20231227180211
+ACCESSION NUMBER:		0002006228-23-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20231228
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Collective Audience, Inc.
+		CENTRAL INDEX KEY:			0001854583
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92786
+		FILM NUMBER:		231518961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 BROAD STREET 16-079
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		(808) 829-1057
+
+	MAIL ADDRESS:	
+		STREET 1:		85 BROAD STREET 16-079
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Abri SPAC I, Inc.
+		DATE OF NAME CHANGE:	20210331
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Regal Nutra LLC
+		CENTRAL INDEX KEY:			0002006228
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				475084079
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3690 W GANDY BLVD
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33611
+		BUSINESS PHONE:		971-50-485-4832
+
+	MAIL ADDRESS:	
+		STREET 1:		3690 W GANDY BLVD
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33611
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002006228</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/07/2023</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001854583</issuerCik>
+        <issuerName>Collective Audience, Inc.</issuerName>
+        <issuerCusip>193939105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>85 BROAD STREET 16-079</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10004</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Regal Nutra LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>700000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>700000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>700000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Collective Audience, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>85 BROAD STREET 16-079, NEW YORK, NEW YORK, 10004</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Regal Nutra LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>3690 W Gandy Blvd, Tampa FL 33611</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States of America</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>700,000</amountBeneficiallyOwned>
+        <classPercent>5.3</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>700000</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>700000</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Regal Nutra LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Steve Alexander</signature>
+        <title>President</title>
+        <date>12/27/2023</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
