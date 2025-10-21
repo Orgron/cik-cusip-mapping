@@ -32,7 +32,7 @@ def download_master_index(requests_per_second: float, name: str | None, email: s
 
 def write_full_index() -> None:
     master_path = Path("master.idx")
-    with open("full_index.csv", "w", errors="ignore") as csvfile:
+    with open("full_index.csv", "w", newline="", errors="ignore") as csvfile:
         wr = csv.writer(csvfile)
         wr.writerow(["cik", "comnam", "form", "date", "url"])
         with open(master_path, "r", encoding="latin1") as f:

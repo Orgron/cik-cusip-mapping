@@ -1,6 +1,7 @@
 *.txt
 
 *.idx
+!tests/data/master_sample.idx
 
 .vscode
 
