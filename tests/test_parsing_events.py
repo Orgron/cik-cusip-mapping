@@ -52,3 +52,43 @@ def test_stream_events_to_csv_writes_events(tmp_path, concurrent):
     assert row["cusip8"] == "12345678"
     assert row["cusip6"] == "123456"
     assert row["parse_method"] == "window"
+
+
+def test_stream_events_to_csv_uses_total_hint(monkeypatch, tmp_path):
+    """stream_events_to_csv should configure tqdm with the provided total."""
+
+    filings = [
+        SimpleNamespace(
+            identifier="file1",
+            content=CUSIP_CONTENT,
+            form="13D",
+            date="2020-01-01",
+            accession_number="0001-0000000000",
+            company_name="Example Corp",
+        )
+    ]
+    events_path = tmp_path / "events.csv"
+    progress_calls: list[dict[str, object]] = []
+    updates: list[int] = []
+
+    def fake_resolve(use_notebook):
+        def factory(**kwargs):
+            progress_calls.append(kwargs)
+            return SimpleNamespace(
+                update=lambda value: updates.append(value), close=lambda: None
+            )
+
+        return factory
+
+    monkeypatch.setattr(parsing, "resolve_tqdm", fake_resolve)
+
+    parsing.stream_events_to_csv(
+        filings,
+        events_csv_path=events_path,
+        show_progress=True,
+        total_hint=7,
+    )
+
+    assert progress_calls
+    assert progress_calls[0]["total"] == 7
+    assert updates == [1]

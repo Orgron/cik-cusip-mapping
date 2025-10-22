@@ -120,6 +120,19 @@ def run_pipeline_cli() -> None:
         action="store_false",
         help="Alias for --no-progress.",
     )
+    parser.add_argument(
+        "--use-notebook",
+        dest="use_notebook",
+        action="store_true",
+        help="Force tqdm to use the notebook widget for progress bars.",
+    )
+    parser.add_argument(
+        "--no-use-notebook",
+        dest="use_notebook",
+        action="store_false",
+        help="Disable notebook widgets even if a notebook environment is detected.",
+    )
+    parser.set_defaults(use_notebook=None)
 
     args = parser.parse_args()
 
@@ -143,6 +156,7 @@ def run_pipeline_cli() -> None:
         parsing_workers=args.parsing_workers,
         parsing_max_queue=args.parsing_max_queue,
         show_progress=args.show_progress,
+        use_notebook=args.use_notebook,
     )
 
     events_base_path = Path(args.events_output_root)

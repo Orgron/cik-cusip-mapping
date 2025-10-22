@@ -10,9 +10,9 @@ from pathlib import Path
 from typing import Generator, Iterator
 
 import requests
-from tqdm.auto import tqdm
 
 from .sec import RateLimiter, build_request_headers, create_session
+from .progress import resolve_tqdm
 
 ARCHIVES_URL = "https://www.sec.gov/Archives/"
 
@@ -67,6 +67,8 @@ def stream_filings(
     session: requests.Session | None = None,
     show_progress: bool = True,
     progress_desc: str | None = None,
+    total_hint: int | None = None,
+    use_notebook: bool | None = None,
 ) -> Generator[Filing, None, None]:
     """Yield filings for the requested form directly from EDGAR."""
 
@@ -77,7 +79,19 @@ def stream_filings(
     http = session or create_session()
 
     description = progress_desc or f"Streaming {form} filings"
-    progress = tqdm(desc=description, unit="filing") if show_progress else None
+    progress_factory = resolve_tqdm(use_notebook)
+    progress = (
+        progress_factory(
+            total=total_hint,
+            desc=description,
+            unit="filing",
+            dynamic_ncols=True,
+            mininterval=0.1,
+            leave=False,
+        )
+        if show_progress
+        else None
+    )
     try:
         for row in _iter_index_rows(form, index_path):
             cik = row["cik"].strip()
@@ -163,7 +177,14 @@ def stream_filings_to_disk(
         session=session,
         show_progress=False,
     )
-    for filing in tqdm(filings, desc=f"Saving {form} filings", unit="filing"):
+    tqdm_factory = resolve_tqdm(None)
+    for filing in tqdm_factory(
+        filings,
+        desc=f"Saving {form} filings",
+        unit="filing",
+        dynamic_ncols=True,
+        mininterval=0.1,
+    ):
         year, month = filing.date.split("-")[:2]
         destination = output_dir / f"{year}_{month}"
         destination.mkdir(parents=True, exist_ok=True)

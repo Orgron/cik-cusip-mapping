@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import csv
 from pathlib import Path
 from typing import TYPE_CHECKING, Sequence
 
@@ -12,6 +13,17 @@ if TYPE_CHECKING:  # pragma: no cover - typing helper
 
 from . import indexing, parsing, postprocessing, streaming
 from .sec import create_session
+
+
+def count_index_rows(form: str, index_path: Path | str) -> int:
+    """Return the number of index rows matching ``form``."""
+
+    path = Path(index_path)
+    if not path.exists():
+        return 0
+    with path.open("r", newline="", encoding="utf-8") as handle:
+        reader = csv.DictReader(handle)
+        return sum(1 for row in reader if form in row["form"])
 
 
 def run_pipeline(
@@ -35,6 +47,7 @@ def run_pipeline(
     parsing_workers: int = 2,
     parsing_max_queue: int = 32,
     show_progress: bool = True,
+    use_notebook: bool | None = None,
     session: requests.Session | None = None,
 ) -> tuple["pd.DataFrame", "pd.DataFrame | None", dict[str, int]]:
     """Run the end-to-end CIK to CUSIP mapping pipeline."""
@@ -75,6 +88,12 @@ def run_pipeline(
         if not events_base_path.is_absolute():
             events_base_path = base_path / events_base_path
         events_base_path.mkdir(parents=True, exist_ok=True)
+        form_totals: dict[str, int | None] = {
+            form: count_index_rows(form, resolved_index_path)
+            if resolved_index_path.exists()
+            else None
+            for form in forms
+        }
         events_counts: dict[str, int] = {}
         for form in forms:
             events_path = events_base_path / f"{form}_events.csv"
@@ -95,6 +114,8 @@ def run_pipeline(
                     session=http_session,
                     show_progress=show_progress,
                     progress_desc=f"Streaming {form} filings",
+                    total_hint=form_totals.get(form),
+                    use_notebook=use_notebook,
                 )
                 events_counts[form] = parsing.stream_events_to_csv(
                     filings,
@@ -104,6 +125,8 @@ def run_pipeline(
                     max_queue=parsing_max_queue,
                     workers=parsing_workers,
                     show_progress=show_progress,
+                    total_hint=form_totals.get(form),
+                    use_notebook=use_notebook,
                 )
             events_paths.append(events_path)
 
