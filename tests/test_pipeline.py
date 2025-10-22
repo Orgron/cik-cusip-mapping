@@ -1,3 +1,5 @@
+"""Integration tests that exercise the end-to-end pipeline helper."""
+
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -7,20 +9,30 @@ from cik_cusip_mapping import pipeline
 
 
 class DummyFrame:
+    """Lightweight stand-in for a pandas DataFrame in tests."""
+
     def __init__(self, columns, rows):
+        """Capture the provided columns and rows for later assertions."""
+
         self.columns = columns
         self._rows = rows
 
     def __len__(self) -> int:  # pragma: no cover - trivial
+        """Return the number of stored rows."""
+
         return len(self._rows)
 
 
 def test_skip_index_requires_existing_full_index(tmp_path):
+    """Skipping the index step should fail without an existing full index."""
+
     with pytest.raises(FileNotFoundError):
         pipeline.run_pipeline(output_root=tmp_path, skip_index=True)
 
 
 def test_skip_parse_requires_existing_csv(tmp_path):
+    """Skipping parsing requires CSV outputs to already be present."""
+
     index_path = tmp_path / "full_index.csv"
     index_path.write_text("cik,comnam,form,date,url\n")
 
@@ -34,17 +46,25 @@ def test_skip_parse_requires_existing_csv(tmp_path):
 
 
 def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
+    """The pipeline should invoke each stage in order with expected inputs."""
+
     calls = []
 
     def fake_download(rps, name, email, *, output_path):
+        """Record calls to the download helper and create a stub index."""
+
         calls.append(("download_index", rps, name, email, output_path))
         output_path.write_text("master")
 
     def fake_write(master_path, *, output_path):
+        """Record writes to the full index and produce a minimal CSV."""
+
         calls.append(("write_index", master_path, output_path))
         output_path.write_text("cik,comnam,form,date,url\n")
 
     def fake_stream_filings(form, rps, name, email, *, index_path):
+        """Track streaming invocations and yield a dummy filing."""
+
         calls.append(("stream_filings", form, rps, name, email, index_path))
         yield SimpleNamespace(identifier="id", content="")
 
@@ -58,6 +78,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         workers=2,
         events_csv_path=None,
     ):
+        """Capture streamed filings and emit placeholder CSV outputs."""
+
         rows = list(filings)
         calls.append(
             (
@@ -75,6 +97,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         return len(rows)
 
     def fake_postprocess(csv_paths, *, output=None):
+        """Record post-processing inputs and write a sample mapping file."""
+
         calls.append(
             (
                 "postprocess",
@@ -87,6 +111,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         return DummyFrame(["cik", "cusip6", "cusip8"], rows=[{"cik": 1}])
 
     def fake_build_dynamics(events_paths, *, output=None):
+        """Record dynamics aggregation inputs and emit a sample output."""
+
         calls.append(("build_dynamics", [Path(p) for p in events_paths], Path(output)))
         if output:
             Path(output).write_text(
@@ -126,15 +152,23 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
 
 
 def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
+    """The pipeline should forward SEC contact metadata to streaming."""
+
     calls = []
 
     def fake_download(rps, name, email, *, output_path):
+        """Write a stub master index file."""
+
         output_path.write_text("master")
 
     def fake_write(master_path, *, output_path):
+        """Write a stub full index file."""
+
         output_path.write_text("cik,comnam,form,date,url\n")
 
     def fake_stream_filings(form, rps, name, email, *, index_path):
+        """Capture request metadata passed to the streaming helper."""
+
         calls.append((form, rps, name, email, index_path))
         yield SimpleNamespace(identifier="id", content="")
 
@@ -143,6 +177,8 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
 
     def consume_to_csv(filings, csv_path, *, events_csv_path=None, **kwargs):
+        """Consume filings generator and create placeholder CSV outputs."""
+
         for _ in filings:
             pass
         Path(csv_path).write_text("id,cik,cusip\n")

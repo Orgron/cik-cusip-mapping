@@ -19,6 +19,8 @@ logger = logging.getLogger(__name__)
 def _iter_quarters(
     start_year: int, end_year: int, end_quarter: int
 ) -> Iterable[tuple[int, int]]:
+    """Yield ``(year, quarter)`` tuples across the requested range."""
+
     for year in range(start_year, end_year + 1):
         last_quarter = end_quarter if year == end_year else 4
         for quarter in range(1, last_quarter + 1):

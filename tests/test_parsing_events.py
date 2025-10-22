@@ -1,3 +1,5 @@
+"""Tests for event emission while streaming parsed filings."""
+
 from __future__ import annotations
 
 import csv
@@ -13,6 +15,8 @@ CUSIP_CONTENT = """SUBJECT COMPANY\nCENTRAL INDEX KEY\t\t\t0000123456\n<DOCUMENT
 
 @pytest.mark.parametrize("concurrent", [False, True])
 def test_stream_to_csv_writes_events(tmp_path, concurrent):
+    """stream_to_csv should populate both the mapping and event outputs."""
+
     filings = [
         SimpleNamespace(
             identifier="file1",

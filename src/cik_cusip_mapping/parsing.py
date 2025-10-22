@@ -20,6 +20,8 @@ TAG_PATTERN = re.compile(r"<[^>]+>")
 
 @dataclass
 class ParsedFiling:
+    """Structured result returned by parsing a single filing."""
+
     identifier: str
     cik: str | None
     cusip: str | None
@@ -32,11 +34,15 @@ class ParsedFiling:
 
 
 class FilingLike(Protocol):
+    """Protocol that describes the minimal attributes required from a filing."""
+
     identifier: str
     content: str
 
 
 def _extract_cik(lines: Sequence[str]) -> str | None:
+    """Return the CIK value embedded in the filing header, if present."""
+
     record = False
     for line in lines:
         if "SUBJECT COMPANY" in line:
@@ -47,6 +53,8 @@ def _extract_cik(lines: Sequence[str]) -> str | None:
 
 
 def _normalize_cusip(value: str) -> str | None:
+    """Normalize a candidate CUSIP string to an uppercase 9-character token."""
+
     cleaned = "".join(ch for ch in value.upper() if ch.isalnum())
     if len(cleaned) == 9 and any(ch.isdigit() for ch in cleaned):
         return cleaned
@@ -54,6 +62,8 @@ def _normalize_cusip(value: str) -> str | None:
 
 
 def _extract_matches(text: str) -> list[str]:
+    """Find normalized CUSIP candidates within the provided text block."""
+
     cleaned = TAG_PATTERN.sub(" ", html.unescape(text))
     upper = cleaned.upper()
     matches: list[str] = []
@@ -71,6 +81,8 @@ def _extract_matches(text: str) -> list[str]:
 def _extract_cusip(
     lines: Sequence[str], *, debug: bool = False
 ) -> tuple[str | None, str | None]:
+    """Locate the best CUSIP match in the filing and describe the method used."""
+
     record = False
     matches: list[tuple[str, str]] = []
     candidate_segments: list[str] = []
@@ -107,6 +119,8 @@ def _extract_cusip(
 def parse_text(
     text: str, *, debug: bool = False
 ) -> tuple[str | None, str | None, str | None]:
+    """Parse raw filing text and return the CIK, CUSIP, and parse method."""
+
     lines = text.splitlines()
     cik = _extract_cik(lines)
     cusip, parse_method = _extract_cusip(lines, debug=debug)
@@ -116,6 +130,8 @@ def parse_text(
 
 
 def parse_file(path: Path | str, *, debug: bool = False) -> ParsedFiling:
+    """Parse a filing stored on disk into a :class:`ParsedFiling` record."""
+
     path = Path(path)
     text = path.read_text(errors="ignore")
     cik, cusip, parse_method = parse_text(text, debug=debug)
@@ -127,6 +143,8 @@ def parse_filings(
     *,
     debug: bool = False,
 ) -> Iterator[ParsedFiling]:
+    """Iterate over in-memory filings and yield parsed results."""
+
     for filing in filings:
         cik, cusip, parse_method = parse_text(filing.content, debug=debug)
         yield ParsedFiling(
@@ -149,6 +167,8 @@ def parse_filings_concurrently(
     max_queue: int = 32,
     workers: int = 2,
 ) -> Iterator[ParsedFiling]:
+    """Parse filings using a thread pool to overlap I/O and computation."""
+
     with ThreadPoolExecutor(max_workers=workers) as executor:
         pending: Deque[
             tuple[FilingLike, Future[tuple[str | None, str | None, str | None]]]
@@ -198,6 +218,8 @@ def stream_to_csv(
     workers: int = 2,
     events_csv_path: Path | str | None = None,
 ) -> int:
+    """Stream parsed filings to CSV files and optionally emit event logs."""
+
     csv_path = Path(csv_path)
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     count = 0
@@ -262,6 +284,8 @@ def stream_to_csv(
 
 
 def _iter_directory_files(path: Path) -> Iterator[Path]:
+    """Yield files within ``path`` grouped by subdirectory for reproducible order."""
+
     yield from sorted(path.glob("*/*"))
 
 
@@ -274,6 +298,8 @@ def parse_directory(
     max_queue: int = 32,
     workers: int = 2,
 ) -> int:
+    """Parse every filing stored in ``directory`` and write results to CSV."""
+
     directory = Path(directory)
     if not directory.exists():
         raise FileNotFoundError(f"Directory not found: {directory}")
