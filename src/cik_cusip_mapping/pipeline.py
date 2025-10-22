@@ -19,6 +19,7 @@ def run_pipeline(
     *,
     output_root: Path | str = Path("."),
     output_file: Path | str = Path("cik-cusip-maps.csv"),
+    write_final_mapping: bool = False,
     emit_dynamics: bool = True,
     events_output_root: Path | str = Path("."),
     dynamics_output_file: Path | str = Path("cik-cusip-dynamics.csv"),
@@ -35,7 +36,7 @@ def run_pipeline(
     parsing_max_queue: int = 32,
     show_progress: bool = True,
     session: requests.Session | None = None,
-) -> tuple["pd.DataFrame", "pd.DataFrame | None"]:
+) -> tuple["pd.DataFrame", "pd.DataFrame | None", dict[str, int]]:
     """Run the end-to-end CIK to CUSIP mapping pipeline."""
 
     base_path = Path(output_root)
@@ -68,32 +69,22 @@ def run_pipeline(
                 master_path=master_path, output_path=resolved_index_path
             )
 
-        csv_paths: list[Path] = []
         events_paths: list[Path] = []
         skip_streaming = skip_download or skip_parse
         events_base_path = Path(events_output_root)
         if not events_base_path.is_absolute():
             events_base_path = base_path / events_base_path
-        if emit_dynamics:
-            events_base_path.mkdir(parents=True, exist_ok=True)
+        events_base_path.mkdir(parents=True, exist_ok=True)
+        events_counts: dict[str, int] = {}
         for form in forms:
-            csv_path = base_path / f"{form}.csv"
-            events_path = (
-                events_base_path / f"{form}_events.csv" if emit_dynamics else None
-            )
+            events_path = events_base_path / f"{form}_events.csv"
             if skip_streaming:
-                if not csv_path.exists():
-                    raise FileNotFoundError(
-                        f"Expected CSV {csv_path} not found. Remove skip flags or generate it first."
-                    )
-                if (
-                    emit_dynamics
-                    and events_path is not None
-                    and not events_path.exists()
-                ):
+                if not events_path.exists():
                     raise FileNotFoundError(
                         f"Expected events CSV {events_path} not found. Remove skip flags or generate it first."
                     )
+                with events_path.open("r", encoding="utf-8") as handle:
+                    events_counts[form] = max(sum(1 for _ in handle) - 1, 0)
             else:
                 filings = streaming.stream_filings(
                     form,
@@ -105,26 +96,23 @@ def run_pipeline(
                     show_progress=show_progress,
                     progress_desc=f"Streaming {form} filings",
                 )
-                parsing.stream_to_csv(
+                events_counts[form] = parsing.stream_events_to_csv(
                     filings,
-                    csv_path,
+                    events_path,
                     debug=debug,
                     concurrent=concurrent_parsing,
-                    events_csv_path=events_path,
                     max_queue=parsing_max_queue,
                     workers=parsing_workers,
                     show_progress=show_progress,
                 )
-            csv_paths.append(csv_path)
-            if events_path is not None:
-                events_paths.append(events_path)
+            events_paths.append(events_path)
 
         output_path = Path(output_file)
         if not output_path.is_absolute():
             output_path = base_path / output_path
 
-        mapping = postprocessing.postprocess_mappings(
-            csv_paths, output=output_path
+        mapping = postprocessing.postprocess_mapping_from_events(
+            events_paths, output=output_path if write_final_mapping else None
         )
 
         dynamics = None
@@ -136,7 +124,7 @@ def run_pipeline(
                 events_paths, output=dynamics_output_path
             )
 
-        return mapping, dynamics
+        return mapping, dynamics, events_counts
     finally:
         if created_session:
             http_session.close()

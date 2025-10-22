@@ -38,6 +38,14 @@ class Filing:
 
         return f"{self.cik}_{self.date}_{self.accession_fragment}.txt"
 
+    @property
+    def filing_url(self) -> str:
+        """Reconstruct the public EDGAR index URL for this filing."""
+
+        from .parsing import reconstruct_filing_url
+
+        return reconstruct_filing_url(self.cik, self.accession_number)
+
 
 def _iter_index_rows(form: str, index_path: Path) -> Iterator[dict[str, str]]:
     """Yield index rows matching ``form`` from ``index_path``."""

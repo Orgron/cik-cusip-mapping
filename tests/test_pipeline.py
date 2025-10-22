@@ -88,45 +88,44 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         assert session is dummy_session
         yield SimpleNamespace(identifier="id", content="")
 
-    def fake_stream_to_csv(
+    def fake_stream_events_to_csv(
         filings,
-        csv_path,
+        events_path,
         *,
         debug=False,
         concurrent=True,
         max_queue=32,
         workers=2,
-        events_csv_path=None,
         show_progress=True,
     ):
-        """Capture streamed filings and emit placeholder CSV outputs."""
+        """Capture streamed filings and emit placeholder event outputs."""
 
         rows = list(filings)
         calls.append(
             (
-                "stream_to_csv",
+                "stream_events_to_csv",
                 [row.identifier for row in rows],
-                Path(csv_path),
+                Path(events_path),
                 debug,
                 concurrent,
-                Path(events_csv_path) if events_csv_path else None,
                 max_queue,
                 workers,
                 show_progress,
             )
         )
-        Path(csv_path).write_text("id,cik,cusip\n")
-        if events_csv_path:
-            Path(events_csv_path).write_text("identifier,cik\n")
+        Path(events_path).write_text(
+            "cik,form,filing_date,accession_number,company_name,cusip9,cusip8,cusip6,parse_method\n"
+            "1,13G,2020-01-01,0001,Example Corp,123456789,12345678,123456,window\n"
+        )
         return len(rows)
 
-    def fake_postprocess(csv_paths, *, output=None):
+    def fake_postprocess(events_paths, *, output=None):
         """Record post-processing inputs and write a sample mapping file."""
 
         calls.append(
             (
                 "postprocess",
-                [Path(p) for p in csv_paths],
+                [Path(p) for p in events_paths],
                 Path(output) if output else None,
             )
         )
@@ -151,19 +150,24 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
     monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
-    monkeypatch.setattr(pipeline.parsing, "stream_to_csv", fake_stream_to_csv)
     monkeypatch.setattr(
-        pipeline.postprocessing, "postprocess_mappings", fake_postprocess
+        pipeline.parsing, "stream_events_to_csv", fake_stream_events_to_csv
+    )
+    monkeypatch.setattr(
+        pipeline.postprocessing,
+        "postprocess_mapping_from_events",
+        fake_postprocess,
     )
     monkeypatch.setattr(
         pipeline.postprocessing, "build_cusip_dynamics", fake_build_dynamics
     )
 
     output_file = tmp_path / "final.csv"
-    mapping, dynamics = pipeline.run_pipeline(
+    mapping, dynamics, events_counts = pipeline.run_pipeline(
         forms=["13G"],
         output_root=tmp_path,
         output_file=output_file,
+        write_final_mapping=True,
         sec_name="Jane Doe",
         sec_email="jane@example.com",
     )
@@ -171,12 +175,13 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     assert calls[0][0] == "download_index"
     assert calls[1][0] == "write_index"
     assert calls[2][0] == "stream_filings"
-    assert calls[3][0] == "stream_to_csv"
+    assert calls[3][0] == "stream_events_to_csv"
     assert calls[4][0] == "postprocess"
     assert calls[5][0] == "build_dynamics"
     assert output_file.exists()
     assert list(mapping.columns) == ["cik", "cusip6", "cusip8"]
     assert dynamics is not None
+    assert events_counts["13G"] == 1
     assert dummy_session.closed is True
 
 
@@ -227,28 +232,27 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
     monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
 
-    def consume_to_csv(
+    def consume_events(
         filings,
-        csv_path,
+        events_path,
         *,
-        events_csv_path=None,
         show_progress=True,
         **kwargs,
     ):
-        """Consume filings generator and create placeholder CSV outputs."""
+        """Consume filings generator and create placeholder event outputs."""
 
         for _ in filings:
             pass
-        Path(csv_path).write_text("id,cik,cusip\n")
-        if events_csv_path:
-            Path(events_csv_path).write_text("identifier,cik\n")
+        Path(events_path).write_text(
+            "cik,form,filing_date,accession_number,company_name,cusip9,cusip8,cusip6,parse_method\n"
+        )
         return 1
 
-    monkeypatch.setattr(pipeline.parsing, "stream_to_csv", consume_to_csv)
+    monkeypatch.setattr(pipeline.parsing, "stream_events_to_csv", consume_events)
     monkeypatch.setattr(
         pipeline.postprocessing,
-        "postprocess_mappings",
-        lambda csv_paths, **kwargs: pd.DataFrame(
+        "postprocess_mapping_from_events",
+        lambda events_paths, **kwargs: pd.DataFrame(
             columns=["cik", "cusip6", "cusip8"]
         ),
     )

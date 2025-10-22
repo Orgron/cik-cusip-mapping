@@ -8,44 +8,80 @@ from typing import Iterable
 import pandas as pd
 
 
-def postprocess_mappings(
-    csv_paths: Iterable[Path | str],
+def postprocess_mapping_from_events(
+    events_paths: Iterable[Path | str],
     *,
     output: Path | str | None = None,
     valid_lengths: Iterable[int] | None = None,
     forbidden_prefixes: Iterable[str] | None = None,
 ) -> pd.DataFrame:
-    """Combine per-form CSV files into the final mapping DataFrame."""
+    """Derive the deduplicated CIK to CUSIP mapping directly from events."""
+
+    frames: list[pd.DataFrame] = []
+    for csv_path in events_paths:
+        path = Path(csv_path)
+        if not path.exists():
+            continue
+        frame = pd.read_csv(path, dtype=str, encoding="utf-8")
+        if frame.empty:
+            continue
+        frames.append(frame)
 
     length_whitelist = set(valid_lengths or {6, 8, 9})
-    excluded_prefixes = {prefix.upper() for prefix in (forbidden_prefixes or {"000000", "0001PT"})}
-    frames: list[pd.DataFrame] = []
-    for csv_path in csv_paths:
-        path = Path(csv_path)
-        frame = pd.read_csv(
-            path,
-            names=["filename", "cik", "cusip"],
-            encoding="utf-8",
-        ).dropna()
-        if frame.empty:
-            continue
-        frame["leng"] = frame.cusip.map(len)
-        frame = frame[frame.leng.isin(length_whitelist)]
-        if frame.empty:
-            continue
-        frame["cusip"] = frame.cusip.str.upper()
-        frame["cusip6"] = frame.cusip.str[:6]
-        frame = frame[~frame.cusip6.str.upper().isin(excluded_prefixes)]
-        if frame.empty:
-            continue
-        frame["cusip8"] = frame.cusip.str[:8]
-        frame["cik"] = pd.to_numeric(frame.cik)
-        frames.append(frame[["cik", "cusip6", "cusip8"]])
+    excluded_prefixes = {
+        prefix.upper() for prefix in (forbidden_prefixes or {"000000", "0001PT"})
+    }
 
-    if frames:
-        result = pd.concat(frames, ignore_index=True).drop_duplicates()
-    else:
+    if not frames:
         result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+    else:
+        combined = pd.concat(frames, ignore_index=True)
+        combined = combined.dropna(subset=["cik", "cusip8"])
+        if combined.empty:
+            result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+        else:
+            combined["cik"] = pd.to_numeric(combined["cik"], errors="coerce")
+            combined = combined.dropna(subset=["cik"])
+            if combined.empty:
+                result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+            else:
+                combined["cik"] = combined["cik"].astype(int)
+                combined["cusip8"] = combined["cusip8"].astype(str).str.upper()
+                combined = combined[combined["cusip8"].str.len() == 8]
+                if combined.empty:
+                    result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+                else:
+                    length_source = combined.get("cusip9")
+                    if length_source is None:
+                        length_source = combined["cusip8"]
+                    length_mask = length_source.astype(str).str.len().isin(
+                        length_whitelist
+                    )
+                    combined = combined[length_mask]
+                    if combined.empty:
+                        result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+                    else:
+                        cusip6_series = combined.get("cusip6")
+                        if cusip6_series is None:
+                            cusip6_series = pd.Series("", index=combined.index)
+                        combined["cusip6"] = cusip6_series.astype(str).str.upper()
+                        combined.loc[
+                            combined["cusip6"].str.len() != 6, "cusip6"
+                        ] = combined["cusip8"].str[:6]
+                        combined = combined[
+                            ~combined["cusip6"].str.upper().isin(excluded_prefixes)
+                        ]
+                        if combined.empty:
+                            result = pd.DataFrame(
+                                columns=["cik", "cusip6", "cusip8"]
+                            )
+                        else:
+                            result = (
+                                combined[["cik", "cusip6", "cusip8"]]
+                                .drop_duplicates()
+                                .sort_values(["cik", "cusip8"])
+                                .reset_index(drop=True)
+                            )
 
     if output is not None:
         output_path = Path(output)

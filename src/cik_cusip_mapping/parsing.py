@@ -16,19 +16,19 @@ from tqdm.auto import tqdm
 
 CUSIP_PATTERN = re.compile(r"[0-9A-Z](?:[- ]?[0-9A-Z]){8,10}")
 TAG_PATTERN = re.compile(r"<[^>]+>")
+ARCHIVES_URL = "https://www.sec.gov/Archives/"
 
 
 @dataclass
 class ParsedFiling:
     """Structured result returned by parsing a single filing."""
 
-    identifier: str
+    identifier: str | None
     cik: str | None
     cusip: str | None
     form: str | None = None
     filing_date: str | None = None
     accession_number: str | None = None
-    url: str | None = None
     company_name: str | None = None
     parse_method: str | None = None
 
@@ -154,7 +154,6 @@ def parse_filings(
             form=getattr(filing, "form", None),
             filing_date=getattr(filing, "date", None),
             accession_number=getattr(filing, "accession_number", None),
-            url=getattr(filing, "url", None),
             company_name=getattr(filing, "company_name", None),
             parse_method=parse_method,
         )
@@ -188,7 +187,6 @@ def parse_filings_concurrently(
                     form=getattr(oldest_filing, "form", None),
                     filing_date=getattr(oldest_filing, "date", None),
                     accession_number=getattr(oldest_filing, "accession_number", None),
-                    url=getattr(oldest_filing, "url", None),
                     company_name=getattr(oldest_filing, "company_name", None),
                     parse_method=parse_method,
                 )
@@ -202,27 +200,25 @@ def parse_filings_concurrently(
                 form=getattr(filing, "form", None),
                 filing_date=getattr(filing, "date", None),
                 accession_number=getattr(filing, "accession_number", None),
-                url=getattr(filing, "url", None),
                 company_name=getattr(filing, "company_name", None),
                 parse_method=parse_method,
             )
 
 
-def stream_to_csv(
+def stream_events_to_csv(
     filings: Iterable[FilingLike],
-    csv_path: Path | str,
+    events_csv_path: Path | str,
     *,
     debug: bool = False,
     concurrent: bool = False,
     max_queue: int = 32,
     workers: int = 2,
-    events_csv_path: Path | str | None = None,
     show_progress: bool = True,
 ) -> int:
-    """Stream parsed filings to CSV files and optionally emit event logs."""
+    """Stream parsed filings to an events CSV with derived CUSIP details."""
 
-    csv_path = Path(csv_path)
-    csv_path.parent.mkdir(parents=True, exist_ok=True)
+    events_path = Path(events_csv_path)
+    events_path.parent.mkdir(parents=True, exist_ok=True)
     count = 0
     if concurrent:
         iterator = parse_filings_concurrently(
@@ -233,21 +229,15 @@ def stream_to_csv(
         )
     else:
         iterator = parse_filings(filings, debug=debug)
-    events_writer = None
-    events_handle = None
-    if events_csv_path is not None:
-        events_path = Path(events_csv_path)
-        events_path.parent.mkdir(parents=True, exist_ok=True)
-        events_handle = events_path.open("w", newline="", encoding="utf-8")
+
+    with events_path.open("w", newline="", encoding="utf-8") as events_handle:
         events_writer = csv.writer(events_handle)
         events_writer.writerow(
             [
-                "identifier",
                 "cik",
                 "form",
                 "filing_date",
                 "accession_number",
-                "url",
                 "company_name",
                 "cusip9",
                 "cusip8",
@@ -255,40 +245,43 @@ def stream_to_csv(
                 "parse_method",
             ]
         )
-    try:
-        with csv_path.open("w", newline="", encoding="utf-8") as handle:
-            writer = csv.writer(handle)
-            progress = (
-                tqdm(iterator, desc="Parsing filings", unit="filing")
-                if show_progress
-                else iterator
-            )
+        progress = (
+            tqdm(iterator, desc="Parsing filings", unit="filing")
+            if show_progress
+            else iterator
+        )
+        try:
             for parsed in progress:
-                writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
-                if events_writer is not None:
-                    cusip9 = parsed.cusip or ""
-                    events_writer.writerow(
-                        [
-                            parsed.identifier,
-                            parsed.cik or "",
-                            parsed.form or "",
-                            parsed.filing_date or "",
-                            parsed.accession_number or "",
-                            parsed.url or "",
-                            parsed.company_name or "",
-                            cusip9,
-                            cusip9[:8] if cusip9 else "",
-                            cusip9[:6] if cusip9 else "",
-                            parsed.parse_method or "",
-                        ]
-                    )
+                cusip9 = parsed.cusip or ""
+                events_writer.writerow(
+                    [
+                        parsed.cik or "",
+                        parsed.form or "",
+                        parsed.filing_date or "",
+                        parsed.accession_number or "",
+                        parsed.company_name or "",
+                        cusip9,
+                        cusip9[:8] if cusip9 else "",
+                        cusip9[:6] if cusip9 else "",
+                        parsed.parse_method or "",
+                    ]
+                )
                 count += 1
+        finally:
             if show_progress and hasattr(progress, "close"):
                 progress.close()
-    finally:
-        if events_handle is not None:
-            events_handle.close()
     return count
+
+
+def reconstruct_filing_url(cik: str | int, accession_number: str) -> str:
+    """Recreate the EDGAR index URL for a filing from its identifiers."""
+
+    cik_value = str(cik).lstrip("0") or "0"
+    accession_fragment = accession_number.replace("-", "")
+    return (
+        f"{ARCHIVES_URL}edgar/data/{cik_value}/{accession_fragment}/"
+        f"{accession_number}-index.html"
+    )
 
 
 def _iter_directory_files(
