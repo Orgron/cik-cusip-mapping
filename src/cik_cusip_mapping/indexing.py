@@ -8,11 +8,10 @@ import csv
 from pathlib import Path
 from typing import Iterable
 
-from tqdm.auto import tqdm
-
 import requests
 
 from .sec import RateLimiter, build_request_headers, create_session
+from .progress import resolve_tqdm
 
 logger = logging.getLogger(__name__)
 
@@ -37,6 +36,8 @@ def download_master_index(
     end_year: int | None = None,
     output_path: Path | str = Path("master.idx"),
     session: requests.Session | None = None,
+    show_progress: bool = True,
+    use_notebook: bool | None = None,
 ) -> Path:
     """Download the SEC master index covering the requested period."""
 
@@ -54,13 +55,22 @@ def download_master_index(
     created_session = session is None
     http = session or create_session()
 
+    progress = (
+        resolve_tqdm(use_notebook)(
+            total=len(quarters),
+            desc="Downloading master index",
+            unit="quarter",
+            dynamic_ncols=True,
+            mininterval=0.1,
+            leave=False,
+        )
+        if show_progress
+        else None
+    )
+
     try:
         with output_path.open("wb") as handle:
-            for year, quarter in tqdm(
-                quarters,
-                desc="Downloading master index",
-                unit="quarter",
-            ):
+            for year, quarter in quarters:
                 logger.info("Downloading master index for %s Q%s", year, quarter)
                 limiter.wait()
                 response = http.get(
@@ -70,7 +80,11 @@ def download_master_index(
                 )
                 response.raise_for_status()
                 handle.write(response.content)
+                if progress is not None:
+                    progress.update(1)
     finally:
+        if progress is not None:
+            progress.close()
         if created_session:
             http.close()
 
@@ -81,6 +95,8 @@ def write_full_index(
     master_path: Path | str = Path("master.idx"),
     *,
     output_path: Path | str = Path("full_index.csv"),
+    show_progress: bool = True,
+    use_notebook: bool | None = None,
 ) -> Path:
     """Convert the downloaded master index into a structured CSV file."""
 
@@ -90,14 +106,38 @@ def write_full_index(
     if not master_path.exists():
         raise FileNotFoundError(f"Master index not found: {master_path}")
 
-    with output_path.open("w", newline="", encoding="utf-8", errors="ignore") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["cik", "comnam", "form", "date", "url"])
-        with master_path.open("r", encoding="latin1", errors="ignore") as handle:
-            for line in tqdm(handle, desc="Building full index", unit="line"):
-                if ".txt" not in line:
-                    continue
-                writer.writerow(line.strip().split("|"))
+    total_entries: int | None = None
+    if show_progress:
+        with master_path.open("r", encoding="latin1", errors="ignore") as count_handle:
+            total_entries = sum(1 for line in count_handle if ".txt" in line)
+
+    progress = (
+        resolve_tqdm(use_notebook)(
+            total=total_entries,
+            desc="Building full index",
+            unit="line",
+            dynamic_ncols=True,
+            mininterval=0.1,
+            leave=True,
+        )
+        if show_progress
+        else None
+    )
+
+    try:
+        with output_path.open("w", newline="", encoding="utf-8", errors="ignore") as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(["cik", "comnam", "form", "date", "url"])
+            with master_path.open("r", encoding="latin1", errors="ignore") as handle:
+                for line in handle:
+                    if ".txt" not in line:
+                        continue
+                    writer.writerow(line.strip().split("|"))
+                    if progress is not None:
+                        progress.update(1)
+    finally:
+        if progress is not None:
+            progress.close()
 
     try:
         master_path.unlink()
