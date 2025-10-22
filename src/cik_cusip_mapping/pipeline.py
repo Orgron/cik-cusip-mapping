@@ -84,9 +84,14 @@ def run_pipeline(
                 resolved_sec_email,
                 output_path=master_path,
                 session=http_session,
+                show_progress=show_progress,
+                use_notebook=use_notebook,
             )
             indexing.write_full_index(
-                master_path=master_path, output_path=resolved_index_path
+                master_path=master_path,
+                output_path=resolved_index_path,
+                show_progress=show_progress,
+                use_notebook=use_notebook,
             )
 
         events_paths: list[Path] = []
@@ -112,6 +117,9 @@ def run_pipeline(
                 with events_path.open("r", encoding="utf-8") as handle:
                     events_counts[form] = max(sum(1 for _ in handle) - 1, 0)
             else:
+                parsing_show_progress = show_progress
+                stream_show_progress = show_progress and not parsing_show_progress
+
                 filings = streaming.stream_filings(
                     form,
                     requests_per_second,
@@ -119,7 +127,7 @@ def run_pipeline(
                     resolved_sec_email,
                     index_path=resolved_index_path,
                     session=http_session,
-                    show_progress=show_progress,
+                    show_progress=stream_show_progress,
                     progress_desc=f"Streaming {form} filings",
                     total_hint=form_totals.get(form),
                     use_notebook=use_notebook,
@@ -131,7 +139,7 @@ def run_pipeline(
                     concurrent=concurrent_parsing,
                     max_queue=parsing_max_queue,
                     workers=parsing_workers,
-                    show_progress=show_progress,
+                    show_progress=parsing_show_progress,
                     total_hint=form_totals.get(form),
                     use_notebook=use_notebook,
                 )

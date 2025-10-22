@@ -46,14 +46,29 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     dummy_session = DummySession()
     monkeypatch.setattr(pipeline, "create_session", lambda: dummy_session)
 
-    def fake_download(rps, name, email, *, output_path, session):
+    def fake_download(
+        rps,
+        name,
+        email,
+        *,
+        output_path,
+        session,
+        show_progress=True,
+        use_notebook=None,
+    ):
         """Record calls to the download helper and create a stub index."""
 
         calls.append(("download_index", rps, name, email, output_path, session))
         assert session is dummy_session
         output_path.write_text("master")
 
-    def fake_write(master_path, *, output_path):
+    def fake_write(
+        master_path,
+        *,
+        output_path,
+        show_progress=True,
+        use_notebook=None,
+    ):
         """Record writes to the full index and produce a minimal CSV."""
 
         calls.append(("write_index", master_path, output_path))
@@ -184,6 +199,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     assert calls[1][0] == "write_index"
     assert calls[2][0] == "stream_filings"
     assert calls[3][0] == "stream_events_to_csv"
+    assert calls[3][7] is True
+    assert calls[2][7] is False
     assert calls[2][-2] == 0
     assert calls[2][-1] is None
     assert calls[3][-2] == 0
@@ -212,13 +229,28 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     dummy_session = DummySession()
     monkeypatch.setattr(pipeline, "create_session", lambda: dummy_session)
 
-    def fake_download(rps, name, email, *, output_path, session):
+    def fake_download(
+        rps,
+        name,
+        email,
+        *,
+        output_path,
+        session,
+        show_progress=True,
+        use_notebook=None,
+    ):
         """Write a stub master index file."""
 
         assert session is dummy_session
         output_path.write_text("master")
 
-    def fake_write(master_path, *, output_path):
+    def fake_write(
+        master_path,
+        *,
+        output_path,
+        show_progress=True,
+        use_notebook=None,
+    ):
         """Write a stub full index file."""
 
         output_path.write_text("cik,comnam,form,date,url\n")
@@ -299,7 +331,7 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
 
     assert calls[0][:4] == ("13D", 10.0, "Jane Doe", "jane@example.com")
     assert calls[0][5] is dummy_session
-    assert calls[0][6] is True
+    assert calls[0][6] is False
 
 
 def test_pipeline_uses_environment_metadata(monkeypatch, tmp_path):
@@ -320,12 +352,27 @@ def test_pipeline_uses_environment_metadata(monkeypatch, tmp_path):
     monkeypatch.setenv("SEC_NAME", "Env Contact")
     monkeypatch.setenv("SEC_EMAIL", "env@example.com")
 
-    def fake_download(rps, name, email, *, output_path, session):
+    def fake_download(
+        rps,
+        name,
+        email,
+        *,
+        output_path,
+        session,
+        show_progress=True,
+        use_notebook=None,
+    ):
         calls.append(("download", name, email))
         assert session is dummy_session
         output_path.write_text("master")
 
-    def fake_write(master_path, *, output_path):
+    def fake_write(
+        master_path,
+        *,
+        output_path,
+        show_progress=True,
+        use_notebook=None,
+    ):
         output_path.write_text("cik,comnam,form,date,url\n")
 
     def fake_stream_filings(
