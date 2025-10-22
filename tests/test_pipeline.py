@@ -3,24 +3,10 @@
 from pathlib import Path
 from types import SimpleNamespace
 
+import pandas as pd
 import pytest
 
 from cik_cusip_mapping import pipeline
-
-
-class DummyFrame:
-    """Lightweight stand-in for a pandas DataFrame in tests."""
-
-    def __init__(self, columns, rows):
-        """Capture the provided columns and rows for later assertions."""
-
-        self.columns = columns
-        self._rows = rows
-
-    def __len__(self) -> int:  # pragma: no cover - trivial
-        """Return the number of stored rows."""
-
-        return len(self._rows)
 
 
 def test_skip_index_requires_existing_full_index(tmp_path):
@@ -108,7 +94,9 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         )
         if output:
             Path(output).write_text("cik,cusip6,cusip8\n1,123456,12345678\n")
-        return DummyFrame(["cik", "cusip6", "cusip8"], rows=[{"cik": 1}])
+        columns = ["cik", "cusip6", "cusip8"]
+        rows = [{"cik": 1, "cusip6": "123456", "cusip8": "12345678"}]
+        return pd.DataFrame(rows, columns=columns)
 
     def fake_build_dynamics(events_paths, *, output=None):
         """Record dynamics aggregation inputs and emit a sample output."""
@@ -118,7 +106,9 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
             Path(output).write_text(
                 "cik,cusip6,cusip8,first_seen,last_seen,filings_count,forms,months_active,most_recent_accession,most_recent_form,most_recent_filing_date\n"
             )
-        return DummyFrame(["cik", "cusip8"], rows=[{"cik": 1}])
+        return pd.DataFrame(
+            [{"cik": 1, "cusip8": "12345678"}], columns=["cik", "cusip8"]
+        )
 
     monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
@@ -190,12 +180,14 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     monkeypatch.setattr(
         pipeline.postprocessing,
         "postprocess_mappings",
-        lambda csv_paths, **kwargs: DummyFrame(["cik", "cusip6", "cusip8"], rows=[]),
+        lambda csv_paths, **kwargs: pd.DataFrame(
+            columns=["cik", "cusip6", "cusip8"]
+        ),
     )
     monkeypatch.setattr(
         pipeline.postprocessing,
         "build_cusip_dynamics",
-        lambda events_paths, **kwargs: DummyFrame(["cik"], rows=[]),
+        lambda events_paths, **kwargs: pd.DataFrame(columns=["cik"]),
     )
 
     pipeline.run_pipeline(
