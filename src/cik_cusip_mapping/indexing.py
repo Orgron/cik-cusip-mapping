@@ -8,10 +8,11 @@ import csv
 from pathlib import Path
 from typing import Iterable
 
-import requests
 from tqdm.auto import tqdm
 
-from .sec import RateLimiter, build_request_headers
+import requests
+
+from .sec import RateLimiter, build_request_headers, create_session
 
 logger = logging.getLogger(__name__)
 
@@ -35,6 +36,7 @@ def download_master_index(
     start_year: int = 1994,
     end_year: int | None = None,
     output_path: Path | str = Path("master.idx"),
+    session: requests.Session | None = None,
 ) -> Path:
     """Download the SEC master index covering the requested period."""
 
@@ -49,21 +51,28 @@ def download_master_index(
     end_quarter = current_quarter if end_year >= today.year else 4
 
     quarters = list(_iter_quarters(start_year, end_year, end_quarter))
-    with output_path.open("wb") as handle:
-        for year, quarter in tqdm(
-            quarters,
-            desc="Downloading master index",
-            unit="quarter",
-        ):
-            logger.info("Downloading master index for %s Q%s", year, quarter)
-            limiter.wait()
-            response = requests.get(
-                f"https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{quarter}/master.idx",
-                headers=headers,
-                timeout=60,
-            )
-            response.raise_for_status()
-            handle.write(response.content)
+    created_session = session is None
+    http = session or create_session()
+
+    try:
+        with output_path.open("wb") as handle:
+            for year, quarter in tqdm(
+                quarters,
+                desc="Downloading master index",
+                unit="quarter",
+            ):
+                logger.info("Downloading master index for %s Q%s", year, quarter)
+                limiter.wait()
+                response = http.get(
+                    f"https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{quarter}/master.idx",
+                    headers=headers,
+                    timeout=60,
+                )
+                response.raise_for_status()
+                handle.write(response.content)
+    finally:
+        if created_session:
+            http.close()
 
     return output_path
 
@@ -81,7 +90,7 @@ def write_full_index(
     if not master_path.exists():
         raise FileNotFoundError(f"Master index not found: {master_path}")
 
-    with output_path.open("w", newline="", errors="ignore") as csvfile:
+    with output_path.open("w", newline="", encoding="utf-8", errors="ignore") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(["cik", "comnam", "form", "date", "url"])
         with master_path.open("r", encoding="latin1", errors="ignore") as handle:

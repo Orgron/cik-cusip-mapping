@@ -133,7 +133,7 @@ def parse_file(path: Path | str, *, debug: bool = False) -> ParsedFiling:
     """Parse a filing stored on disk into a :class:`ParsedFiling` record."""
 
     path = Path(path)
-    text = path.read_text(errors="ignore")
+    text = path.read_text(encoding="utf-8", errors="ignore")
     cik, cusip, parse_method = parse_text(text, debug=debug)
     return ParsedFiling(str(path), cik, cusip, parse_method=parse_method)
 
@@ -217,6 +217,7 @@ def stream_to_csv(
     max_queue: int = 32,
     workers: int = 2,
     events_csv_path: Path | str | None = None,
+    show_progress: bool = True,
 ) -> int:
     """Stream parsed filings to CSV files and optionally emit event logs."""
 
@@ -237,7 +238,7 @@ def stream_to_csv(
     if events_csv_path is not None:
         events_path = Path(events_csv_path)
         events_path.parent.mkdir(parents=True, exist_ok=True)
-        events_handle = events_path.open("w", newline="")
+        events_handle = events_path.open("w", newline="", encoding="utf-8")
         events_writer = csv.writer(events_handle)
         events_writer.writerow(
             [
@@ -255,9 +256,14 @@ def stream_to_csv(
             ]
         )
     try:
-        with csv_path.open("w", newline="") as handle:
+        with csv_path.open("w", newline="", encoding="utf-8") as handle:
             writer = csv.writer(handle)
-            for parsed in tqdm(iterator, desc="Parsing filings", unit="filing"):
+            progress = (
+                tqdm(iterator, desc="Parsing filings", unit="filing")
+                if show_progress
+                else iterator
+            )
+            for parsed in progress:
                 writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
                 if events_writer is not None:
                     cusip9 = parsed.cusip or ""
@@ -277,16 +283,22 @@ def stream_to_csv(
                         ]
                     )
                 count += 1
+            if show_progress and hasattr(progress, "close"):
+                progress.close()
     finally:
         if events_handle is not None:
             events_handle.close()
     return count
 
 
-def _iter_directory_files(path: Path) -> Iterator[Path]:
+def _iter_directory_files(
+    path: Path, *, glob_pattern: str = "**/*"
+) -> Iterator[Path]:
     """Yield files within ``path`` grouped by subdirectory for reproducible order."""
 
-    yield from sorted(path.glob("*/*"))
+    for candidate in sorted(path.glob(glob_pattern)):
+        if candidate.is_file():
+            yield candidate
 
 
 def parse_directory(
@@ -297,6 +309,8 @@ def parse_directory(
     concurrent: bool = False,
     max_queue: int = 32,
     workers: int = 2,
+    glob_pattern: str = "**/*",
+    show_progress: bool = True,
 ) -> int:
     """Parse every filing stored in ``directory`` and write results to CSV."""
 
@@ -306,14 +320,16 @@ def parse_directory(
     output_csv = output_csv or Path(f"{directory}.csv")
     output_csv.parent.mkdir(parents=True, exist_ok=True)
     count = 0
-    file_paths = list(_iter_directory_files(directory))
-    with output_csv.open("w", newline="") as handle:
+    file_paths = list(_iter_directory_files(directory, glob_pattern=glob_pattern))
+    with output_csv.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.writer(handle)
         if concurrent:
             filings = (
                 SimpleNamespace(
                     identifier=str(file_path),
-                    content=file_path.read_text(errors="ignore"),
+                    content=file_path.read_text(
+                        encoding="utf-8", errors="ignore"
+                    ),
                 )
                 for file_path in file_paths
             )
@@ -328,7 +344,19 @@ def parse_directory(
                 parse_file(file_path, debug=debug)
                 for file_path in file_paths
             )
-        for parsed in tqdm(iterator, total=len(file_paths), desc="Parsing directory", unit="filing"):
+        progress = (
+            tqdm(
+                iterator,
+                total=len(file_paths),
+                desc="Parsing directory",
+                unit="filing",
+            )
+            if show_progress
+            else iterator
+        )
+        for parsed in progress:
             writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
             count += 1
+        if show_progress and hasattr(progress, "close"):
+            progress.close()
     return count

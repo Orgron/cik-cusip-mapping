@@ -14,6 +14,15 @@ pip install cik-cusip-mapping
 
 The package targets **Python 3.12** and depends on `pandas` for post-processing.
 
+## SEC usage etiquette
+
+Please follow the [SEC fair access policies](https://www.sec.gov/os/webmaster-fair-access).
+Always identify yourself via the `User-Agent` and `From` headers, which you can
+provide through `run_pipeline()` or the CLI via `--sec-name`/`--sec-email`. The
+default rate limit is 10 requests per second; adjust `requests_per_second` to a
+lower value if you are running large historical backfills or operating from a
+shared IP address.
+
 ## Library usage
 
 The full pipeline is exposed as a composable function. After installation, orchestrate a run entirely from Python:
@@ -21,15 +30,21 @@ The full pipeline is exposed as a composable function. After installation, orche
 ```python
 from pathlib import Path
 
-from cik_cusip_mapping import run_pipeline
+from cik_cusip_mapping import create_session, run_pipeline
 
-df = run_pipeline(
-    forms=("13D", "13G"),
-    output_root=Path("data"),
-    requests_per_second=5,
-    sec_name="Jane Doe",
-    sec_email="jane@example.com",
-)
+session = create_session()
+try:
+    df = run_pipeline(
+        forms=("13D", "13G"),
+        output_root=Path("data"),
+        requests_per_second=5,
+        sec_name="Jane Doe",
+        sec_email="jane@example.com",
+        show_progress=False,
+        session=session,
+    )
+finally:
+    session.close()
 
 print(df.head())
 ```
@@ -43,7 +58,77 @@ Behind the scenes the package exposes dedicated primitives for each stage:
 * `parse_filings_concurrently()` parses filings in parallel with downloading to keep the network and CPU busy simultaneously.
 * `postprocess_mappings()` combines per-form CSVs into the final mapping DataFrame.
 
-These functions can be mixed and matched to build bespoke workflows without shelling out to subprocesses.
+You can reuse a single `requests.Session` across stages to benefit from
+connection pooling and automatic retry/backoff logic:
+
+```python
+from cik_cusip_mapping import create_session, parsing, streaming
+
+session = create_session()
+try:
+    filings = streaming.stream_filings(
+        "13D",
+        requests_per_second=5,
+        name="Jane Doe",
+        email="jane@example.com",
+        session=session,
+        show_progress=False,
+    )
+    parsing.stream_to_csv(
+        filings,
+        "13D.csv",
+        concurrent=True,
+        workers=4,
+        max_queue=64,
+        show_progress=False,
+    )
+finally:
+    session.close()
+```
+
+### Batch workflows
+
+The streaming helpers also support disk-first workflows when you prefer to
+persist filings locally before parsing:
+
+```python
+from pathlib import Path
+
+from cik_cusip_mapping import create_session, parsing, streaming
+
+session = create_session()
+try:
+    count = streaming.stream_filings_to_disk(
+        "13G",
+        Path("raw_filings"),
+        requests_per_second=5,
+        name="Jane Doe",
+        email="jane@example.com",
+        session=session,
+        compress=True,
+    )
+    print(f"Downloaded {count} filings")
+    parsing.parse_directory(
+        Path("raw_filings"),
+        output_csv=Path("parsed.csv"),
+        concurrent=True,
+        workers=4,
+        glob_pattern="**/*.txt.gz",
+        show_progress=False,
+    )
+finally:
+    session.close()
+```
+
+`parse_directory` accepts a configurable glob pattern, so nested directory
+structures (or compressed `.gz` files) are easy to handle.
+
+`postprocess_mappings()` exposes parameters for configuring valid CUSIP lengths
+and filtered prefixes, while `build_cusip_dynamics()` now emits
+`valid_check_digit`, `parse_methods`, and `fallback_filings` columns to help
+with downstream quality filtering. The per-event `parse_method` field
+distinguishes the primary window-based extraction from fallback heuristics so
+you can decide which events to trust.
 
 ## Command-line entry points
 
@@ -53,7 +138,7 @@ Lightweight console commands are available once the package is installed:
 cik-cusip-run-pipeline --help
 ```
 
-Each command delegates to the corresponding library function, providing convenient access for quick experiments while keeping the core implementation import-friendly.
+Each command delegates to the corresponding library function, providing convenient access for quick experiments while keeping the core implementation import-friendly. Use `--parsing-workers`, `--parsing-max-queue`, and `--no-show-progress` to tune parsing throughput and disable progress bars in non-interactive environments.
 
 ## Running the automated tests
 

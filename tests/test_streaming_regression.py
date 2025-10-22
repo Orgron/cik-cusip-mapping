@@ -26,9 +26,9 @@ def test_streaming_matches_legacy(tmp_path):
 
     csv_path = tmp_path / "stream.csv"
     filing = SimpleNamespace(identifier="sample", content=text)
-    parsing.stream_to_csv([filing], csv_path)
+    parsing.stream_to_csv([filing], csv_path, show_progress=False)
 
-    with csv_path.open(newline="") as handle:
+    with csv_path.open(newline="", encoding="utf-8") as handle:
         reader = csv.reader(handle)
         row = next(reader)
 

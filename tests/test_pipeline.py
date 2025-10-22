@@ -36,10 +36,21 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
 
     calls = []
 
-    def fake_download(rps, name, email, *, output_path):
+    class DummySession:
+        def __init__(self) -> None:
+            self.closed = False
+
+        def close(self) -> None:
+            self.closed = True
+
+    dummy_session = DummySession()
+    monkeypatch.setattr(pipeline, "create_session", lambda: dummy_session)
+
+    def fake_download(rps, name, email, *, output_path, session):
         """Record calls to the download helper and create a stub index."""
 
-        calls.append(("download_index", rps, name, email, output_path))
+        calls.append(("download_index", rps, name, email, output_path, session))
+        assert session is dummy_session
         output_path.write_text("master")
 
     def fake_write(master_path, *, output_path):
@@ -48,10 +59,33 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         calls.append(("write_index", master_path, output_path))
         output_path.write_text("cik,comnam,form,date,url\n")
 
-    def fake_stream_filings(form, rps, name, email, *, index_path):
+    def fake_stream_filings(
+        form,
+        rps,
+        name,
+        email,
+        *,
+        index_path,
+        session,
+        show_progress,
+        progress_desc=None,
+    ):
         """Track streaming invocations and yield a dummy filing."""
 
-        calls.append(("stream_filings", form, rps, name, email, index_path))
+        calls.append(
+            (
+                "stream_filings",
+                form,
+                rps,
+                name,
+                email,
+                index_path,
+                session,
+                show_progress,
+                progress_desc,
+            )
+        )
+        assert session is dummy_session
         yield SimpleNamespace(identifier="id", content="")
 
     def fake_stream_to_csv(
@@ -63,6 +97,7 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         max_queue=32,
         workers=2,
         events_csv_path=None,
+        show_progress=True,
     ):
         """Capture streamed filings and emit placeholder CSV outputs."""
 
@@ -75,6 +110,9 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
                 debug,
                 concurrent,
                 Path(events_csv_path) if events_csv_path else None,
+                max_queue,
+                workers,
+                show_progress,
             )
         )
         Path(csv_path).write_text("id,cik,cusip\n")
@@ -139,6 +177,7 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     assert output_file.exists()
     assert list(mapping.columns) == ["cik", "cusip6", "cusip8"]
     assert dynamics is not None
+    assert dummy_session.closed is True
 
 
 def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
@@ -146,9 +185,20 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
 
     calls = []
 
-    def fake_download(rps, name, email, *, output_path):
+    class DummySession:
+        def __init__(self) -> None:
+            self.closed = False
+
+        def close(self) -> None:
+            self.closed = True
+
+    dummy_session = DummySession()
+    monkeypatch.setattr(pipeline, "create_session", lambda: dummy_session)
+
+    def fake_download(rps, name, email, *, output_path, session):
         """Write a stub master index file."""
 
+        assert session is dummy_session
         output_path.write_text("master")
 
     def fake_write(master_path, *, output_path):
@@ -156,17 +206,35 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
 
         output_path.write_text("cik,comnam,form,date,url\n")
 
-    def fake_stream_filings(form, rps, name, email, *, index_path):
+    def fake_stream_filings(
+        form,
+        rps,
+        name,
+        email,
+        *,
+        index_path,
+        session,
+        show_progress,
+        progress_desc=None,
+    ):
         """Capture request metadata passed to the streaming helper."""
 
-        calls.append((form, rps, name, email, index_path))
+        calls.append((form, rps, name, email, index_path, session, show_progress))
+        assert session is dummy_session
         yield SimpleNamespace(identifier="id", content="")
 
     monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
     monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
 
-    def consume_to_csv(filings, csv_path, *, events_csv_path=None, **kwargs):
+    def consume_to_csv(
+        filings,
+        csv_path,
+        *,
+        events_csv_path=None,
+        show_progress=True,
+        **kwargs,
+    ):
         """Consume filings generator and create placeholder CSV outputs."""
 
         for _ in filings:
@@ -197,3 +265,5 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     )
 
     assert calls[0][:4] == ("13D", 10.0, "Jane Doe", "jane@example.com")
+    assert calls[0][5] is dummy_session
+    assert calls[0][6] is True

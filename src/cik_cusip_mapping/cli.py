@@ -86,9 +86,34 @@ def run_pipeline_cli() -> None:
         help="Disable concurrent parsing if you prefer sequential processing.",
     )
     parser.add_argument(
+        "--parsing-workers",
+        type=int,
+        default=2,
+        help="Number of worker threads to use when concurrent parsing is enabled.",
+    )
+    parser.add_argument(
+        "--parsing-max-queue",
+        type=int,
+        default=32,
+        help="Maximum number of pending filings to keep queued during concurrent parsing.",
+    )
+    parser.add_argument(
         "--debug",
         action="store_true",
         help="Enable verbose parsing diagnostics.",
+    )
+    parser.add_argument(
+        "--show-progress",
+        dest="show_progress",
+        action="store_true",
+        default=True,
+        help="Display tqdm progress bars while downloading and parsing (default).",
+    )
+    parser.add_argument(
+        "--no-show-progress",
+        dest="show_progress",
+        action="store_false",
+        help="Disable tqdm progress bars, useful for non-interactive environments.",
     )
 
     args = parser.parse_args()
@@ -109,6 +134,9 @@ def run_pipeline_cli() -> None:
         index_path=Path(args.index_path) if args.index_path else None,
         concurrent_parsing=not args.disable_concurrency,
         debug=args.debug,
+        parsing_workers=args.parsing_workers,
+        parsing_max_queue=args.parsing_max_queue,
+        show_progress=args.show_progress,
     )
 
     output_path = Path(args.output_file)

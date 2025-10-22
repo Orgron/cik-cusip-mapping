@@ -37,14 +37,15 @@ def test_stream_to_csv_writes_events(tmp_path, concurrent):
         csv_path,
         concurrent=concurrent,
         events_csv_path=events_path,
+        show_progress=False,
     )
 
-    with csv_path.open() as handle:
+    with csv_path.open(encoding="utf-8") as handle:
         rows = list(csv.reader(handle))
     assert rows[0][0] == "file1"
     assert rows[0][2] == "123456789"
 
-    with events_path.open() as handle:
+    with events_path.open(encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
         event_rows = list(reader)
 
