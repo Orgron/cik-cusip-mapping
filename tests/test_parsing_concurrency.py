@@ -10,7 +10,7 @@ def test_parse_filings_concurrently_uses_worker_thread(monkeypatch):
 
     def fake_parse_text(text: str, *, debug: bool = False):
         seen_threads.append(threading.get_ident())
-        return "0000123456", "123456789"
+        return "0000123456", "123456789", "window"
 
     monkeypatch.setattr(parsing, "parse_text", fake_parse_text)
 

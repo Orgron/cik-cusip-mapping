@@ -31,6 +31,29 @@ def run_pipeline_cli() -> None:
         help="Destination filename for the final mapping (relative to output-root by default).",
     )
     parser.add_argument(
+        "--emit-dynamics",
+        dest="emit_dynamics",
+        action="store_true",
+        default=True,
+        help="Generate per-form events and aggregated dynamics tables (default).",
+    )
+    parser.add_argument(
+        "--no-emit-dynamics",
+        dest="emit_dynamics",
+        action="store_false",
+        help="Disable per-form event and dynamics outputs.",
+    )
+    parser.add_argument(
+        "--events-output-root",
+        default=".",
+        help="Directory where per-form filing event CSVs should be written.",
+    )
+    parser.add_argument(
+        "--dynamics-output-file",
+        default="cik-cusip-dynamics.csv",
+        help="Destination filename for aggregated dynamics metrics (relative to output-root by default).",
+    )
+    parser.add_argument(
         "--requests-per-second",
         type=float,
         default=10.0,
@@ -70,10 +93,13 @@ def run_pipeline_cli() -> None:
 
     args = parser.parse_args()
 
-    result = pipeline.run_pipeline(
+    mapping, dynamics = pipeline.run_pipeline(
         forms=args.forms,
         output_root=Path(args.output_root),
         output_file=Path(args.output_file),
+        emit_dynamics=args.emit_dynamics,
+        events_output_root=Path(args.events_output_root),
+        dynamics_output_file=Path(args.dynamics_output_file),
         requests_per_second=args.requests_per_second,
         sec_name=args.sec_name,
         sec_email=args.sec_email,
@@ -88,4 +114,10 @@ def run_pipeline_cli() -> None:
     output_path = Path(args.output_file)
     if not output_path.is_absolute():
         output_path = Path(args.output_root) / output_path
-    print(f"Generated {len(result)} CIK/CUSIP mappings at {output_path}")
+    print(f"Generated {len(mapping)} CIK/CUSIP mappings at {output_path}")
+
+    if args.emit_dynamics and dynamics is not None:
+        dynamics_path = Path(args.dynamics_output_file)
+        if not dynamics_path.is_absolute():
+            dynamics_path = Path(args.output_root) / dynamics_path
+        print(f"Aggregated {len(dynamics)} dynamics rows at {dynamics_path}")
