@@ -1,17 +1,25 @@
+"""Tests ensuring streaming session lifecycle is handled correctly."""
+
 from types import SimpleNamespace
 
 from cik_cusip_mapping import streaming
 
 
 def test_stream_filings_closes_internal_session(monkeypatch):
+    """stream_filings should close any session it creates internally."""
+
     created_sessions = []
 
     class DummySession:
+        """Minimal Session implementation that records close calls."""
+
         def __init__(self):
             self.closed = False
             created_sessions.append(self)
 
         def close(self):
+            """Mark the session as closed for later assertions."""
+
             self.closed = True
 
     monkeypatch.setattr(streaming.requests, "Session", DummySession)

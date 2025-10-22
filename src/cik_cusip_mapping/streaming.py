@@ -36,6 +36,8 @@ class Filing:
 
 
 def _iter_index_rows(form: str, index_path: Path) -> Iterator[dict[str, str]]:
+    """Yield index rows matching ``form`` from ``index_path``."""
+
     with index_path.open("r", newline="") as index_file:
         reader = csv.DictReader(index_file)
         for row in reader:

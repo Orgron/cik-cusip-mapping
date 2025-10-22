@@ -1,3 +1,5 @@
+"""Tests for the CUSIP dynamics aggregation helper."""
+
 from __future__ import annotations
 
 import csv
@@ -6,6 +8,8 @@ from cik_cusip_mapping import postprocessing
 
 
 def test_build_cusip_dynamics(tmp_path):
+    """build_cusip_dynamics should aggregate filings into summary metrics."""
+
     events_path = tmp_path / "13D_events.csv"
     with events_path.open("w", newline="") as handle:
         writer = csv.writer(handle)

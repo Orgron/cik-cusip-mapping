@@ -1,3 +1,5 @@
+"""Tests for downloading and normalizing the SEC master index."""
+
 import csv
 from pathlib import Path
 
@@ -5,6 +7,8 @@ from cik_cusip_mapping import indexing
 
 
 def test_write_full_index_generates_rows_without_blanks(monkeypatch, tmp_path):
+    """write_full_index should emit a CSV without empty data rows."""
+
     data_dir = Path(__file__).resolve().parent / "data"
     master_idx = data_dir / "master_sample.idx"
     contents = master_idx.read_text()

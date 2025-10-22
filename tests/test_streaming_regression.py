@@ -1,3 +1,5 @@
+"""Regression tests validating streaming output against legacy parsing."""
+
 import csv
 from types import SimpleNamespace
 
@@ -5,6 +7,8 @@ from cik_cusip_mapping import parsing
 
 
 def test_streaming_matches_legacy(tmp_path):
+    """stream_to_csv should match the output of the single-file parser."""
+
     text = (
         "SCHEDULE 13D\n"
         "SUBJECT COMPANY\n"

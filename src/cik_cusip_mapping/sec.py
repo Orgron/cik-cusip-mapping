@@ -10,6 +10,8 @@ class RateLimiter:
     """Simple token bucket limiting requests per second."""
 
     def __init__(self, requests_per_second: float) -> None:
+        """Initialize the limiter with the desired request rate."""
+
         if requests_per_second <= 0:
             raise ValueError("requests_per_second must be greater than zero")
         self._min_interval = 1.0 / requests_per_second
