@@ -18,10 +18,11 @@ The package targets **Python 3.12** and depends on `pandas` for post-processing.
 
 Please follow the [SEC fair access policies](https://www.sec.gov/os/webmaster-fair-access).
 Always identify yourself via the `User-Agent` and `From` headers, which you can
-provide through `run_pipeline()` or the CLI via `--sec-name`/`--sec-email`. The
-default rate limit is 10 requests per second; adjust `requests_per_second` to a
-lower value if you are running large historical backfills or operating from a
-shared IP address.
+provide through `run_pipeline()` or the CLI via `--sec-name`/`--sec-email`. When
+these options are omitted the pipeline will fall back to the `SEC_NAME` and
+`SEC_EMAIL` environment variables if they are set. The default rate limit is 10
+requests per second; adjust `requests_per_second` to a lower value if you are
+running large historical backfills or operating from a shared IP address.
 
 ## Library usage
 
