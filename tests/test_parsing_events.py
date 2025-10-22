@@ -14,8 +14,8 @@ CUSIP_CONTENT = """SUBJECT COMPANY\nCENTRAL INDEX KEY\t\t\t0000123456\n<DOCUMENT
 
 
 @pytest.mark.parametrize("concurrent", [False, True])
-def test_stream_to_csv_writes_events(tmp_path, concurrent):
-    """stream_to_csv should populate both the mapping and event outputs."""
+def test_stream_events_to_csv_writes_events(tmp_path, concurrent):
+    """stream_events_to_csv should populate the event outputs."""
 
     filings = [
         SimpleNamespace(
@@ -24,26 +24,18 @@ def test_stream_to_csv_writes_events(tmp_path, concurrent):
             form="13D",
             date="2020-01-01",
             accession_number="0001-0000000000",
-            url="edgar/data/0001.txt",
             company_name="Example Corp",
         )
     ]
 
-    csv_path = tmp_path / "output.csv"
     events_path = tmp_path / "events.csv"
 
-    parsing.stream_to_csv(
+    parsing.stream_events_to_csv(
         filings,
-        csv_path,
         concurrent=concurrent,
-        events_csv_path=events_path,
         show_progress=False,
+        events_csv_path=events_path,
     )
-
-    with csv_path.open(encoding="utf-8") as handle:
-        rows = list(csv.reader(handle))
-    assert rows[0][0] == "file1"
-    assert rows[0][2] == "123456789"
 
     with events_path.open(encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
@@ -51,7 +43,6 @@ def test_stream_to_csv_writes_events(tmp_path, concurrent):
 
     assert len(event_rows) == 1
     row = event_rows[0]
-    assert row["identifier"] == "file1"
     assert row["cik"] == "0000123456"
     assert row["form"] == "13D"
     assert row["filing_date"] == "2020-01-01"

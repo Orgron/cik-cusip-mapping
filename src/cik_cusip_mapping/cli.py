@@ -28,7 +28,12 @@ def run_pipeline_cli() -> None:
     parser.add_argument(
         "--output-file",
         default="cik-cusip-maps.csv",
-        help="Destination filename for the final mapping (relative to output-root by default).",
+        help="Destination filename for the optional final mapping (relative to output-root by default).",
+    )
+    parser.add_argument(
+        "--write-final-mapping",
+        action="store_true",
+        help="Write a combined cik-cusip mapping CSV assembled from events.",
     )
     parser.add_argument(
         "--emit-dynamics",
@@ -103,25 +108,26 @@ def run_pipeline_cli() -> None:
         help="Enable verbose parsing diagnostics.",
     )
     parser.add_argument(
-        "--show-progress",
-        dest="show_progress",
-        action="store_true",
-        default=True,
-        help="Display tqdm progress bars while downloading and parsing (default).",
-    )
-    parser.add_argument(
-        "--no-show-progress",
+        "--no-progress",
         dest="show_progress",
         action="store_false",
+        default=True,
         help="Disable tqdm progress bars, useful for non-interactive environments.",
+    )
+    parser.add_argument(
+        "--quiet-progress",
+        dest="show_progress",
+        action="store_false",
+        help="Alias for --no-progress.",
     )
 
     args = parser.parse_args()
 
-    mapping, dynamics = pipeline.run_pipeline(
+    mapping, dynamics, events_counts = pipeline.run_pipeline(
         forms=args.forms,
         output_root=Path(args.output_root),
         output_file=Path(args.output_file),
+        write_final_mapping=args.write_final_mapping,
         emit_dynamics=args.emit_dynamics,
         events_output_root=Path(args.events_output_root),
         dynamics_output_file=Path(args.dynamics_output_file),
@@ -139,10 +145,27 @@ def run_pipeline_cli() -> None:
         show_progress=args.show_progress,
     )
 
-    output_path = Path(args.output_file)
-    if not output_path.is_absolute():
-        output_path = Path(args.output_root) / output_path
-    print(f"Generated {len(mapping)} CIK/CUSIP mappings at {output_path}")
+    events_base_path = Path(args.events_output_root)
+    if not events_base_path.is_absolute():
+        events_base_path = Path(args.output_root) / events_base_path
+    total_events = sum(events_counts.values())
+    print(
+        "Wrote {total} filing events across {forms} to {path}".format(
+            total=total_events,
+            forms=", ".join(args.forms),
+            path=events_base_path,
+        )
+    )
+
+    if args.write_final_mapping:
+        output_path = Path(args.output_file)
+        if not output_path.is_absolute():
+            output_path = Path(args.output_root) / output_path
+        print(
+            "Derived {rows} unique mappings at {path}".format(
+                rows=len(mapping), path=output_path
+            )
+        )
 
     if args.emit_dynamics and dynamics is not None:
         dynamics_path = Path(args.dynamics_output_file)

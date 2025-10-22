@@ -15,12 +15,10 @@ def test_build_cusip_dynamics(tmp_path):
         writer = csv.writer(handle)
         writer.writerow(
             [
-                "identifier",
                 "cik",
                 "form",
                 "filing_date",
                 "accession_number",
-                "url",
                 "company_name",
                 "cusip9",
                 "cusip8",
@@ -30,12 +28,10 @@ def test_build_cusip_dynamics(tmp_path):
         )
         writer.writerow(
             [
-                "file1",
                 "1000",
                 "13D",
                 "2020-01-15",
                 "0001",
-                "url1",
                 "Example Corp",
                 "594918104",
                 "59491810",
@@ -45,12 +41,10 @@ def test_build_cusip_dynamics(tmp_path):
         )
         writer.writerow(
             [
-                "file2",
                 "1000",
                 "13G",
                 "2020-02-20",
                 "0002",
-                "url2",
                 "Example Corp",
                 "594918104",
                 "59491810",

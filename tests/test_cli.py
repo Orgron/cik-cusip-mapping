@@ -38,7 +38,8 @@ def test_run_pipeline_cli_emits_summary(monkeypatch, tmp_path, capsys):
         assert kwargs["parsing_workers"] == 2
         assert kwargs["parsing_max_queue"] == 32
         assert kwargs["show_progress"] is True
-        return DummyFrame(3), DummyFrame(2)
+        assert kwargs["write_final_mapping"] is False
+        return DummyFrame(3), DummyFrame(2), {"13D": 2, "13G": 1}
 
     monkeypatch.setattr(cli.pipeline, "run_pipeline", fake_run_pipeline)
 
@@ -57,5 +58,36 @@ def test_run_pipeline_cli_emits_summary(monkeypatch, tmp_path, capsys):
     cli.run_pipeline_cli()
 
     captured = capsys.readouterr()
-    assert "Generated 3 CIK/CUSIP mappings" in captured.out
+    assert "Wrote 3 filing events across 13D, 13G" in captured.out
     assert "Aggregated 2 dynamics rows" in captured.out
+
+
+def test_run_pipeline_cli_reports_mapping_when_requested(monkeypatch, tmp_path, capsys):
+    """The CLI should emit a mapping summary when --write-final-mapping is set."""
+
+    output_root = tmp_path / "outputs"
+
+    def fake_run_pipeline(**kwargs):
+        """Return stubbed data while validating CLI argument wiring."""
+
+        assert kwargs["write_final_mapping"] is True
+        return DummyFrame(5), DummyFrame(0), {"13D": 2}
+
+    monkeypatch.setattr(cli.pipeline, "run_pipeline", fake_run_pipeline)
+
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        [
+            "cik-cusip-mapping",
+            "--output-root",
+            str(output_root),
+            "--write-final-mapping",
+        ],
+    )
+
+    cli.run_pipeline_cli()
+
+    captured = capsys.readouterr()
+    assert "Wrote 2 filing events across 13D, 13G" in captured.out
+    assert "Derived 5 unique mappings" in captured.out
