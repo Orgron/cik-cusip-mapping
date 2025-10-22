@@ -2,29 +2,51 @@
 
 from __future__ import annotations
 
-import csv
 import os
 from pathlib import Path
 from typing import TYPE_CHECKING, Sequence
 
 import requests
+import polars as pl
 
 if TYPE_CHECKING:  # pragma: no cover - typing helper
-    import pandas as pd
+    import polars as pl
 
 from . import indexing, parsing, postprocessing, streaming
 from .sec import create_session
 
 
 def count_index_rows(form: str, index_path: Path | str) -> int:
-    """Return the number of index rows matching ``form``."""
+    """Return the number of index rows matching ``form`` using Polars."""
 
     path = Path(index_path)
     if not path.exists():
         return 0
-    with path.open("r", newline="", encoding="utf-8") as handle:
-        reader = csv.DictReader(handle)
-        return sum(1 for row in reader if form in row["form"])
+    lf = pl.scan_csv(str(path))
+    out = (
+        lf.filter(pl.col("form").str.contains(form))
+        .select(pl.len())
+        .collect()
+        .item()
+    )
+    return int(out)
+
+
+def count_index_rows_multi(
+    forms: Sequence[str], index_path: Path | str
+) -> dict[str, int]:
+    """Return counts for each form in ``forms`` via a single Polars scan."""
+
+    path = Path(index_path)
+    if not path.exists():
+        return {form: 0 for form in forms}
+    lf = pl.scan_csv(str(path))
+    # Build a single lazy plan computing all counts, then collect once.
+    exprs = [
+        pl.col("form").str.contains(form).sum().alias(form) for form in forms
+    ]
+    out = lf.select(exprs).collect()
+    return {name: int(out[name][0]) for name in out.columns}
 
 
 def run_pipeline(
@@ -50,7 +72,7 @@ def run_pipeline(
     show_progress: bool = True,
     use_notebook: bool | None = None,
     session: requests.Session | None = None,
-) -> tuple["pd.DataFrame", "pd.DataFrame | None", dict[str, int]]:
+) -> tuple["pl.DataFrame", "pl.DataFrame | None", dict[str, int]]:
     """Run the end-to-end CIK to CUSIP mapping pipeline."""
 
     env_sec_name = os.getenv("SEC_NAME")
@@ -100,12 +122,16 @@ def run_pipeline(
         if not events_base_path.is_absolute():
             events_base_path = base_path / events_base_path
         events_base_path.mkdir(parents=True, exist_ok=True)
-        form_totals: dict[str, int | None] = {
-            form: count_index_rows(form, resolved_index_path)
-            if resolved_index_path.exists()
-            else None
-            for form in forms
-        }
+        # Estimate totals quickly using a single Polars scan when index exists.
+        form_totals: dict[str, int | None]
+        if resolved_index_path.exists():
+            try:
+                form_totals = count_index_rows_multi(forms, resolved_index_path)
+            except Exception:
+                # Fall back to unknown totals if anything goes wrong
+                form_totals = {form: None for form in forms}
+        else:
+            form_totals = {form: None for form in forms}
         events_counts: dict[str, int] = {}
         for form in forms:
             events_path = events_base_path / f"{form}_events.csv"
@@ -117,6 +143,8 @@ def run_pipeline(
                 with events_path.open("r", encoding="utf-8") as handle:
                     events_counts[form] = max(sum(1 for _ in handle) - 1, 0)
             else:
+                # Keep streaming progress quiet and parsing progress enabled to
+                # avoid double progress bars (maintains CLI/test expectations).
                 parsing_show_progress = show_progress
                 stream_show_progress = show_progress and not parsing_show_progress
 

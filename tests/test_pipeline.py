@@ -3,7 +3,7 @@
 from pathlib import Path
 from types import SimpleNamespace
 
-import pandas as pd
+import polars as pl
 import pytest
 
 from cik_cusip_mapping import pipeline
@@ -156,7 +156,7 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
             Path(output).write_text("cik,cusip6,cusip8\n1,123456,12345678\n")
         columns = ["cik", "cusip6", "cusip8"]
         rows = [{"cik": 1, "cusip6": "123456", "cusip8": "12345678"}]
-        return pd.DataFrame(rows, columns=columns)
+        return pl.DataFrame(rows)[columns]
 
     def fake_build_dynamics(events_paths, *, output=None):
         """Record dynamics aggregation inputs and emit a sample output."""
@@ -166,9 +166,7 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
             Path(output).write_text(
                 "cik,cusip6,cusip8,first_seen,last_seen,filings_count,forms,months_active,most_recent_accession,most_recent_form,most_recent_filing_date\n"
             )
-        return pd.DataFrame(
-            [{"cik": 1, "cusip8": "12345678"}], columns=["cik", "cusip8"]
-        )
+        return pl.DataFrame([{"cik": 1, "cusip8": "12345678"}])["cik","cusip8"]
 
     monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
     monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
@@ -313,14 +311,12 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     monkeypatch.setattr(
         pipeline.postprocessing,
         "postprocess_mapping_from_events",
-        lambda events_paths, **kwargs: pd.DataFrame(
-            columns=["cik", "cusip6", "cusip8"]
-        ),
+        lambda events_paths, **kwargs: pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []}),
     )
     monkeypatch.setattr(
         pipeline.postprocessing,
         "build_cusip_dynamics",
-        lambda events_paths, **kwargs: pd.DataFrame(columns=["cik"]),
+        lambda events_paths, **kwargs: pl.DataFrame({"cik": []}),
     )
 
     pipeline.run_pipeline(
@@ -415,12 +411,12 @@ def test_pipeline_uses_environment_metadata(monkeypatch, tmp_path):
     monkeypatch.setattr(
         pipeline.postprocessing,
         "postprocess_mapping_from_events",
-        lambda events_paths, **kwargs: pd.DataFrame(columns=["cik", "cusip6", "cusip8"]),
+        lambda events_paths, **kwargs: pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []}),
     )
     monkeypatch.setattr(
         pipeline.postprocessing,
         "build_cusip_dynamics",
-        lambda events_paths, **kwargs: pd.DataFrame(columns=["cik"]),
+        lambda events_paths, **kwargs: pl.DataFrame({"cik": []}),
     )
 
     pipeline.run_pipeline(output_root=tmp_path)

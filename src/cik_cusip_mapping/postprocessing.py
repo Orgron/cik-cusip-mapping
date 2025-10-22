@@ -5,7 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Iterable
 
-import pandas as pd
+import polars as pl
 
 
 def postprocess_mapping_from_events(
@@ -14,16 +14,16 @@ def postprocess_mapping_from_events(
     output: Path | str | None = None,
     valid_lengths: Iterable[int] | None = None,
     forbidden_prefixes: Iterable[str] | None = None,
-) -> pd.DataFrame:
+) -> pl.DataFrame:
     """Derive the deduplicated CIK to CUSIP mapping directly from events."""
 
-    frames: list[pd.DataFrame] = []
+    frames: list[pl.DataFrame] = []
     for csv_path in events_paths:
         path = Path(csv_path)
         if not path.exists():
             continue
-        frame = pd.read_csv(path, dtype=str, encoding="utf-8")
-        if frame.empty:
+        frame = pl.read_csv(path, infer_schema_length=0)
+        if frame.height == 0:
             continue
         frames.append(frame)
 
@@ -33,60 +33,63 @@ def postprocess_mapping_from_events(
     }
 
     if not frames:
-        result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+        result = pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []})
     else:
-        combined = pd.concat(frames, ignore_index=True)
-        combined = combined.dropna(subset=["cik", "cusip8"])
-        if combined.empty:
-            result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+        combined = pl.concat(frames, how="vertical_relaxed")
+        combined = combined.drop_nulls(subset=["cik", "cusip8"])
+        if combined.height == 0:
+            result = pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []})
         else:
-            combined["cik"] = pd.to_numeric(combined["cik"], errors="coerce")
-            combined = combined.dropna(subset=["cik"])
-            if combined.empty:
-                result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+            combined = combined.with_columns(
+                [
+                    pl.col("cik").cast(pl.Int64, strict=False),
+                    pl.col("cusip8").cast(pl.Utf8).str.to_uppercase(),
+                ]
+            ).drop_nulls(subset=["cik"]).with_columns(
+                pl.col("cik").cast(pl.Int64)
+            )
+            combined = combined.filter(pl.col("cusip8").str.len_chars() == 8)
+            if combined.height == 0:
+                result = pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []})
             else:
-                combined["cik"] = combined["cik"].astype(int)
-                combined["cusip8"] = combined["cusip8"].astype(str).str.upper()
-                combined = combined[combined["cusip8"].str.len() == 8]
-                if combined.empty:
-                    result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+                # Apply length whitelist to the source (cusip9 preferred, else cusip8)
+                combined = combined.with_columns(
+                    pl.coalesce([pl.col("cusip9"), pl.col("cusip8")])
+                    .cast(pl.Utf8)
+                    .str.len_chars()
+                    .alias("_length")
+                ).filter(pl.col("_length").is_in(list(length_whitelist)))
+                combined = combined.drop("_length")
+                if combined.height == 0:
+                    result = pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []})
                 else:
-                    length_source = combined.get("cusip9")
-                    if length_source is None:
-                        length_source = combined["cusip8"]
-                    length_mask = length_source.astype(str).str.len().isin(
-                        length_whitelist
+                    # Normalize/derive cusip6
+                    has_cusip6 = "cusip6" in combined.columns
+                    if not has_cusip6:
+                        combined = combined.with_columns(pl.lit("").alias("cusip6"))
+                    combined = combined.with_columns(
+                        pl.when(pl.col("cusip6").cast(pl.Utf8).str.len_chars() != 6)
+                        .then(pl.col("cusip8").str.slice(0, 6))
+                        .otherwise(pl.col("cusip6").cast(pl.Utf8))
+                        .str.to_uppercase()
+                        .alias("cusip6")
                     )
-                    combined = combined[length_mask]
-                    if combined.empty:
-                        result = pd.DataFrame(columns=["cik", "cusip6", "cusip8"])
+                    combined = combined.filter(
+                        ~pl.col("cusip6").str.to_uppercase().is_in(excluded_prefixes)
+                    )
+                    if combined.height == 0:
+                        result = pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []})
                     else:
-                        cusip6_series = combined.get("cusip6")
-                        if cusip6_series is None:
-                            cusip6_series = pd.Series("", index=combined.index)
-                        combined["cusip6"] = cusip6_series.astype(str).str.upper()
-                        combined.loc[
-                            combined["cusip6"].str.len() != 6, "cusip6"
-                        ] = combined["cusip8"].str[:6]
-                        combined = combined[
-                            ~combined["cusip6"].str.upper().isin(excluded_prefixes)
-                        ]
-                        if combined.empty:
-                            result = pd.DataFrame(
-                                columns=["cik", "cusip6", "cusip8"]
-                            )
-                        else:
-                            result = (
-                                combined[["cik", "cusip6", "cusip8"]]
-                                .drop_duplicates()
-                                .sort_values(["cik", "cusip8"])
-                                .reset_index(drop=True)
-                            )
+                        result = (
+                            combined.select(["cik", "cusip6", "cusip8"]) 
+                            .unique()
+                            .sort(["cik", "cusip8"]) 
+                        )
 
     if output is not None:
         output_path = Path(output)
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        result.to_csv(output_path, index=False, encoding="utf-8")
+        result.write_csv(output_path)
 
     return result
 
@@ -95,154 +98,128 @@ def build_cusip_dynamics(
     events_paths: Iterable[Path | str],
     *,
     output: Path | str | None = None,
-) -> pd.DataFrame:
-    """Aggregate filing-level events into CUSIP dynamics metrics."""
+) -> pl.DataFrame:
+    """Aggregate filing-level events into CUSIP dynamics metrics using Polars."""
 
-    frames: list[pd.DataFrame] = []
+    frames: list[pl.DataFrame] = []
     for csv_path in events_paths:
         path = Path(csv_path)
         if not path.exists():
             continue
-        frame = pd.read_csv(path, dtype=str, encoding="utf-8")
-        if frame.empty:
+        frame = pl.read_csv(path, infer_schema_length=0)
+        if frame.height == 0:
             continue
         frames.append(frame)
 
+    empty_schema = {
+        "cik": pl.Int64,
+        "cusip6": pl.Utf8,
+        "cusip8": pl.Utf8,
+        "cusip9": pl.Utf8,
+        "first_seen": pl.Utf8,
+        "last_seen": pl.Utf8,
+        "filings_count": pl.Int64,
+        "forms": pl.Utf8,
+        "months_active": pl.Int64,
+        "most_recent_accession": pl.Utf8,
+        "most_recent_form": pl.Utf8,
+        "most_recent_filing_date": pl.Utf8,
+        "valid_check_digit": pl.Boolean,
+        "parse_methods": pl.Utf8,
+        "fallback_filings": pl.Int64,
+    }
+
     if not frames:
-        result = pd.DataFrame(
-            columns=
-            [
-                "cik",
-                "cusip6",
-                "cusip8",
-                "cusip9",
-                "first_seen",
-                "last_seen",
-                "filings_count",
-                "forms",
-                "months_active",
-                "most_recent_accession",
-                "most_recent_form",
-                "most_recent_filing_date",
-                "valid_check_digit",
-                "parse_methods",
-                "fallback_filings",
-            ]
-        )
+        result = pl.DataFrame({name: [] for name in empty_schema.keys()})
     else:
-        combined = pd.concat(frames, ignore_index=True)
-        combined["cik"] = pd.to_numeric(combined["cik"], errors="coerce")
-        combined["filing_date"] = pd.to_datetime(
-            combined["filing_date"], errors="coerce"
+        combined = pl.concat(frames, how="vertical_relaxed").with_columns(
+            [
+                pl.col("cik").cast(pl.Int64, strict=False),
+                pl.col("filing_date").str.strptime(pl.Date, strict=False),
+                pl.col("accession_number").cast(pl.Utf8).fill_null(""),
+                pl.col("form").cast(pl.Utf8).fill_null(""),
+                pl.col("cusip6").cast(pl.Utf8).fill_null(""),
+                pl.col("cusip8").cast(pl.Utf8),
+                pl.col("cusip9").cast(pl.Utf8).fill_null(""),
+                pl.col("parse_method").cast(pl.Utf8),
+            ]
+        ).drop_nulls(subset=["cik", "cusip8", "filing_date"]).with_columns(
+            pl.col("cik").cast(pl.Int64)
         )
-        combined = combined.dropna(subset=["cik", "cusip8", "filing_date"])
-        if combined.empty:
-            result = pd.DataFrame(
-                columns=
+
+        if combined.height == 0:
+            result = pl.DataFrame({name: [] for name in empty_schema.keys()})
+        else:
+            # Sort so that group-wise first/last reflect chronological order
+            combined = combined.sort(["filing_date", "accession_number"]) 
+
+            grouped = combined.group_by(["cik", "cusip8"], maintain_order=True).agg(
                 [
-                    "cik",
-                    "cusip6",
-                    "cusip8",
-                    "cusip9",
-                    "first_seen",
-                    "last_seen",
-                    "filings_count",
-                    "forms",
-                    "months_active",
-                    "most_recent_accession",
-                    "most_recent_form",
-                    "most_recent_filing_date",
-                    "valid_check_digit",
-                    "parse_methods",
-                    "fallback_filings",
+                    pl.col("filing_date").first().alias("first_seen"),
+                    pl.col("filing_date").last().alias("last_seen"),
+                    pl.count().alias("filings_count"),
+                    pl.col("form").unique().sort().alias("forms_list"),
+                    pl.col("filing_date")
+                    .dt.strftime("%Y-%m")
+                    .n_unique()
+                    .alias("months_active"),
+                    pl.col("accession_number").last().alias("most_recent_accession"),
+                    pl.col("form").last().alias("most_recent_form"),
+                    pl.col("filing_date").last().alias("most_recent_filing_date"),
+                    pl.col("cusip6").filter(pl.col("cusip6") != "").first().alias("cusip6_opt"),
+                    pl.col("cusip9").filter(pl.col("cusip9") != "").first().alias("cusip9_opt"),
+                    pl.col("parse_method").unique().sort().alias("parse_methods_list"),
+                    pl.col("parse_method").ne("window").sum().alias("fallback_filings"),
                 ]
             )
-        else:
-            combined["cik"] = combined["cik"].astype(int)
-            combined["cusip8"] = combined["cusip8"].astype(str)
-            combined["accession_number"] = combined["accession_number"].fillna("").astype(str)
-            combined["form"] = combined["form"].fillna("").astype(str)
-            combined["cusip6"] = combined["cusip6"].fillna("").astype(str)
-            combined["cusip9"] = combined["cusip9"].fillna("").astype(str)
 
-            records: list[dict[str, object]] = []
-            grouped = combined.sort_values("filing_date").groupby(
-                ["cik", "cusip8"], sort=True
-            )
-            for (cik, cusip8), group in grouped:
-                group = group.copy()
-                group = group.sort_values(
-                    ["filing_date", "accession_number"],
-                    ascending=[True, True],
-                )
-                filing_dates = group["filing_date"]
-                first_seen = filing_dates.iloc[0]
-                last_seen = filing_dates.iloc[-1]
-                months_active = int(
-                    filing_dates.dt.to_period("M").dropna().nunique()
-                )
-                forms = sorted(
-                    {
-                        str(form)
-                        for form in group["form"].dropna().astype(str)
-                        if str(form)
-                    }
-                )
-                most_recent = group.sort_values(
-                    ["filing_date", "accession_number"],
-                    ascending=[False, False],
-                ).iloc[0]
-                cusip6 = next(
-                    (value for value in group["cusip6"].dropna() if value),
-                    "",
-                )
-                cusip9 = next(
-                    (value for value in group["cusip9"].dropna() if value),
-                    "",
-                )
-                methods = sorted(
-                    {
-                        str(method)
-                        for method in group["parse_method"].dropna().astype(str)
-                        if str(method)
-                    }
-                )
-                fallback_count = sum(
-                    method != "window"
-                    for method in group["parse_method"].fillna("")
-                )
-                valid_check_digit = _has_valid_cusip_check_digit(cusip9)
-
-                records.append(
-                    {
-                        "cik": int(cik),
-                        "cusip6": cusip6,
-                        "cusip8": cusip8,
-                        "cusip9": cusip9,
-                        "first_seen": first_seen.date().isoformat(),
-                        "last_seen": last_seen.date().isoformat(),
-                        "filings_count": int(len(group)),
-                        "forms": ";".join(forms),
-                        "months_active": months_active,
-                        "most_recent_accession": most_recent.get(
-                            "accession_number", ""
+            result = (
+                grouped.with_columns(
+                    [
+                        pl.col("forms_list").list.join(";").alias("forms"),
+                        pl.col("parse_methods_list").list.join(";").alias(
+                            "parse_methods"
                         ),
-                        "most_recent_form": most_recent.get("form", ""),
-                        "most_recent_filing_date": most_recent["filing_date"].date().isoformat(),
-                        "valid_check_digit": valid_check_digit,
-                        "parse_methods": ";".join(methods),
-                        "fallback_filings": int(fallback_count),
-                    }
+                        pl.col("cusip6_opt").fill_null("").alias("cusip6"),
+                        pl.col("cusip9_opt").fill_null("").alias("cusip9"),
+                    ]
                 )
-
-            result = pd.DataFrame.from_records(records)
-            if not result.empty:
-                result = result.sort_values(["cik", "cusip8"]).reset_index(drop=True)
+                .with_columns(
+                    [
+                        pl.col("first_seen").dt.strftime("%Y-%m-%d"),
+                        pl.col("last_seen").dt.strftime("%Y-%m-%d"),
+                        pl.col("most_recent_filing_date").dt.strftime("%Y-%m-%d"),
+                        pl.col("cusip9").map_elements(
+                            _has_valid_cusip_check_digit, return_dtype=pl.Boolean
+                        ).alias("valid_check_digit"),
+                    ]
+                )
+                .select(
+                    [
+                        "cik",
+                        "cusip6",
+                        "cusip8",
+                        "cusip9",
+                        "first_seen",
+                        "last_seen",
+                        "filings_count",
+                        "forms",
+                        "months_active",
+                        "most_recent_accession",
+                        "most_recent_form",
+                        "most_recent_filing_date",
+                        "valid_check_digit",
+                        "parse_methods",
+                        "fallback_filings",
+                    ]
+                )
+                .sort(["cik", "cusip8"]) 
+            )
 
     if output is not None:
         output_path = Path(output)
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        result.to_csv(output_path, index=False, encoding="utf-8")
+        result.write_csv(output_path)
 
     return result
 
