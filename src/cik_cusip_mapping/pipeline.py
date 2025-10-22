@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import csv
+import os
 from pathlib import Path
 from typing import TYPE_CHECKING, Sequence
 
@@ -52,6 +53,12 @@ def run_pipeline(
 ) -> tuple["pd.DataFrame", "pd.DataFrame | None", dict[str, int]]:
     """Run the end-to-end CIK to CUSIP mapping pipeline."""
 
+    env_sec_name = os.getenv("SEC_NAME")
+    env_sec_email = os.getenv("SEC_EMAIL")
+
+    resolved_sec_name = sec_name or env_sec_name
+    resolved_sec_email = sec_email or env_sec_email
+
     base_path = Path(output_root)
     base_path.mkdir(parents=True, exist_ok=True)
 
@@ -73,8 +80,8 @@ def run_pipeline(
         else:
             indexing.download_master_index(
                 requests_per_second,
-                sec_name,
-                sec_email,
+                resolved_sec_name,
+                resolved_sec_email,
                 output_path=master_path,
                 session=http_session,
             )
@@ -108,8 +115,8 @@ def run_pipeline(
                 filings = streaming.stream_filings(
                     form,
                     requests_per_second,
-                    sec_name,
-                    sec_email,
+                    resolved_sec_name,
+                    resolved_sec_email,
                     index_path=resolved_index_path,
                     session=http_session,
                     show_progress=show_progress,

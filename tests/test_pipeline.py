@@ -300,3 +300,83 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
     assert calls[0][:4] == ("13D", 10.0, "Jane Doe", "jane@example.com")
     assert calls[0][5] is dummy_session
     assert calls[0][6] is True
+
+
+def test_pipeline_uses_environment_metadata(monkeypatch, tmp_path):
+    """The pipeline should fall back to SEC metadata provided via environment variables."""
+
+    calls = []
+
+    class DummySession:
+        def __init__(self) -> None:
+            self.closed = False
+
+        def close(self) -> None:
+            self.closed = True
+
+    dummy_session = DummySession()
+    monkeypatch.setattr(pipeline, "create_session", lambda: dummy_session)
+
+    monkeypatch.setenv("SEC_NAME", "Env Contact")
+    monkeypatch.setenv("SEC_EMAIL", "env@example.com")
+
+    def fake_download(rps, name, email, *, output_path, session):
+        calls.append(("download", name, email))
+        assert session is dummy_session
+        output_path.write_text("master")
+
+    def fake_write(master_path, *, output_path):
+        output_path.write_text("cik,comnam,form,date,url\n")
+
+    def fake_stream_filings(
+        form,
+        rps,
+        name,
+        email,
+        *,
+        index_path,
+        session,
+        show_progress,
+        progress_desc=None,
+        total_hint=None,
+        use_notebook=None,
+    ):
+        calls.append(("stream", name, email))
+        assert session is dummy_session
+        yield SimpleNamespace(identifier="id", content="")
+
+    def consume_events(
+        filings,
+        events_path,
+        *,
+        show_progress=True,
+        total_hint=None,
+        use_notebook=None,
+        **kwargs,
+    ):
+        for _ in filings:
+            pass
+        Path(events_path).write_text(
+            "cik,form,filing_date,accession_number,company_name,cusip9,cusip8,cusip6,parse_method\n"
+        )
+        return 1
+
+    monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
+    monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
+    monkeypatch.setattr(pipeline.streaming, "stream_filings", fake_stream_filings)
+    monkeypatch.setattr(pipeline.parsing, "stream_events_to_csv", consume_events)
+    monkeypatch.setattr(
+        pipeline.postprocessing,
+        "postprocess_mapping_from_events",
+        lambda events_paths, **kwargs: pd.DataFrame(columns=["cik", "cusip6", "cusip8"]),
+    )
+    monkeypatch.setattr(
+        pipeline.postprocessing,
+        "build_cusip_dynamics",
+        lambda events_paths, **kwargs: pd.DataFrame(columns=["cik"]),
+    )
+
+    pipeline.run_pipeline(output_root=tmp_path)
+
+    assert ("download", "Env Contact", "env@example.com") in calls
+    assert ("stream", "Env Contact", "env@example.com") in calls
