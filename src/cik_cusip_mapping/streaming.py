@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import csv
+import gzip
+import logging
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Generator, Iterator
@@ -10,9 +12,11 @@ from typing import Generator, Iterator
 import requests
 from tqdm.auto import tqdm
 
-from .sec import RateLimiter, build_request_headers
+from .sec import RateLimiter, build_request_headers, create_session
 
 ARCHIVES_URL = "https://www.sec.gov/Archives/"
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -38,7 +42,7 @@ class Filing:
 def _iter_index_rows(form: str, index_path: Path) -> Iterator[dict[str, str]]:
     """Yield index rows matching ``form`` from ``index_path``."""
 
-    with index_path.open("r", newline="") as index_file:
+    with index_path.open("r", newline="", encoding="utf-8") as index_file:
         reader = csv.DictReader(index_file)
         for row in reader:
             if form in row["form"]:
@@ -62,7 +66,7 @@ def stream_filings(
     limiter = RateLimiter(requests_per_second)
     index_path = Path(index_path)
     created_session = session is None
-    http = session or requests.Session()
+    http = session or create_session()
 
     description = progress_desc or f"Streaming {form} filings"
     progress = tqdm(desc=description, unit="filing") if show_progress else None
@@ -82,8 +86,29 @@ def stream_filings(
                     timeout=60,
                 )
                 response.raise_for_status()
-            except Exception as exc:  # pragma: no cover - defensive logging
-                print(f"{cik}, {date} failed to download: {exc}")
+            except requests.HTTPError as exc:  # pragma: no cover - defensive
+                response = exc.response
+                status = response.status_code if response is not None else "unknown"
+                response_url = (
+                    response.url if response is not None else f"{ARCHIVES_URL}{url}"
+                )
+                logger.warning(
+                    "Failed to download filing %s on %s (status=%s, url=%s): %s",
+                    cik,
+                    date,
+                    status,
+                    response_url,
+                    exc,
+                )
+                continue
+            except requests.RequestException as exc:  # pragma: no cover - defensive
+                logger.warning(
+                    "Error downloading filing %s on %s from %s: %s",
+                    cik,
+                    date,
+                    f"{ARCHIVES_URL}{url}",
+                    exc,
+                )
                 continue
 
             if progress is not None:
@@ -113,6 +138,8 @@ def stream_filings_to_disk(
     email: str | None,
     *,
     index_path: Path | str = Path("full_index.csv"),
+    session: requests.Session | None = None,
+    compress: bool = False,
 ) -> int:
     """Persist streamed filings to disk for archival purposes."""
 
@@ -125,6 +152,7 @@ def stream_filings_to_disk(
         name,
         email,
         index_path=index_path,
+        session=session,
         show_progress=False,
     )
     for filing in tqdm(filings, desc=f"Saving {form} filings", unit="filing"):
@@ -132,6 +160,20 @@ def stream_filings_to_disk(
         destination = output_dir / f"{year}_{month}"
         destination.mkdir(parents=True, exist_ok=True)
         file_path = destination / filing.identifier
-        file_path.write_text(filing.content, errors="ignore")
+        if compress:
+            file_path = file_path.with_suffix(f"{file_path.suffix}.gz")
+            with gzip.open(
+                file_path,
+                "wt",
+                encoding="utf-8",
+                errors="ignore",
+            ) as handle:
+                handle.write(filing.content)
+        else:
+            file_path.write_text(
+                filing.content,
+                encoding="utf-8",
+                errors="ignore",
+            )
         count += 1
     return count

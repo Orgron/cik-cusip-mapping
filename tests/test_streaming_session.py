@@ -22,7 +22,7 @@ def test_stream_filings_closes_internal_session(monkeypatch):
 
             self.closed = True
 
-    monkeypatch.setattr(streaming.requests, "Session", DummySession)
+    monkeypatch.setattr(streaming, "create_session", lambda: DummySession())
     monkeypatch.setattr(
         streaming, "RateLimiter", lambda *_args, **_kwargs: SimpleNamespace(wait=lambda: None)
     )

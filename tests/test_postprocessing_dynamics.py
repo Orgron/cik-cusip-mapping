@@ -37,9 +37,9 @@ def test_build_cusip_dynamics(tmp_path):
                 "0001",
                 "url1",
                 "Example Corp",
-                "123456789",
-                "12345678",
-                "123456",
+                "594918104",
+                "59491810",
+                "594918",
                 "window",
             ]
         )
@@ -52,9 +52,9 @@ def test_build_cusip_dynamics(tmp_path):
                 "0002",
                 "url2",
                 "Example Corp",
-                "123456789",
-                "12345678",
-                "123456",
+                "594918104",
+                "59491810",
+                "594918",
                 "fallback",
             ]
         )
@@ -65,7 +65,7 @@ def test_build_cusip_dynamics(tmp_path):
     assert len(result) == 1
     record = result.iloc[0]
     assert record.cik == 1000
-    assert record.cusip8 == "12345678"
+    assert record.cusip8 == "59491810"
     assert record.first_seen == "2020-01-15"
     assert record.last_seen == "2020-02-20"
     assert record.filings_count == 2
@@ -74,4 +74,7 @@ def test_build_cusip_dynamics(tmp_path):
     assert record.most_recent_accession == "0002"
     assert record.most_recent_form == "13G"
     assert record.most_recent_filing_date == "2020-02-20"
+    assert bool(record.valid_check_digit) is True
+    assert record.parse_methods == "fallback;window"
+    assert record.fallback_filings == 1
     assert output_path.exists()

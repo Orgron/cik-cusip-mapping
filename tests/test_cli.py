@@ -35,6 +35,9 @@ def test_run_pipeline_cli_emits_summary(monkeypatch, tmp_path, capsys):
         assert kwargs["events_output_root"] == Path(".")
         dynamics_path = kwargs["dynamics_output_file"]
         assert dynamics_path == Path("cik-cusip-dynamics.csv")
+        assert kwargs["parsing_workers"] == 2
+        assert kwargs["parsing_max_queue"] == 32
+        assert kwargs["show_progress"] is True
         return DummyFrame(3), DummyFrame(2)
 
     monkeypatch.setattr(cli.pipeline, "run_pipeline", fake_run_pipeline)

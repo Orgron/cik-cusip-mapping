@@ -12,21 +12,30 @@ def postprocess_mappings(
     csv_paths: Iterable[Path | str],
     *,
     output: Path | str | None = None,
+    valid_lengths: Iterable[int] | None = None,
+    forbidden_prefixes: Iterable[str] | None = None,
 ) -> pd.DataFrame:
     """Combine per-form CSV files into the final mapping DataFrame."""
 
+    length_whitelist = set(valid_lengths or {6, 8, 9})
+    excluded_prefixes = {prefix.upper() for prefix in (forbidden_prefixes or {"000000", "0001PT"})}
     frames: list[pd.DataFrame] = []
     for csv_path in csv_paths:
         path = Path(csv_path)
-        frame = pd.read_csv(path, names=["filename", "cik", "cusip"]).dropna()
+        frame = pd.read_csv(
+            path,
+            names=["filename", "cik", "cusip"],
+            encoding="utf-8",
+        ).dropna()
         if frame.empty:
             continue
         frame["leng"] = frame.cusip.map(len)
-        frame = frame[frame.leng.isin({6, 8, 9})]
+        frame = frame[frame.leng.isin(length_whitelist)]
         if frame.empty:
             continue
+        frame["cusip"] = frame.cusip.str.upper()
         frame["cusip6"] = frame.cusip.str[:6]
-        frame = frame[~frame.cusip6.isin({"000000", "0001pt"})]
+        frame = frame[~frame.cusip6.str.upper().isin(excluded_prefixes)]
         if frame.empty:
             continue
         frame["cusip8"] = frame.cusip.str[:8]
@@ -41,7 +50,7 @@ def postprocess_mappings(
     if output is not None:
         output_path = Path(output)
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        result.to_csv(output_path, index=False)
+        result.to_csv(output_path, index=False, encoding="utf-8")
 
     return result
 
@@ -58,7 +67,7 @@ def build_cusip_dynamics(
         path = Path(csv_path)
         if not path.exists():
             continue
-        frame = pd.read_csv(path, dtype=str)
+        frame = pd.read_csv(path, dtype=str, encoding="utf-8")
         if frame.empty:
             continue
         frames.append(frame)
@@ -79,6 +88,9 @@ def build_cusip_dynamics(
                 "most_recent_accession",
                 "most_recent_form",
                 "most_recent_filing_date",
+                "valid_check_digit",
+                "parse_methods",
+                "fallback_filings",
             ]
         )
     else:
@@ -104,6 +116,9 @@ def build_cusip_dynamics(
                     "most_recent_accession",
                     "most_recent_form",
                     "most_recent_filing_date",
+                    "valid_check_digit",
+                    "parse_methods",
+                    "fallback_filings",
                 ]
             )
         else:
@@ -149,6 +164,19 @@ def build_cusip_dynamics(
                     (value for value in group["cusip9"].dropna() if value),
                     "",
                 )
+                methods = sorted(
+                    {
+                        str(method)
+                        for method in group["parse_method"].dropna().astype(str)
+                        if str(method)
+                    }
+                )
+                fallback_count = sum(
+                    method != "window"
+                    for method in group["parse_method"].fillna("")
+                )
+                valid_check_digit = _has_valid_cusip_check_digit(cusip9)
+
                 records.append(
                     {
                         "cik": int(cik),
@@ -165,6 +193,9 @@ def build_cusip_dynamics(
                         ),
                         "most_recent_form": most_recent.get("form", ""),
                         "most_recent_filing_date": most_recent["filing_date"].date().isoformat(),
+                        "valid_check_digit": valid_check_digit,
+                        "parse_methods": ";".join(methods),
+                        "fallback_filings": int(fallback_count),
                     }
                 )
 
@@ -175,6 +206,36 @@ def build_cusip_dynamics(
     if output is not None:
         output_path = Path(output)
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        result.to_csv(output_path, index=False)
+        result.to_csv(output_path, index=False, encoding="utf-8")
 
     return result
+
+
+def _has_valid_cusip_check_digit(cusip: str | None) -> bool:
+    """Return ``True`` when ``cusip`` has a valid Modulus-10 check digit."""
+
+    if not cusip or len(cusip) != 9 or not cusip[:-1].isalnum():
+        return False
+    body = cusip.upper()[:-1]
+    try:
+        values = [_character_to_cusip_value(ch) for ch in body]
+    except ValueError:
+        return False
+
+    total = 0
+    for index, value in enumerate(values, start=1):
+        if index % 2 == 0:
+            value *= 2
+        total += value // 10 + value % 10
+    check_digit = (10 - (total % 10)) % 10
+    return cusip[-1] == str(check_digit)
+
+
+def _character_to_cusip_value(character: str) -> int:
+    """Return the integer value associated with a CUSIP character."""
+
+    if character.isdigit():
+        return int(character)
+    if character.isalpha():
+        return ord(character.upper()) - 55
+    raise ValueError(f"Invalid CUSIP character: {character!r}")
