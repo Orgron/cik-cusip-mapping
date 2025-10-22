@@ -1,0 +1,534 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ aJ1pJolVulhMtj6hFTVn4Oz/pzt7yG5t1w5Rzl1iC9N+2c2SinF4jOxpyHLdJIgB
+ AiVo0AS6vvIO/rXa66ZIpg==
+
+<IMS-DOCUMENT>0000950123-94-000138.txt : 19940114
+<IMS-HEADER>0000950123-94-000138.hdr.sgml : 19940114
+ACCESSION NUMBER:		0000950123-94-000138
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19940113
+SUBJECT COMPANY:		
+
+COMPANY DATA:	
+	COMPANY CONFORMED NAME:			SOCIETY CORP
+	CENTRAL INDEX KEY:			0000091576
+	STANDARD INDUSTRIAL CLASSIFICATION:	6021
+	IRS NUMBER:				346542451
+	STATE OF INCORPORATION:			OH
+	FISCAL YEAR END:			1231
+
+FILING VALUES:
+	FORM TYPE:		SC 13D/A
+	SEC ACT:		34
+	SEC FILE NUMBER:	005-32208
+	FILM NUMBER:		94501322
+
+BUSINESS ADDRESS:	
+	STREET 1:		127 PUBLIC SQ
+	CITY:			CLEVELAND
+	STATE:			OH
+	ZIP:			44114-1306
+	BUSINESS PHONE:		2166893000
+</SUBJECT-COMPANY>
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KEYCORP
+		CENTRAL INDEX KEY:			0000036208
+		STANDARD INDUSTRIAL CLASSIFICATION:	6021
+		IRS NUMBER:				141538208
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE KEYCORP PLZ
+		STREET 2:		PO BOX 88
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12201-0088
+		BUSINESS PHONE:		5184868000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KEY BANKS INC
+		DATE OF NAME CHANGE:	19851107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FORMERLY FIRST COMMERCIAL BANKS INC
+		DATE OF NAME CHANGE:	19600201
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT NO. 1 TO SCHEDULE 13D
+<TEXT>
+
+<PAGE>   1
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                 SCHEDULE 13D/A
+
+
+                   UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                            (AMENDMENT NO.  1  )*
+                                          -----
+
+                              Society Corporation
+                              -------------------
+                                (Name of Issuer)
+
+
+                    Common Stock, par value $1.00 per share
+                    ---------------------------------------
+                        (Title and Class of Securities)
+
+
+                                  833 663 305
+                                 --------------
+                                 (CUSIP Number)
+
+  Walter V. Ferris, KeyCorp, One KeyCorp Plaza, Albany, NY 12207 (518) 486-8500
+- -------------------------------------------------------------------------------
+           (Name, Address and Telephone Number of Person Authorized
+                    to Receive Notices and Communications)
+
+
+                               December 22, 1993
+            -------------------------------------------------------
+            (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is being paid with the statement [ ].  (A fee
+is not required only if the reporting person:  (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+NOTE: Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+<PAGE>   2
+
+
+                  Item 7.  Materials to Be Filed as Exhibits.
+
+     The following are filed as Appendices or Exhibits to this Schedule 13D:
+
+          Appendix I.    Information Relating to Executive Officers and
+                         Directors of Society Corporation
+
+          Exhibit 1.     KeyCorp Stock Option Agreement, dated as of October 2,
+                         1993, between KeyCorp and Society Corporation
+
+          Exhibit 2.     Society Corporation Stock Option Agreement, dated as
+                         of October 2, 1993, between KeyCorp and Society 
+                         Corporation
+
+          Exhibit 3.     Shareholder Rights Protection Agreement, dated as of
+                         October 1, 1993, between KeyCorp and Key Trust
+                         Company, as rights agent
+
+          Exhibit 4.     Third Amendment to Rights Agreement, dated as of
+                         October 1, 1993, between Society Corporation and
+                         Society National Bank, as rights agent
+
+          Exhibit 5.     Agreement and Plan of Merger, dated as of October 1,
+                         1993, between KeyCorp and Society Corporation
+
+          Exhibit 6.     Exhibit I to Agreement and Plan of Merger:  Articles
+                         of Incorporation of the Surviving Corporation
+
+          Exhibit 7.     Exhibit II to Agreement and Plan of Merger:
+                         Regulations of the Surviving Corporation
+
+          Exhibit 8.     Supplemental Agreement to Agreement and Plan of
+                         Merger, dated as of October 1, 1993, between KeyCorp
+                         and Society Corporation
+
+          Exhibit 9.     Exhibits V(A) and V(B) to the Supplemental Agreement:
+                         Forms of 
+
+<PAGE>   3
+                         Agreement of Affiliates of KeyCorp and
+                         Society Corporation
+
+          Exhibit 10.    First Amendment to Agreement and Plan of Merger and
+                         Supplemental Agreement to Agreement and Plan of
+                         Merger, dated December 22, 1993, between KeyCorp and
+                         Society Corporation
+
+                                   Signature
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this amendment is true, complete, and
+correct.
+
+Dated:  January 11, 1994           KEYCORP
+
+                                   By: /s/ David J. DeLuca       
+                                       ---------------------
+                                       David J. DeLuca
+                                       Senior Vice President
+                                         and Controller
+
+
+
+
+
+
+
+
+                                     -2-
+<PAGE>   4
+                                 EXHIBIT INDEX
+
+
+Designation    Title
+
+Appendix I.    Information Relating to Executive Officers and Directors of
+               Society Corporation
+
+Exhibit 1.     KeyCorp Stock Option Agreement, dated as of October 2, 1993,
+               between KeyCorp and Society Corporation
+
+Exhibit 2.     Society Corporation Stock Option Agreement, dated as of October
+               2, 1993, between KeyCorp and Society Corporation
+
+Exhibit 3.     Shareholder Rights Protection Agreement, dated as of October 1,
+               1993, between KeyCorp and Key Trust Company, as rights agent
+
+Exhibit 4.     Third Amendment to Rights Agreement, dated as of October 1,
+               1993, between Society Corporation and Society National Bank, as
+               rights agent
+
+Exhibit 5.     Agreement and Plan of Merger, dated as of October 1, 1993,
+               between KeyCorp and Society Corporation
+
+Exhibit 6.     Exhibit I to Agreement and Plan of Merger: Articles of
+               Incorporation of the Surviving Corporation
+
+Exhibit 7.     Exhibit II to Agreement and Plan of Merger:  Regulations of the
+               Surviving Corporation
+
+Exhibit 8.     Supplemental Agreement to Agreement and Plan of Merger, dated as
+               of October 1, 1993, between KeyCorp and Society Corporation
+
+Exhibit 9.     Exhibits V(A) and V(B) to the Supplemental Agreement:  Forms of
+
+
+
+
+
+
+
+
+                                     -3-
+<PAGE>   5
+               Agreement of Affiliates of KeyCorp and Society Corporation
+
+Exhibit 10.    First Amendment to Agreement and Plan of Merger and Supplemental
+               Agreement to Agreement and Plan of Merger, dated as of December
+               22, 1993, between KeyCorp and Society Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -4-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>2
+<DESCRIPTION>FIRST AMEND TO AGRMT AND PLAN OF MERGER
+<TEXT>
+
+<PAGE>   1
+                                                                      EXHIBIT 10
+
+                          FIRST AMENDMENT TO AGREEMENT
+                           AND PLAN OF MERGER AND TO
+                           SUPPLEMENTAL AGREEMENT TO
+                          AGREEMENT AND PLAN OF MERGER
+
+     THIS FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER AND TO SUPPLEMENTAL
+AGREEMENT TO AGREEMENT AND PLAN OF MERGER (the "First Amendment") is made and
+entered into as of this 22nd day of December, 1993, by and between KeyCorp, a
+corporation organized and existing under the laws of the State of New York
+("KeyCorp"), and Society Corporation, a corporation organized and existing
+under the laws of the State of Ohio ("Society").  Except as otherwise provided
+herein, the capitalized terms used but not defined herein shall have the
+meanings assigned to them in the Supplemental Agreement (as hereinafter
+defined).
+
+
+                              W I T N E S S E T H
+
+     WHEREAS, KeyCorp and Society have entered into an Agreement and Plan of
+Merger, dated as of October 1, 1993 (the "Merger Agreement"), and a
+Supplemental Agreement to Agreement and Plan of Merger, dated as of October 1,
+1993 (the "Supplemental Agreement"), which together provide for the merger of
+KeyCorp into and with Society, with Society as the surviving corporation under
+the name Key Bancs, Inc. (the "Surviving Corporation") and the conversion of
+KeyCorp Common Stock into Surviving Corporation Common Stock and KeyCorp Series
+B Preferred Stock into Surviving Corporation Class A Preferred Stock;
+
+     WHEREAS, KeyCorp and Society deem it desirable that the definitions of
+"Insider Director" contained in the Supplemental Agreement and the Surviving
+Corporation Regulations attached to the Merger Agreement as Exhibit II be
+amended;
+
+     WHEREAS, KeyCorp and Society deem it desirable that the KeyCorp Stock
+Option Plans be assumed, at the Effective Time, by the Surviving Corporation so
+that the Surviving Corporation may, if it so elects, grant stock options and
+stock appreciation rights thereunder from and after the Effective Time;
+
+     WHEREAS, KeyCorp and Society deem it desirable that certain terms of the
+Surviving Corporation Articles of Incorporation attached to the Merger
+Agreement as Exhibit I relating to certain voting rights of the preferred
+stockholders of the Surviving Corporation be amended;
+
+     WHEREAS, KeyCorp and Society deem it desirable that the Surviving 
+Corporation have the name "Key Bancshares Inc." (or such other variant thereof,
+including, without limitation, "KeyCorp", as the respective Boards of Directors
+of KeyCorp and Society shall mutually determine prior to the Effective Time)
+rather than "Key Bancs, Inc."; and
+
+<PAGE>   2
+     WHEREAS, KeyCorp and Society deem it desirable that certain of the terms
+of the Supplemental Agreement relating to survival of representations,
+warranties, obligations, covenants, and agreements beyond the Effective Time be
+amended.
+
+
+                             STATEMENT OF AGREEMENT
+
+     NOW, THEREFORE, KeyCorp and Society hereby agree that the Merger Agreement
+and the Supplemental Agreement be amended as follows:
+
+          Section 1.  Section 1.11 of the Supplemental Agreement is hereby
+amended to read as follows:
+
+          "Insider Director" shall mean, with respect to Society, any person
+     who, as of immediately prior to the Effective Time, was a current or
+     former officer of Society or any of its Subsidiaries or any predecessor or
+     constituent (by merger, consolidation, or otherwise) of Society or any of
+     its Subsidiaries, and, with respect to KeyCorp, any person who, as of
+     immediately prior to the Effective Time, was a current or former officer
+     of KeyCorp or any of its Subsidiaries or any predecessor or constituent
+     (by merger, consolidation, or otherwise) of KeyCorp or any of its
+     Subsidiaries, but shall not include H. Douglas Barclay or Henry S.
+     Hemingway.
+
+          Section 2.  The last sentence of the second paragraph of Section 1 of
+Article II of the Surviving Corporation Regulations attached to the Merger
+Agreement as Exhibit II is hereby amended to read as follows:
+
+     "Insider Director" shall mean any person who, as of immediately prior to
+     the Effective Time, was a current or former officer of the Corporation or
+     any of its subsidiaries or any predecessor or constituent (by merger,
+     consolidation, or otherwise) of the Corporation or any of its
+     subsidiaries, but shall not include H. Douglas Barclay or Henry S.
+     Hemingway.
+
+          Section 3.  Section 4.4 of the Merger Agreement is hereby amended by
+designating the existing text of Section 4.4 as paragraph "(a)" and by adding
+the following paragraph (b) to the end of Section 4.4:
+
+          (b) At the Effective Time, the KeyCorp Stock Option Plans shall be
+     automatically and without further action assumed by the Surviving
+     Corporation (and thereupon become stock option and stock appreciation
+     rights plans of the Surviving Corporation) as follows:  (i) each option or
+     right granted under a KeyCorp Stock Option Plan from and after the
+     Effective Time shall be
+
+                                      -2-
+<PAGE>   3
+     solely for or in respect of shares of Surviving Corporation Common Stock,
+     notwithstanding any contrary provisions of the applicable KeyCorp Stock
+     Option Plan, (ii) the Surviving Corporation and its Compensation and
+     Organization Committee shall be substituted for KeyCorp and the Committee
+     of the KeyCorp Board of Directors administering the applicable KeyCorp
+     Stock Option Plan, and (iii) references to KeyCorp shall be deemed to be
+     references to the Surviving Corporation, references to KeyCorp's By-Laws
+     shall be deemed to be references to the Regulations of the Surviving
+     Corporation, and any similar references shall be appropriately conformed.
+
+          Section 4.  The term "Key Bancs, Inc.", as referred to from time to
+time in the Merger Agreement, the Supplemental Agreement, and the exhibits to
+each of them, is hereby amended to read "Key Bancshares Inc." in each of such
+agreements and exhibits, including, without limitation, in Article I of the
+Surviving Corporation Articles of Incorporation attached to the Merger
+Agreement as Exhibit I; provided, however, that if the respective Boards of
+Directors of KeyCorp and Society mutually agree, prior to the Effective Time,
+that a variation of the name "Key Bancshares Inc.", including, without
+limitation, the name "KeyCorp", shall be the name of the Surviving Corporation,
+each such reference to "Key Bancshares Inc." shall automatically, without
+further action by KeyCorp and Society, be replaced with the name agreed upon by
+the respective Boards of Directors of KeyCorp and Society.
+
+          Section 5.  The first sentence of Section 2(b) of Part B of Article
+IV of the Surviving Corporation Articles of Incorporation attached to the
+Merger Agreement as Exhibit I is hereby amended by adding the following
+language to the end of that sentence:
+
+     or until non-cumulative dividends have been paid regularly for at least
+     one full year.
+
+          Section 6.  Sections 2(c) and 2(d) of Part B of Article IV of the
+Surviving Corporation Articles of Incorporation attached to the Merger
+Agreement as Exhibit I are hereby amended to read as follows:
+
+          (c)  The affirmative vote or consent of the holders of at least
+     two-thirds of the then outstanding shares of Preferred Stock, given in
+     person or by proxy, either in writing or at a meeting called for the
+     purpose at which the holders of Preferred Stock shall vote separately as a
+     class, shall be necessary to effect any amendment, alteration, or repeal
+     of any of the provisions of these articles of incorporation or the
+     regulations of the Corporation which would be substantially prejudicial to
+     the voting powers, rights, or preferences of the holders of Preferred
+     Stock (but so far as the holders of Preferred Stock are concerned, such
+
+                                      -3-
+<PAGE>   4
+     action may be effected with such vote or consent); provided, however, that
+     neither the amendment of these articles of incorporation to authorize or
+     to increase the authorized or outstanding number of shares of any class
+     ranking junior to or on a parity with the Preferred Stock; nor the
+     amendment of the regulations so as to change the number of directors of
+     the Corporation, shall be deemed to be substantially prejudicial to the
+     voting powers, rights, or preferences of the holders of Preferred Stock
+     (and any such amendment referred to in this proviso may be made without
+     the vote or consent of the holders of the Preferred Stock); and provided
+     further that if such amendment, alteration, or repeal would be
+     substantially prejudicial to the rights or preferences of one or more but
+     not all then outstanding series of Preferred Stock, the affirmative vote
+     or consent of the holders of at least two-thirds of the then outstanding
+     shares of the series so affected shall also be required.
+
+          (d) The affirmative vote or consent of the holders of at least
+     two-thirds of the then outstanding shares of Preferred Stock and, if the
+     holders of 10% Cumulative Preferred Stock are entitled to vote on such
+     matter pursuant to Section 5 of Part A of this Article IV, the 10%
+     Cumulative Preferred Stock, given in person or by proxy, either in writing
+     or at a meeting called for the purpose at which the holders of Preferred
+     Stock and, if applicable, 10% Cumulative Preferred Stock shall vote as a
+     single class shall be necessary to effect any one or more of the
+     following:
+
+           (i) The authorization of, or the increase in the authorized
+               number of, any shares of any class ranking prior to the 
+               Preferred Stock; or
+
+          (ii) The purchase or redemption for sinking fund purposes or
+               otherwise of less than all of the then outstanding 
+               Preferred Stock except in accordance with a purchase 
+               offer made to all holders of record of Preferred Stock, 
+               unless all dividends on all Preferred Stock then 
+               outstanding for all previous dividend periods shall have 
+               been declared and paid or funds therefor set apart and 
+               all accrued sinking fund obligations applicable thereto 
+               shall have been complied with.
+
+          Section 7.  Section 10.3 of the Supplemental Agreement is hereby
+amended by adding the following sentence after the last sentence of said
+Section 10.3:
+
+                                      -4-
+<PAGE>   5
+     Notwithstanding anything to the contrary in this Supplemental Agreement,
+     in general, and in this Section 10.3 in particular, and in the Merger
+     Agreement, the respective representations, warranties, obligations,        
+     covenants, and agreements of the Parties that will survive the Effective
+     Time pursuant to this Section 10.3 shall be deemed to be automatically
+     amended to the extent necessary to conform to the provisions of the
+     Surviving Corporation Articles of Incorporation and/or the Surviving
+     Corporation Regulations as either of them may be from time to time amended
+     after the Effective Time pursuant to the provisions thereof or applicable
+     law.
+
+          Section 8.   Except as amended by this First Amendment, the Merger
+Agreement, the Supplemental Agreement, and the exhibits to each of them remain
+in full force and effect without alteration or change.
+
+          Section 9.   This First Amendment shall be governed by and construed
+in accordance with the laws of the State of Ohio except to the extent the laws
+of the Business Corporation Law of the State of New York shall be applicable.
+
+          Section 10.  This First Amendment may be executed in one or more
+counterparts, each of which shall constitute one and the same instrument.
+
+          IN WITNESS WHEREOF, each of the Parties has caused this First
+Amendment to be executed on its behalf and its corporate seal hereunto affixed
+and attested by officers thereunto duly authorized all as of the day and year
+first written above.
+
+                              KEYCORP
+
+                              By:  /s/ Victor J. Riley, Jr. 
+                                   ----------------------------
+                                   Name:  Victor J. Riley, Jr.
+                                   Title: Chairman, President &
+                                          Chief Executive Officer
+
+ATTEST:  /s/ Robert W. Bouchard   
+         ---------------------------
+         Name:  Robert W. Bouchard
+         Title: Executive Vice President             [CORPORATE SEAL]
+                & Secretary
+
+                              SOCIETY CORPORATION
+
+                              By:  /s/ Robert W. Gillespie 
+                                   ----------------------------
+                                   Name:  Robert W. Gillespie
+                                   Title: Chairman of the Board
+
+                             And:  /s/ Lawrence J. Carlini   
+                                   ----------------------------
+                                   Name:  Lawrence J. Carlini
+                                   Title: General Counsel
+
+                                                     [CORPORATE SEAL]
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

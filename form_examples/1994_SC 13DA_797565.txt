@@ -1,0 +1,494 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ QufYTHgddV/yn0E3n/8slmwfR4EY0NIVeeJzu1C1CLv2/xqBhFX1PThYAA3YWxQd
+ yYlRy8+W6NIKQBnRbMKZnQ==
+
+<IMS-DOCUMENT>0000950157-94-000014.txt : 19940203
+<IMS-HEADER>0000950157-94-000014.hdr.sgml : 19940203
+ACCESSION NUMBER:		0000950157-94-000014
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940202
+SUBJECT COMPANY:		
+
+COMPANY DATA:	
+	COMPANY CONFORMED NAME:			QVC NETWORK INC
+	CENTRAL INDEX KEY:			0000797565
+	STANDARD INDUSTRIAL CLASSIFICATION:	5961
+	IRS NUMBER:				232414041
+	STATE OF INCORPORATION:			DE
+	FISCAL YEAR END:			0131
+
+FILING VALUES:
+	FORM TYPE:		SC 13D/A
+	SEC ACT:		34
+	SEC FILE NUMBER:	005-38102
+	FILM NUMBER:		94504271
+
+BUSINESS ADDRESS:	
+	STREET 1:		GOSHEN CORPORATE PARK
+	CITY:			WEST CHESTER
+	STATE:			PA
+	ZIP:			19380
+	BUSINESS PHONE:		2154301000
+</SUBJECT-COMPANY>
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BELLSOUTH CORP
+		CENTRAL INDEX KEY:			0000732713
+		STANDARD INDUSTRIAL CLASSIFICATION:	4813
+		IRS NUMBER:				581533433
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1155 PEACHTREE ST NE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30367
+		BUSINESS PHONE:		4042492000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D/A
+<TEXT>
+
+
+
+
+
+                                       UNITED STATES
+                            SECURITIES AND EXCHANGE COMMISSION
+                                  Washington, D.C. 20549
+
+
+                                       SCHEDULE 13D
+
+                         Under the Securities Exchange Act of 1934
+                                    (Amendment No. 3)*
+
+                                     QVC NETWORK, INC.
+                                     (Name of Issuer)
+
+
+                          Common Stock, par value $.01 per share
+                              (Title of Class of Securities)
+
+                                        747262 10 3
+
+                                      (CUSIP Number)
+
+
+                                     Walter H. Alford
+                                   BellSouth Corporation
+                                1155 Peachtree Street, N.E.
+                                     Atlanta, GA 30367
+                                      (404) 249-2050
+                (Name, Address and Telephone Number of Person Authorized to
+               Receive Notices and Communications)
+
+
+                                     February 1, 1994
+                  (Date of Event which Requires Filing of this Statement)
+
+                    If the filing person has previously filed a statement on
+               Schedule 13G to report the acquisition which is the subject of
+               this Schedule 13D, and is filing this Schedule because of
+                                                                 __
+               Rule 13d-1(b)(3) or (4), check the following box / /.  
+
+                    Check the following box if a fee is being paid with the
+                          __
+               statement / /. (A fee is not required only if the reporting     _
+               person: (1) has a previous statement on file reporting
+               beneficial ownership of more than five percent of the class of
+               securities described in Item 1; and (2) has filed no amendment
+               subsequent thereto reporting beneficial ownership of five
+               percent or less of such class.) (See Rule 13d-7.)
+
+                         Note:  Six copies of this statement, including all
+               exhibits, should be filed with the Commission. See Rule 13d-
+               1(a) for other parties to whom copies are to be sent.
+
+              *The remainder of this cover page shall be filled out for
+               a reporting person's initial filing on this form with respect
+               to the subject class of securities, and for any subsequent 
+               amendment containing information which would alter disclosures   
+               provided in a prior cover page.
+
+                    The information required on the remainder of this cover
+               page shall not be deemed to be  filed  for the purpose of 
+               Section 18 of the Securities Exchange Act of 1934 ( Act ) or
+               otherwise subject to the liabilities of that section of the Act(
+               but shall be subject to all other provisions of the Act 
+               (however, see the Notes).
+
+                                     Page 1 of 8
+
+                            Index to Exhibits on page 6 of 8
+
+
+               <PAGE>2
+
+                              SECURITIES AND EXCHANGE COMMISSION
+                                    Washington, D.C. 20549
+
+
+                                          SCHEDULE 13D
+                                        (Amendment No. 3)
+ 
+                                           Statement of
+
+                                       BELLSOUTH CORPORATION
+
+                                  Pursuant to Section 13(d) of the
+                                   Securities Exchange Act of 1934
+
+                                            in respect of
+
+                                          QVC NETWORK, INC.
+
+                         This Report relates to the common stock, par value
+               $.01 per share (the "Common Stock"), of QVC Network, Inc., a
+               Delaware corporation (the "Company").  The Report on Schedule
+               13D filed by BellSouth Corporation on November 22, 1993, as
+               amended by Amendment No. 1 dated November 23, 1993, and
+               Amendment No. 2 dated December 30, 1993 (the "Schedule 13D"),
+               is hereby amended and supplemented as set forth below.  All
+               capitalized terms not otherwise defined herein shall have the
+               meanings ascribed to them in the Schedule 13D.
+
+               Item 3.  Source and Amount of Funds
+                        or Other Consideration    
+
+                         Item 3 of the Schedule 13D is hereby supplemented and
+               amended to include the following information:
+
+                         Pursuant to the February 1 Letter Agreement (defined
+               in Item 4 below), BellSouth increased from $1,500,000,000 to
+               $2,000,000,000 its aggregate commitment to purchase Common
+               Stock and Preferred Stock of the Company.  BellSouth currently
+               expects that the funds for the acquisition of the above-
+               described equity securities of the Company will be provided
+               through working capital, bank borrowings or issuances of
+               commercial paper. 
+
+               Item 4.  Purpose of Transaction
+
+                         Item 4 of the Schedule 13D is hereby supplemented and
+               amended to include the following information:
+
+
+                                      Page 2 of 8    
+
+               <PAGE>3
+
+                          In connection with the Company's proposed
+               acquisition of Paramount and pursuant to the Letter Agreement
+               dated February 1, 1994 (including the attached term sheet) (the
+               "February 1 Letter Agreement"), among, the Company, Advance,
+               BellSouth, Comcast and Cox, BellSouth has agreed, among other
+               things, to amend the BellSouth Commitment Letter to provide
+               that BellSouth, subject to the terms and conditions of the
+               BellSouth Commitment Letter, has committed to purchase
+               (i) 19,230,769 shares of the Common Stock at price of $52 per
+               share for an aggregate purchase price of $1,000,000,000, (ii)
+               11,904,762 shares of Common Stock at a price of $42 per share
+               for an aggregate purchase price of $500,000,000, and
+               (iii) 500,000 shares of Preferred Stock at a price of $1,000
+               per share, for an aggregate purchase price of $500,000,000. 
+               Previously, BellSouth had committed to purchase (i) 8,333,333
+               shares of Common Stock at a price of $60 per share for an
+               aggregate purchase price of $1,000,000,000 and (ii) 500,000
+               shares of Preferred Stock at a price of $1,000 per share, for
+               an aggregate purchase price of $500,000,000. 
+                    
+                         The description contained herein of the February 1
+               Letter Agreement is qualified in its entirety by reference to
+               the text of such document, which is filed as an Exhibit to this
+               Report and is hereby incorporated by reference herein.  
+
+                         Notwithstanding anything contained herein but subject
+               to its contractual obligations and applicable regulatory
+               requirements, BellSouth Corporation has reserved the right,
+               depending on all relevant factors, to purchase additional
+               securities of the Company, to dispose of securities of the
+               Company or to change its intention with respect to any and all
+               of the matters as referred to in Item 4 of this Report.
+
+               Item 6.   Contracts, Arrangements, Understandings
+                         or Relationships with Report to the 
+                         Securities of the Issuer               
+
+                         Item 6 is hereby supplemented and amended to include
+               the following information:
+
+                         See Item 4 for a description of certain terms of the
+               February 1 Letter Agreement which is filed as an Exhibit to
+               this Report and is incorporated by reference herein.
+
+
+
+
+                                         Page 3 of 8    
+
+
+               <PAGE>4
+
+               Item 7.   Material To Be Filed as Exhibits
+
+                         Item 7 of the Schedule 13D is hereby supplemented and
+               amended by adding the following information thereto:
+
+                         8.  Letter Agreement dated February 1, 1994,
+               among Comcast Corporation, Cox Enterprises, Inc., Advance
+               Publications, Inc., BellSouth Corporation and QVC Network, Inc.
+
+
+
+
+
+
+
+
+
+                                         Page 4 of 8    
+
+               
+
+               <PAGE>5
+
+                                          SIGNATURE
+
+
+                         After reasonable inquiry and to the best of my
+               knowledge and belief, I certify that the information in this
+               statement is true, complete and correct.
+
+               Dated:  February 2, 1994
+
+
+                                             BELLSOUTH CORPORATION
+
+                                             By: /s/ Arlen G. Yokley
+                                                 ______________________
+                                                 Name:  Arlen G. Yokley
+                                                 Title: Vice President,
+                                                 Secretary and Treasurer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         Page 5 of 8    
+
+
+               <PAGE>6
+                                      INDEX OF EXHIBITS
+
+
+
+                                                      Page Number
+                Exhibit                               in Sequentially 
+                Number              Title             Numbered Statement 
+
+                   8.      Letter Agreement dated              7 
+                           February 1, 1994, among
+                           Comcast Corporation, Cox
+                           Enterprises, Inc.,
+                           Advance Publications,
+                           Inc., BellSouth
+                           Corporation and QVC
+                           Network, Inc.
+
+
+
+
+
+
+
+
+
+
+                                         Page 6 of 8    
+
+
+               <PAGE>7
+
+                                     QVC NETWORK, INC.
+                                   1365 Enterprise Drive
+                                   Goshen Corporate Park
+                                   West Chester, PA 19380
+
+                                      February 1, 1994
+
+
+               Gentlemen:
+
+                    Reference is made to the Equity Commitment Letter, dated
+               November 11, 1993, by and among QVC Network, Inc. Cox
+               Enterprises, Inc., and to the BellSouth Commitment Letter,
+               dated November 19, 1993, by and between QVC and BellSouth
+               Corporation, in connection with the proposed acquisition of
+               Paramount Communications Inc., ("Paramount").  The parties
+               hereto agree to the terms of the offer to purchase 50.1% of
+               the common stock of Paramount and the proposed second-step
+               merger of QVC and Paramount, both as described in the
+               attached Term Sheet (the "Term Sheet").  The parties hereto
+               also agree to amend the Commitment letters referred to above
+               as described in the Term Sheet.
+
+
+                                             Sincerely,
+
+
+                                             QVC NETWORK, INC.
+
+                                             By:  /s/ Neal S. Grabell
+                                                 _____________________
+
+               Acknowledged and Agreed to:
+
+               ADVANCE PUBLICATIONS, INC.
+
+               By: /s/ Donald E. Newhouse
+                   __________________________
+
+
+               BELLSOUTH CORPORATION
+
+               By: /s/ Charles C. Miller, III
+                   ___________________________
+
+
+               COMCAST CORPORATION
+
+               By: /s/ Stanley L. Wang
+                   ___________________________
+
+
+               COX ENTERPRISES, INC.
+
+               By: /s/ James C. Kennedy
+                   ___________________________
+
+
+
+                                         Page 7 of 8    
+
+              <PAGE>8
+
+                                       TERM SHEET
+
+
+            Term to Outside Investors     
+   
+            Common Stock                 BellSouth to purchase
+                                         additional $500 million at $42
+                                         per share
+
+                                         All Investors reset previously
+                                         committed purchases of Common
+                                         stock to $52
+
+            Convertible Preferred        Conversion price to be lowered
+            Series E:                    to $55 per share; other terms
+                                         unchanged
+
+            Investor Stock Options:      Remain at $60 per share
+
+            Revised Bid Structure
+
+            Financing Sources:           BellSouth to purchase an
+                                         additional $500 million of
+                                         common stock as described
+                                         above
+
+                                         QVC to raise an additional
+                                         $250 million through
+                                         additional bank borrowings
+
+            Uses:                        $250 million to replace same
+                                         amount of liquidation
+                                         preference in QVC merger
+                                         preferred (new ratio to be
+                                         .2386 per Paramount Share)
+
+            Tender Offer:                Increased to $104 per 
+                                         Paramount Share
+
+            Warrant:                     No Changes.
+
+
+                                     Page 8 of 8  
+
+
+                  <PAGE>9
+
+
+                             (212) 474-1582
+ 
+                                            February 2, 1994
+
+
+                             QVC Network, Inc.
+                           Schedule 13D Amendment
+
+
+  Dear Sirs:
+
+            On behalf of our client BellSouth Corporation,
+  enclosed for electronic filing with the Securities and
+  Exchange Commission pursuant to Section 13(d)(2) of the
+  Securities Exchange Act of 1934 and Rule 13d-2 promulgated
+  thereunder is Amendment No. 3 to the Schedule 13D filed by
+  BellSouth Corporation with respect to the common stock, par
+  value $.01 per share, of QVC Network Inc. (the
+  "Securities").  A copy of the Amendment is being delivered
+  by certified mail to QVC Network, Inc. and the NASDAQ - 
+  National Market System, which is the only exchange on
+  which the Securities are listed.
+
+
+                                Very truly yours,
+
+
+
+                                Kurt J. Berney
+
+  Securities and Exchange Commission
+     450 Fifth Street
+        Washington, D.C. 20549
+
+Encls.
+
+60A
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

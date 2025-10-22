@@ -1,0 +1,629 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ VzeilQxb8+gjZ5XgiN+ULruGmp19oJTDVKdW87Au/4SQujn+aZpv9UxBlSBh/SF/
+ uzTSShmQ5i0phYn3heyjlg==
+
+<IMS-DOCUMENT>0000895345-94-000020.txt : 19940324
+<IMS-HEADER>0000895345-94-000020.hdr.sgml : 19940324
+ACCESSION NUMBER:		0000895345-94-000020
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940323
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			USG CORP
+		CENTRAL INDEX KEY:			0000757011
+		STANDARD INDUSTRIAL CLASSIFICATION:	3270
+		IRS NUMBER:				363329400
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-36940
+		FILM NUMBER:		94517329
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 S FRANKLIN ST
+		STREET 2:		DEPT. 188
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3126065439
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP LP
+		CENTRAL INDEX KEY:			0000904571
+		STANDARD INDUSTRIAL CLASSIFICATION:	0000
+		IRS NUMBER:				133501777
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 BROAD ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		2129021000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT
+<TEXT>
+
+
+
+
+OMB APPROVAL
+OMB Number: 3235-0145
+Expires:   August 31, 1991
+Estimated average burden 
+hours per response. . .14.90
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13D
+
+
+Under the Securities Exchange Act of 1934
+(Amendment No. 5)
+
+USG CORPORATION
+(Name of Issuer)
+
+
+Common Stock, par value $.10 per share
+(Title of Class of Securities)
+
+
+0009032931          
+(CUSIP Number)
+
+
+James B. McHugh, Esq.
+The Goldman Sachs Group, L.P.
+85 Broad Street
+New York, NY  10004
+(212) 902-1000
+(Name, Address and Telephone Number of Person Authorized to 
+Receive Notices and Communications)
+
+
+March 22, 1994          
+(Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on 
+Schedule 13G to report the acquisition which is the subject 
+of this Schedule 13D, and is filing this schedule because of 
+Rule 13d-1(b)(3) or (4), check the following box. [ ]
+
+
+Check the following  box if a fee is being paid with the 
+statement.[ ] (A fee is not required, only if the reporting 
+person: (1) has a previous statement on file reporting 
+beneficial ownership of more than five percent of the class 
+of securities described in Item 1; and (2) has filed no 
+amendment subsequent thereto reporting beneficial ownership 
+of five percent or less of such class.) (See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, 
+should be filed with the Commission.  See Rule 13d-1(a) for 
+other parties to whom copies are to be sent.
+
+The remainder of this cover page shall be filled out for a 
+reporting person's initial filing on this form with respect 
+to the subject class of securities, and for any subsequent 
+amendment containing information which would alter 
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page 
+shall not be deemed to be "filed" for the purpose of 
+Section 18 of the Securities Exchange Act of 1934 ("Act") or 
+otherwise subject to the liabilities of that section of the 
+Act but shall be subject to all other provisions of the Act 
+(however, see the Notes).
+
+
+
+
+<PAGE>
+
+
+1
+
+Name of Reporting Person
+S.S. or I.R.S. Identification No. of Above Person
+
+Water Street Corporate Recovery Fund I, L.P.
+
+
+
+
+
+2
+
+Check the Appropriate Box if a Member of a Group* 
+
+(a) [ ]
+(b) [ ]
+
+
+
+
+
+3
+
+SEC Use Only
+
+
+
+
+
+4
+
+Source of Funds
+
+00-WC
+
+
+
+
+
+5
+
+Check Box if Disclosure of Legal Proceedings is
+Required Pursuant to Items 2(d) or 2(E)
+	
+[ ]
+
+
+
+
+6
+
+Citizenship or Place of Organization
+
+Delaware
+
+
+Number of
+Shares
+Beneficially
+Owned By
+Each
+Reporting
+Person
+With
+
+
+7
+
+
+Sole Voting Power
+9,534,301 shares of Common Stock
+
+
+
+8
+
+
+Shared Voting Power
+- - 0 -
+
+
+9
+
+
+Sole Dispositive Power
+9,534,301 shares of Common Stock
+
+
+
+10
+
+
+Shared Dispositive Power
+- - 0 -
+
+11
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+9,534,301 shares of Common Stock
+
+
+12
+
+Check Box if the Aggregate Amount in Row (11)
+Excludes Certain Shares* [ ]
+
+
+13
+
+Percent of Class Represented by Amount in Row (11)
+
+21.1%
+
+
+14
+
+Type of Reporting Person*
+
+  PN
+
+
+
+<PAGE>
+
+1
+
+Name of Reporting Person
+S.S. or I.R.S. Identification No. of Above Person
+Goldman, Sachs & Co.
+
+
+
+
+2
+
+Check the Appropriate Box if a Member of a Group* 
+(a) [ ]
+(b) [ ]
+
+
+
+
+3
+
+SEC Use Only
+
+
+
+
+
+4
+
+Source of Funds
+
+00-WC
+
+
+
+
+5
+
+Check Box if Disclosure of Legal Proceedings is
+Required Pursuant to Items 2(d) or 2(E) [ ]
+
+
+
+
+
+6
+
+Citizenship or Place of Organization
+
+New York
+
+
+Number of
+Shares
+Beneficially
+Owned By
+Each
+Reporting
+Person
+With
+
+
+7
+
+
+Sole Voting Power
+9,630,840 shares of Common Stock
+
+
+
+
+8
+
+
+Shared Voting Power
+- - 0 -
+
+
+9
+
+
+Sole Dispositive Power
+9,630,840 shares of Common Stock
+
+
+
+10
+
+
+Shared Dispositive Power
+- - 0 -
+
+11
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+9,630,840  shares of Common Stock
+
+
+12
+
+Check Box if the Aggregate Amount in Row (11)
+Excludes Certain Shares* [ ]
+
+
+
+13
+
+Percent of Class Represented by Amount in Row (11)
+
+21.3%
+
+
+14
+
+Type of Reporting Person*
+
+HC-BD-PN
+
+
+
+<PAGE>
+
+1
+
+Name of Reporting Person
+S.S. or I.R.S. Identification No. of Above Person
+The Goldman Sachs Group, L.P.
+
+
+
+
+
+2
+
+Check the Appropriate Box if a Member of a Group* 
+(a) [ ]
+(b) [ ]
+
+
+
+
+3
+
+SEC Use Only
+
+
+
+
+
+4
+
+Source of Funds
+
+00
+
+
+
+
+5
+
+Check Box if Disclosure of Legal Proceedings is
+Required Pursuant to Items 2(d) or 2(E) [ ]
+
+
+
+
+
+6
+
+Citizenship or Place of Organization
+
+Delaware
+
+
+Number of
+Shares
+Beneficially
+Owned By
+Each
+Reporting
+Person
+With
+
+
+
+
+7
+
+
+Sole Voting Power
+9,630,840 shares of Common Stock
+
+
+
+
+
+8
+
+
+Shared Voting Power
+- - 0 -
+
+
+
+9
+
+
+Sole Dispositive Power
+9,630,840 shares of Common Stock
+
+
+
+
+10
+
+
+Shared Dispositive Power
+- - 0 -
+
+11
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+9,630,840 shares of Common Stock
+
+
+12
+
+Check Box if the Aggregate Amount in Row (11)
+Excludes Certain Shares* [ ]
+
+
+
+13
+
+Percent of Class Represented by Amount in Row (11)
+21.3%
+
+
+14
+
+Type of Reporting Person*
+HC-PN
+
+
+<PAGE>
+
+
+	This statement constitutes Amendment No. 5 
+("Amendment No. 5") to the Statement on Schedule 13D, dated 
+May 17, 1993, as amended by Amendment No. 1, dated 
+January 10, 1994, Amendment No. 2, dated February 22, 1994, 
+Amendment No. 3, dated March 14, 1994 and Amendment No. 4, 
+dated March 17, 1994 (collectively, the "Schedule 13D"), 
+filed by Water Street Corporate Recovery Fund I, L.P. 
+("Water Street"), Goldman, Sachs & Co. ("Goldman Sachs") and 
+The Goldman Sachs Group, L.P. ("GS Group" and together with 
+Water Street and Goldman Sachs, the "Reporting Persons") in 
+respect of the beneficial ownership by the Reporting Persons 
+of shares of the common stock, par value $.10 per share (the 
+"Common Stock"), of USG Corporation, a Delaware corporation 
+(the "Company").  Capitalized terms used but otherwise not 
+defined herein shall have the meaning ascribed to them in 
+the Schedule 13D.
+
+	Item 4 is hereby amended as follows:
+
+	Item 4.	Purpose of the Transaction.
+
+		On March 17, 1994, the underwriters in the 
+Offering of Common Stock exercised in full their 
+overallotment options to purchase an additional 900,000 
+shares of Common Stock from the Company and 975,000 shares 
+of Common Stock from Water Street, in each case, at the 
+public offering price per share of $29.875.  The closing of 
+that offering (the "Additional Offering") was consummated on 
+March 22, 1994.
+
+	Item 5 is hereby amended as follows:
+
+	Item 5.	Interest in Securities of the Issuer.
+
+		On March 22, 1994, the Additional Offering 
+was consummated resulting in the sale of 900,000 shares of 
+Common Stock by the Company and 975,000 shares of Common 
+Stock by Water Street. Water Street received aggregate 
+proceeds of approximately $28 million, net of the 
+underwriting discount (but before payment of Water Street's 
+other expenses), or $28.531 per share.
+
+	As of the date hereof, Water Street 
+beneficially owns 9,418,231 shares of Common Stock and 
+Warrants to purchase 116,070 shares of Common Stock.  As of 
+the date hereof, Goldman Sachs beneficially owns 96,539 
+shares of Common Stock and, as the general partner of Water 
+Street, may be deemed to be the beneficial owner of the 
+9,418,231 shares of Common Stock and Warrants to purchase 
+116,070 shares of Common Stock held by Water Street.  In 
+addition, GS Group may be deemed to be the beneficial owner 
+of (i) the 9,418,231 shares of Common Stock and Warrants to 
+purchase 116,070 shares of Common Stock held by Water Street 
+and (ii) the 96,539 shares of Common Stock held by Goldman 
+Sachs.  Accordingly, Water Street, Goldman Sachs and GS 
+Group beneficially own (without giving effect to the 
+Warrants owned by Water Street) 21% of the outstanding 
+shares of Common Stock.  Assuming that Water 
+<PAGE>
+Street exercises all of its Warrants, but that no other Warrants 
+are exercised, Water Street, Goldman Sachs and GS Group 
+would beneficially own 21% of the outstanding shares of 
+Common Stock.
+
+<PAGE>
+
+SIGNATURE
+
+
+	Each of the undersigned certifies, after reasonable 
+inquiry and to the best of its knowledge and belief, that 
+the information set forth in this statement is true, 
+complete and correct.
+
+
+		WATER STREET CORPORATE RECOVERY FUND I, L.P.
+
+			By:	GOLDMAN, SACHS & CO.
+				General Partner
+
+				By:  /s/ Richard A. Friedman
+				Name: Richard A. Friedman
+				Title:  General Partner
+
+
+
+			GOLDMAN, SACHS & CO.
+
+				By:  /s/ Richard A. Friedman
+				Name: Richard A. Friedman
+				Title:  General Partner
+
+
+			THE GOLDMAN SACHS GROUP, L.P.
+
+				By:  /s/ Richard A. Friedman
+				Name:  Richard A. Friedman
+				Title:  General Partner
+
+
+Dated:  March 23, 1994
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

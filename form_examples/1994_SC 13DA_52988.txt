@@ -1,0 +1,239 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ jf7vaccZn6yBrEVV8/11vWDrJAezK+x4GsXYE6L4bHE/bGqkPyb0B72qj6CSZeYg
+ xaimwjV55Vpz7QfDF7GBdw==
+
+<IMS-DOCUMENT>0000905718-94-000018.txt : 19940325
+<IMS-HEADER>0000905718-94-000018.hdr.sgml : 19940325
+ACCESSION NUMBER:		0000905718-94-000018
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940324
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JACOBS ENGINEERING GROUP INC /DE/
+		CENTRAL INDEX KEY:			0000052988
+		STANDARD INDUSTRIAL CLASSIFICATION:	1600
+		IRS NUMBER:				954081636
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-12884
+		FILM NUMBER:		94517585
+
+	BUSINESS ADDRESS:	
+		STREET 1:		251 S LAKE AVE
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91101-3063
+		BUSINESS PHONE:		8184492171
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WILSHIRE OIL CO OF TEXAS
+		CENTRAL INDEX KEY:			0000107454
+		STANDARD INDUSTRIAL CLASSIFICATION:	1311
+		IRS NUMBER:				840513668
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		921 BERGEN AVE
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07306-4204
+		BUSINESS PHONE:		2014202796
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>WILSHIRE OIL COMPANY OF TEXAS
+<TEXT>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D. C.  20549
+
+
+SCHEDULE 13D
+
+Under the Securities Exchange Act of 1934
+(Amendment No. 9)*
+
+	Jacobs Engineering Group, Inc.	
+(Name of Issuer)
+
+	Common Stock without Par Value	
+(Title of Class of Securities)
+
+	469814-10-7	
+(CUSIP Number)
+
+Sherry Wilzig Izak, Chairman, 921 Bergen Avenue, Jersey City, NJ 07306
+							(201) 420-2796	
+(Name, Address and Telephone Number of Person Authorized to Receive Notices
+ and Communications)
+
+  February 15, 1994	
+(Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is being paid with this statement [ ].
+(A fee is not required only if the reporting person:  (1) has a previous
+statement on file reporting beneficial ownership of more than five percent
+of the class of securities described in Item 1;  and (2) has filed no amendment
+subsequent thereto reporting beneficial ownership five percent or less
+of such class.) (See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule l3d-1(a) for other parties to whom copies are
+to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities
+Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of  
+that section of the Act but shall be subject to all other provisions of the
+Act(however, see the Notes).
+
+
+	1)	Names of Reporting Persons (S.S. or I.R.S. Identification Nos.
+    of Above Persons):
+
+	Wilshire Oil Company of Texas-I.D. No. 84-0513668
+
+	
+
+	2)	Check the Appropriate Box if a Member of a Group (See
+    Instructions):
+
+		(a)	Not 
+
+		(b) 	Applicable
+
+	
+
+	3)	SEC Use Only
+
+	
+
+	4)	Source of Funds (See Instructions):
+
+		wc 
+
+	
+
+	5)	Check if Disclosure of Legal Proceedings is Required Pursuant to
+    Items 2(d) or 2(e): 
+
+		Not Applicable
+	
+
+	6)	Citizenship or Place of Organization:
+
+		Delaware
+
+	
+
+	Number of	  	7)	Sole Voting Power:			1,482,760
+	Shares Bene-
+	 ficially		 	8)	Shared Voting Power:				0
+	Owned by
+	Each Report-	9)	Sole Dispositive Power:		1,482,760
+	 ing Person
+	With:			    10) Shared Dispositive Power:			0
+
+	
+
+	11)	Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+	1,482,760
+
+	
+
+	12)	Check if the Aggregate Amount in Row (11) Excludes Certain
+     Shares (See Instructions):
+
+		Not Applicable
+
+	
+
+	13)	Percent of Class Represented by Amount in Row 11
+
+		6.00%
+	
+
+	14)	Type of Reporting Person 
+
+		CO
+
+	
+
+	The statement on Schedule 13D relating to the common stock, without par
+ value (the "Shares"), of Jacobs Engineering Group, Inc. ("Jacobs") of
+ Wilshire Oil Company of Texas (the "Company") filed April 21, 1986, amended
+ by Amendment No. 1 filed May 15, 1986, Amendment No. 2 filed October 31,
+ 1986, Amendment No. 3 filed February 20, 1987, Amendment No. 4 filed March 5,
+ 1987, Amendment No. 5 filed February 17, 1988, Amendment No. 6 filed
+ October 23, 1990, Amendment No. 7 filed May 20, 1992 and Amendment No. 8
+ filed January 6, 1993, is further amended as follows:
+
+Item 5.	Interest in Securities of the Issuer.
+
+	On or about December 15, 1993, the Company purchased 2,000 Shares in the
+ open market at a price of $22.75 per share. On or about December 16, 1993,
+ the Company puchased 6,000 shares in the open market at a price of $22.50
+ per share.  On or about December 16, 1993, the Company purchased 2,000
+ Shares in the open market at a price of $22.375 per share.   On or about
+ December 17, 1993, the Company purchased 3,000 Shares in the open market at
+ a price of $22.25 per share.  On or about December 20, 1993, the Company
+ purchased 3,000 Shares in the open market at a price of $22.625 per share.
+ On or about December 21, 1993, the Company purchased 3,000 Shares in the
+ open market at at price of $22.375 per share.  On or about December 31, 
+ 1993, the Company purchased 3,000 Shares in the open market at a price of
+ $23.875 per share.  On or about December 31, 1993, the Company sold 90,000
+ Shares in the open market at a price of $23.656 per share.  On or about
+ February 15, 1994, the Company sold 50,000 Shares in the open market at a 
+ price of $26.375 per share.
+
+Signature
+
+	After reasonable inquiry and to the best of my knowledge and belief, I
+ certify that the information set forth in this Amendment No. 9 to the
+ statement is true, complete and correct.
+
+	WILSHIRE OIL COMPANY OF TEXAS
+
+
+
+	By:/s/ Sherry Wilzig Izak
+	Sherry Wilzig Izak
+	Chairman of the Board
+
+Dated:  March 23, 1994
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

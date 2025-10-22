@@ -1,0 +1,595 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ PjJQU/kk/P6gSoBaYwrKHFhRw7882JrBHN9ZXVSphIjUugOvku7rHb4sXg0NwMQ+
+ rEg5dLm9rQfx3gg+huIW4Q==
+
+<IMS-DOCUMENT>0000950149-94-000053.txt : 19940318
+<IMS-HEADER>0000950149-94-000053.hdr.sgml : 19940318
+ACCESSION NUMBER:		0000950149-94-000053
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940317
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONTINENTAL BANK CORP
+		CENTRAL INDEX KEY:			0000024058
+		STANDARD INDUSTRIAL CLASSIFICATION:	6021
+		IRS NUMBER:				362664023
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-32088
+		FILM NUMBER:		94516372
+
+	BUSINESS ADDRESS:	
+		STREET 1:		231 S LASALLE ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60697
+		BUSINESS PHONE:		3128281614
+
+	MAIL ADDRESS:	
+		STREET 1:		231 SOUTH LASALLE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60697
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONTINENTAL ILLINOIS CORP
+		DATE OF NAME CHANGE:	19881219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONILL CORP
+		DATE OF NAME CHANGE:	19720424
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANKAMERICA CORP
+		CENTRAL INDEX KEY:			0000009672
+		STANDARD INDUSTRIAL CLASSIFICATION:	6021
+		IRS NUMBER:				941681731
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANK OF AMERICA CTR
+		STREET 2:		555 CALIFORNIA ST
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		4156223530
+
+	MAIL ADDRESS:	
+		STREET 1:		555 CALIFORNIA STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SC 13D/A MARCH 11, 1994 (DATE OF EVENT)
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                   Under the Securities Exchange Act of 1934
+
+                               (Amendment No. 1)*
+
+
+                          Continental Bank Corporation
+                                (Name of Issuer)
+
+
+                         Common Stock, $4.00 par value
+                         (Title of Class of Securities)
+
+
+                                    21111310
+                                 (CUSIP Number)
+
+
+                                 Cheryl Sorokin
+                     Executive Vice President and Secretary
+                            BankAmerica Corporation
+                 555 California Street, San Francisco, CA 94104
+                                 (415) 622-2091
+           (Name, Address and Telephone Number of Person Authorized
+                    to Receive Notices and Communications)
+
+
+                                 March 11, 1994
+            (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is being paid with this statement [ ].  (A fee
+is not required only if the reporting person:  (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+  THIS STATEMENT SHALL NOT BE CONSTRUED AS AN ADMISSION THAT THE REPORTING
+  PERSON IS THE BENEFICIAL OWNER OF ANY SECURITIES COVERED BY THE STATEMENT.
+
+                              Page 1 of 7 Pages
+<PAGE>   2
+ITEM 1.  SECURITY AND ISSUER
+
+   BankAmerica Corporation, a bank holding company incorporated under the laws
+of the State of Delaware ("BankAmerica"), hereby amends and supplements its
+statement on Schedule 13D filed with the Securities and Exchange Commission
+(the "Commission") on February 7, 1994 with respect to the Common Stock, par
+value $4 per share ("Issuer Common Stock"), of Continental Bank Corporation
+(the "Issuer").  The address of the Issuer's principal executive offices is 231
+South LaSalle Street, Chicago, Illinois 60697.
+
+ITEM 2.  IDENTITY AND BACKGROUND
+
+   There has been no change from that reported in BankAmerica's statement on
+Schedule 13D filed with the Commission on February 7, 1994.
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+   BankAmerica and the Issuer have agreed to certain revisions and amendments
+to the Agreement (as defined below), which revisions and amendments are
+described in Item 4.
+
+ITEM 4.  PURPOSE OF TRANSACTION
+
+   As reported in BankAmerica's statement on Schedule 13D filed with the
+Commission on February 7, 1994, BankAmerica and the Issuer have entered into an
+Agreement and Plan of Merger dated as of January 27, 1994 (the "Agreement")
+pursuant to which the Issuer will be merged with and into BankAmerica in a
+transaction in which BankAmerica will be the surviving entity (such
+transaction, the "Merger").
+
+   BankAmerica and the Issuer have entered into a letter agreement dated March
+11, 1994 pursuant to which BankAmerica and the Issuer have agreed to certain
+revisions and amendments to the Agreement.  One such amendment is the change,
+from twenty-five days to thirty-five days, of the Mailing Date (as defined in
+the Agreement) prior to the anticipated effective date of the Merger of
+election forms pursuant to which holders of Issuer Common Stock may elect to
+receive cash or stock consideration in the Merger, with the result that the
+time during which the Issuer's stockholders must return such elections will
+expire five days prior to the end of the Valuation Period (as defined in the
+Agreement) for the determination of the Final BAC Stock Price (as defined in
+the Agreement).  In addition, holders of Issuer Common Stock who duly elect to
+receive stock or cash consideration in the Merger may also elect to have their
+share holdings divided into blocks of not less than 5,000 shares of Issuer
+Common Stock, with remaining shares being added to one of the designated blocks
+of 5,000 shares, for purposes of the allocation of stock and cash consideration
+in the Merger.  The revisions and amendments to the Agreement are reflected in
+
+
+
+
+
+
+                              Page 2 of 7 Pages
+<PAGE>   3
+a Restated Agreement and Plan of Merger between BankAmerica and the Issuer dated
+as of January 27, 1994 (the "Restated Agreement").
+
+   Under the Restated Agreement, as under the Agreement, the Issuer was
+obligated to provide to BankAmerica certain disclosure schedules in form and
+detail of presentation reasonably satisfactory to BankAmerica.  The Restated
+Agreement provides further that, for 10 business days after the date of receipt
+by BankAmerica of such disclosure schedules, BankAmerica had the right, in its
+sole discretion, to terminate the Restated Agreement.  The 10 business day
+period during which BankAmerica could exercise such right of termination with
+respect to the Restated Agreement has expired, and BankAmerica did not exercise
+such termination right.
+
+   Under the Restated Agreement, as under the Agreement, BankAmerica also has
+the right to terminate the Restated Agreement during the 30 calendar day period
+beginning after the date of receipt by BankAmerica of the disclosure schedules
+if BankAmerica identifies any circumstances which, in the reasonable judgment
+of BankAmerica's Board of Directors (including a committee thereof), acting in
+good faith and with due regard for principles of fair dealing, could (i)
+materially and adversely impact the reasonably expected financial or business
+benefits to BankAmerica of the Merger, (ii) be inconsistent in any material and
+adverse respect with any of the representations and warranties of the Issuer
+contained in the Restated Agreement, (iii) materially and adversely affect the
+business, operations, properties, financial condition, results of operations or
+prospects of the Issuer and its subsidiaries on a consolidated basis or (iv)
+deviate materially and adversely from the Issuer's financial statements for the
+year or quarter ended December 31, 1993.  In addition, under certain other
+circumstances, BankAmerica or the Issuer may terminate the Restated Agreement,
+as specified therein.
+
+   The Restated Agreement is attached as Exhibit 2 to BankAmerica's Current
+Report on Form 8-K dated March 11, 1994 (earliest event reported) and filed
+with the Commission on March 15, 1994 (file no. 1-7377), and is incorporated
+herein by reference.  The foregoing discussion of the Restated Agreement does
+not purport to be a complete summary of the Restated Agreement and is qualified
+in its entirety by reference to the full Restated Agreement.
+
+ITEM 5.  INTEREST IN SECURITIES OF ISSUER
+
+   There has been no change in BankAmerica's beneficial ownership  of Issuer
+Common Stock as reported in its statement on Schedule 13D filed with the
+Commission on February 7, 1994.
+
+
+
+
+                              Page 3 of 7 Pages
+<PAGE>   4
+ITEM 6.  CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+         TO SECURITIES OF THE ISSUER.
+
+   BankAmerica and the Issuer have agreed to certain revisions and amendments
+to the Agreement, which revisions and amendments are described in Item 4.
+
+
+ITEM 7.  MATERIAL TO BE FILED AS EXHIBITS.
+
+   a.  Restated Agreement and Plan of Merger between BankAmerica Corporation
+and Continental Bank Corporation dated as of January 27, 1994 (without exhibits
+but with Appendix A) (incorporated by reference from Exhibit 2 to BankAmerica's
+Current Report on Form 8-K dated March 11, 1994 (earliest event reported) and 
+filed March 15, 1994, file no. 1-7377).
+
+
+
+
+
+                              Page 4 of 7 Pages
+<PAGE>   5
+                                   SIGNATURE
+
+
+   After reasonable inquiry and to the best of its knowledge and belief, the
+undersigned certifies that the information set forth in this statement is true,
+complete and correct.
+
+
+
+March 16, 1994                          BANKAMERICA CORPORATION
+
+
+
+                                        By:     /s/ CHERYL SOROKIN
+                                                __________________
+                                        Name:   Cheryl Sorokin
+                                        Title:  Executive Vice President
+                                                  and Secretary
+
+
+
+
+
+                              Page 5 of 7 Pages
+<PAGE>   6
+                   GENERAL OPERATING AND BORROWING RESOLUTION
+
+
+
+  Following is a copy of BankAmerica's General Operating and Borrowing
+Resolution pursuant to which Cheryl Sorokin, Executive Vice President and
+Secretary of BankAmerica, executed this Amendment No. 1 to Schedule 13D (see
+paragraph 2 of the resolution attached to this Amendment No.  1 to Schedule
+13D).
+
+
+
+
+                              Page 6 of 7 Pages
+<PAGE>   7
+
+<TABLE>
+<S>                                                            <C>
+
+Board of Directors                                             November 1, 1993
+BankAmerica Corporation
+</TABLE>
+
+                            BANKAMERICA CORPORATION
+                   GENERAL OPERATING AND BORROWING RESOLUTION
+
+
+  The Board of Directors of BankAmerica Corporation ("BAC") authorizes and
+determines:
+
+         1.  Any two BAC officers listed below under the designation "Group 1" 
+(the "Officers"):
+
+                                    GROUP 1
+
+           the Chairman of the Board
+           the Chief Executive Officer
+           the President
+           any Vice Chairman of the Board
+           any Vice Chairman
+           the Chief Financial Officer
+           the Treasurer
+           the Financial Controller
+           any Executive Vice President
+           any Senior Vice President
+           any Vice President
+           the Secretary
+
+or any one of such Officers in conjunction with any one of the BAC officers
+listed below under the designation "GROUP 2":
+
+                                    GROUP 2
+
+           any Assistant Treasurer
+           any Assistant Secretary
+           any Assistant Vice President
+
+be, and hereby are, authorized to make, execute, deliver, amend and terminate,
+in the name and on behalf of BAC, any and all such contracts, instruments,
+documents and agreements, and to perform any and all such acts, in the name and
+on behalf of BAC, as are deemed by such Officers to be desirable in connection
+with any of the activities set forth below; provided, however, that the opening
+of any account described in subparagraph (a) of this paragraph 1 requires the
+signature of a Vice Chairman or above; and provided, further, that any
+contract, instrument, document or agreement for any borrowing described in
+subparagraph (b) of this paragraph 1 requires the signature of the Treasurer or
+an Assistant Treasurer in addition to one other officer listed in GROUP 1 or 2
+above, as the case may be; and provided, further, that notes representing
+commercial paper need be signed only by the Treasurer or an 
+
+<PAGE>   8
+Assistant Treasurer.  The execution of any contract, instrument, document or 
+agreement by one or more Officers thereunto duly authorized by the foregoing 
+shall be conclusive evidence, between any party to whom it is delivered and 
+BAC, of the determination and approval by BAC of the matters described therein 
+and of the transaction undertaken thereby, unless such party has previously 
+received written notice of the revocation of this resolution.
+
+(a)      Establishment and use of accounts
+
+         where any Officer deems it desirable for the operations of BAC, to
+establish and maintain with Bank of America National Trust and Savings
+Association and any other banks, checking, time deposit, and other bank
+accounts, upon such terms and conditions as may be agreed upon with such banks;
+to execute, endorse or deliver on behalf of BAC, remittances, checks, drafts or
+other requests for withdrawal, transfer or deposit of funds from or to any of
+such bank accounts as shall be maintained in the name of BAC, and any bank
+maintaining any such account is hereby authorized and directed to honor
+remittances, checks, drafts or other requests for withdrawal, transfer or
+deposit of funds from or to any such account by or from such Officers;
+
+(b)      Borrowing
+
+         to borrow, in each case for an original term not exceeding nine
+months, from banks and other lenders, including subsidiaries of BAC, from time
+to time, such sums of money as may be deemed desirable for BAC to conduct its
+general business affairs and to grant security interests in existing and future
+assets of BAC to assure repayment of such indebtedness; provided that no such
+borrowing shall be permitted if, by reason of such new borrowing and after
+giving effect thereto, the aggregate amount of all borrowings of BAC having at
+their inception a term of nine months or less, other than such borrowings from
+subsidiaries of BAC, but including borrowings through the issuance of
+commercial paper pursuant to subparagraph (c) of this paragraph 1, would exceed
+the sum of SIX BILLION DOLLARS ($6,000,000,000);
+
+In computing compliance with the foregoing limitation:
+
+         (i)     Borrowings subject to such limitation which are expressed in
+                 foreign currencies shall be valued in U.S. dollars at least
+                 monthly, and the most recent valuation shall govern the
+                 determination whether any additional borrowing complies with
+                 such limitation;
+
+        (ii)     Obligations of BAC arising out of the issuance of travelers
+                 cheques, official checks and money orders, offered to the
+                 public as instruments of funds transmission and not bearing
+
+<PAGE>   9
+                 interest, are not subject to the foregoing limitation, nor
+                 shall they be included in computing compliance therewith; and
+
+        (iii)    Lines of credit or other commitments to lend obtained by BAC
+                 shall not be deemed borrowings except to the extent actually
+                 drawn upon or otherwise used;
+
+If an express written determination is made by the person or persons thereunto
+duly authorized by paragraph 11 of the Resolution re Senior and Subordinated
+Debt adopted by this Board on November 1, 1993, or any resolution amending or
+superseding such resolution (the "Senior and Subordinated Debt Resolution"),
+that any proposed borrowings of BAC having at their inception a term of one
+month or more but not more than nine months are to be carried out in accordance
+with and subject to the requirements of the Senior and Subordinated Debt
+Resolution (whether or not the indebtedness represented by any such borrowings
+is of a kind generally covered by this subparagraph), BAC's aggregate liability
+for the amount of all such borrowings shall not be counted against the
+foregoing limitation.  In the absence of any such express written
+determination, BAC's aggregate liability for the amount of all such borrowings
+shall be counted against the foregoing limitation;
+
+(c)      Commercial paper
+
+         subject to the limitation in subparagraph (b) of this paragraph 1, to
+issue and sell commercial paper in amounts deemed desirable by any Officer, in
+compliance with all applicable laws and regulations of governmental agencies,
+such commercial paper to be issued in the form of unsecured negotiable
+promissory notes (or in the form of book entries containing all of the
+information necessary for the completion and delivery of such notes), each note
+or book entry to be in an amount of at least ONE HUNDRED THOUSAND DOLLARS
+($100,000), with maturities not to exceed nine months from the date of issue,
+and at such rate or rates of interest, at such time or times, upon such other
+terms and conditions as shall be determined, and under such agreement or
+agreements or pursuant to such arrangements deemed desirable, by any Officer,
+in view of BAC's financial requirements; and, without limiting the generality
+of the foregoing authorization, (1) to enter into agreements or arrangements
+with Bank of America NT&SA, BA Securities, Inc. or any other banks or entities
+providing for the issuing, safekeeping, completion, countersignature, and
+delivery of BAC's commercial paper, and (2) to enter into agreements or
+arrangements for backup lines of credit for commercial paper; provided that
+
+<PAGE>   10
+borrowings under any such committed lines of credit shall be subject to the
+limitation on borrowings set forth in subparagraph (b) of this paragraph 1, but
+the unused amounts of credit under such lines shall not be deemed a borrowing
+subject to such limitation;
+
+(d)     Travelers cheques, official checks and money orders
+
+        in addition to and independent of the borrowing authorized in
+subparagraph (b) of this paragraph 1 and commercial paper issuance authorized
+in subparagraph (c) of this paragraph 1, to issue travelers cheques, official
+checks and money orders, offered to the public as instruments of funds
+transmission and not bearing interest, subject to compliance with all
+applicable laws and regulations of governmental agencies and, without limiting
+the generality of the foregoing authorization, to enter into agreements or
+arrangements with BA Cheque Corporation and any other entities providing for
+the offering, delivery and servicing of BAC's travelers cheques, official
+checks and money orders;
+
+(e)      Extending credit
+
+         to extend credit to subsidiaries and, to the extent permitted to BAC
+under applicable laws, to affiliates of BAC in amounts and on terms deemed
+desirable by any Officer;
+
+(f)      Powers of attorney
+
+         to grant such powers of attorney, proxies, and other agency powers to
+such persons and on such terms as are deemed desirable by any Officer for
+carrying on the business and affairs of BAC, including, without limiting the
+generality of the foregoing authorization, all contracts and documents of any
+sort relating to:  applications to and negotiations with any and all
+governmental entities and agencies in the United States and abroad for the
+purpose of obtaining the necessary permits or approvals for operations of BAC
+anywhere in the world; the commencement and prosecution or defense of
+proceedings on behalf of and against BAC before courts, administrative
+tribunals, boards of arbitrators, and similar entities, and the compromise or
+settlement of the same; the voting of voting securities and other voting
+interests which may be held in corporations and other entities by BAC; and
+applications for letters patent, trademarks, copyrights, service marks, and
+similar matters on behalf of BAC;
+
+(g)     Service agreements
+
+        to enter into service agreements, on terms deemed desirable by any
+Officer, with its direct or indirect subsidiaries, including Bank of America
+NT&SA, any other banks, persons, firms, corporations and other entities
+whereunder personnel and facilities will be made available by or to BAC;
+
+<PAGE>   11
+(h)     Interests in real or personal property
+
+        to purchase, accept, lease, sell, transfer, grant, license, release
+and encumber interests, whether as security or otherwise, which BAC has or may
+by such means acquire in real or personal property, whether standing in the
+name of BAC as owner, as the holder of any security interest, or in any other
+capacity; and, without limiting the generality of the foregoing authorization,
+to take all actions and execute and deliver all documents, notices,
+designations, appointments, substitutions and instructions regarding such real
+or personal property, or relating thereto;
+
+(i)      General power to contract
+
+         in addition to the authority in subparagraphs (a) through (h) of this
+paragraph 1, and whether or not of a kind generally covered therein, to enter
+into contracts of any kind or character, conveyances or leases of real or
+personal property, licensing agreements, contracts and agreements providing for
+services to be rendered by, to or for BAC, and to execute and deliver
+instruments, documents, agreements, contracts and other writings affecting in
+any way any real or personal property and interests therein and contract rights
+and obligations, now or hereafter owned by or standing in the name of BAC.
+
+         2.    Any one BAC officer listed above under either the designation
+GROUP 1 or GROUP 2, or any member of the Legal Department of Bank of America
+NT&SA holding the title of counsel or a title senior thereto be, and hereby is,
+authorized to sign registrations, reports, certificates, applications and other
+writings on behalf of BAC for submission to or filing with any federal, state,
+local or foreign regulatory authorities, and any amendments, withdrawals, or
+terminations thereof, as are deemed desirable by such officer or attorney in
+connection with BAC's activities or affairs.
+
+         3.    This resolution revokes and supersedes the General Operating and
+Borrowing Resolution adopted by this Board on May 21, 1992.
+
+
+<PAGE>   12
+
+                                  CERTIFICATE
+
+         I, CHERYL SOROKIN, the Secretary of BankAmerica Corporation, a
+Delaware corporation, having its principal place of business in the City and
+County of San Francisco in the State of California, certify that the foregoing
+is a correct copy of a resolution adopted by the Board of Directors at a
+meeting held in accordance with the bylaws on November 1, 1993.  This
+resolution is still in effect.
+
+
+
+
+                                           /s/  CHERYL SOROKIN
+                                       _______________________________
+                                                   Secretary
+                                            BANKAMERICA CORPORATION
+
+
+Dated:  March 14, 1994
+        _________________
+<PAGE>   13
+ 
+                                 EXHIBIT INDEX
+ 
+<TABLE>
+<CAPTION>
+ EXHIBIT
+REFERENCE                                      DESCRIPTION
+- ----------  ---------------------------------------------------------------------------------
+<S>         <C>
+    a.      Restated Agreement and Plan of Merger between BankAmerica Corporation and
+            Continental Bank Corporation dated as of January 27, 1994 (without exhibits but
+            with Appendix A) (incorporated by reference from Exhibit 2 to BankAmerica's Current
+            Report on Form 8-K dated March 11, 1994 (earliest event reported)
+            and filed March 15, 1994, file no. 1-7377).
+</TABLE>
+ 
+                             Page 7 of 7 Pages
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

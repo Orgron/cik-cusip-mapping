@@ -1,0 +1,1178 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ syEMEOah4Iedy6lTc8H4QH9CNzhN7P+zGiTRyAkO1ZTjRVX0z+ZNpTi9jDqIFeCU
+ JTVLBC5/7uBTj8Xw+P3zng==
+
+<IMS-DOCUMENT>0000909518-94-000045.txt : 19940324
+<IMS-HEADER>0000909518-94-000045.hdr.sgml : 19940324
+ACCESSION NUMBER:		0000909518-94-000045
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940323
+SROS:			NYSE
+GROUP MEMBERS:		CITIBANK, NA
+GROUP MEMBERS:		CITICORP
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALEXANDERS INC
+		CENTRAL INDEX KEY:			0000003499
+		STANDARD INDUSTRIAL CLASSIFICATION:	6512
+		IRS NUMBER:				510100517
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0726
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-12372
+		FILM NUMBER:		94517322
+
+	BUSINESS ADDRESS:	
+		STREET 1:		31 WEST 34TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		2125602121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITICORP
+		CENTRAL INDEX KEY:			0000020405
+		STANDARD INDUSTRIAL CLASSIFICATION:	6021
+		IRS NUMBER:				132614988
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		909 THIRD AVENUE
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10043-
+		BUSINESS PHONE:		212-559-6754
+
+	MAIL ADDRESS:	
+		STREET 1:		425 PARK AVE- 2ND F
+		STREET 2:		ATTN: LEGAL AFFAIRS OFFICE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10043
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST NATIONAL CITY CORP
+		DATE OF NAME CHANGE:	19740414
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CITY BANK OF NEW YORK NATIONAL ASSOCIATI
+		DATE OF NAME CHANGE:	19680903
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>13D AMENDMENT NO. 3 RE ALEXANDERS
+<TEXT>
+
+
+
+
+<PAGE>
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C.  20549
+                                               
+                            -------------------
+
+
+                               SCHEDULE 13D
+                 Under the Securities Exchange Act of 1934
+
+                                            
+                               -------------
+
+                             (Amendment No. 3)
+
+                             Alexander's, Inc.
+- --------------------------------------------------------------------------
+                             (Name of Issuer)
+
+   Common Stock, par value $1.00                    01475210
+- -----------------------------------   -----------------------------------
+   (Title of class of securities)                (CUSIP number)
+
+                           Ronald F. Daitz, Esq.
+                          Weil, Gotshal & Manges
+                             767 Fifth Avenue
+                         New York, New York 10153
+                              (212) 310-8000
+- --------------------------------------------------------------------------
+    (Name, address and telephone number of person authorized to receive
+                        notices and communications)
+
+                              March 21, 1994
+- --------------------------------------------------------------------------
+          (Date of event which requires filing of this statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the
+following box   [_].
+
+
+Check the following box if a fee is being paid with the statement   [_].
+
+
+(A fee is not required only if the reporting person: (1) has a previous
+statement on file reporting beneficial ownership of more than five percent
+of the class of securities described in Item 1; and (2) has filed no
+amendment subsequent thereto reporting beneficial ownership of five
+percent or less of such class.)  (See Rule 13d-7.)
+
+
+Note:  When filing this statement in paper format, six copies of this
+statement, including exhibits, should be filed with the Commission. See
+Rule 13d-1(a) for other parties to whom copies are to be sent.
+
+
+                     (Continued on following page(s))
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<PAGE>
+
+
+
+ CUSIP No. 01475210                      13D           Page  of 
+
+
+     1     NAME OF REPORTING PERSON:    Citibank, N.A.
+
+           S.S. OR I.R.S. IDENTIFICATION NO.
+           OF ABOVE PERSON:
+
+     2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP:       (a) [_]
+                                                                   (b) [x]
+
+     3     SEC USE ONLY
+
+     4     SOURCE OF FUNDS:  00
+
+     5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS             [_]
+           REQUIRED PURSUANT TO ITEM 2(d) OR 2(e):  N/A
+
+     6     CITIZENSHIP OR PLACE OF      United States of America
+           ORGANIZATION:
+
+    NUMBER OF     7   SOLE VOTING POWER:       1,353,4681
+     SHARES
+  BENEFICIALLY    8   SHARED VOTING POWER:     -0-
+    OWNED BY
+      EACH        9   SOLE DISPOSITIVE POWER:  1,353,4681
+    REPORTING
+   PERSON WITH   10   SHARED DISPOSITIVE       -0-
+                      POWER:
+
+    11     AGGREGATE AMOUNT BENEFICIALLY       1,353,468
+           OWNED BY REPORTING PERSON:
+
+    12     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)               [_]
+           EXCLUDES CERTAIN SHARES:  N/A
+
+    13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11):  27.1%
+
+    14     TYPE OF REPORTING PERSON:    BK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<PAGE>
+
+
+
+ CUSIP No. 01475210                      13D           Page  of 
+
+
+     1     NAME OF REPORTING PERSON:    Citicorp
+
+           S.S. OR I.R.S. IDENTIFICATION NO.
+           OF ABOVE PERSON:
+     2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP:       (a) [_]
+                                                                   (b) [x]
+
+     3     SEC USE ONLY
+
+     4     SOURCE OF FUNDS:  N/A
+
+     5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS             [_]
+           REQUIRED PURSUANT TO ITEM 2(d) OR 2(e):  N/A
+
+     6     CITIZENSHIP OR PLACE OF      Delaware
+           ORGANIZATION:
+
+    NUMBER OF     7   SOLE VOTING POWER:       -0-
+     SHARES
+  BENEFICIALLY    8   SHARED VOTING POWER:     1,353,4681
+    OWNED BY
+      EACH        9   SOLE DISPOSITIVE POWER:  -0-
+    REPORTING
+   PERSON WITH   10   SHARED DISPOSITIVE       1,353,4681
+                      POWER:
+
+    11     AGGREGATE AMOUNT BENEFICIALLY       1,353,4681
+           OWNED BY REPORTING PERSON:
+
+    12     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)               [_]
+           EXCLUDES CERTAIN SHARES:  N/A
+
+    13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11):  27.1%
+
+    14     TYPE OF REPORTING PERSON:    CO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<PAGE>
+     
+
+
+                                      Note
+                                      ----
+
+               1.   Citicorp, by virtue of its direct ownership of all of
+     the outstanding capital stock of Citibank, N.A., may be deemed, for
+     purposes of Rule 13d-3 of the Securities Exchange Act of 1934, as
+     amended (the "Act"), to beneficially own (and to share the power to
+     vote and to direct the disposition of) the 1,353,468 shares of common
+     stock of Alexander's, Inc. owned by Citibank, N.A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+     Item 1.   Security and Issuer
+               -------------------
+               This Statement relates to the common stock ("Common Stock")
+     par value $1.00 per share, of Alexander's, Inc., a Delaware
+     corporation (the "Issuer").  The address of the principal executive
+     offices of the Issuer is 500 Seventh Avenue, New York, New York 10018.
+
+     Item 2.  Identity and Background
+              -----------------------
+               (a) - (c), (f)  This Statement is being filed by Citicorp
+     ("Citicorp"), a Delaware corporation and Citibank, N.A. ("Citibank"),
+     a national banking association organized under the National Bank Act
+     of the United States of America.  Citicorp is a multi-bank holding
+     company principally engaged, through its subsidiaries, in the general
+     banking business.  Citibank is principally engaged in the general
+     banking business.
+
+               Citibank is a wholly-owned subsidiary of Citicorp.
+
+               The names, business addresses, principal occupations and
+     citizenship of the executive officers, directors and controlling
+     persons of Citicorp and Citibank are set forth on Schedule A attached
+     hereto.
+
+               (d), (e)  During the last five years, none of Citicorp,
+     Citibank, or any of their respective officers, directors or
+     controlling persons, has (i) been convicted in a criminal proceeding
+     (excluding traffic violations or similar misdemeanors) or (ii) been a
+     party to a civil proceeding of a judicial or administrative body of
+     competent jurisdiction and as a result of such proceeding was or is
+     subject to a judgment, decree or final order enjoining future viola-
+     tions of, or prohibiting or mandating activities subject to, federal
+     or state securities laws or finding any violation with respect to such
+     laws.
+
+     Item 3. Source and Amount of Funds or Other Consideration.
+             -------------------------------------------------
+               Pursuant to the terms of an Amended and Restated Amendment,
+     dated as of March 18, 1992 (the "Amendment"), amending an Amendment,
+     dated as of July 31, 1991 to an Amended and Restated Loan Agreement,
+     dated as of October 26, 1987 (as amended by letter amendments dated
+     October 26, 1988, October 26, 1989 and April 26, 1990 and a
+     Consolidation and Amendment to an Amended and Restated Loan Agreement
+     dated August 8, 1990) by and between The Trump-Alexander's Company, a
+     New York general partnership ("Trump-Alexander's") and Citibank, as
+     agreed to by Donald J. Trump, Trump-Alexander's delivered to Citibank
+     a promissory note
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+     in principal amount of $71,205,000 (which included $2,500,000 of
+     capitalized interest as of August 8, 1990) plus accrued and unpaid
+     interest to the date of the transfer of the Shares referred to below
+     (the "Note").  The Note provided that, upon demand by Citibank for
+     payment or on June 30, 1995, Trump-Alexander's would transfer to
+     Citibank, good and valid title to 1,353,468 shares of Common Stock of
+     the Issuer (together with any and all distributions thereon or
+     securities or other property in exchange therefor, in either case
+     receivable after March 18, 1992) (the "Shares"), in exchange for
+     Citibank's agreement to forbear, except upon the occurrence of a
+     Forbearance Termination Date (as defined in the Guarantor Agreement
+     and Consent entered into by Citibank and Donald J. Trump) from seeking
+     any deficiency against Donald J. Trump personally.  On April 16, 1992,
+     Trump-Alexander's transferred the Shares to Citibank pursuant to
+     Citibank's previous demand.
+
+     Item 4.  Purpose of Transaction
+              ----------------------
+               The Amendment was entered into as a result of a
+     restructuring of finances by Donald J. Trump.  The purpose of the
+     transaction was to maximize Citibank's recovery on its loan to Trump-
+     Alexander's.
+
+               (a)   Citibank continues to analyze the various financial
+     alternatives that may be available to it with respect to realizing on
+     the Shares.  Citibank may sell all or from time to time any part of
+     the Shares in the open market and/or privately negotiated
+     transactions.  Citibank is also considering providing financing to the
+     Issuer to fund the Issuer's plan of reorganization and ongoing working
+     capital needs, which financing would be on a secured basis.
+
+               (b)-(j) Neither Citibank nor Citicorp has any present plans
+     or intentions which would result in or relate to any of the
+     transactions described in subparagraphs (b) through (j) of Item 4 of
+     Schedule 13D.  Citibank reserves the right to participate in
+     discussion looking toward an extraordinary corporate transaction by
+     the Issuer with a third party, such as a merger, joint venture or sale
+     of assets.  On April 16, 1992, Peter T. Baumann, a Vice President of
+     Citibank, Wendy Silverstein, a Vice President of Citibank, and
+     Patricia Goldstein, a Vice President of Citibank, were elected as
+     directors of the Issuer.
+
+     Item 5.   Interest in Securities of the Issuer
+               ------------------------------------
+               (a)   The Shares represent 27.1% of the Issuer's issued and
+     outstanding shares of Common Stock, based on 5,000,850 issued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+     and outstanding shares (as indicated in the Issuer's 10-Q dated
+     November 24, 1993).  Citicorp, by virtue of its direct ownership of
+     all of the outstanding capital stock of Citibank may be deemed, for
+     purposes of Rule 13d-3 of the Act, to beneficially own the Shares.
+
+               (b)  Citibank has the sole power to vote or to direct the
+     voting of, and the sole power to dispose of or to direct the
+     disposition of the Shares.  Citicorp by virtue of its direct ownership
+     of all of the outstanding capital stock of Citibank may be deemed for
+     purposes of Rule 13d-3 of the Act, to beneficially own the Shares.
+
+               (c)  Not applicable.
+
+               (d)  Not applicable.
+
+               (e)  Not applicable.
+
+     Item 6.  Contracts, Arrangements, Understandings or Relationships
+              --------------------------------------------------------
+              with Respect to Securities of the Issuer.
+              ----------------------------------------
+               Paragraph (a) of Item 4 hereof is incorporated by reference
+     into this Item 6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+     Item 7. Material to be Filed as Exhibits
+             --------------------------------
+               1.  Joint Filing Agreement, dated March 27, 1992, by and
+     between Citicorp and Citibank.
+
+               2.  Power of Attorney from Citicorp to Citibank, dated
+     April 16, 1992.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+                                    SIGNATURE
+
+
+               After reasonable inquiry and to the best of the
+     undersigned's knowledge and belief, the undersigned certifies that the
+     information set forth in this statement is true, complete and correct.
+
+
+     Dated:  March 21, 1994        CITIBANK, N.A.
+
+
+
+                                   By:/s/ Wendy A. Silverstein
+                                      -------------------------------------
+                                      Name: Wendy A. Silverstein
+                                      Title: Vice President
+
+
+
+     Dated:  March 21, 1994        CITICORP 
+
+
+
+                                   By:/s/ Wendy A. Silverstein
+                                      -------------------------------------
+                                      As Attorney-In-Fact
+                                      Name: Wendy A. Silverstein
+                                      Title: Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+                                  EXHIBIT INDEX
+
+                                                  Page in
+                                                  Sequentially 
+     Exhibit No.              Description         Numbered Copy
+     -----------              -----------         -------------
+          1                   Joint Filing             (1)
+                              Agreement, dated
+                              March 27, 1992,
+                              by and between
+                              Citicorp and 
+                              Citibank
+
+          2                   Power of Attorney        (2)
+                              from Citicorp to
+                              Citibank, dated
+                              April 16, 1992
+
+
+
+
+
+
+
+
+
+
+
+
+                              
+     -------------------------
+     (1)  Filed in original Schedule 13D, dated March 27, 1992.
+
+     (2)  Filed in Amendment No. 2 to the Schedule 13D, dated April 16,
+     1992.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+                                   SCHEDULE A
+
+                                    CITICORP
+                                 399 Park Avenue
+                            New York, New York  10043
+
+                                 CITIBANK, N.A.
+                                 399 Park Avenue
+                            New York, New York  10043
+
+
+               The names of the directors and the names and titles of the
+     executive officers of Citicorp and Citibank, N.A. and their business
+     addresses and present principal occupations are set forth below.  If
+     no address is given, the director's or officer's business address is
+     399 Park Avenue, New York, New York 10043.  Unless otherwise
+     indicated, each occupation set forth opposite an individual's name
+     refers to such individual's position with Citicorp and Citibank, N.A.
+     and each individual is a citizen of the United States of America.
+
+     Name, Business Address
+         and Citizenship           Present Principal Occupation
+     ----------------------        ----------------------------
+     D. Wayne Calloway             Director*, Chairman and Chief
+     700 Anderson Hill Road        Executive Officer of PepsiCo, Inc.
+     Purchase, New York  10577
+
+     Colby H. Chandler             Director*, Retired
+
+     Pei-yuan Chia                 Director*, Senior Executive Vice
+                                   President, Global Consumer and
+                                   Private Bank
+
+     Paul J. Collins               Director, Vice Chairman
+
+     Kenneth T. Derr               Director*, Chairman and Chief
+     225 Bush Street               Executive Officer of Chevron
+     San Francisco, California     Corporation
+       94104
+
+     Lawrence E. Fouraker          Director*, Professor Emeritus
+     Soldiers Field                Graduate School of Business
+     Boston, Massachusetts         Administration, Harvard University
+       02167
+
+
+
+
+
+
+____________________
+*  Citicorp Director only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+<PAGE>
+
+<PAGE>
+     
+
+
+     H.J. Haynes                   Director, Senior Counselor,
+     50 Beale Street               Bechtel Group, Inc.
+     San Francisco, California
+       94105
+
+     John S. Reed                  Director, Chairman
+
+     William R. Rhodes             Director, Vice Chairman
+
+     Rozanne L. Ridgway            Director*, President of The
+     1616 H Street, N.W.           Atlantic Council of the United
+     3rd Floor                     States
+     Washington, D.C.  20006
+
+     H. Onno Ruding                Director*, Vice Chairman  
+     (Dutch citizen)
+
+     Donald V. Seibert             Director, Retired
+
+     Frank A. Shrontz              Director*, Chairman and Chief
+     P.O. Box 3707                 Executive Officer of The Boeing
+     Mail Stop 10-21               Company
+     Seattle, Washington
+       98124-2207
+
+     Mario H. Simonsen             Director*, Vice Chairman of
+     Praia de Borafogo, 18 190     Brazilian Institute of Economics
+     Rio de Janeiro, RI, Brazil    The Getulio Vargas Foundation
+     (Brazilian citizen)
+
+     Roger B. Smith                Director*, Retired
+
+     Christopher J. Steffen        Director*, Senior Executive Vice
+                                   President Citicorp
+
+     Franklin A. Thomas            Director, President of The Ford
+     320 East 43rd Street          Foundation
+     10th Floor
+     New York, New York  10017
+
+     Edgar S. Woolard, Jr.         Director*, Chairman and Chief
+     1007 Market Street            Executive Officer of E.I. dupont de
+     Wilmington, Delaware  19898   Nemours & Company
+
+
+
+
+____________________
+*  Citicorp Director only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A 
+<PAGE>
+
+<PAGE>
+     
+
+     Shaukat Aziz                  Executive Vice President, East
+     Citibank House                Europe/Middle East/Africa
+     P.O. Box 78, 336
+     Strand, London WC2R 1HB 
+     (Pakistani citizen)
+
+     James L. Bailey               Executive Vice President, North
+                                   America Consumer
+
+     Ernst W. Brutsche             Executive Vice President, European
+     Citibank House                Corporate
+     P.O. Box 78, 336
+     Strand, London WC2R 1HB
+     (German citizen)
+
+     Arthur M. de Graffenried      Chairman, Restructuring Committee,
+                                   Cross-Border
+
+     David E. Gibson               Executive Vice President, Private
+                                   Bank
+
+     Guenther E. Greiner           Executive Vice President, World
+     (German citizen)              Corporation Group
+
+     Thomas E. Jones               Executive Vice President
+     (British citizen)
+
+     Charles E. Long               Executive Vice President; Secretary
+
+     Alan S. MacDonald             Executive Vice President, North
+                                   America Corporate
+     
+     Dionisio R. Martin            Executive Vice President,
+     101 Thompson Road             Asia/Pacific Corporate
+     United Square #25-01
+     Singapore
+     (Argentine citizen)
+
+     Robert H. Martinsen           Chairman, Credit Policy Committee
+
+     Robert A. McCormack           Executive Vice President, Real
+     599 Lexington Avenue          Estate
+     New York, New York 10043
+
+
+
+
+_____________________
+*  Citicorp Director only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A 
+<PAGE>
+
+<PAGE>
+     
+
+     Victor J. Menezes             Executive Vice President, European
+     Avenue de Tervoren            Consumer
+       249, B-1150
+     Brussels
+     (Indian citizen)
+
+     John J. Roche                 Executive Vice President, Legal
+                                   Affairs
+
+     Hubertus Rukavina             Executive Vice President
+
+     Gurvirendra Talwar            Executive Vice President,
+     5 Shenton Way, 24th Floor,    Asia/Pacific Consumer
+     UIC Building
+     Singapore  0106
+     (Indian citizen)
+
+     Alan J. Weber                 Executive Vice President, Financial
+                                   Institutions and Transaction
+                                   Services
+
+     Masamoto Yashiro              Executive Vice President, Japan
+     A.I.U. Building - 13th        Corporate/Consumer
+     Floor
+     1-1-3 Marimouchi,
+       Chiyoda-Ku
+     Tokyo 100 Japan
+     (Japanese citizen)
+
+     Ronald X. Zettel              Executive Vice President, Latin
+     CAXIA POSTA 770-ZC00          America Consumer
+     Rio de Janeiro 20044,
+     Brazil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     NYFS11...:\88\35888\0410\2396\NOT31094.V3A
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

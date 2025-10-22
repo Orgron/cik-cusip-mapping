@@ -1,0 +1,2045 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ VMcZe8rCExNy8ffMez8tb2yPTNpkHS5j2UBtl8lyEw2+Au5KfaENeLQ753OAovox
+ 5D6AzSnNPzCXEOyrjTYjmQ==
+
+<IMS-DOCUMENT>0000736157-94-000002.txt : 19940330
+<IMS-HEADER>0000736157-94-000002.hdr.sgml : 19940330
+ACCESSION NUMBER:		0000736157-94-000002
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		19940329
+GROUP MEMBERS:		TIME WARNER INC
+GROUP MEMBERS:		WARNER COMMUNICATIONS INC.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATARI CORP
+		CENTRAL INDEX KEY:			0000802019
+		STANDARD INDUSTRIAL CLASSIFICATION:	3571
+		IRS NUMBER:				770034553
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-37823
+		FILM NUMBER:		94518702
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1196 BORREGAS AVE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+		BUSINESS PHONE:		4087452000
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIME WARNER INC
+		CENTRAL INDEX KEY:			0000736157
+		STANDARD INDUSTRIAL CLASSIFICATION:	2721
+		IRS NUMBER:				131388520
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TIME & LIFE BLDG ROCKFELLER CENTER
+		STREET 2:		75 ROCKEFELLER PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2124848000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIME INC /DE/
+		DATE OF NAME CHANGE:	19890801
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D AMENDMENT NO. 3 ATARI CORPORATION
+<TEXT>
+
+                                   UNITED STATES
+                        SECURITIES AND EXCHANGE COMMISSION
+                                Washington D.C. 20549
+
+                                    SCHEDULE 13D
+
+                        Under the Securities Exchange Act of 1934
+                                 (Amendment No. 3)*
+
+                                  ATARI CORPORATION          
+                                  (Name of Issuer)
+
+                        Common Stock, par value $.01 per share  
+                            (Title of Class of Securities)
+
+                                     046515102              
+                                   (CUSIP Number)
+
+                        Peter R. Haje, Esq., General Counsel
+                        Time Warner Inc.
+                        75 Rockefeller Plaza
+                        New York, New York 10019
+                        (212) 484-8000                    
+(Name, Address and Telephone Number of Person Authorized to Receive Notice
+and Communications)
+
+                                    March 24, 1994   
+               (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the
+following box /  /.
+
+Check the following box if a fee is being paid with the statement &. (A
+fee is not required only if the reporting person: (1) has a previous
+statement on file reporting beneficial ownership of more than five percent
+of the class of securities described in Item 1; and (2) has filed no
+amendment subsequent thereto reporting beneficial ownership of five
+percent or less of such class.) (See Rule 13d-7.)
+
+Note:  Six copies of this statement including all exhibits, should be
+filed with the Commission.  See Rule 13d-1(a) for the other parties to
+whom copies are to be sent.
+
+                           
+*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter disclosures provided in a prior cover page.
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities
+Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of
+that section of the Act but shall be subject to all other provisions of
+
+<PAGE>
+
+1                       NAME OF REPORTING PERSON
+                        S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+                        TIME WARNER INC.
+                        IRS NO. 13-1388520
+
+2                       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                        a /  /
+                        b /  /
+
+3                       SEC USE ONLY
+
+4                       SOURCE OF FUNDS*
+                        WC
+
+5                       CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+                        PURSUANT TO ITEMS 2(d) or 2(e)    /    /
+
+
+6                       CITIZENSHIP OR PLACE OF ORGANIZATION
+                        Delaware
+
+NUMBER OF                                     7   SOLE VOTING POWER
+SHARES                                            1,500,000      
+BENEFICIALLY
+OWNED BY                                      8   SHARED VOTING POWER
+EACH                                              14,270,000 (See Item 5)
+REPORTING
+PERSON                                        9   SOLE DISPOSITIVE POWER
+WITH                                              1,500,000
+
+                                              10  SHARED DISPOSITIVE POWER
+                                                  14,270,000 (See Item 5)
+
+
+11            AGGREGATE AMOUNT BENEFICIALLY OWNED BY REPORTING PERSON
+              15,770,000
+
+12            CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+              SHARES*               /    /
+
+13            PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+              Approximately 26.8%
+
+14            TYPE OF REPORTING PERSON*
+              CO
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+
+1               NAME OF REPORTING PERSON
+                S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+                WARNER COMMUNICATIONS INC.
+                IRS NO. 13-2696809
+
+2               CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP* 
+                a /  /             b /  /
+
+3               SEC USE ONLY
+
+4               SOURCE OF FUNDS*
+                NOT APPLICABLE
+
+5               CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED   /  /
+                PURSUANT TO ITEMS 2(d) or 2(e)
+
+6               CITIZENSHIP OR PLACE OF ORGANIZATION
+                Delaware
+
+NUMBER OF                                     7     SOLE VOTING POWER
+SHARES
+BENEFICIALLY                                  8     SHARED VOTING POWER
+OWNED BY                                            14,720,000 (See Item 5) 
+EACH
+REPORTING                                     9     SOLE DISPOSITIVE POWER
+PERSON
+WITH                                         10     SHARED DISPOSITIVE POWER
+                                                    14,270,000 (See Item 5)
+
+11            AGGREGATE AMOUNT BENEFICIALLY OWNED BY REPORTING PERSON
+              14,270,000
+
+12            CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+              SHARES*               /   /
+
+13            PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+              Approximately 24.3%
+
+14            TYPE OF REPORTING PERSON*
+              CO
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+          The Schedule 13D of Time Warner Inc., a Delaware corporation
+("Time Warner") and Warner Communications Inc., a Delaware corporation
+("WCI") (collectively, the "Reporting Persons"), relating to the Common
+Stock of Atari Corporation is hereby amended and restated in its
+entirely as set forth below.  Pursuant to Rule 13D-1(f) under the
+Securities Exchange Act of 1934, the Reporting Persons have agreed to
+file one statement with respect to their ownership of Common Stock of
+the Issuer.  The joint Schedule 13D of the Reporting Persons, as
+amended and restated, is hereinafter referred to as the "Statement".
+
+Item 1.  Security and Issuer.
+
+         The Statement relates to the Common Stock, $.01 par value
+("Atari Common Stock"), of Atari Corporation ("Atari"), a Nevada
+corporation, whose principal executive offices are located at 1196
+Borregas Avenue, Sunnyvale, California 94086.
+
+Item 2.  Identity and Background.
+
+         This Statement is being filed by Time Warner Inc. ("Time
+Warner"), a Delaware corporation, having its principal executive
+offices at 75 Rockefeller Plaza, New York, New York 10019 and Warner
+Communications Inc. ("WCI"), a Delaware corporation, having its
+principal office at 75 Rockefeller Plaza, New York, New York 10019. 
+WCI is a direct wholly owned subsidiary of Time Warner.
+
+         Time Warner is the largest media and entertainment company
+in the world.  Its businesses are carried on in three principal groups: 
+Publishing, Music and Entertainment.  The Publishing group consists
+principally of the publication and distribution of magazines and books;
+the Music group consists principally of the production and distribution
+of recorded music and the ownership and administration of music
+copyrights; and the Entertainment group consists principally of the
+production and distribution of motion pictures and television
+programming, the distribution of video cassettes, the ownership and
+operation of retail stores and theme parks, the production and
+distribution of pay television and cable programming, and the operation
+of cable television systems.  These businesses are conducted throughout
+the world through numerous wholly owned, and in certain cases less than
+wholly owned, subsidiaries and affiliates.  Time Warner Entertainment
+Company, L.P. ("TWE"), a limited partnership conducts substantially all
+of the Entertainment businesses of Time Warner.  Subsidiaries of Time
+Warner are the general partners of TWE (the "TW Partners") and
+collectively own a 63.27% pro rata priority capital and residual equity
+interest in TWE, a subsidiary of US WEST holds 25.51%, and subsidiaries
+of ITOCHU Corporation and Toshiba Corporation hold the remainder.
+
+          The business of WCI (other than its interest in TWE) primarily
+consists of substantially all of the vertically-integrated
+worldwide recorded music and music publishing business of Time Warner
+under the umbrella name Warner Music Group.  
+
+          The name, business address, present principal occupation or
+employment (and the name, principal business and address of any
+corporation or other organization in which such employment is
+conducted) of each director and executive officer of Time Warner and
+WCI is set forth in Annexes A and B hereto and is incorporated herein
+by reference.
+
+          None of the Reporting Persons nor, to the best knowledge of
+the Reporting Persons, any of the persons listed in Annexes A or B, has
+been convicted during the last five years in a criminal proceeding
+(excluding traffic violations or similar misdemeanors) or was a party
+to a civil proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which any such corporation or person was or
+is subject to a judgment, decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to,
+Federal or State securities laws or finding any violation with respect
+to such laws.
+
+          Each of the persons listed in Annexes A and B hereto is a
+United States citizen.
+
+Item 3.   Source and Amount or Funds or Other Consideration.
+
+          In July 1984, Atari acquired from WCI and certain
+associated entities of WCI (collectively sometimes referred to
+hereinafter as "WCI"), certain assets comprising the home computer and
+home video game business of WCI, and assumed certain related
+obligations and liabilities.
+
+          Between July 1984 and June 30, 1986, WCI advanced or
+otherwise funded to Atari approximately $24.7 million that, to WCI's
+knowledge, was used to satisfy certain liabilities assumed in the 1984
+asset acquisition.
+
+          The consideration given by Atari in the 1984 asset
+acquisition was subject to adjustment based upon Atari's and WCI's
+subsequent evaluation of the assets acquired and the related
+obligations and liabilities.  In August 1986, Atari and WCI completed
+that evaluation and, pursuant to a Memorandum of Agreement dated as of
+August 29, 1986 (the "1986 Agreement"), agreed that, in consideration
+for: the net assets Atari acquired in the 1984 transaction; accrued
+interest on the purchase obligation at 17%; and the repayment of WCI's
+$24.7 million advanced to Atari, including accrued interest thereon at
+10.5%, Atari would issue to WCI 7,100,000 shares of Atari Common Stock,
+and would pay to WCI approximately $36.1 million, upon consummation of
+a public offering of Atari Common Stock (the "Public Offering").  In
+addition, all other securities held by WCI, on the one hand, and Atari,
+on the other hand, were canceled in connection with this transaction.
+
+          The Atari Public Offering was consummated on November 17,
+1986, and WCI thereupon beneficially acquired 7,100,000 shares of Atari
+Common Stock and received approximately $36.1 million.
+
+          On June 19, 1987, a 2-for-1 split of Atari Common Stock was
+effected in the form of a 100% common stock dividend distributed to all
+Atari shareholders.
+
+          On October 17, 1988 and October 18, 1988, the associated
+entities of WCI (comprised of AIL Holdings Limited, AIL Ireland
+Limited, Atari International Hong Kong Ltd. ("AIHK"), WEA Musik Neue
+Medien and Elektronik GmbH ("WEA Musik") and Atari Holdings, Inc.,
+formerly known as Atari, Inc.) declared a dividend to WCI of 14,200,000
+shares of Atari Common Stock, which shares were to be transferred as
+soon as practicable.  Thereafter, on December 13, 1988, WCI contributed
+the 14,200,000 shares of Common Stock of Atari held by it to Warner
+Communications Investors, Inc., a Delaware corporation and wholly owned
+subsidiary ("Investors").
+
+          Subsequently said shares held by Investors were contributed 
+to TW Investment Corp., a Delaware corporation and a wholly-owned
+indirect subsidiary of WCI.  As a result of the merger of TW Investment
+Corp. with and into WCI on June 29, 1992, the 14,200,000 shares of
+Atari Common Stock are now held by WCI.
+
+          On March 24, 1994 Time Warner and Atari entered into a
+Stock Purchase Agreement (the "Stock Purchase Agreement") pursuant to
+which Time Warner or a wholly-owned subsidiary of Time Warner will
+acquire 1,500,000 shares of Atari Common Stock at $8.50 per share for
+an aggregate of $12,750,000, subject to certain conditions.  Under the
+Stock Purchase Agreement, Atari has agreed to issue Time Warner up to
+an additional 150,000 shares of Atari Common Stock upon the occurrence
+of certain events.  In addition, the Stock Purchase Agreement grants
+Time Warner an option to purchase up to 1,500,000 shares of Atari
+Common Stock upon the occurrence of certain events prior to October 1,
+1994.  The consideration for all the purchases will be from working
+capital of Time Warner or in the event the shares are acquired by a
+wholly-owned subsidiary, from the working capital of such subsidiary.
+
+          Concurrently with the execution and delivery of the Stock
+Purchase Agreement, Atari and Atari Games Corporation, a Delaware
+corporation and majority-owned indirect subsidiary of Time Warner
+("Games") entered into a Stock Purchase Agreement (the "Games Stock
+Purchase Agreement") pursuant to which Games will acquire 70,000 shares
+of Atari Common Stock in exchange for the forgiveness of certain
+royalty obligations owed by Atari to Games pursuant to certain software
+license agreements.
+
+          Concurrently with the execution of Stock Purchase Agreement
+and the Games Stock Purchase Agreement, Atari Games and Atari
+Corporation settled certain pending patent, copyright and antitrust
+litigation with Nintendo of America Inc.
+
+          The Stock Purchase Agreement and the Games Stock Purchase
+Agreement are hereinafter referred to as the "Transactions".
+
+Item 4.   Purpose of Transaction.
+
+          Upon the consummation of the Transactions, Time Warner will
+beneficially hold an aggregate of 15,770,000 shares of Atari Common
+Stock.  14,200,000 of the shares beneficially held by Time Warner are
+held in the name of WCI.  Games will hold 70,000 shares and Time Warner
+or a wholly-owned subsidiary will have direct ownership of 1,500,000
+shares.  All of such shares are to be held for the purpose of
+investment.
+
+          Time Warner, WCI and Games intend to review and evaluate
+their investment in Atari from time to time.  On the basis of such
+review and evaluation, Time Warner, WCI and Games may acquire
+additional Atari securities from time to time in market transactions or
+otherwise or may dispose of some or all of their holdings of Atari
+securities from time to time in market transactions or otherwise.
+
+          Neither Time Warner, WCI or Games has any current plans or
+proposals that relate to or would result in (i) the acquisition or
+disposition of securities of Atari (except as provided in the Stock
+Purchase Agreement as described in Items 3 and 6 herein); (ii) an
+extraordinary corporate transaction, such as a merger, reorganization
+or liquidation, involving Atari or any of its subsidiaries; (iii) a
+sale or transfer of a material amount of assets of Atari or any of its
+subsidiaries; (iv) any change in the present board of directors or
+management of Atari, including any plans or proposals to change the
+number or term of directors or to fill any existing vacancies on the
+board; (v) any material change in the present capitalization or
+dividend policy of Atari; (vi) any other material change in Atari's
+business or corporate structure; (vii) changes in Atari's charter, by-
+laws or instruments corresponding thereto or other actions which may
+impede the acquisition of control of Atari by any person; (viii)
+causing a class of securities of Atari to be delisted from a national
+securities exchange or to cease to be authorized to be quoted in an
+inter-dealer quotation system of a registered national securities
+association; (ix) causing a class of equity securities of Atari to
+become eligible for termination of registration pursuant to Section
+12(g)(4) of the Securities Exchange Act of 1934, as amended; or (x) any
+action similar to any of those enumerated in clauses (i) through (ix)
+of this sentence.
+
+Item 5.   Interest in Securities of the Issuer.
+
+          On October 17, 1988, each of AIHK, AIL Ireland Limited, AIL
+Holdings Limited and WEA Musik approved the transfer of the 14,200,000
+shares of Atari Common Stock to Atari Holdings, Inc.  On October 18,
+1988, Atari Holdings, Inc. declared a dividend of the 14,200,000 shares
+of Atari Common Stock to its parent WCI.
+
+          On December 13, 1988, WCI contributed the 14,200,000 shares
+of Atari Common Stock held by it to Investors, a Delaware corporation
+and wholly owned subsidiary of WCI.  The subsequent transfer of
+ownership of the shares of Atari Common Stock is fully set forth in
+Item 3 herein.
+
+          On July 24, 1989, pursuant to a tender offer, Time Warner
+acquired a majority of the outstanding stock of WCI.  On January 10,
+1990, a wholly owned subsidiary of Time Warner merged with and into
+WCI, which thereby become a wholly owned subsidiary of Time Warner.  As
+a result Time Warner is deemed to have shared power to direct the
+voting and the disposition of the 14,200,000 shares of Atari Common
+Stock held by WCI.
+
+          According to Atari, at December 31, 1993, there were
+outstanding on such date 57,214,587 shares of Atari Common Stock.  Upon
+the issuance of 1,500,000 and 70,000 shares of Atari Common Stock to
+Time Warner and Games, respectively, there will be approximately
+58,784,587 shares of Atari Common Stock outstanding.  The 15,770,000
+shares of Atari Common Stock beneficially owned by Time Warner will
+constitute approximately 26.8% of the outstanding Atari Common Stock. 
+The 14,200,000 and 70,000 shares of Atari Common Stock held by WCI and
+Games will constitute, respectively, 24.1% and 0.12% of the outstanding
+Atari Common Stock.
+
+          Time Warner or a wholly-owned subsidiary will have the sole
+power to vote and subject to the restrictions as set forth in Item 6
+hereto, the sole power to dispose of the 1,500,000 shares of Atari
+Common Stock to be acquired pursuant to the Stock Purchase Agreement. 
+Time Warner and WCI have the sole power to vote and, subject to the
+restrictions described in Item 6, the sole power to dispose of the
+14,200,000 shares of Atari Common Stock registered in the name of WCI
+and owned beneficially by Time Warner.  Time Warner, WCI and Games have
+the sole power to vote and subject to the restrictions as set forth in
+Item 6 hereto, the power to dispose of the 70,000 shares of Atari
+Common Stock to be acquired by Games pursuant to the Games Stock
+Purchase Agreement and owned beneficially by WCI and Time Warner.
+
+          Neither Time Warner, WCI or Games is aware of any
+beneficial ownership of, or any transaction within 60 days before the
+filing of this Statement on Schedule 13D in, any shares of Atari Common
+Stock by Time Warner, WCI, Games or any person listed on Annex A or
+Annex B hereto.
+
+          Items (d) and (e) are not applicable.
+
+
+Item 6.   Contracts, Arrangements, Understandings or
+          Relationships with Respect to Securities of the Issuer.
+
+          In connection with the 1984 asset acquisition, Atari (then
+known as Tramel Technology, Ltd.), Atari, Inc. (then a subsidiary of
+WCI) and Jack Tramiel, Chairman of the Board and Chief Executive
+Officer of Atari, entered into an Agreement dated July 1, 1984, which
+agreement, as modified by the Memorandum of Agreement dated as of
+August 29, 1986 (hereinafter referred to as the "Securityholders
+Agreement").  Pursuant to the Securityholders Agreement, WCI, Atari,
+Inc. and/or their transferees were granted certain rights and are
+subject to certain obligations with respect to the securities of Atari. 
+Pursuant to a Letter Agreement dated March 24, 1994 (the "Letter
+Agreement"), Time Warner, Games and Atari agreed that the shares of
+Atari Common Stock to be acquired by Time Warner and Games shall have
+the same registration rights  afforded to WCI under the Securityholders
+Agreement (referred to in the Letter Agreement as the "Tramel
+Agreement").  Furthermore, Atari shall have the same obligations to
+Time Warner and Games as Atari has to WCI under the Securityholders
+Agreement.
+
+          The principal terms of the Securityholders Agreement as it
+relates to registration rights of the shares of Atari Common Stock held
+by Time Warner, WCI or Games (hereinafter referred to as the "Parties")
+are set forth below.  The following discussion is qualified in its
+entirety by reference to the Securityholders Agreement and the 1986
+Memorandum of Agreement previously filed as Exhibits to the original
+Schedule 13D.
+
+          At their own expense, the Parties may from time to time
+request Atari to register under the Securities Act of 1933 the proposed
+sale by it of the 15,770,000 shares of Atari Common Stock pursuant to
+an underwritten public offering subject to the following conditions:
+
+               (i)   requests for registration shall not be made more
+frequently than once every twelve months; and
+
+               (ii)  no more than five such requests in the aggregate shall
+be made;
+
+               (iii) no such request shall be made without the
+consent of Atari unless the shares of Atari Common Stock to which it
+applies represents either 5% or more of the total outstanding voting
+power of Atari or all of the shares of Atari Common Stock beneficially
+owned by the Parties (and all persons who may have acquired shares of
+Atari Common Stock from the Parties).
+
+          The Parties are also entitled to include the shares of
+Atari Common Stock beneficially owned in any registration statement
+filed by Atari subsequent to the Public Offering, unless such
+registration statement is (a) a registration of any employee stock
+ownership, stock option, stock purchase or other employee incentive
+plan or arrangement adopted in the ordinary course of business, or (b)
+a registration of securities to be issued in exchange for securities or
+assets of, or in connection with a merger or consolidation with,
+another corporation.  All costs and expenses incurred in connection
+with such registration statements (except underwriting commissions and
+discounts and fees and disbursements of any separate counsel and any
+other expenses directly attributable to such shares) shall be borne by
+Atari.
+
+          Pursuant to the terms of the Transactions, consummation of
+the acquisition of the shares of Atari Common Stock is subject to the
+expiration of the waiting period under the Hart Scott Rodino Antitrust
+Notification Act, including any extension thereof and the approval from
+the American Stock Exchange for the listing of the 1,570,000 shares of
+Atari Common Stock to be issued pursuant to these agreements.
+
+          Except as described in this Item 6, there are no contracts,
+arrangements, understandings or relationships (legal or otherwise) on
+the part of Time Warner, WCI or Games, or the best of their knowledge,
+on the part of their respective officers or directors or between such
+persons and any persons with respect to the securities of Atari.
+
+Item 7.        Materials to be filed as Exhibits.
+
+Exhibit 1.     Agreement between Time Warner Inc. and Warner
+               Communications Inc. with respect to joint filing of the
+               Restated Statement on Schedule 13D.
+
+Exhibit 2.     Stock Purchase Agreement as of March 24, 1994 between
+               Atari Corporation and Time Warner Inc.
+
+Exhibit 3.     Stock Purchase Agreement as of March 24, 1994 between
+               Atari Corporation and Atari Games Corporation
+
+Exhibit 4.     Registration Rights Letter Agreement dated
+               March 24, 1994 among Time Warner Inc., Atari Games 
+
+<PAGE>
+                                 SIGNATURE
+
+          After reasonable inquiry and to the best of the knowledge
+and belief of the undersigned, the undersigned certify that the
+information set forth in this statement is true, complete and correct.
+
+
+Date:  March 28, 1994                 TIME WARNER INC.
+
+
+
+                                      By /s/ Peter R. Haje 
+                                      Name: Peter R. Haje
+                                      Title: Executive Vice Preside
+
+
+                                      WARNER COMMUNICATIONS INC.
+
+
+
+                                       By /s/ Peter R. Haje                  
+                                       Name: Peter R. Haje       
+                                       Title: Executive Vice President
+
+<PAGE>
+                                        EXHIBIT INDEX
+
+
+Exhibit No.                  Description                              Page No.
+
+Exhibit 1.     Agreement between Time Warner Inc. and Warner              *
+               Communications Inc. with respect to joint filing of the
+               Restated Statement on Schedule 13D.
+
+Exhibit 2.     Stock Purchase Agreement as of March 24, 1994 between      *
+               Atari Corporation and Time Warner Inc.
+
+Exhibit 3.     Stock Purchase Agreement as of March 24, 1994 between      *
+               Atari Corporation and Atari Games Corporation
+
+Exhibit 4.     Registration Rights Letter Agreement dated                 *
+               March 24, 1994 among Time Warner Inc., Atari Games              
+               Corporation and Atari Corporation.
+
+                         
+*Incorporated by Reference
+<PAGE>
+                                                                 EXHIBIT 1
+
+                          JOINT FILING AGREEMENT
+
+
+          Time Warner Inc. and Warner Communications Inc. each hereby
+agrees in accordance with Rule 13d-1(f) under the Securities Exchange
+Act of 1934, as amended, that the Restated Statement on Schedule 13D
+filed herewith and any amendments thereto relating to the acquisition
+of shares of Common Stock, par value $0.01 per share of Atari
+Corporation, is filed jointly on behalf of each such person.
+
+Dated:  March 28, 1994                       TIME WARNER INC.
+
+
+                                             By /s/ Peter R. Haje
+                                             Name:  Peter R. Haje
+                                             Title:  Executive Vice President
+
+                                             WARNER COMMUNICATIONS INC.
+
+
+                                             By /s/ Peter R. Haje 
+                                             Name: Peter R. Haje
+                                             Title: Executive Vice President
+
+<PAGE>
+                                  ANNEX A
+
+
+          The following is a list of the directors and executive officers
+of Time Warner Inc. ("Time Warner"), setting forth the business address
+and present principal occupation or employment (and the name, principal
+business and address of any corporation or organization in which such
+employment is conducted) of each such person.  To the best knowledge of
+Time Warner, each person is a citizen of the United States of America.
+
+                                                Principal Occupation or
+Name                  Office                    Employment and Address 
+
+Merv Adelson          Director                  Chairman,
+                                                East-West Capital Associates
+                                                1111 Santa Monica Blvd.
+                                                Los Angeles, CA 90025
+                                                (private investment company)
+
+Timothy A. Boggs      Senior Vice               Senior Vice President
+                      President                 Time Warner*
+                                                800 Connecticut Avenue, NW
+                                                Suite 800
+                                                Washington, DC 20006
+
+Lawrence B.           Director                  Partner,
+Buttenwieser                                    Rosenman & Colin
+                                                575 Madison Avenue
+                                                New York, NY 10022
+                                                (attorney)
+
+Hugh F.               Director                  Partner,
+Culverhouse                                     Culverhouse, Botts & Story
+                                                1408 North West Shore Blvd.
+                                                Tampa, FL 33607
+                                                (attorney)
+
+Edward S.             Director                  Chairman,
+Finkelstein                                     Finkelstein
+                                                Associates Inc.
+                                                712 Fifth Avenue
+                                                New York, NY 10019
+                                                (consulting)
+
+Beverly Sills         Director                  Chairman-Elect, Lincoln
+Greenough                                       Center for the Performing Arts
+                                                211 Central Park West
+                                                New York, NY 10024
+                                                (entertainment) 
+
+David R. Haas         Senior Vice               Senior Vice President
+                      President and             and Controller, Time Warner* 
+                      Controller
+
+Peter R. Haje         Executive Vice            Executive Vice President, 
+                      President,                Secretary and General Counsel,
+                      Secretary and             Time Warner* 
+                      General Counsel
+
+Carla A. Hills        Director                  Chairman and Chief Executive
+                                                Officer, Hills & Company
+                                                1200 Nineteenth Street, NW
+                                                Washington, D.C. 20036
+                                                (international trade 
+                                                   consultants)
+
+Geoffrey W. Holmes    Senior Vice               Senior Vice President,
+                      President                 Time Warner*
+
+Tod R. Hullin         Senior Vice               Senior Vice President,
+                      President                 Time Warner*
+
+David T. Kearns       Director                  Senior University Fellow,
+                                                Harvard University,
+                                                Graduate School of Education
+                                                Appian Way
+                                                Gutman Library
+                                                Cambridge, MA 02138
+
+Gerald M. Levin       Director,                 Chairman, Chief Executive
+                      Chairman,                 Officer and President, 
+                      Chief Executive           Time Warner*
+                      Officer and
+                      President
+
+Philip R.             Senior Vice               Senior Vice President, 
+Lochner, Jr.          President                 Time Warner*
+
+Henry Luce, III       Director                  Chairman and Chief Executive
+                                                Officer, The Henry Luce
+                                                Foundation, Inc.
+                                                720 Fifth Avenue
+                                                New York, NY 10019
+                                                (private foundation)
+
+Reuben Mark           Director                  Chairman and Chief Executive
+                                                Officer,
+                                                Colgate-Palmolive Company
+                                                300 Park Avenue
+                                                New York, NY 10022
+
+J. Richard Munro      Director                  Chairman of the Executive
+                                                Committee, Time Warner*
+
+Richard D. Parsons    Director                  Chairman and Chief Executive
+                                                Officer,
+                                                Dime Savings Bank
+                                                589 Fifth Avenue
+                                                New York, NY 10017
+                                                (banking)
+
+Donald S. Perkins     Director                  Former Chairman,
+                                                Jewel Companies Inc.
+                                                Suite 2700
+                                                One First National Plaza
+                                                Chicago, IL 60603
+                                                (retailing)
+
+Raymond S. Troubh     Director                  Financial Consultant and
+                                                Director of Various Companies,
+                                                10 Rockefeller Plaza
+                                                New York, NY 10020
+                                                (financial consultant)
+ 
+Bert W. Wasserman     Executive                 Executive Vice President
+                      Vice                      and Chief Financial Officer,
+                      President                 Time Warner*
+                      and Chief 
+                      Financial Officer
+
+Francis T.            Director                  Former Commissioner of
+Vincent, Jr.                                    Major League Baseball,
+                                                Culbro Corporation
+                                                387 Park Avenue South
+                                                New York, NY 10016
+
+
+* The business address of Time Warner is 75 Rockefeller Plaza, New York,
+  New York 10019  
+
+<PAGE>
+
+                                ANNEX B
+
+                    Directors and Executive Officers of
+                         Warner Communications Inc.
+
+
+Name                   Office                   Principal Occupation or
+                                                Employment and Address
+
+David R. Haas          Senior Vice              Senior Vice President and
+                       President                Controller, Time Warner*
+
+Peter R. Haje          Director and             Executive Vice President,
+                       Executive Vice           Secretary and General Counsel,
+                       President                Time Warner*
+
+Geoffrey W. Holmes     Director                 Senior Vice President,
+                                                Time Warner*
+
+Tod R. Hullin          Director                 Senior Vice President,
+                                                Time Warner*
+
+Deane F. Johnson       Office of the            Office of the President,
+                       President                Warner Communications Inc.,
+                                                1271 Avenue of the Americas
+                                                New York, NY 10020
+
+Gerald M. Levin        Director,                Chairman, President and Chief 
+                       President and            Executive Officer, 
+                       Chief Executive          Time Warner*
+                       Officer
+
+Bert W. Wasserman      Director and             Executive Vice President and
+                       Executive Vice           Chief Financial Officer, 
+                       President                Time Warner*
+
+
+*  The business address of Time Warner is 75 Rockefeller Plaza, New York
+   New York 10019
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 2 STOCK PURCHASE AGMT ATARI/TWI
+<TEXT>
+
+                           
+
+                       STOCK PURCHASE AGREEMENT
+
+
+          STOCK PURCHASE AGREEMENT (the "Agreement") made and entered
+into as of the 24th day of March, 1994, by and between ATARI CORPORATION,
+a Nevada corporation (the "Company"), and TIME WARNER INC., a Delaware
+corporation (the "Purchaser").
+
+          The Company desires to sell and Purchaser desires to purchase
+an aggregate of 1,500,000 shares (the "Shares") of the Common Stock, par
+e "Purchaser").
+
+          The Company desires to sell and Purchaser desires to purchase
+an aggregate of 1,500,000 shares (the "Shares") of the Common Stock, par
+value $.01 per share (the "Common Stock") of the Company, subject to the
+conditions and for the consideration set forth herein.
+
+          NOW, THEREFORE, for and in consideration of the foregoing
+premises, the mutual promises, agreements and covenants hereinafter set
+forth, and for other good and valuable consideration, the receipt,
+adequacy and sufficiency of which are hereby acknowledged, the parties
+hereby agree as follows:
+
+          1.     Purchase and Sale of the Shares.  Subject to the terms
+and conditions of this Agreement, at the Closing (as hereinafter
+defined), the Company shall sell and deliver the Shares to the Purchaser,
+and the Purchaser shall purchase the Shares from the Company at a
+purchase price of $8.50 per Share (the aggregate consideration for the
+Shares hereinafter referred to as the "Share Purchase Price").
+
+          2.     The Closing.  
+
+                 (a)  The closing of the sale of the Shares (the
+"Closing") will, subject to the satisfaction or waiver of all conditions
+to the parties' obligations hereunder, take place on such date (the
+"Closing Date") as shall be five business days following the expiration
+of any applicable waiting period under the Hart-Scott-Rodino Antitrust
+Improvements Act of 1976 and the rules and regulations promulgated
+thereunder (the "HSR Act"), or such other date as the parties shall
+mutually agree.
+
+                 (b)  At the Closing, the Company will deliver to the
+Purchaser or its assignee(s) a certificate or certificates evidencing the
+Shares in form and substance reasonably acceptable to the Purchaser or
+its assignee(s), against payment of the Share Purchase Price to the
+Company as specified below.
+
+                 (c)  At the Closing, the Purchaser shall pay the Share
+Purchase Price to the Company in immediately available funds, such funds
+to be delivered by wire transfer to an account specified by the Company
+to the Purchaser on the Closing Date.
+
+          3.     Representations, Warranties and Agreements of the
+Purchaser.  The Purchaser hereby represents and warrants to the Company
+and agrees with the Company as follows:
+
+                 (a)  Due Authorization.  This Agreement, and the
+transactions contemplated hereby have been duly authorized by all
+necessary corporate action on the part of the Purchaser.  This Agreement
+has been duly executed and delivered by the Purchaser, and constitutes
+the legal, valid and binding obligation of the Purchaser, enforceable in
+accordance with its terms.
+
+                 (b)  No Violation.  Neither the execution and delivery
+of this Agreement nor the consummation of the transactions contemplated
+hereby, by the Purchaser will (i) violate or result in any violation of
+or be in conflict with or constitute a default under any term of the
+Certificate of Incorporation or By-laws of the Purchaser or of any
+agreement, instrument, judgment, decree, order, statute, rule or
+governmental regulation applicable to the Purchaser, or (ii) require that
+the Purchaser obtain the consent or authorization of or waiver by or make
+a filing with any governmental, administrative or self-regulatory body or
+agency or any other person or entity, other than any such consent,
+authorization, waiver or filing which has been duly and validly obtained
+or made prior to the date hereof, other than a filing under the HSR Act
+or (iii) require the satisfaction or termination of any waiting period
+under any statute, rule or governmental regulation applicable to the
+Purchaser, other than compliance with the HSR Act.
+
+               (c)  Investment Representation.  The purchase of the
+Shares and any "Additional Shares" (as defined in Section 5 hereof) by
+the Purchaser, will be for investment purposes only and for the sole
+account of the Purchaser and not with a view to the redistribution or
+resale of any or all of the Shares or Additional Shares.  None of the
+Shares or Additional Shares acquired pursuant to this Agreement will be
+transferred except in a transaction registered or exempt from
+registration under the Securities Act of 1933, as amended (the "'33
+Act").  The Purchaser acknowledges that the certificates for the Shares,
+and the Additional Shares shall bear a legend with respect to the
+transfer or resale of such securities substantially as follows:
+
+                  "The shares represented by this certificate have not been
+      registered under the Securities Act of 1933 and such shares
+      may not be sold or transferred unless such sale or transfer will be
+      effected in accordance with the registration requirements of the
+      Securities Act of 1933, as at the time amended, or in conformity
+      with the limitations of Rule 144 promulgated under such Act or in
+      conformity with any other exemption from the registration
+      requirements of such Act which may then be available with respect
+      thereto".
+ 
+          4.   Representations, Warranties and Agreements of the
+Company.  The Company hereby represents and warrants to the Purchaser and
+agrees with the Purchaser as follows:
+
+               (a)  Organization.  The Company is a corporation duly
+organized, validly existing, and in good standing under the laws of the
+State of Nevada and is duly qualified to do business and in good standing
+as a foreign corporation in the jurisdictions where it is required to
+qualify to conduct its business as presently conducted.  The Company has
+the requisite corporate power and authority to own its property and to
+carry on its business as now conducted.
+
+               (b)  Due Authorization.  The Company has full power
+and authority to execute and deliver this Agreement and, as of the
+Closing, will have full power and authority to perform this Agreement and
+the transactions contemplated hereby including, without limitation, the
+power and authority to issue and sell the Shares, and the Additional
+Shares.  The Company has duly taken all corporate and other actions
+necessary to authorize the execution and delivery of this Agreement and,
+as of the Closing, will have duly taken all corporate and other actions
+necessary to authorize the performance of this Agreement, including,
+without limitation, all actions necessary to authorize the issuance and
+sale of the Shares and the Additional Shares.  This Agreement has been
+duly executed and delivered by the Company and this Agreement constitutes
+the legal, valid and binding obligation of the Company, enforceable in
+accordance with its terms.  
+
+               (c)  No Violation.  Neither the execution and delivery
+of this Agreement nor the consummation of the transactions contemplated
+hereby, by the Company will (i) violate or result in any violation of or
+be in conflict with or constitute a default under any term of the
+Certificate of Incorporation or By-laws of the Company or any agreement,
+instrument, judgment, decree, order, statute, rule or governmental
+regulation applicable to the Company, (ii) require that the Company
+obtain the consent or authorization of or waiver by or make a filing with
+any governmental, administrative or self-regulatory body or agency or any
+other person or entity, other than any such consent, authorization,
+waiver or filing which has been duly and validly obtained or made prior
+to the date hereof, other than a filing under the HSR Act or (iii)
+require the satisfaction or termination of any waiting period under any
+statute, rule or governmental regulation applicable to the Company, other
+than compliance with the HSR Act.
+
+               (d)  Capitalization, Issuance of Shares.  As of
+December 31, 1993, the Company's authorized capital stock consists of
+100,000,000 shares of Common Stock, par value $.01 per share, of which
+57,214,587 shares were issued and outstanding, all of which are duly
+authorized and have been validly issued and are fully paid and non-
+assessable.  Except as shown on Exhibit 4(d), the Company has not issued
+any options, warrants or convertible or exchangeable securities and is
+not a party to any other agreements, which require, or upon the passage
+of time, the payment of money or the occurrence of any other event may
+require, the Company to issue or sell any of its Common Stock.  Upon
+delivery to the Purchaser of the certificates evidencing the Shares
+against receipt of the Share Purchase Price, the Shares will have been
+duly authorized, validly issued, fully paid and nonassessable and will be
+free of preemptive or similar rights and no personal liability will
+attach to the ownership thereof.  The Additional Shares when issued by
+the Company, pursuant to Section 5 hereof, will have been duly
+authorized, validly issued, fully paid and nonassessable and will be free
+of preemptive or similar rights and no personal liability will attach to
+the ownership thereof.
+
+               (e)  On or before the Closing Date, the Company will
+arrange for the listing or supplemental listing, as appropriate, on the
+American Stock Exchange of (i) the Shares to be issued to the Purchaser
+hereunder and (ii) all of the Additional Shares issuable pursuant to
+Section 5 hereof, subject to official notification from the Company's
+transfer agent regarding such issuance.
+
+               (f)  SEC Reports and Financial Statements.  The
+Company has furnished to Purchaser copies of the following reports and
+financial statements:
+
+                    (i)   the Annual Reports on Form 10-K of the
+      Company for the fiscal years ended December 31, 1991 and 1992; 
+
+                    (ii)  the Quarterly Reports on Form 10-Q of 
+      the Company for each of the three fiscal quarters ended during
+      1993; and
+                    (iii) any Current Reports of the Company on
+      Form 8-K filed after January 1, 1993.
+
+          The Company has filed with the Securities and Exchange
+Commission ("SEC") all reports ("SEC Reports") required to be filed by it
+under the Securities Exchange Act of 1934, as amended (the "'34 Act"). 
+All of the SEC Reports filed by the Company comply in all material
+respects with the requirements of the '34 Act.  None of the SEC Reports
+contains, as of the respective dates thereof, any untrue statement of a
+material fact or omits to state any material fact required to be stated
+therein or necessary to make the statements therein not misleading in
+light of the circumstances under which they were made.  The financial
+statements referred to above and all financial statements contained in
+the SEC Reports have been prepared in accordance with generally accepted
+accounting principles consistently applied throughout the periods
+indicated ("GAAP").  Each balance sheet presents fairly in accordance
+with GAAP the consolidated financial position of the Company as at the
+date of such balance sheet, and each statement of operations and of cash
+flows presents fairly in accordance with GAAP the consolidated results of
+operations and the consolidated cash flows of the Company for the fiscal
+periods then ended.
+
+               (g)  Additional Reports.  No event has occurred
+requiring, or which with the passage of time will require, the filing of
+an SEC Report that has not heretofore been filed and furnished to the
+Purchaser.
+
+          5.   Contingent Issuance of Additional Shares.
+
+               (a)  If, after the date hereof, and prior to  October
+1, 1994, the Company shall issue or enter into a definitive agreement to
+issue any shares of Common Stock, at a price of less than $7.50 per
+share, or any Securities convertible into or exercisable for shares of
+Common Stock, at a conversion or exercise price of less than $7.50  per
+share, in a "Qualified Issuance" (as defined below), it shall issue to
+the Purchaser (or its assignee), provided that, the Closing hereunder
+shall have been completed, that number of additional shares of Common
+Stock that shall be equal to the amount by which (i) the quotient of
+dividing the Share Purchase Price by the lowest per share sale price (the
+"Low Price") in any Qualified Issuance (treating the conversion or
+exercise price of any security convertible into or exercisable for Common
+Stock as the sale price thereof for this purpose), exceeds (ii) 1,700,000
+(such number being the number of shares issuable for the Share Purchase
+Price, if the purchase price per share had been $7.50); provided,
+however, that the number of shares issuable under this Section 5 shall
+not exceed 150,000 shares.  All of the foregoing amounts, other than the
+Share Purchase Price, shall be subject to proportionate adjustment if, at
+any time after the date hereof, and prior to the issuance of shares under
+this Section 5, the Company shall have fixed a record date for the
+payment of a dividend in shares of its Common Stock or for the
+subdivision or combination of its outstanding Common Stock into a greater
+or smaller number of shares or for the reclassification or other change
+in the outstanding shares of Common Stock.  The number of additional
+shares of Common Stock, if any, that shall become issuable pursuant to
+this Section 5 are referred to in this Agreement as the "Additional
+Shares."  As used in this Agreement, the term "Qualified Issuance" means
+any issuance, after the date hereof and prior to October 1, 1994 (or
+prior to January 1, 1995 if pursuant to a definitive agreement entered
+into after the date hereof but before October 1, 1994), of shares of
+Common Stock or securities exchangeable for or convertible into Common
+Stock  other than (x) shares of Common Stock issued to current or former
+employees of the Company pursuant to a bona fide employee benefit plan
+approved or adopted by the Board of Directors of the Company prior to
+January 1, 1994 or issued pursuant to the exercise of conversion or
+exchange rights of convertible or exchangeable securities of the Company
+outstanding prior to January 1, 1994 and disclosed to the Purchaser
+pursuant to Schedules to this Agreement and (y) any issuance in a single
+transaction or series of related transactions, of less than 150,000
+shares of Common Stock.  The Company shall, not later than five business
+days after the Low Price shall be determinable, deliver to the Purchaser
+a certificate signed by the Chief Executive Officer or a Senior Vice
+President of the Company, disclosing the Low Price and its computation
+and the computation of the number of Additional Shares based thereon.
+
+               (b)  Any Additional Shares that shall become issuable
+pursuant to Section 5(a) shall be issued to the Purchaser or its assignee
+not later than ten business days after   October 1, 1994, if the Low
+Price shall be determinable by such date and, otherwise, not later than
+January 6, 1995.  
+
+               (c)  If after the date hereof and prior to October 1,
+1994, the Company shall enter into a definitive agreement to issue any
+shares of its Common Stock (a "Definitive Agreement") in any transaction
+other than one within the scope of clause (x) or clause (y) of Section
+5(a), the Company will promptly notify the Purchaser of such event in
+writing and provide the Purchaser with a copy of such Definitive
+Agreement.  The Purchaser will then have the irrevocable option (the
+"Purchase Option") to purchase up to 1,500,000 shares of the Common Stock
+at the same per share price as provided in such Definitive Agreement. 
+Such Purchaser's Option shall be exercisable by written notice (a
+"Purchaser's Notice") to the Company given at any time within three
+months after the date of the Company's Notice.  Such Purchaser's Option
+shall expire if such Purchaser's Notice is not timely given.  If the
+Purchaser shall timely exercise such Purchaser's Option, the closing of
+such purchase shall be concurrent with the closing of the Definitive
+Agreement, provided, however, that if such Definitive Agreement closing
+shall occur less than ten business days after the date of the Purchaser's
+Notice or before the Purchaser's Notice is exercised, the closing
+hereunder shall occur on the tenth business day following the date of the
+Purchaser's Notice; and provided further that such closing date shall be
+appropriately extended for such additional time, if any, as may
+reasonably be required for compliance with the HSR Act.  Such sale to the
+Purchaser shall be on all the same terms and conditions (including any
+registration rights) contained in such Definitive Agreement, except for
+the number of shares and the total purchase price and except as provided
+below if the consideration in such Definitive Agreement is other than
+cash.  Until the Purchaser has exercised one or more Purchaser's Options
+for an aggregate of 1,500,000 shares, the Company shall give the
+Purchaser a Company Notice for each Definitive Agreement entered into
+before October 1, 1994, and the Purchaser shall have a Purchaser's Option
+with respect to each such Definitive Agreement; provided, however, that
+the Purchaser shall not be entitled to purchase pursuant to this Section
+5(c) more than an aggregate of 1,500,000 shares of Common Stock.
+
+          If the consideration to be paid for any shares of Common Stock
+under any Definitive Agreement shall be other than cash, the Company's
+Notice shall set forth the Company's good faith estimate of the per share
+cash value of such consideration and, subject to the following
+procedures, such amount shall be the Purchaser's per share purchase price
+under this Section 5(c).  Upon request, the Company shall promptly
+provide the Purchaser with all information the Purchaser may reasonably
+require to make its own evaluation of the per share cash value of such
+consideration.  If the Purchaser shall disagree with the Company's
+estimate, it shall so notify the Company in writing within 15 business
+days after receiving all requested information, stating the Purchaser's
+estimate of such per share cash value.  If the Purchaser fails to notify
+the Company of any disagreement within such 15 days, the Company's
+estimate shall become final.  If the Purchaser does so notify the Company
+of disagreement with the Company's estimate and the Company and the
+Purchaser fail to agree upon the per share cash value of such
+consideration within 15 days after the date of the Purchaser's estimate,
+either party may refer such dispute to ENDISPUTE to arbitrate the dispute
+pursuant to its procedures for single person arbitration (or by such
+other alternative dispute resolution organization and procedure as the
+parties may approve).  The determination by such arbitration proceeding
+shall be final and binding.  In the event of any such dispute,
+notwithstanding any other provision of this Section 5(c), the Purchaser's
+Option with respect to such Definitive Agreement shall not expire until
+10 business days after such determination of the per share cash value.
+
+          All share numbers and per share price provisions contained in this
+Section 5(c) shall be subject to anti-dilution adjustment corresponding
+to those set forth in Section 5(a) above.
+   
+          6.   Pre-merger Notification.  Promptly, and in any event
+not later than 5 days after execution of this Agreement, the Company and
+Purchaser shall file or cause to be filed notification and report forms
+with the Federal Trade Commission and the U.S. Department of Justice
+under the HSR Act with respect to the Purchaser's purchase of the Shares
+and the Additional Shares, if any.
+
+          7.   Conditions to Closing.
+
+               (a)  The obligation of the Company to sell, and the
+obligation of the Purchaser to purchase, the Shares are subject to the
+satisfaction or (to the extent permitted by law) waiver at or prior to
+the Closing Date of the conditions that, on the Closing Date: 
+
+                    (i) the waiting period under the HSR Act,
+      including any extensions thereof, shall have expired or
+      terminated; 
+
+                    (ii) there shall be no effective injunction, writ
+      or preliminary restraining order or any order of any nature issued
+      by a court or governmental agency of competent jurisdiction
+      directing that the transactions contemplated hereby or any of them
+      not be consummated as herein provided, and immediately prior to
+      the Closing Date, no proceeding or lawsuit with respect
+      to the transactions contemplated hereby shall have been
+      commenced and be pending, or be threatened, by any
+      governmental or regulatory agency; 
+
+                    (iii) the Company shall have received
+      approval from the American Stock Exchange for the
+      listing or supplemental listing of the Shares to be
+      issued hereunder and all of the Additional Shares; and
+
+                    (iv) Purchaser, the Company and Atari
+      Games Corporation shall have entered a Letter Agreement
+      relating to registration rights in the form attached
+      hereto as Exhibit A.
+
+               (b)  The obligation of the Purchaser to
+      purchase the Shares on the Closing Date is subject to
+      the satisfaction or waiver at or prior to the Closing
+      Date of each of the following conditions:
+
+                    (i)  each of the representations and
+      warranties of the Company contained in Section 4 hereof
+      shall be true and correct in all respects as of the date
+      hereof and as of the Closing, with the same effect as if
+      made at and as of the time of Closing and the Company
+      shall have performed all obligations to be performed by
+      it hereunder as of such date and the Company shall
+      deliver a certificate dated that date and signed by the
+      Chief Executive Officer or a Senior Vice President of
+      the Company to that effect; and 
+
+                    (ii)  Purchaser shall have been furnished
+      with an opinion of General Counsel of the Company, dated
+      the day of the Closing, addressed to Purchaser in such
+      customary form and with such customary provisions as
+      Purchaser and the Company shall agree to prior to the
+      Closing. 
+
+               (c)  The obligation of the Company to sell the Shares
+on the Closing Date is subject to the condition that each of the
+representations and warranties of the Purchaser contained in Section 3
+hereof shall be true and correct in all respects as of the date and as of
+the Closing Date, with the same effect as if made at and as of the time
+of Closing and the Purchaser shall have performed all obligations to be
+performed by it hereunder as of such date and shall deliver a certificate
+dated that date signed by a Senior Vice President or Vice President of
+the Purchaser to that effect. 
+
+          8.   Parties in Interest.
+
+               (a)  This Agreement shall inure to the benefit of and
+be binding upon the parties hereto and their respective successors,
+assigns and legal representatives.
+
+               (b)  Except as provided in clause (c) of this Section
+8, this Agreement may not be assigned by either party hereto without the
+prior written consent of the other party.
+
+               (c)  The Purchaser may, at any time prior to the
+Closing, assign any or all of its rights hereunder to one or more of the
+Purchaser's wholly owned subsidiaries (which may be organized subsequent
+to the date hereof) and any of such subsidiaries may assume any or all of
+the Purchaser's obligations hereunder; provided that in the event of such
+assumption, (i) the representations and warranties contained in Section 3
+hereof shall be deemed to be given with respect to such subsidiary and
+(ii) the Purchaser shall remain jointly and severally liable for such
+obligations.
+
+          9.   Specific Performance.  The parties hereto acknowledge
+that the benefits to them under this Agreement are unique, that they are
+willing to enter into this Agreement only upon strict performance by each
+other of all of their obligations hereunder and that monetary damage
+above would not afford adequate remedy for failure to perform any such
+obligations hereunder.  Accordingly, the parties hereby consent to
+specific performance of their obligations hereunder and waive any
+requirement for securing or posting of any bond in connection with the
+obtaining of any injunctive or other equitable relief to enforce their
+rights hereunder.
+
+          10.  Further Assurances.  The parties shall make, execute,
+acknowledge and deliver such other instruments and documents, and take
+all such other actions, as may be reasonably required in order to
+effectuate the purposes of this Agreement and to consummate the
+transactions contemplated hereby.  The parties, in connection with
+entering into this Agreement, performing their obligations hereunder and
+taking any and all actions relating hereto, shall comply with all
+applicable laws, obtain all required consents and approvals and make all
+required filings with any government and promptly provide the other with
+all such information as the other may reasonably request in order to be
+able to comply with the provisions of this sentence.
+
+          11.  Termination. 
+
+               (a)  This Agreement may be terminated at any time
+prior to the Closing Date,
+
+                    (i)   by mutual written agreement of the
+      Company and the Purchaser;
+
+                    (ii)  by either party hereto (A) if a
+      preliminary or permanent injunction or other order,
+      decree or ruling shall have been issued by a court of
+      competent jurisdiction or by a governmental, regulatory
+      or administrative agency or commission, that would
+      enjoin, prohibit or materially interfere with the
+      consummation of this Agreement or the transactions
+      contemplated herein; or (B) if the Closing Date shall
+      not have occurred on or before May 31, 1994, unless such
+      party is in breach of the Agreement at such time;
+
+                    (iii) by the Company, if there shall have
+      been a breach of the obligations, representations or
+      warranties of the Purchaser hereunder; or
+
+                    (iv)  by the Purchaser, if there shall
+      have been a breach of the obligations, representations
+      or warranties of the Company hereunder.
+
+               (b)  In the event of termination of this Agreement by
+either or both of the parties pursuant to clause (a) of this Section 11,
+written notice thereof shall forthwith be given to the other party
+hereto, this Agreement and the transactions contemplated hereby shall be
+abandoned, and this Agreement, except for the provisions of this Section
+and Section 11(d), shall forthwith become void and have no effect.
+
+               (c)  Notwithstanding anything to the contrary in
+clause (b) above, no termination of this Agreement shall release any
+party hereto from any claim arising or derived from its breach of this
+Agreement.
+
+          12.  Miscellaneous.
+
+               (a)  Amendments and Waivers.  This Agreement cannot be
+changed or terminated orally and no waiver of compliance with any
+provision or condition hereof and no consent provided for herein shall be
+effective unless evidenced by an instrument in writing duly executed by
+the party hereto sought to be charged with such waiver or consent.  No
+waiver of any term or provision hereof shall be construed as a further or
+continuing waiver of such term or provision or any other term or
+provision.
+
+               (b)  Governing Law; Severability.  This Agreement,
+together with the rights and obligations of the parties hereunder, shall
+be governed by, construed and enforced in accordance with the internal
+laws of the State of California.  In the event any provision of this
+Agreement or the application of any such provision to any party shall be
+held by a court of competent jurisdiction to be contrary to law, the
+remaining provisions of this Agreement shall remain in full force and
+effect.
+
+               (c)  Notices.All notices, requests, consents,
+demands and other communications required or permitted to be given
+hereunder shall be in writing and shall be deemed effectively given upon
+(x) personal delivery, (y) twenty-four hours after delivery to a courier
+service which guarantees overnight delivery or (z) upon receipt of
+confirmation after such notice is telecopied, addressed as follows:
+
+                    (i)   if to the Purchaser:
+
+                          Time Warner Inc.
+                          75 Rockefeller Plaza
+                          New York, NY  10019
+                             Attention:  General Counsel
+                             Telecopy No.:  (212) 397-0657
+
+
+                    (ii)  if to the Company:
+
+                          Atari Corporation
+                          1196 Borregas Ave.
+                          Sunnyvale, CA  94089
+                             Attention:  General Counsel  
+                             Telecopy No.: (408) 745-8800
+
+or such other addresses as any party hereto shall have designated by notice
+in writing to the other party hereto.
+
+               (d)  Expenses.  Each party hereto shall bear its own
+expenses in connection with the entry into and effectuation of this
+Agreement.
+
+               (e)  Counterparts.  This Agreement may be executed in
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+               (f)  Captions.  The captions and headings of this
+Agreement are for convenience only and are not to be construed as defining
+or limiting the scope or intent of any of the provisions hereof.
+
+               (g)  Entire Agreement.  This Agreement, constitutes the
+entire agreement and understanding between the Company and the Purchaser
+relating to the subject matter hereof, and supersedes all prior agreements,
+understandings, negotiations and discussions, whether oral or written
+relating to the subject matter hereof.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+Agreement as of the date first set forth above.
+
+
+                                 ATARI CORPORATION
+
+
+                                 By:/s/Leonard Schrieber 
+                                    Title: General Counsel, Director
+                                           and Authorized Signatory
+
+
+                                  TIME WARNER INC.
+
+
+                                  By:/s/Peter R. Haje  
+                                     Title: Executive Vice President
+
+<PAGE>
+
+                                                    EXHIBIT A
+
+
+
+
+               SEE EXHIBIT 4 TO SCHEDULE 13-D/A
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 3 STOCK PURCHASE AGMT ATARI CORP/GAMES
+<TEXT>
+
+
+           STOCK PURCHASE AGREEMENT (the "Agreement") made and entered
+into this 24th day of March, 1994 between ATARI CORPORATION, a Nevada
+corporation ("Atari") and ATARI GAMES CORPORATION, a Delaware Corporation
+("Atari Games").  Capitalized terms used herein and not otherwise defined
+shall have the meanings given to such terms in the Stock Purchase
+Agreement by and between Atari and Time Warner Inc. ("TWI"), dated as of
+the date hereof (the "Stock Purchase Agreement").
+
+                   W I T N E S S E T H
+
+           WHEREAS, Atari desires to issue to Atari Games an aggregate
+of 70,000 shares (the "Shares") of its Common Stock, par value $.01 per
+share (the "Common Stock"), in settlement of certain amounts owing by
+Atari to Atari Games and Atari Games is willing to accept the same,
+subject to the terms and conditions and for the consideration set forth
+herein.
+
+           NOW, THEREFORE, for and in consideration of the foregoing
+premises, the mutual promises, agreements and covenants hereinafter set
+forth, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereby agree as
+follows:
+
+           Section 1.  The Shares.
+
+           Subject to the terms and conditions of this Agreement, at the
+Closing, Atari shall issue and sell to Atari Games and Atari Games shall
+purchase from Atari, the Shares, represented by one or more stock
+certificates, issued in the name of Atari Games.
+
+           Section 2.  Consideration.
+
+           In consideration of the Shares, Atari Games shall deem the
+royalty payments (the "Royalty Payments") owing to Atari Games from Atari
+through December 31, 1993, under the software license agreements listed
+on Schedule I hereto (the "License Agreements"), satisfied and fully
+paid.  The parties acknowledge and agree that the Shares are being issued
+to Atari Games in settlement of amounts owing under the License
+Agreements through December 31, 1993 and that from and after the Closing
+Date, Atari shall have no further obligation or liability with respect to
+the Royalty Payments for the period ending December 31, 1993. 
+Notwithstanding any provision contained herein to the contrary, the
+parties agree that Atari shall continue to be liable to Atari Games for
+royalty payments accuring under the License Agreements after December 31,
+1993.  The parties acknowledge and agree that the minimum guarantee
+requirements under the License Agreements shall have no further force or
+effect.
+
+           Section 3.  Representations, Warranties and Agreements of
+Atari Games.  
+
+           Atari Games hereby represents and warrants to Atari and
+agrees with Atari as follows:
+
+                (a)  Due Authorization.  This Agreement has been duly
+authorized by all necessary corporate action on the part of Atari Games,
+has been duly executed and delivered by Atari Games, and constitutes the
+legal, valid and binding obligation of Atari Games, enforceable in
+accordance with its terms.
+
+                (b)  No Violation.  Neither the execution and delivery
+of this Agreement nor the consummation of the transactions contemplated
+hereby by Atari Games will (i) violate or result in any violation of or
+be in conflict with or constitute a default under any term of the
+Certificate of Incorporation or By-laws of Atari Games or of any
+agreement, instrument, judgment, decree, order, statute, rule or
+governmental regulation applicable to Atari Games, or (ii) require that
+Atari Games obtain the consent or authorization of or waiver or filing by
+or make a filing with any governmental, administrative or self-regulatory
+body or agency or any other person or entity, other than any such
+consent, authorization,  waiver which has been duly and validly obtained
+or made prior to the date hereof, other than a filing under the Hart-
+Scott-Rodino Antitrust Improvements Act of 1976 and the rules and
+regulations promulgated thereunder (the "HSR Act") or (iii) require the
+satisfaction or termination of any waiting period under any application
+statute, rule or governmental regulation applicable to Atari Games, other
+than compliance with the HSR Act.  
+
+                (c)  Investment Representation.  The acquisition of the
+Shares by Atari Games will be for investment purposes only and for the
+sole account of Atari Games and not with a view to the redistribution or
+resale of any or all of the Shares.  None of the Shares acquired pursuant
+to this Agreement will be transferred except in a transaction registered
+or exempt from registration under the Securities Act of 1933, as amended. 
+Atari Games acknowledges that any certificate for the Shares shall bear a
+legend with respect to the transfer or resale of the Shares substantially
+as follows:
+
+           "The shares represented by this certificate have not been
+   registered under the Securities Act of 1933 and such shares may not
+   be sold or transferred unless such sale or transfer will be
+   effected in accordance with the registration requirements of the
+   Securities Act of 1933, as at the time amended, or in conformity
+   with the limitations of Rule 144 promulgated under such Act or in
+   conformity with any other exemption from the registration
+   requirements of such Act which may then be available with respect
+   thereto."
+
+           4.  Representations, Warranties and Agreements of Atari.
+
+           Atari hereby represents and warrants to Atari Games and
+agrees with Atari Games as follows:
+
+               (a)  Organization.  Atari is a corporation duly
+organized, validly existing, and in good standing under the laws of the
+State of Nevada and is duly qualified to do business and in good standing
+as a foreign cor poration in the jurisdiction where it is required to
+qualify to conduct its business as presently conducted.  Atari has the
+requisite corporate power and authority to own its property and to carry
+on its business as now conducted.  
+
+                (b)  Due Authorization.  Atari has full power and
+authority to execute and deliver this Agreement and, as of the Closing
+Date, has full power and authority to perform this Agreement, including,
+without limitation, the power and authority to issue the Shares.  Atari
+has duly taken all corporate and other actions necessary to authorize the
+execution and delivery of this Agreement and, as of the Closing Date, has
+duly taken all corporate and other actions necessary to authorize the
+performance of this Agreement, including, without limitation, all actions
+necessary to authorize the issuance of the Shares.  This Agreement has
+been duly executed and delivered by Atari and this Agreement constitutes
+the legal, valid and binding obligation of Atari enforceable in
+accordance with its terms.
+
+                (c)  No Violation.  Neither the execution and delivery 
+of this Agreement nor the consummation of the transactions contemplated
+hereby by Atari will (i) violate or result in any violation of or be in
+conflict with or constitute a default under any term of the Certificate
+of Incorporation or By-laws of Atari or of any agreement, instrument,
+judgment, decree, order, statute, rule or governmental regulation
+applicable to Atari, (ii) require that Atari obtain the consent or
+authorization of or waiver by or make a filing with any governmental,
+administrative or self-regulatory body or agency or any other person or
+entity, other than any such consent, authorization, waiver or filing
+which has been duly and validly obtained or made prior to the date
+hereof, other than a filing under the HSR Act or (iii) require the
+satisfaction or termination of any waiting period under any statute, rule
+or governmental regulation applicable to Atari, other than compliance
+with the HSR Act.
+
+                (d)  Capitalization, Issuance of Shares.  As of
+December 31, 1993, Atari's authorized capital stock consists of
+100,000,000 shares of Common Stock, par value $.01 per share, of which
+57,214,587 shares were issued and outstanding, all of which are duly
+authorized and have been validly issued and are fully paid and non-
+assessable.  Except as shown on Exhibit 4(d), Atari has not issued any
+options, warrants or convertible or exchangeable securities and is not a
+party to any other agreements, which require, or upon the passage of
+time, the payment of money or the occurrence of any other event, may
+require, Atari to issue or sell any of its Common Stock.  Upon delivery
+to Atari Games of the certificate or certificates evidencing the Shares
+against the execution and delivery of this Agreement, the Shares will
+have been duly authorized, validly issued, fully paid and nonassessable
+and will be free of preemptive or similar rights and no personal
+liability will attach to the ownership thereof.
+
+                (e)  On or before the Closing Date, Atari will arrange
+for the listing or supplemental listing of the Shares to be issued to
+Atari Games hereunder, as appropriate, on the American Stock Exchange.
+
+                (f)  SEC Reports and Financial Statements.  Atari has
+furnished to Atari Games copies of the following reports and financial
+statements:
+
+                     (i)   the Annual Reports on Form 10-K of Atari
+      for the fiscal years ended December 31, 1991 and 1992;
+
+                     (ii)  the Quarterly Reports on Form 10-Q of 
+      Atari for each of the three fiscal quarters ended during 1993; and
+
+                     (iii) the Current Reports of Atari on Form  8-K
+      filed after January 1, 1993.
+
+                     Atari has filed with the Securities and Exchange Commission
+("SEC") all reports ("SEC Reports") required to be filed by it under the
+Securities Exchange Act of 1934, as amended (the "'34 Act").  None of the
+SEC Reports contains, as of the respective dates thereof, any untrue
+statement of a material fact or omits to state any material fact required
+to be stated therein or necessary to make the statements therein not
+misleading in light of the circumstances under which they were made.  All
+financial statements contained in the SEC Reports have been prepared in
+accordance with generally accepted accounting principles consistently
+applied throughout the periods indicated ("GAAP").  Each balance sheet
+presents fairly in accordance with GAAP the consolidated financial
+position of Atari as of the date of such balance sheet, and each
+statement of operations and of cash flows presents fairly in accordance
+with GAAP the consolidated results of operations and the consolidated
+cash flows of Atari for the fiscal periods then ended.
+
+                (g)  Additional Reports.  No event has occurred
+requiring, or which with the passage of time will require, the filing of
+an SEC Report that has not heretofore been filed and furnished to Atari
+Games.
+
+           5.   Pre-merger Notification.  Promptly, and in any event not
+later than 5 days after execution of this Agreement, Atari and Atari
+Games shall file or cause to be filed notification and report forms with
+the Federal Trade Commission and the U.S. Department of Justice under the
+HSR Act with respect to Atari Games' acquisition of the Shares.
+
+           6.   Conditions to Closing.
+
+                (a) The obligation of Atari to issue and sell and
+Atari Games to purchase the Shares, are subject to the satisfaction or
+(to the extent permitted by law) waiver at or prior to the Closing Date
+of the condition that, on the Closing Date:  
+
+                    (i)   the waiting period under the HSR Act,
+          including any extensions thereof, shall have expired or terminated;
+
+                    (ii)  there shall be no effective injunction,
+      writ or preliminary restraining order or any order of any nature
+      issued by a court or governmental agency of competent jurisdiction
+      directing that the transactions contemplated hereby or any of them
+      not be consummated as herein provided, and immediately prior to the
+      Closing Date, no proceeding or lawsuit with respect to the
+      transactions contemplated hereby shall have been commenced and be
+      pending, or be threatened, by any governmental or regulatory
+      agency; 
+
+                    (iii) the Company shall have received
+      approval from the American Stock Exchange for the listing or
+      supplemental listing of the Shares to be issued hereunder; and
+
+                     (iv) Atari, TWI and Atari Games shall have
+      executed and delivered the Letter Agreement relating to
+      registration rights dated as of even date herewith in the form
+      attached hereto as Exhibit A. 
+
+                (b)  The obligation of Atari Games to purchase, on the
+Closing Date, is subject to the satisfaction or waiver at or prior to the
+Closing Date of each of the following conditions:
+
+                     (i)   Each of the representations and
+      warranties of Atari contained in Section 4 hereof shall be true and
+      correct in all respects as of the date hereof and as of the Closing
+      Date and Atari shall have performed all obligations to be performed
+      by it hereunder as of such date and Atari shall deliver a
+      certificate dated that date and signed by the Chief Executive
+      Officer or a Senior Vice President of Atari, to that effect;
+
+                     (ii)  Atari Games shall have been furnished
+      with an opinion of General Counsel of Atari, dated the Closing Date
+      addressed to Atari Games in such customary form and with such
+      customary provisions as Atari Games and Atari shall agree to prior
+      to the closing of the transactions contemplated hereby.
+
+                (c)  The obligation of Atari to issue the Shares on
+the Closing Date is subject to the condition that each of the
+representations and warranties of Atari Games contained in Section 3
+hereof shall be true and correct in all respects as of the date hereof
+and as of the Closing Date, with the same effect as if made at and as of
+the time of the Closing and Atari Games shall have performed all
+obligations to be performed by it hereunder as of such date and shall
+deliver a certificate dated that date signed by a Senior Vice President
+or Vice President of Atari Games to that effect.
+
+           7.   Parties in Interest.
+
+                (a)  This Agreement shall inure to the benefit of and
+be binding upon the parties hereto and their respective successors,
+assigns and legal representatives.
+
+                (b)  Except as provided in clause (c) of this Section
+7, this Agreement may not be assigned by either party hereto without the
+prior written consent of the other party.
+
+                (c)  Atari Games may, if it has assigned its rights
+under the Stock Purchase Agreement, at any time prior to the Closing,
+assign any or all of its rights hereunder to one or more of its wholly
+owned subsidiaries (which may be organized subsequent to the date hereof)
+and any such subsidiaries may assume any or all of Atari Games'
+obligations hereunder; provided that in the event of such assumption, (i)
+the representations and warranties contained in Section 3 shall be deemed
+to be given with respect to such subsidiary and (ii) Atari Games shall
+remain jointly and severally liable for such obligations.
+
+           8.   Specific Performance.  The parties hereto acknowledge
+that the benefits to them under this Agreement are unique, that they are
+willing to enter into this Agreement only upon strict performance by each
+other of all of their obligations hereunder and that monetary damage
+above would not afford adequate remedy for failure to perform any such
+obligations hereunder.  Accordingly, the parties hereby consent to
+specific performance of their obligations hereunder and waive any
+requirement for securing or posting of any bond in connection with the
+obtaining of any injunctive or other equitable relief to enforce their
+rights hereunder.
+
+           9.   Termination.
+
+                (a)  This Agreement may be terminated at any time prior
+to the Closing Date,
+
+                     (i)  by mutual written agreement of Atari and
+      Atari Games;
+
+                     (ii)  by either party hereto (A) if a
+      preliminary or permanent injunction or other order, decree or
+      ruling shall have been issued by a court of competent jurisdiction
+      or by a governmental, regulatory or administrative agency or
+      commission, that would enjoin, prohibit or materially interfere
+      with the consummation of this Agreement or the transactions
+      contemplated herein; or (B) if the Closing Date shall not have
+      occurred on or before April 30, 1994, unless such party is in
+      breach of the Agreement at such time;
+
+                     (iii) by Atari if there shall have been a
+      breach of the obligations, representations or warranties of Atari
+      Games hereunder; or
+
+                     (iv)  by Atari Games if there shall have been 
+      a breach of the obligations, representations or warranties of Atari
+      hereunder.
+
+                (b)  In the event of termination of this Agreement by
+either or both of the parties pursuant to clause (a) of this Section 9,
+written notice thereof of shall forthwith be given to the other party
+hereto, this Agreement and the transactions contemplated hereby shall be
+abandoned, and this Agreement, except for the provisions of this Section
+and Section 12(d), shall forthwith become void and have no effect.
+
+                (c)  Notwithstanding anything to the contrary in clause
+(b) above, no termination of this Agreement shall release any party
+hereto from any claim arising or derived from its breach of this
+Agreement.   
+
+           10.  Further Assurances.  The parties shall make, execute,
+acknowledge and deliver such other instruments and documents, and take
+all such other actions, as may be reasonably required in order to
+effectuate the purposes of this Agreement and to consummate the
+transactions contemplated hereby.  The parties, in connection with
+entering into this Agreement, performing their obligations hereunder and
+taking any and all actions relating hereto, shall comply with all
+applicable laws, obtain all required consents and approvals and make all
+required filings with any government and promptly provide the other with
+all such information as the other may reasonably request in order to be
+able to comply with the provisions of this sentence.
+
+           11.  Miscellaneous.
+
+                (a)  Amendments and Waivers.  This Agreement cannot be
+changed or terminated orally and no waiver of compliance with any
+provision or condition hereof and no consent provided for herein shall be
+effective unless evidenced by an instrument in writing duly executed by
+the party hereto sought to be charged with such waiver or consent.  No
+waiver of any term or provision hereof shall be construed as a further or
+continuing waiver of such term or provision or any other term or
+provision.
+
+                (b)  Governing Law; Severability.  This Agreement,
+together with the rights and obligations of the parties hereunder, shall
+be governed by, construed and enforced in accordance with the internal
+laws of the State of California.  In the event any provision of this
+Agreement or the application of any such provision to any party shall be
+held by a court of competent jurisdiction to be contrary to law, the
+remaining provisions of this Agreement shall remain in full force and
+effect.
+
+                (c)  Notices.All notices, requests, consents,
+demands and other communications required or permitted to be given
+hereunder shall be in writing and shall be deemed effectively given upon
+(x) personal delivery, (y) twenty-four hours after delivery to a courier
+service which guarantees overnight delivery or (z) upon receipt of
+confirmation after such notice is telecopied, addressed as follows:
+
+                     (i)  if to Atari Games:                                
+
+                          Atari Games Corporataion
+                          675 Sycamore Drive 
+                          Milpitas, California 95035
+                            Attention:  General Counsel
+                            Telecopy No.:  
+
+
+                          with a copy to:
+
+                          Time Warner Inc.
+                          75 Rockefeller Plaza
+                          New York, NY  10019
+                            Attention:  General Counsel 
+                            Telecopy No.: (212) 397-0657
+
+
+                    (ii)  if to Atari:
+
+                          Atari Corporation
+                          1196 Borregas Ave.
+                          Sunnyvale, CA  94089
+                            Attention:  General Counsel
+                            Telecopy No.: (408) 745-8800
+
+
+or such other addresses as any party hereto shall have designated by notice
+in writing to the other party hereto.
+
+                (d)  Expenses.  Each party hereto shall bear its own
+expenses in connection with the entry into and effectuation of this
+Agreement.
+
+                (e)  Counterparts.  This Agreement may be executed in
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+                (f)  Captions.  The captions and headings of this
+Agreement are for convenience only and are not to be construed as defining
+or limiting the scope or intent of any of the provisions hereof.
+
+                (g)  Entire Agreement.  This Agreement constitutes the
+entire agreement and understanding between Atari and Atari Games relating
+to the subject matter hereof, and supersedes all prior agreements,
+understandings, negotiations and discussions, 
+whether oral or written relating to the subject matter hereof.
+
+
+           IN WITNESS WHEREOF, the parties hereto have executed this
+Agreement as of the date first set forth above.
+
+                               ATARI CORPORATION
+
+
+                               By:/s/Leonard Schrieber 
+                                  Name: Leonard Schrieber
+                                  Title: General Counsel, Director
+                                         and Authorized Signatory
+
+
+                               ATARI GAMES CORPORATION
+
+
+                               By:/s/Dennis Wood  
+                                  Name:  Dennis Wood
+                                  Title:  Senior Vice President
+
+<PAGE>
+Atari Games Corporation - Atari Corporation License Agreements
+
+
+LYNX TITLES             DATE EXECUTED               MARKETING DATE
+
+Gauntlet                1/5/90                      7/4/92
+
+APB                     2/8/90                      8/8/91
+
+Cyberball 2072          2/8/90                      8/8/91
+
+Klax                    2/8/90                      8/8/91
+
+RoadBlasters            2/8/90                      8/8/91
+
+Vindicators             2/8/90                      8/8/91
+
+720                     2/8/90                      8/8/91
+
+Paperboy                4/24/90                     10/24/91
+
+S.T.U.N. Runner         6/7/90                      12/6/91
+
+Xybots                  6/11/90                     12/10/91
+
+Hydra                   7/9/90                      1/9/92
+
+Pit-Fighter             8/28/90                     2/28/92
+
+Hard Drivin'            10/19/90                    4/18/92
+
+Rampart                 7/24/91                     1/23/93
+
+Road Riot 4WD           8/19/91                     2/19/93
+
+Steel Talons            8/19/91                     2/19/93
+
+Relief Pitcher          3/31/92                     9/30/93
+
+Escape from the Planet  4/15/92                     10/14/93
+of Robot Monsters
+
+<PAGE>
+ST TITLES               DATE EXECUTED               MARKETING DATE
+
+Steel Talons            8/19/91                     2/19/93
+
+Road Riot 4WD           8/19/91                     2/19/93
+
+Relief Pitcher          UNSIGNED
+
+
+7800 TITLES             DATE EXECUTED               MARKETING DATE
+
+Klax                    2/8/90                      8/8/91
+
+Pit-Fighter             9/11/90                     3/10/92
+
+Rampart                 7/24/91                     1/23/93
+
+Steel Talons            8/20/91                     2/20/93
+
+Road Riot 4WD           8/21/91                     2/21/93
+
+
+2600 TITLES             DATE EXECUTED               MARKETING DATE
+
+Klax                    3/8/90                      9/8/91
+
+
+<PAGE>
+
+	                                                      EXHIBIT A
+
+
+              SEE EXHIBIT 4 TO SCHEDULE 13-D/A
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 4 REGISTRATION RIGHTS LTR/EXB 4D
+<TEXT>
+
+                                                       March 24, 1994
+
+Time Warner Inc.
+75 Rockefeller Plaza
+New York, New York 10019
+
+Atari Games Corporation
+675 Sycamore Drive
+Milpitas, California 95035
+
+
+               Re: Registration Rights
+
+
+Greetings:
+
+     This letter sets forth the agreement between our companies
+regarding registration rights relating to shares of Common
+Stock of Atari Corporation ("Atari Corp."), par value $.01 per
+share (the "Common Stock") sold pursuant to:
+
+               (i)   the Stock Purchase Agreement of even date
+     herewith by and between Time Warner Inc. ("Time Warner")
+     and Atari Corp. (the "Time Warner Stock Purchase 
+     Agreement"); and 
+
+               (ii)  the Stock Purchase Agreement of even date
+     herewith by and between Atari Games Corporation ("Atari  
+     Games") and Atari Corp. (the "Atari Games Stock Purchase
+     Agreement").
+
+     Capitalized terms used herein but not otherwise defined
+shall have the meanings given to such terms in the Agreement
+among Tramel Technology, Ltd. (now re-named Atari Corporation),
+Atari Inc. (then a subsidiary of Warner Communications Inc.)
+and Jack Tramiel dated July 1, 1984 (the "Tramel Agreement").
+
+     The parties hereto acknowledge and agree that all shares
+of Common Stock of Atari Corp. that Time Warner and Atari Games
+(or their permitted assignees) shall acquire pursuant to the
+Time Warner Stock Purchase Agreement or the Atari Games Stock
+Purchase Agreement (or by permitted assignment thereunder),
+shall be deemed to be included in the Newco Shares covered by
+the registration rights provisions contained in Section 3 of
+the Tramel Agreement and Time Warner and Atari Games and their
+permitted assignees shall be entitled to exercise such rights
+as provided therein.  All matters relating to any such
+registration, including without limitation, allocation of
+expenses and indemnification, shall be governed by the
+provisions of Section 3 of the Tramel Agreement and Atari Corp.
+acknowledges and agrees that it shall be subject to all
+obligations of Newco under such Section 3 with respect to all
+such Atari Corp. shares of Common Stock. 
+
+
+     IN WITNESS WHEREOF, the parties hereto have caused this
+Letter Agreement to be executed as of March 24, 1994.
+
+
+                                        ATARI CORPORATION
+
+
+                                        By:/s/Leonard Schrieber 
+                                           Name:  Leonard Schrieber
+                                           Title: General Counsel, Director
+                                                  and Authorized Signatory
+
+                                        TIME WARNER INC.                     
+                                               
+
+                                        By:/s/Peter R. Haje
+                                           Name: Peter R. Haje
+                                           Title: Executive Vice President
+
+
+                                        ATARI GAMES CORPORATION
+                                                              
+                                                              
+                                        By:/s/Dennis Wood      
+                                           Name: Dennis Wood
+                                           Title: Senior Vice President
+
+
+<PAGE>
+
+                                 EXHIBIT 4(D)
+
+
+1.   The Company has issued a 5-1/4% Convertible Subordinated
+Debenture due 2002.  $43,454,000 of the bonds are outstanding and
+2,666,846 shares of Common Stock are issuable upon conversion under
+the terms of the Indenture.  The Company is currently
+considering the conversion of the outstanding debentures into
+Common Stock which may require the issuance of additional Common
+Shares as a result of lower conversion price.
+
+2.   The Company has outstanding as of December 31, 1993
+1,193,120 Stock Options under its Amended 1986 Stock Option Plan.
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,531 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ LtGSfRcidh4OsKG2k9EY4dGWLIlU7Pi5e09snNx14Lsaq04QCFi3rUaDDaG3oicN
+ 1D3IfBPrb87h1s6wEHaVzg==
+
+<IMS-DOCUMENT>0000950109-94-000302.txt : 19940302
+<IMS-HEADER>0000950109-94-000302.hdr.sgml : 19940302
+ACCESSION NUMBER:		0000950109-94-000302
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19940222
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICH CORP
+		CENTRAL INDEX KEY:			0000049588
+		STANDARD INDUSTRIAL CLASSIFICATION:	6321
+		IRS NUMBER:				436069928
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-20379
+		FILM NUMBER:		94511122
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 MALLARD CREEK RD STE 400
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40207
+		BUSINESS PHONE:		5028942100
+
+	MAIL ADDRESS:	
+		STREET 1:		100 MALLARD CREEK ROAD
+		STREET 2:		SUITE 400
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40207
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ICH CORP/CONSOL NAT/RTS/CFR/MOD AMER LIFE INS/SW LIFE INS/CF
+		DATE OF NAME CHANGE:	19930505
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TORCHMARK CORP
+		CENTRAL INDEX KEY:			0000320335
+		STANDARD INDUSTRIAL CLASSIFICATION:	6321
+		IRS NUMBER:				630780404
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2001 3RD AVE S
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35233
+		BUSINESS PHONE:		2053254200
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TORCHMARK CORP SAVINGS & INVESTMENT PLAN
+		DATE OF NAME CHANGE:	19820825
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LIBERTY NATIONAL INSURANCE HOLDING CO
+		DATE OF NAME CHANGE:	19820701
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                 SCHEDULE 13D
+
+                   Under the Securities Exchange Act of 1934
+                        (Amendment No.              )*
+
+
+                              I.C.H. Corporation
+                              ------------------
+                               (Name of Issuer)
+
+                         Common Stock, par value $1.00
+                         -----------------------------
+                        (Title of Class of Securities)
+
+                                   449264100
+                                   ---------
+                                (CUSIP Number)
+
+Carol McCoy, 2001 Third Avenue South, Birmingham, Alabama 35233, (205) 325-4243
+- -------------------------------------------------------------------------------
+                      (Name, Address and Telephone Number
+                         Person Authorized to Receive
+                          Notices and Communications)
+
+                               February 11, 1994
+                               -----------------
+                     (Date of Event which Requires Filing
+                              of this Statement)
+
+
+
+      If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ]
+
+      Check the following box if a fee is being paid with this statement [X]. (A
+fee is not required only if the reporting person: (1) has a previous statement
+on file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+      NOTE: Six copies of this statement, including all exhibits, should be
+filed with the Commission. See Rule 13d-1(a) for other parties to whom copies
+are to be sent.
+
+      * The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+      The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+                        (Continued on following page(s))
+
+                              Page 1 of 8 Pages
+<PAGE>
+ 
+(1)  NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+     Torchmark Corporation
+     I.R.S.  I.D. No. 63-0780404
+
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *
+                                                           (a)  [   ]
+                                                           (b)  [   ]
+
+(3)  SEC USE ONLY
+
+(4)  SOURCE OF FUNDS *
+
+     WC
+
+(5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDING IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or (e)                                          [   ]
+
+(6)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     Delaware
+
+NUMBER OF SHARES     (7)  SOLE VOTING POWER
+
+                          4,677,243
+
+BENEFICIALLY         (8)  SHARED VOTING POWER
+
+                          0
+
+OWNED BY EACH        (9)  SOLE DISPOSITIVE POWER
+
+                          4,677,243
+
+REPORTING PERSON    (10)  SHARED DISPOSITIVE POWER
+
+                          0
+
+(11)  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      4,677,243
+
+(12)  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES *
+                                                                [   ]
+
+(13)  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+      9.78%
+
+(14)  TYPE OF REPORTING PERSON *
+
+      CO
+
+
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+                              Page 2 of 8 Pages
+<PAGE>
+ 
+Item 1.   Security and Issuer:
+
+          Common Stock, par value $1.00
+
+          I.C.H. Corporation ("I.C.H.")
+          100 Mallard Creek Road, Suite 400
+          Louisville, Kentucky 40207
+
+Item 2.   Identity and Background:
+
+          Torchmark Corporation, a Delaware corporation ("Torchmark")
+          2001 Third Avenue South
+          Birmingham, Alabama 35233
+
+          Torchmark is an insurance and diversified financial services holding
+          company.
+
+          The following information is provided with respect to all executive
+          officers, directors and controlling persons of Torchmark, all of whom
+          are citizens of or domiciled in the United States:
+
+<TABLE>
+<CAPTION>
+                              Principal                          Business                 Position with
+Name                          Occupation          Employer       Address                  Reporting Person
+- ----                          ----------          --------       -------                  ----------------
+<S>                           <C>                 <C>            <C>                      <C> 
+                                                                                       
+R.K. Richey                  Insurance/           Torchmark      2001 Third Ave. South    Chairman, CEO and 
+                             Financial Services                  Birmingham, AL 35233     Director 
+                                                                                         
+Keith A. Tucker              Insurance/           Torchmark      2001 Third Ave. South    Vice Chairman  and
+                             Financial Services                  Birmingham, AL 35233     Director
+                                                                                       
+C.B. Hudson                  Insurance/           Torchmark      2001 Third Ave. South    Chairman of
+                             Financial Services                  Birmingham, AL 35233     Insurance Operation 
+                                                                                          Director
+                                                                                       
+William T. Graves            Insurance/           Torchmark      2001 Third Ave. South    Executive Vice 
+                             Financial Services                  Birmingham, AL 35233     President 
+                                                                                       
+J.P. Bryan                   Financial Services   Torchmark      1221 Lamar Suite 1600    Chairman and CEO of 
+                                                                 Houston, TX 77010        Torch Energy           
+                                                                                          Advisors, Inc. 
+                                                                                       
+Henry J. Herrmann            Financial Services   Torchmark      6300 Lamar Ave.          Senior VP and Chief
+                                                                 Shawnee Mission, KS      Investment Officer 
+                                                                 66202                    United Investors 
+                                                                                          Management Co. 
+ 
+Robert P. Davison            Personal             Self-Employed  5 Tamarac Ln.            Director
+                             Investments                         Cherry Hills
+                                                                 Englewood, CO 80110
+ 
+Joseph M. Farley             Attorney             Law firm of    1710 6th Ave. N          Director
+                                                  Balch and      Birmingham, AL 35203
+                                                  Bingham
+ 
+Louis T. Hagopian            Advertising and      Meadowbrook    270 Sabal Palm Lane      Director
+                             Marketing            Enterprises    Vero Beach, FL 32963
+                             Consultancy
+ 
+Joseph L. Lanier,            Textiles             Dan River Inc. 803 3rd Ave.             Director
+Jr.                                                              West Point, GA 31833
+ 
+Harold T. McCormick          Leisure              Bay Point      3 Deerwood               Director
+                             Industry             Yacht and      Birmingham, AL 35242 
+                                                  Country Club
+ 
+Joseph W. Morris             Attorney             Gable and      2000 Bank IV Center      Director
+                                                  Gotwals        75 West 6th Street
+                                                                 Tulsa, OK 74119
+</TABLE> 
+
+                               Page 3 of 8 Pages
+<PAGE>
+ 
+<TABLE>
+<S>                           <C>                 <C>            <C>                      <C> 
+Yetta G. Samford,            Attorney             Samford,       709 Avenue A             Director
+Jr.                                               Denson         Opelika, AL 36803
+                                                  Horsley Pettey
+                                                  and Martin
+ 
+George J. Records            Retail Banking/      Midland        5110 Guilford Lane       Director
+                             Mortgage Operations  Financial Co.  Oklahoma City, OK 73120
+</TABLE>
+
+         (d). Neither Torchmark nor any of the above listed persons have, within
+              the last 5 years, been convicted in a criminal proceeding
+              (excluding traffic violations or similar misdemeanors).
+
+         (e). Neither Torchmark nor any of the above listed persons have, within
+              the last 5 years, been party to a civil proceeding of a judicial
+              or administrative body of competent jurisdiction resulting in or
+              subjecting them to a judgment, decree or final order enjoining
+              future violations of or prohibiting or mandating activities
+              subject to federal or state securities laws or finding any
+              violation with respect to such laws.
+
+Item 3.  Source and Amount of Funds or Other Consideration:
+
+              On February 11, 1994, Torchmark acquired 4,677,243 shares of
+              I.C.H. Common Stock for a purchase price of $23,386,215 in cash.
+              The source of the funds was working capital of Torchmark.
+
+Item 4.  Purpose of Transaction:
+
+         Pursuant to the Stock Purchase Agreement, dated January 15, 1994, among
+         I.C.H., Consolidated National Corporation, a Kentucky corporation
+         ("CNC"), Consolidated Fidelity Life Insurance Company, a Kentucky life
+         insurance corporation ("CFLIC"), Robert T. Shaw, C. Fred Rice and
+         Torchmark (the "Stock Purchase Agreement"), Torchmark has acquired
+         shares in I.C.H. for purposes of investment and has no current plans or
+         proposals that relate to, or would result in, a sale of the Common
+         Stock purchased; provided, however, Torchmark reserves the right in the
+         future to purchase or dispose of its shares of I.C.H. Common Stock in
+         open market transactions, private transactions or otherwise.
+
+         (a)  Pursuant to the Stock Purchase Agreement, I.C.H. agreed that in
+              accordance with that certain agreement, dated June 15, 1993, as
+              amended, among I.C.H., CNC and CFLIC, CFLIC will transfer all
+              shares (other than as specified in the Stock Purchase Agreement)
+              of I.C.H. equity securities and any securities exercisable for or
+              convertible into I.C.H.'s equity securities that are owned by
+              CFLIC.
+
+         (d)  Pursuant to the Stock Purchase Agreement, I.C.H. agreed to amend
+              its bylaws to eliminate the requirement that the number of
+              directors be an integral of four. An officer of Torchmark has been
+              elected to the board of directors of I.C.H. as of the closing of
+              the acquisition of I.C.H. Common Stock described herein. So long
+              as Torchmark owns at least five percent of the issued and
+              outstanding shares of Common Stock of I.C.H., I.C.H. will cause a
+              person designated by Torchmark to be nominated for election as a
+              director of I.C.H. and I.C.H. will use its best efforts to secure
+              election of such person as a director to the I.C.H. board of
+              directors.
+
+                              Page 4 of 8 Pages
+<PAGE>
+
+         (e)  Pursuant to the Stock Purchase Agreement, I.C.H. Corporation 
+              agreed to use its reasonable best efforts to cause to be filed 
+              an amendment to its certificate of incorporation to eliminate
+              Class B Common Stock. I.C.H. Corporation also agreed not to reduce
+              the number of shares of voting securities outstanding prior to the
+              closing of the transaction contemplated by the Stock Purchase
+              Agreement.
+
+         Other than as set forth above, there are no plans or proposals of the
+         type contemplated in Items 4(a)-4(j).
+
+Item 5.  Interest in Securities of the Issuer:
+
+              (a)  Torchmark is the record and beneficial owner of 4,677,243
+                   shares (9.78%) of I.C.H. Common Stock.
+
+              (b)  Torchmark has sole power to vote or to direct the vote of, 
+                   and to dispose or direct the disposition of, 4,677,243 shares
+                   of I.C.H. Common Stock. No other person named in Item 2,
+                   either individually or as part of a "group" as that term is
+                   defined in Section 13(d)(3), owns beneficially any shares of
+                   the Common Stock.
+
+              (c)  On January 15, 1994, Torchmark entered into the Stock 
+                   Purchase Agreement whereby Torchmark agreed to purchase
+                   4,677,243 shares of Common Stock of I.C.H. for a purchase
+                   price of $23,386,215. This transaction was closed on February
+                   11, 1994 and is the subject of this Schedule 13D. Other than
+                   as described herein, none of the persons named in Item 2 have
+                   effected any transactions in the Common Stock during the
+                   preceding 60-day period.
+
+              (d)  Not applicable.
+
+              (e)  Not applicable.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships With Respect 
+         to Securities of the Issuer:
+
+         I.C.H. agreed pursuant to Section 8.15 of the Stock Purchase Agreement
+         that so long as Torchmark owns at least five percent of the issued and
+         outstanding shares of I.C.H. Common Stock, one person designated by
+         Torchmark will be nominated for election as a director of I.C.H. and
+         I.C.H. will use its best efforts to secure election of such person as a
+         director.
+
+                              Page 5 of 8 Pages
+<PAGE>
+ 
+Item 7.  Material to be Filed as Exhibits:
+
+         The following exhibits are attached hereto:
+
+<TABLE> 
+<CAPTION> 
+        Exhibit No.                                 Description
+        -----------               ----------------------------------------------
+        <S>                       <C> 
+              1                   Stock Purchase Agreement dated January 15, 
+                                  1994, among I.C.H., Consolidated National
+                                  Corporation, a Kentucky corporation,
+                                  Consolidated Fidelity Life Insurance Company,
+                                  a Kentucky life insurance corporation, Robert
+                                  T. Shaw, C. Fred Rice and Torchmark
+                                  (incorporated by reference to Exhibit No. 1
+                                  page 4 of I.C.H.'s Report on Form 8-K (File
+                                  No. 1-7697) as filed January 27, 1994.
+
+              2                   Amendment to Stock Purchase Agreement dated 
+                                  February 11, 1994, among I.C.H., Consolidated
+                                  National Corporation, a Kentucky corporation,
+                                  Consolidated Fidelity Life Insurance Company,
+                                  a Kentucky life insurance corporation, Robert
+                                  T. Shaw, C. Fred Rice and Torchmark.
+</TABLE> 
+
+                              Page 6 of 8 Pages
+<PAGE>
+ 
+                                   SIGNATURE
+
+      After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+Date:   February 22, 1994.
+
+                                               TORCHMARK CORPORATION
+
+
+
+                                               By:  /s/ Carol McCoy
+                                                   -----------------------------
+                                                   Carol McCoy
+                                                   Associate Counsel and
+                                                   Assistant Secretary
+
+                              Page 7 of 8 Pages
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>2
+<DESCRIPTION>AMENDMENT TO STOCK PURCHASE AGREEMENT
+<TEXT>
+
+<PAGE>
+ 
+                                                                       EXHIBIT 2
+
+                     AMENDMENT TO STOCK PURCHASE AGREEMENT
+
+
+     The undersigned hereby agree to amend that certain Stock Purchase Agreement
+(the "Agreement"), dated January 15, 1994, among I.C.H. Corporation, a Delaware
+corporation (the "Company"), Consolidated National Corporation, a Kentucky
+Corporation ("CNC"), Consolidated Fidelity Life Insurance Company, a Kentucky
+life insurance corporation ("CFLIC"), Robert T. Shaw, C. Fred Rice and Torchmark
+Corporation, a Delaware corporation, as follows:
+
+     As used in the Agreement, CNC Shares means 4,517,666 shares of the
+     Company's common stock, par value $1.00 (the "Common Stock"), and CFLIC
+     Shares means 159,577 shares of the Company's Common Stock.
+
+     All other terms of the Agreement shall remain in full force and effect.
+
+     This Amendment may be executed in two or more counterparts, all of which
+together shall be considered one and the same agreement and each of which shall
+be deemed an original.
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+duly executed as of the ___ day of February, 1994.
+
+
+
+                                
+- ---------------------------------        CONSOLIDATED NATIONAL
+     ROBERT T. SHAW                      CORPORATION          
+                               
+                               
+                                         By:
+- ---------------------------------            ---------------------------------
+     C. FRED RICE                        Name: 
+                                               -------------------------------
+                                         Title: 
+                                                ------------------------------
+
+
+TORCHMARK CORPORATION                    CONSOLIDATED FIDELITY LIFE
+                                         INSURANCE COMPANY
+
+
+
+By:                                      By:                                   
+    ---------------------------------        --------------------------------- 
+Name:                                    Name:                                 
+      ---------------------------------        ------------------------------- 
+Title:                                   Title:                                
+       ---------------------------------        ------------------------------ 
+
+
+                                         I.C.H. CORPORATION
+
+
+
+                                         By:                                  
+                                             ---------------------------------
+                                         Name:                                
+                                               -------------------------------
+                                         Title:                               
+                                                ------------------------------ 
+
+                              Page 8 of 8 Pages
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

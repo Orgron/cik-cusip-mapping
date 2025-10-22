@@ -1,0 +1,384 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ NQX4LHQ1i9vDm/QjiIg+AKXgeC6cMYc2KkX8GyjayXuZ3atg35bQugVQjiDDqoxC
+ N2f8Fed2nFSEwQLZiRKpyw==
+
+<IMS-DOCUMENT>0000025445-94-000008.txt : 19940215
+<IMS-HEADER>0000025445-94-000008.hdr.sgml : 19940215
+ACCESSION NUMBER:		0000025445-94-000008
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRANE CO /DE/
+		CENTRAL INDEX KEY:			0000025445
+		STANDARD INDUSTRIAL CLASSIFICATION:	3490
+		IRS NUMBER:				131952290
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-10241
+		FILM NUMBER:		94507676
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 FIRST STAMFORD PLACE
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		2033637300
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRANE CO /DE/
+		CENTRAL INDEX KEY:			0000025445
+		STANDARD INDUSTRIAL CLASSIFICATION:	3490
+		IRS NUMBER:				131952290
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 FIRST STAMFORD PLACE
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		2033637300
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT 3
+<TEXT>
+
+<PAGE>
+<PAGE>
+
+                          United States
+               Securities and Exchange Commission
+                      Washington, DC. 20549
+
+                          Schedule 13D
+            Under the Securities Exchange Act of 1934
+                      (Amendment No. 3)   
+
+
+
+
+
+
+
+
+
+                    Mark Controls Corporation
+                        (Name of Issuer)
+
+                          Common Stock
+                 (Title of Class of Securities)
+     
+                           57038N-10-5
+                         (CUSIP Number)
+
+              Crane Co., 100 First Stamford Place, 
+                      Stamford, CT 06902, 
+       Attention:  Paul R. Hundt, Secretary (203 363-7220)
+ (Name, Address and Telephone Number of Person Authorized to    
+              Receive Notices and Communications) 
+
+                        February 11, 1994
+     (Date of Event which Requires Filing of this Statement)
+
+
+
+
+
+
+
+
+
+
+
+    
+
+                             Page 1 of 6
+<PAGE>
+<PAGE>
+
+The Schedule 13D filed by Crane Co. on January 3, 1994 with
+respect to Mark Controls Corporation is hereby amended as
+follows:
+
+Item 4.  Purpose of Transaction
+
+On February 11, 1994, Crane Co. entered into a confidentiality
+agreement with the Issuer.  Under the agreement, a copy of which
+is attached as an exhibit and to which the following description
+is subject, Crane may not (i) disclose confidential information
+which the Issuer may furnish in connection with Crane's
+evaluation of a possible transaction with the Issuer or (ii)
+commence any tender offer for the Common Stock of the Issuer
+earlier than 15 days after delivery of a signed copy of the
+agreement to the Issuer.  The agreement does not obligate Crane
+to make any offer with respect to the Issuer, or either party to
+enter into any transaction with the other.  The fact that Crane
+may receive confidential information concerning the Issuer
+should not be taken as an indication that Crane will increase
+the price of its proposal to acquire the Issuer.
+
+Item 6.     Contracts, Arrangements, Understandings, or
+            Relationships with Respect to Securities of the 
+            Issuer.      
+
+            See Item 4 above and Exhibit 3.
+
+Item 7.     Material to be Filed as Exhibits.
+
+            Exhibit 3 -  
+            Confidentiality Agreement dated 
+            February 10, 1994, executed by
+            Crane Co. February 11, 1994.
+
+   
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this
+statement is true, complete and correct.
+
+Date:   February 14, 1994
+
+                             /s/ Paul R. Hundt
+                             Vice President
+                                                                 
+
+
+
+
+
+
+                           Page 2 of 6
+<PAGE>
+<PAGE>
+
+                    MARK CONTROLS CORPORATION
+                      5215 Old Orchard Road
+                        Skokie, IL 60077
+
+
+                                   February 10, 1994
+
+Crane Co.
+100 First Stamford Place
+4th Floor
+Stamford, CT 06902
+
+Attention:  Mr. Robert S. Evans
+
+Gentlemen:     
+
+In connection with your consideration of a possible transaction
+with Mark Controls Corporation (the "Company"), you have
+indicated you may request information concerning the Company.  
+You agree to treat any information concerning the Company
+(whether prepared by the Company, its advisors or otherwise)
+which is furnished to you by or on behalf of the Company (herein
+collectively referred to as the "Evaluation Material") in such
+connection in accordance with the provisions of this letter and
+to take or abstain from taking certain other actions herein set
+forth.  The term "Evaluation Material" does not include
+information which (i) is already in your possession, provided
+that such information is not known by you to be subject to
+another confidentiality agreement with, or any obligation of
+secrecy to, the Company or another party, or (ii) becomes
+generally available to the public other than as a result of a
+disclosure by you or your directors, officers, employees, agents
+or advisors or (iii) becomes available to you on a non-
+confidential basis from a source other than the Company or its
+advisors, provided that such source to your best knowledge is
+not bound by a confidentiality agreement with, or any other
+obligation of secrecy to, the Company or another party.
+
+You hereby agree that the Evaluation Material will be used
+solely for the purposes of evaluating a possible transaction
+between the Company and you, and that such information will be
+kept confidential by you and your advisors; provided, however,
+that any disclosure of such information may be made (i) to your
+directors, officers, employees and representatives of your
+advisors and financing sources who need to know such information
+for the purpose of evaluating any such possible transaction
+between the Company and you (it being understood that such
+directors, officers, employees and representatives shall be 
+informed by you of the confidential nature of such information
+
+                           page 3 of 6<PAGE>
+<PAGE>
+
+and shall be directed by you to treat such information
+confidentially), (ii) to which the Company consents in writing,
+(iii) in connection with an all-cash tender officer in
+accordance with Regulation 14D of the Securities Exchange Act of
+1934, as amended (the "Exchange Act"), and the rules promulgated
+thereunder, for all the outstanding shares of the Common Stock
+of the Company at a price of not less than $13.00 per share
+which you commence any time after 15 days from the date hereof
+or in connection with any solicitation of proxies or consents
+with respect to the Company's securities made by you or in which
+you participate, (iv) in connection with the negotiated private
+sale of Common Stock of the Company by you to a third party, who
+prior to any such disclosure, enters into a written agreement
+with the Company to be bound by the terms hereof, and (v) in
+connection with the consummation of a tender offer for the
+Common Stock of the Company or other change of control
+transaction by an unaffiliated third party, the sale of Common
+Stock of the Company by you to such party.  You agree not to
+commence any tender offer for the Company's common stock earlier
+than 15 days after your delivery of a signed copy of this letter
+to the Company.  You agree that in connection with any purchase
+or sale of the Company's securities in connection with which you
+are permitted to disclose Evaluation material, you will make
+such disclosures as shall be required by applicable law and that
+you will not engage in any transaction for which disclosure of
+the Evaluation Material is not permitted by this letter if doing
+so in the absence of such disclosure would violate applicable
+law.   
+
+You acknowledge that neither the Company nor any of its
+representatives or advisors shall be deemed to have made any
+representation or warranty as to the accuracy of completeness of
+any Evaluation Material which may be supplied to you.  You agree
+that neither the Company nor its representatives or advisors
+shall have any liability to you or any of your representatives
+or advisors shall have any liability to you or any of your
+representatives or advisors resulting from the use of the
+Evaluation Material. The execution by the Company of this
+Agreement does not constitute an acknowledgment by the Company
+that $13 per share would be an adequate price for the
+acquisition of its common stock.
+
+In the event that you do not proceed with the transaction which
+is the subject of this Agreement within six months from the date
+hereof, you shall promptly redeliver to the Company all
+Evaluation Material and will not retain any copies, extracts or
+other reproductions in whole or in part of the Evaluation
+Material including but not limited to any Evaluation Material
+stored on any electronic or other media.  All documents,
+memoranda, notes and other writings whatsoever including but not
+limited to any of the foregoing stored on any electronic or
+                          page 4 of 6  <PAGE>
+<PAGE>
+
+other media, prepared by you or your advisors containing
+information in the Evaluation Material shall be destroyed and
+such destruction shall be certified in writing to the Company by
+an authorized officer supervising such destruction.    
+
+You and the Company agree that unless and until a definitive
+agreement between the Company and you with respect to any
+transaction referred to in the first paragraph of this letter
+has been executed and delivered, neither the Company nor you
+will be under any legal obligation of any kind whatsoever with
+respect to such transaction by virtue of this or any written or
+oral expression with respect to such a transaction by any of its
+directors, officers, employees, agents or any other
+representatives or its advisors or representatives thereof,
+except, in the case of this Agreement, for the matters
+specifically agreed to herein.  The agreement set forth in this
+paragraph may be modified or waived only by a separate writing
+by the Company and you expressly so modifying or waiving such
+Agreement. 
+
+You and the Company agree that money damages would not be a
+sufficient remedy for any breach of this Agreement by either
+party or either party's directors, officers, employees, agents
+or representatives (including attorneys, accountants and
+financial advisors) and that in addition to all other remedies
+the non-breaching party shall be entitled to specific
+performance and injunctive or other equitable relief as a remedy
+for any such breach.
+
+You and the Company agree that any legal proceeding arising out
+of or relating to this Agreement, any transaction contemplated
+hereby, the Company's response thereto or any related matter
+(including without limitation any tender offer or claim under
+Section 13 of the Exchange Act) shall be prosecuted in, and each
+party hereby submits to the jurisdiction of, Delaware Chancery
+Court (unless such proceeding involves any federal claims
+(including without limitation any claims related to any tender
+offer or Section 13 of the Exchange Act), in which case, at the
+option of either party, such proceeding will be prosecuted in
+the United States District Court for the District of Delaware). 
+Each party irrevocably waives, to the fullest extent permitted
+by such applicable law any objection that it may now or
+hereafter have to the laying of venue of any such proceeding
+brought in such court and any claim that any such proceeding
+brought in such court has been brought in an in convenient
+forum.
+
+For the purposes of this Agreement, the term "you" and "your"
+shall include all your subsidiaries or affiliates and the term
+the "Company" shall include its subsidiaries.
+
+                           page 5 of 6<PAGE>
+<PAGE>
+
+This Agreement shall be governed by, and construed in accordance
+with, the laws of the State of Delaware.
+
+                                   Very truly yours,
+
+                                   MARK CONTROLS CORPORATION
+
+
+                                   By:  Tanner & Co., Inc.
+                                        on behalf of Mark        
+                                        Controls Corporation
+
+                                  /s/ Dan Motulsky
+                             By:                           
+                                  Dan T. Motulsky
+                                  Principal
+
+
+Confirmed and Agreed to:
+
+CRANE CO.
+    /s/ R. S. Evans
+By:                         
+       CEO
+Title:                      
+       2/11/94
+Date:                       
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           page 6 of 6
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

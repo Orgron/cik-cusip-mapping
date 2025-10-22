@@ -1,0 +1,204 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ ncZ3sGkK2Li7CmR4jSxDH72UnGdE2eJmAKPIuX2hgxQTjcrzrwRcOMYdNckbdpKb
+ lq/aOIjpcrSgsT9EGSedig==
+
+<IMS-DOCUMENT>0000950123-94-000385.txt : 19940218
+<IMS-HEADER>0000950123-94-000385.hdr.sgml : 19940218
+ACCESSION NUMBER:		0000950123-94-000385
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940217
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TESORO PETROLEUM CORP /NEW/
+		CENTRAL INDEX KEY:			0000050104
+		STANDARD INDUSTRIAL CLASSIFICATION:	2911
+		IRS NUMBER:				950862768
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-32167
+		FILM NUMBER:		94510390
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8700 TESORO DR
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78217
+		BUSINESS PHONE:		2108288484
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			METROPOLITAN LIFE INSURANCE CO/NY
+		CENTRAL INDEX KEY:			0000728618
+		STANDARD INDUSTRIAL CLASSIFICATION:	6411
+		IRS NUMBER:				135581829
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		2125785914
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT NO. 23 TO SC 13D, METLIFE/TESORO
+<TEXT>
+
+<PAGE>   1
+
+
+                                       
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+                                       
+                                 Schedule 13D
+                                       
+                   Under the Securities Exchange Act of 1934
+                              (Amendment No. 23)*
+                                       
+                         Tesoro Petroleum Corporation
+    ----------------------------------------------------------------------
+                               (Name of Issuer)
+                                       
+                  Common Stock, par value $.16-2/3 per share
+    ----------------------------------------------------------------------
+                        (Title of Class of Securities)
+                                       
+                                   88160910
+                        -------------------------------
+                                (CUSIP Number)
+                                       
+           John C. Kelsh, Esq., Metropolitan Life Insurance Company
+             One Madison Avenue, New York, NY 10010 (212-578-3437)
+    ----------------------------------------------------------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+                                       
+                               February 16, 1994
+            -------------------------------------------------------
+            (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box / /.
+
+Check the following box if a fee is being paid with the statement / /.  (A fee
+is not required only if the reporting person:  (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+                               Page 1 of 3 Pages
+<PAGE>   2
+
+         This Amendment No. 23 supplements and amends the Statement on Schedule
+13D (the "Statement on Schedule 13D") filed with the Securities and Exchange
+Commission on February 27, 1985, as it has been amended from time to time
+thereafter, by Metropolitan Life Insurance Company ("Metropolitan") with
+respect to the shares of common stock, par value $.16-2/3 per share (the
+"Common Stock"), issued by Tesoro Petroleum Corporation (the "Issuer"), a
+Delaware corporation.  Capitalized terms used herein without a definition have
+the meanings ascribed to them in the Statement on Schedule 13D.
+
+Item 4.  Purpose of Transaction.
+Item 6.  Contracts, Arrangements, Understandings or
+         Relationships With Respect to Securities of the Issuer.
+
+         As previously disclosed, MetLife-Louisiana continues to give
+consideration to the disposition of all or a portion of its holdings of the
+Issuer's $2.20 Cumulative Convertible Preferred Stock ("Preferred Stock")
+and/or Common Stock, with the objective of realizing on its investment in the
+Issuer.  MetLife-Louisiana is currently the owner of 100% of the issued and
+outstanding shares of the Preferred Stock (2,875,000 shares) and approximately
+18% of the Common Stock (4,084,160 shares).  In separate meetings on February
+14, 1994 and February 15, 1994, representatives of Metropolitan met on a
+preliminary basis with two separate persons who expressed interest in
+purchasing all or a portion of MetLife-Louisiana's holdings of the Issuer's
+Preferred Stock and Common Stock.  No agreement was reached at either of such
+meetings with respect to any such sale, but it is anticipated that further
+discussions with such persons, and perhaps with others, will take place.  There
+can be no assurance, however, that any such further discussions or any such
+sale will occur.
+
+
+
+
+
+                                  Page 2 of 3
+<PAGE>   3
+
+                                   SIGNATURE
+
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+<TABLE>
+<S>                                                <C>
+                                                   METROPOLITAN LIFE INSURANCE COMPANY
+                                                   and on behalf of MetLife Security
+                                                   Insurance Company of Louisiana
+                                                   (formerly known as Charter Security
+                                                   Life Insurance Company (Louisiana))
+
+
+                                                   By:/s/ John C. Kelsh               
+                                                      --------------------------------
+                                                       John C. Kelsh
+                                                       Vice President and
+                                                       Investment Counsel
+
+
+
+February 17, 1994
+</TABLE>
+
+
+
+
+
+                                  Page 3 of 3
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

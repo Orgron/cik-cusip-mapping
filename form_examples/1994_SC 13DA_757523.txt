@@ -1,0 +1,385 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G+yi7ls/iAejaazgXxScjYi5hpwfH2sp+E7HIAo+YfW1Ft0Ru6Bj6YiWMPqhHKTY
+ LhGM7eIyztx1tVq4zuKkbA==
+
+<SEC-DOCUMENT>0000950116-94-000002.txt : 20030213
+<SEC-HEADER>0000950116-94-000002.hdr.sgml : 20030213
+<ACCEPTANCE-DATETIME>19940111121321
+ACCESSION NUMBER:		0000950116-94-000002
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940111
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARA GROUP INC
+		CENTRAL INDEX KEY:			0000757523
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				232319139
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-42118
+		FILM NUMBER:		94500972
+
+	BUSINESS ADDRESS:	
+		STREET 1:		THE ARA TOWER
+		STREET 2:		1101 MARKET ST
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19107
+		BUSINESS PHONE:		2152383000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARA GROUP INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARA HOLDING CO
+		DATE OF NAME CHANGE:	19880515
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEUBAUER JOSEPH
+		CENTRAL INDEX KEY:			0000905129
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		THE ARA GROUP INC
+		STREET 2:		1101 MARKET STREET
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19107
+		BUSINESS PHONE:		2152383000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+                                    UNITED STATES
+                         SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D.C. 20549
+
+                                    SCHEDULE 13D
+
+                      Under the Securities Exchange Act of 1934
+                                (Amendment No.  2  )*
+
+                                The ARA Group, Inc.
+                                  (Name of Issuer)
+
+                   Common Stock, Class B, $.01 Par Value Per Share
+                           (Title of Class of Securities)
+
+                                        None
+                                   (CUSIP Number)
+
+                         Martin W. Spector, General Counsel
+           The ARA Group, Inc., 1101 Market Street, Philadelphia, PA 19107
+                                   (215) 238-3581
+             (Name, Address and Telephone Number of Person Authorized to
+                         Receive Notices and Communications)
+
+                                  December 23, 1993
+               (Date of Event which Requires Filing of this Statement)
+
+          If the filing person has previously filed a statement on Schedule
+          13G  to  report  the  acquisition  which  is  the subject of this
+          Schedule 13D, and is filing this schedule because  of  Rule  13d-
+          1(b)(3) or (4), check the following box |_|.
+
+          Check the following box if a fee is being paid with the statement
+          |_|.   (A  fee  is not required only if the reporting person: (1)
+          has a previous statement  on  file reporting beneficial ownership
+          of more than five percent of the class of securities described in
+          Item  1;  and  (2)  has  filed  no amendment  subsequent  thereto
+          reporting beneficial ownership of  five  percent  or less of such
+          class.) (See Rule 13d-7.)
+
+          Note:   Six  copies  of  this statement, including all  exhibits,
+          should be filed with the Commission.  See Rule 13d-1(a) for other
+          parties to whom copies are to be sent.
+
+          *The remainder of this cover  page  shall  be  filled  out  for a
+          reporting  person's  initial  filing on this form with respect to
+          the subject class of securities, and for any subsequent amendment
+          containing information which would  alter disclosures provided in
+          a prior cover page.
+
+          The  information required on the remainder  of  this  cover  page
+          shall  not  be deemed to be "filed" for the purpose of Section 18
+          of the Securities  Exchange  Act  of  1934  ("Act")  or otherwise
+          subject to the liabilities of that section of the Act  but  shall
+          be  subject  to all other provisions of the Act (however, see the
+          Notes).
+
+          SEC 1746 (9-88)  Page 1 of 5
+<PAGE>
+                                    SCHEDULE 13D
+
+          CUSIP No.     None                       Page  2   of   5   Pages
+                   --------------                      -----    -----
+
+          1.   NAME OF REPORTING PERSON
+               S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+               Joseph Neubauer
+               Social Security Number:  ###-##-####
+          -------------------------------------------------------------------
+          2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a) | |
+                                                                    (b) |X|
+          -------------------------------------------------------------------
+          3.   SEC USE ONLY
+
+          -------------------------------------------------------------------
+          4.   SOURCE OF FUNDS*
+
+               BK, SC
+          -------------------------------------------------------------------
+          5.   CHECK BOX  IF  DISCLOSURE  OF  LEGAL  PROCEEDING IS REQUIRED
+               PURSUANT TO ITEMS 2(d) or 2(E)                           | |
+
+          -------------------------------------------------------------------
+          6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+               U. S. A.
+          -------------------------------------------------------------------
+                              7.   SOLE VOTING POWER
+           NUMBER OF
+             SHARES                4,862,532
+          BENEFICIALLY        -----------------------------------------------
+            OWNED BY          8.   SHARED VOTING POWER
+              EACH
+            REPORTING              72,780
+             PERSON           -----------------------------------------------
+              WITH            9.   SOLE DISPOSITIVE POWER
+              
+                                   4,862,532
+                              -----------------------------------------------
+                              10.  SHARED DISPOSITIVE POWER
+
+                                   72,780
+          -------------------------------------------------------------------
+          11.  AGGREGATE  AMOUNT  BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+               4,935,312
+          -------------------------------------------------------------------
+          12.  CHECK  BOX IF THE AGGREGATE  AMOUNT  IN  ROW  (11)  EXCLUDES
+               CERTAIN SHARES*                                          | |
+
+          -------------------------------------------------------------------
+          13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+               20%
+          -------------------------------------------------------------------
+          14.  TYPE OF REPORTING PERSON*
+
+               IN
+          -------------------------------------------------------------------
+                        *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+                                    SCHEDULE 13D
+
+          Item 1.   Security and Issuer.
+
+               This statement  relates  to  the Common Stock, Class B, $.01
+          par value per share ("Common Stock"),  of  The  ARA  Group,  Inc.
+          ("ARA"),  The  ARA  Tower,  1101  Market Street, Philadelphia, PA
+          19107.
+
+          Item 2.   Identity and Background.
+
+               A.   The person filing this statement is Joseph Neubauer.
+
+               B.   Mr. Neubauer's business address  is  c/o The ARA Group,
+          Inc., The ARA Tower, 1101 Market Street, Philadelphia, PA  19107.
+
+               C.   Mr. Neubauer is Chairman, President and Chief Executive
+          Officer  of  The  ARA  Group,  Inc.,  The ARA Tower, 1101  Market
+          Street, Philadelphia, PA   19107.
+
+               D.   During the last five years, Mr.  Neubauer  has not been
+          convicted in a criminal proceeding (excluding traffic  violations
+          and similar misdemeanors).
+
+               E.   During the last five years, Mr. Neubauer has not been a
+          party to a civil proceeding of a judicial or administrative  body
+          of   competent  jurisdiction  that  resulted  in  subjecting  Mr.
+          Neubauer  to  a judgement, decree or final order enjoining future
+          violations of, or prohibiting or mandating activities subject to,
+          federal or state  securities  laws  or finding any violation with
+          respect to such laws.
+
+               F.   Mr.  Neubauer  is a citizen of  the  United  States  of
+          America.
+
+          Item 3.   Source and Amount of Funds or Other Consideration.
+
+               In order to exercise  stock  options  and  installment stock
+          purchase opportunities to acquire an aggregate of  78,068  shares
+          in  April,  1993 and December, 1993, for an aggregate of $387,186
+          including  $171,930   to  pay  required  withholding  taxes,  Mr.
+          Neubauer used $274,400 of funds borrowed from a bank and $131,807
+          of  funds provided by ARA  pursuant  to  ARA's  Deferred  Payment
+          Program.
+
+          Item 4.   Purpose of Transaction.
+
+               The  purpose  of  the  transaction  was to acquire shares of
+          Common  Stock  by  exercising installment purchase  opportunities
+          before they expired  on  January 15, 1994 and by exercising stock
+          options in 1993.  The exercise  price  of  such stock options and
+          installment  stock  purchase  opportunities  was  less  than  the
+          current appraised value of the Common Stock.
+
+                                  Page 3 of 5 pages
+<PAGE>
+          Item 5.   Interest in Securities of the Issuer.
+
+               A.   The   aggregate  number  of  shares  of  Common   Stock
+          beneficially owned  by  Mr.  Neubauer  as of December 31, 1993 is
+          4,935,312 shares (including 26,756 shares  which Mr. Neubauer has
+          or  within  the next sixty days will have the  current  right  to
+          acquire from ARA pursuant to the exercise of outstanding employee
+          stock options).   The  percentage  of  the  class of Common Stock
+          owned by Mr. Neubauer is approximately 20%.
+
+               Mr.  Neubauer  is  a  participant  in  the  ARA  Stock  Unit
+          Retirement  Plan.   Mr.  Neubauer had been an active  participant
+          until September 30, 1989 in  the  ARA  Services,  Inc. Retirement
+          Savings Plan for Salaried Employees.  He still has  an account in
+          such  Plan  and is a beneficiary of the Plan's Trust which  holds
+          shares of ARA  Common  Stock Class A.  However, he currently does
+          not make contributions to  the  Plan,  and ARA currently does not
+          make contributions on his behalf.
+
+               This statement shall not be deemed  an  admission  that  Mr.
+          Neubauer  is,  for  purposes  of  Section 13(d) or otherwise, the
+          beneficial owner of any of the equity  securities covered by this
+          statement.
+
+               B.   Mr. Neubauer has sole power to  vote  and sole power to
+          dispose or direct the disposition of 4,862,532 shares  (including
+          26,756  shares  which  Mr. Neubauer has or within the next  sixty
+          days will have the current  right to acquire from ARA pursuant to
+          the  exercise  of  outstanding  employee   stock  options).   Mr.
+          Neubauer shares voting and investment powers  as to 72,780 shares
+          with two co-trustees of The Neubauer Family Foundation.   The two
+          co-trustees are Mr. Neubauer's son, Lawrence A. Neubauer, and Mr.
+          Neubauer's daughter, Melissa R. Neubauer.  Their address is:  c/o
+          Joseph  Neubauer,  The ARA Tower, 1101 Market Street, Suite 3100,
+          Philadelphia,  PA  19107.   They  both  are  presently  students.
+          During the last  five  years,  neither  has  been  convicted in a
+          criminal  proceeding  (excluding  traffic violations and  similar
+          misdemeanors).  During the past five  years,  neither  has been a
+          party to a civil proceeding of a judicial or administrative  body
+          of  competent  jurisdiction that resulted in subjecting either of
+          them to a judgement,  decree  or  final  order  enjoining  future
+          violations of, or prohibiting or mandating activities subject to,
+          federal  or  state  securities laws or finding any violation with
+          respect to such laws.   Both are citizens of the United States of
+          America.
+
+               C.   Mr. Neubauer acquired  from  ARA  on  December 20, 1993
+          26,752 shares of Common Stock at an exercise price  per  share of
+          $1.91  (plus  $3.53  per  share  in required withholding); 16,048
+          shares of Common Stock at an exercise  price  per  share of $7.47
+          (plus $1.42 per share in required withholding); and 10,272 shares
+          of  Common  Stock  at an exercise price per share of $5.25  (plus
+          $2.19 per share in required  withholding);  all  pursuant  to the
+          exercise  of  outstanding  stock  options  and  installment stock
+          purchase opportunities.
+
+               Mr.  Neubauer transferred 30,000 shares to Tufts  University
+          on December  22, 1993 as a gift.  Mr. Neubauer transferred 72,780
+          shares to The  Neubauer Family Foundation, a 501(c)(3) charitable
+          organization, on  December  23, 1993, as a gift.  Mr. Neubauer is
+          one of the trustees of the trust and shares voting and investment
+          power for the shares.
+
+                                Page 4 of 5 Pages
+<PAGE>
+               Mr. Neubauer no longer reports  other  shares  held in trust
+          for  his  adult  children,  as  to  which shares he continues  to
+          disclaim beneficial ownership.
+
+               D.   Under certain circumstances,  a  person  other than Mr.
+          Neubauer has the right to receive the proceeds from  the  sale of
+          certain of the shares of Common Stock reported on this statement.
+          Such interest relates to shares representing less than 1% of  the
+          outstanding Common stock.
+
+               No other person is known to have the right to receive or the
+          power  to  direct receipt of dividends from, or the proceeds from
+          the sale of the Common Stock.
+
+               E.    Not applicable.
+
+          Item 6.   Contract  Arrangements, Understandings or Relationships
+                    With Respect to the Securities of the Issuer.
+
+               In connection with  Mr.  Neubauer's participation in the ARA
+          Deferred Payment Program, Mr. Neubauer has pledged 662,372 shares
+          of  Common  Stock  to  ARA.  In connection  with  Mr.  Neubauer's
+          borrowings from the bank  referred  to  in the response to Item 3
+          and  previous  borrowings (which were disclosed  with  prior  13D
+          filings), Mr. Neubauer has pledged 971,800 shares of Common Stock
+          to one bank and  734,416  shares of Common Stock to another bank.
+          In connection with other borrowings,  Mr.  Neubauer  has  pledged
+          205,740 shares to another financial institution.
+
+          Item 7.   Material to be filed as Exhibits.
+
+               The   description   of  the  ARA  Deferred  Payment  Program
+          contained in the ARA Ownership Program Prospectuses dated  May 5,
+          1993  and  November  22,  1993  (File  Nos.  33-44002,  33-30879,
+          33-33329  and  33-11818) is incorporated  herein   by  reference.
+          The  promissory  notes   and  loan  agreements  relating  to  Mr. 
+          Neubauer's  borrowings   from  the  banks   referred  to  in  the
+          response to Items 3 and 6 are confidential and have been  omitted
+          herefrom and have been previously filed separately with the
+          Commission.
+
+                                      SIGNATURE
+
+               After reasonable inquiry and to the best of my knowledge and
+          belief, I certify that the information in this statement is true,
+          complete and correct.
+
+
+
+          Date: December 30, 1993            Joseph Neubauer
+                                             ---------------------------
+                                             Joseph Neubauer
+
+
+
+                                  Page 5 of 5 Pages
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
