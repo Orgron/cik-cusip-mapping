@@ -14,9 +14,71 @@ from typing import Deque, Iterable, Iterator, Protocol, Sequence
 
 from .progress import resolve_tqdm
 
-CUSIP_PATTERN = re.compile(r"[0-9A-Z](?:[- ]?[0-9A-Z]){8,10}")
+
+def _collect_tokens_near_cusip(segment: str) -> list[str]:
+    """Return candidate tokens located near explicit ``CUSIP`` markers."""
+
+    tokens: list[str] = []
+    cleaned_lines = [
+        TAG_PATTERN.sub(" ", html.unescape(line)) for line in segment.splitlines()
+    ]
+    for index, line in enumerate(cleaned_lines):
+        upper_line = line.upper()
+        if "CUSIP" not in upper_line:
+            continue
+        if "NONE" in upper_line or "NOT APPLICABLE" in upper_line:
+            tokens.append("NONE")
+            continue
+        current_tokens = _extract_matches(line)
+        if current_tokens:
+            tokens.extend(current_tokens)
+            continue
+        block: list[str] = []
+        for prev_index in range(index - 1, max(-1, index - 20), -1):
+            candidate = cleaned_lines[prev_index]
+            upper_candidate = candidate.upper()
+            if any(keyword in upper_candidate for keyword in SKIP_CONTEXT_KEYWORDS):
+                continue
+            if "NONE" in upper_candidate:
+                block.insert(0, "NONE")
+                continue
+            prev_tokens = _extract_matches(candidate)
+            if prev_tokens:
+                block = prev_tokens + block
+            elif block and candidate.strip():
+                break
+        if block:
+            tokens.extend(block)
+            continue
+        following: list[str] = []
+        for next_index in range(index + 1, min(len(cleaned_lines), index + 20)):
+            candidate = cleaned_lines[next_index]
+            upper_candidate = candidate.upper()
+            if any(keyword in upper_candidate for keyword in SKIP_CONTEXT_KEYWORDS):
+                continue
+            if "NONE" in upper_candidate:
+                following.append("NONE")
+                continue
+            next_tokens = _extract_matches(candidate)
+            if next_tokens:
+                following.extend(next_tokens)
+            elif following and candidate.strip():
+                break
+        if following:
+            tokens.extend(following)
+    if tokens:
+        numeric_tokens = [token for token in tokens if token != "NONE"]
+        if numeric_tokens:
+            return numeric_tokens
+        return ["NONE"]
+    if not tokens:
+        tokens.extend(_extract_matches(" ".join(cleaned_lines)))
+    return tokens
+
+CUSIP_PATTERN = re.compile(r"[0-9A-Z](?:[- ]?[0-9A-Z]){7,11}")
 TAG_PATTERN = re.compile(r"<[^>]+>")
 ARCHIVES_URL = "https://www.sec.gov/Archives/"
+SKIP_CONTEXT_KEYWORDS = ("TITLE", "FILENAME", "CIK", "DOC", "HTM")
 
 
 @dataclass
@@ -53,10 +115,11 @@ def _extract_cik(lines: Sequence[str]) -> str | None:
 
 
 def _normalize_cusip(value: str) -> str | None:
-    """Normalize a candidate CUSIP string to an uppercase 9-character token."""
+    """Normalize a candidate CUSIP string to an uppercase token."""
 
     cleaned = "".join(ch for ch in value.upper() if ch.isalnum())
-    if len(cleaned) == 9 and any(ch.isdigit() for ch in cleaned):
+    digit_count = sum(ch.isdigit() for ch in cleaned)
+    if 8 <= len(cleaned) <= 10 and digit_count >= 5:
         return cleaned
     return None
 
@@ -74,19 +137,25 @@ def _extract_matches(text: str) -> list[str]:
             context = upper[max(0, start - 16) : end + 16]
             if "IRS NUMBER" in context or "I.R.S" in context:
                 continue
+            if ".DOC" in context or ".HTM" in context:
+                continue
+            if "P.O. BOX" in context or "PO BOX" in context or "P O BOX" in context:
+                continue
             matches.append(normalized)
     return matches
 
 
 def _extract_cusip(
-    lines: Sequence[str], *, debug: bool = False
+    lines: Sequence[str], *, debug: bool = False, exclude: set[str] | None = None
 ) -> tuple[str | None, str | None]:
     """Locate the best CUSIP match in the filing and describe the method used."""
 
     record = False
     matches: list[tuple[str, str]] = []
     candidate_segments: list[str] = []
+    segment_matches: list[tuple[list[str], str]] = []
     document_segments: list[str] = []
+    exclude_tokens: set[str] = set(exclude) if exclude else set()
     for index, raw_line in enumerate(lines):
         if "<DOCUMENT>" in raw_line:
             record = True
@@ -94,14 +163,71 @@ def _extract_cusip(
             continue
         document_segments.append(raw_line)
         upper_line = raw_line.upper()
+        if "CIK" in upper_line:
+            exclude_tokens.update(_extract_matches(raw_line))
         if "CUSIP" in upper_line:
-            window = lines[index : index + 10]
+            window = lines[max(0, index - 15) : index + 10]
             candidate_segments.append("\n".join(window))
     for segment in candidate_segments:
-        for normalized in _extract_matches(segment):
+        tokens = _collect_tokens_near_cusip(segment)
+        if tokens:
+            segment_matches.append((tokens, segment.upper()))
+        for normalized in tokens:
             matches.append((normalized, "window"))
             if debug:
                 print("INFO: candidate match", normalized, "from", segment.strip())
+    if candidate_segments and not segment_matches:
+        return "NONE", "window"
+    if segment_matches:
+        singleton_candidates: list[str] = []
+        saw_none_only = False
+        first_seen: dict[str, int] = {}
+        for index, (tokens, upper_segment) in enumerate(segment_matches):
+            ordered: list[str] = []
+            seen: set[str] = set()
+            for token in tokens:
+                if token in exclude_tokens:
+                    continue
+                if token not in first_seen:
+                    first_seen[token] = index
+                if token not in seen:
+                    ordered.append(token)
+                    seen.add(token)
+            if not ordered:
+                continue
+            if ordered == ["NONE"]:
+                saw_none_only = True
+                continue
+            if len(ordered) > 1:
+                bases = {token[:6] for token in ordered if len(token) >= 6}
+                cusip_mentions = upper_segment.count("CUSIP")
+                if len(bases) == 1 or cusip_mentions >= len(ordered):
+                    return ";".join(ordered), "window"
+                singleton_candidates.extend(ordered)
+                continue
+            singleton_candidates.extend(ordered)
+        if singleton_candidates:
+            counts = Counter(singleton_candidates)
+            unique_candidates = list(counts)
+
+            def score(token: str) -> tuple[int, int, int, int, int]:
+                has_letter = int(any(ch.isalpha() for ch in token))
+                digit_count = sum(ch.isdigit() for ch in token)
+                first_index = first_seen.get(token, len(segment_matches))
+                length_score = -abs(len(token) - 9)
+                return (
+                    has_letter,
+                    digit_count,
+                    -first_index,
+                    counts[token],
+                    length_score,
+                )
+
+            winner = max(unique_candidates, key=score)
+            return winner, "window"
+        if saw_none_only:
+            return "NONE", "window"
+
     if not matches and document_segments:
         combined = "\n".join(document_segments)
         for normalized in _extract_matches(combined):
@@ -110,7 +236,12 @@ def _extract_cusip(
                 print("INFO: fallback match", normalized)
     if not matches:
         return None, None
-    winner, _ = Counter(match for match, _ in matches).most_common(1)[0]
+    filtered_matches = [
+        match for match, _ in matches if not exclude_tokens or match not in exclude_tokens
+    ]
+    if not filtered_matches:
+        filtered_matches = [match for match, _ in matches]
+    winner = Counter(filtered_matches).most_common(1)[0][0]
     winner_methods = [method for match, method in matches if match == winner]
     parse_method = winner_methods[0] if winner_methods else None
     return winner, parse_method
@@ -123,7 +254,13 @@ def parse_text(
 
     lines = text.splitlines()
     cik = _extract_cik(lines)
-    cusip, parse_method = _extract_cusip(lines, debug=debug)
+    exclude: set[str] | None = None
+    if cik:
+        stripped = cik.lstrip("0")
+        exclude = {cik}
+        if stripped:
+            exclude.add(stripped)
+    cusip, parse_method = _extract_cusip(lines, debug=debug, exclude=exclude)
     if debug:
         print(cusip)
     return cik, cusip, parse_method
