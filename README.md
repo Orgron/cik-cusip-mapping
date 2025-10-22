@@ -161,7 +161,7 @@ Lightweight console commands are available once the package is installed:
 cik-cusip-run-pipeline --help
 ```
 
-Each command delegates to the corresponding library function, providing convenient access for quick experiments while keeping the core implementation import-friendly. Use `--parsing-workers`, `--parsing-max-queue`, and the new `--no-progress`/`--quiet-progress` flags to tune parsing throughput and disable progress bars in non-interactive environments. Supply `--write-final-mapping` if you want a consolidated `cik-cusip-maps.csv` alongside the per-form events outputs.
+Each command delegates to the corresponding library function, providing convenient access for quick experiments while keeping the core implementation import-friendly. Use `--parsing-workers`, `--parsing-max-queue`, and the `--no-progress`/`--quiet-progress` flags to tune parsing throughput or disable progress bars in non-interactive environments. Pass `--use-notebook` (or `--no-use-notebook`) to override the auto-detected tqdm widget when working in Jupyter. Supply `--write-final-mapping` if you want a consolidated `cik-cusip-maps.csv` alongside the per-form events outputs.
 
 ## Running the automated tests
 

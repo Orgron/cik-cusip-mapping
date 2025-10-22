@@ -69,6 +69,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         session,
         show_progress,
         progress_desc=None,
+        total_hint=None,
+        use_notebook=None,
     ):
         """Track streaming invocations and yield a dummy filing."""
 
@@ -83,6 +85,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
                 session,
                 show_progress,
                 progress_desc,
+                total_hint,
+                use_notebook,
             )
         )
         assert session is dummy_session
@@ -97,6 +101,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         max_queue=32,
         workers=2,
         show_progress=True,
+        total_hint=None,
+        use_notebook=None,
     ):
         """Capture streamed filings and emit placeholder event outputs."""
 
@@ -111,6 +117,8 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
                 max_queue,
                 workers,
                 show_progress,
+                total_hint,
+                use_notebook,
             )
         )
         Path(events_path).write_text(
@@ -176,6 +184,10 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     assert calls[1][0] == "write_index"
     assert calls[2][0] == "stream_filings"
     assert calls[3][0] == "stream_events_to_csv"
+    assert calls[2][-2] == 0
+    assert calls[2][-1] is None
+    assert calls[3][-2] == 0
+    assert calls[3][-1] is None
     assert calls[4][0] == "postprocess"
     assert calls[5][0] == "build_dynamics"
     assert output_file.exists()
@@ -221,10 +233,25 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
         session,
         show_progress,
         progress_desc=None,
+        total_hint=None,
+        use_notebook=None,
     ):
         """Capture request metadata passed to the streaming helper."""
 
-        calls.append((form, rps, name, email, index_path, session, show_progress))
+        calls.append(
+            (
+                form,
+                rps,
+                name,
+                email,
+                index_path,
+                session,
+                show_progress,
+                progress_desc,
+                total_hint,
+                use_notebook,
+            )
+        )
         assert session is dummy_session
         yield SimpleNamespace(identifier="id", content="")
 
@@ -237,6 +264,8 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
         events_path,
         *,
         show_progress=True,
+        total_hint=None,
+        use_notebook=None,
         **kwargs,
     ):
         """Consume filings generator and create placeholder event outputs."""

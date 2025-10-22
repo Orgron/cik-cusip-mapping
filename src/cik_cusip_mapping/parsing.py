@@ -12,7 +12,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from typing import Deque, Iterable, Iterator, Protocol, Sequence
 
-from tqdm.auto import tqdm
+from .progress import resolve_tqdm
 
 CUSIP_PATTERN = re.compile(r"[0-9A-Z](?:[- ]?[0-9A-Z]){8,10}")
 TAG_PATTERN = re.compile(r"<[^>]+>")
@@ -214,6 +214,8 @@ def stream_events_to_csv(
     max_queue: int = 32,
     workers: int = 2,
     show_progress: bool = True,
+    total_hint: int | None = None,
+    use_notebook: bool | None = None,
 ) -> int:
     """Stream parsed filings to an events CSV with derived CUSIP details."""
 
@@ -246,12 +248,19 @@ def stream_events_to_csv(
             ]
         )
         progress = (
-            tqdm(iterator, desc="Parsing filings", unit="filing")
+            resolve_tqdm(use_notebook)(
+                total=total_hint,
+                desc="Parsing filings",
+                unit="filing",
+                dynamic_ncols=True,
+                mininterval=0.1,
+                leave=True,
+            )
             if show_progress
-            else iterator
+            else None
         )
         try:
-            for parsed in progress:
+            for parsed in iterator:
                 cusip9 = parsed.cusip or ""
                 events_writer.writerow(
                     [
@@ -267,8 +276,10 @@ def stream_events_to_csv(
                     ]
                 )
                 count += 1
+                if progress is not None:
+                    progress.update(1)
         finally:
-            if show_progress and hasattr(progress, "close"):
+            if progress is not None:
                 progress.close()
     return count
 
@@ -338,11 +349,13 @@ def parse_directory(
                 for file_path in file_paths
             )
         progress = (
-            tqdm(
+            resolve_tqdm(None)(
                 iterator,
                 total=len(file_paths),
                 desc="Parsing directory",
                 unit="filing",
+                dynamic_ncols=True,
+                mininterval=0.1,
             )
             if show_progress
             else iterator
