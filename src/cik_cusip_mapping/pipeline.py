@@ -16,6 +16,9 @@ def run_pipeline(
     *,
     output_root: Path | str = Path("."),
     output_file: Path | str = Path("cik-cusip-maps.csv"),
+    emit_dynamics: bool = True,
+    events_output_root: Path | str = Path("."),
+    dynamics_output_file: Path | str = Path("cik-cusip-dynamics.csv"),
     requests_per_second: float = 10.0,
     sec_name: str | None = None,
     sec_email: str | None = None,
@@ -25,7 +28,7 @@ def run_pipeline(
     index_path: Path | str | None = None,
     concurrent_parsing: bool = True,
     debug: bool = False,
-) -> "pd.DataFrame":
+    ) -> tuple["pd.DataFrame", "pd.DataFrame | None"]:
     """Run the end-to-end CIK to CUSIP mapping pipeline."""
 
     base_path = Path(output_root)
@@ -53,13 +56,26 @@ def run_pipeline(
         )
 
     csv_paths: list[Path] = []
+    events_paths: list[Path] = []
     skip_streaming = skip_download or skip_parse
+    events_base_path = Path(events_output_root)
+    if not events_base_path.is_absolute():
+        events_base_path = base_path / events_base_path
+    if emit_dynamics:
+        events_base_path.mkdir(parents=True, exist_ok=True)
     for form in forms:
         csv_path = base_path / f"{form}.csv"
+        events_path = (
+            events_base_path / f"{form}_events.csv" if emit_dynamics else None
+        )
         if skip_streaming:
             if not csv_path.exists():
                 raise FileNotFoundError(
                     f"Expected CSV {csv_path} not found. Remove skip flags or generate it first."
+                )
+            if emit_dynamics and events_path is not None and not events_path.exists():
+                raise FileNotFoundError(
+                    f"Expected events CSV {events_path} not found. Remove skip flags or generate it first."
                 )
         else:
             filings = streaming.stream_filings(
@@ -74,12 +90,25 @@ def run_pipeline(
                 csv_path,
                 debug=debug,
                 concurrent=concurrent_parsing,
+                events_csv_path=events_path,
             )
         csv_paths.append(csv_path)
+        if events_path is not None:
+            events_paths.append(events_path)
 
     output_path = Path(output_file)
     if not output_path.is_absolute():
         output_path = base_path / output_path
 
-    result = postprocessing.postprocess_mappings(csv_paths, output=output_path)
-    return result
+    mapping = postprocessing.postprocess_mappings(csv_paths, output=output_path)
+
+    dynamics = None
+    if emit_dynamics:
+        dynamics_output_path = Path(dynamics_output_file)
+        if not dynamics_output_path.is_absolute():
+            dynamics_output_path = base_path / dynamics_output_path
+        dynamics = postprocessing.build_cusip_dynamics(
+            events_paths, output=dynamics_output_path
+        )
+
+    return mapping, dynamics

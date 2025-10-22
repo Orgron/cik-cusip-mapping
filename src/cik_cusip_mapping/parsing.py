@@ -23,6 +23,12 @@ class ParsedFiling:
     identifier: str
     cik: str | None
     cusip: str | None
+    form: str | None = None
+    filing_date: str | None = None
+    accession_number: str | None = None
+    url: str | None = None
+    company_name: str | None = None
+    parse_method: str | None = None
 
 
 class FilingLike(Protocol):
@@ -62,9 +68,11 @@ def _extract_matches(text: str) -> list[str]:
     return matches
 
 
-def _extract_cusip(lines: Sequence[str], *, debug: bool = False) -> str | None:
+def _extract_cusip(
+    lines: Sequence[str], *, debug: bool = False
+) -> tuple[str | None, str | None]:
     record = False
-    matches: list[str] = []
+    matches: list[tuple[str, str]] = []
     candidate_segments: list[str] = []
     document_segments: list[str] = []
     for index, raw_line in enumerate(lines):
@@ -79,34 +87,39 @@ def _extract_cusip(lines: Sequence[str], *, debug: bool = False) -> str | None:
             candidate_segments.append("\n".join(window))
     for segment in candidate_segments:
         for normalized in _extract_matches(segment):
-            matches.append(normalized)
+            matches.append((normalized, "window"))
             if debug:
                 print("INFO: candidate match", normalized, "from", segment.strip())
     if not matches and document_segments:
         combined = "\n".join(document_segments)
         for normalized in _extract_matches(combined):
-            matches.append(normalized)
+            matches.append((normalized, "fallback"))
             if debug:
                 print("INFO: fallback match", normalized)
     if not matches:
-        return None
-    return Counter(matches).most_common(1)[0][0]
+        return None, None
+    winner, _ = Counter(match for match, _ in matches).most_common(1)[0]
+    winner_methods = [method for match, method in matches if match == winner]
+    parse_method = winner_methods[0] if winner_methods else None
+    return winner, parse_method
 
 
-def parse_text(text: str, *, debug: bool = False) -> tuple[str | None, str | None]:
+def parse_text(
+    text: str, *, debug: bool = False
+) -> tuple[str | None, str | None, str | None]:
     lines = text.splitlines()
     cik = _extract_cik(lines)
-    cusip = _extract_cusip(lines, debug=debug)
+    cusip, parse_method = _extract_cusip(lines, debug=debug)
     if debug:
         print(cusip)
-    return cik, cusip
+    return cik, cusip, parse_method
 
 
 def parse_file(path: Path | str, *, debug: bool = False) -> ParsedFiling:
     path = Path(path)
     text = path.read_text(errors="ignore")
-    cik, cusip = parse_text(text, debug=debug)
-    return ParsedFiling(str(path), cik, cusip)
+    cik, cusip, parse_method = parse_text(text, debug=debug)
+    return ParsedFiling(str(path), cik, cusip, parse_method=parse_method)
 
 
 def parse_filings(
@@ -115,8 +128,18 @@ def parse_filings(
     debug: bool = False,
 ) -> Iterator[ParsedFiling]:
     for filing in filings:
-        cik, cusip = parse_text(filing.content, debug=debug)
-        yield ParsedFiling(filing.identifier, cik, cusip)
+        cik, cusip, parse_method = parse_text(filing.content, debug=debug)
+        yield ParsedFiling(
+            filing.identifier,
+            cik,
+            cusip,
+            form=getattr(filing, "form", None),
+            filing_date=getattr(filing, "date", None),
+            accession_number=getattr(filing, "accession_number", None),
+            url=getattr(filing, "url", None),
+            company_name=getattr(filing, "company_name", None),
+            parse_method=parse_method,
+        )
 
 
 def parse_filings_concurrently(
@@ -127,7 +150,9 @@ def parse_filings_concurrently(
     workers: int = 2,
 ) -> Iterator[ParsedFiling]:
     with ThreadPoolExecutor(max_workers=workers) as executor:
-        pending: Deque[tuple[FilingLike, Future[tuple[str | None, str | None]]]] = (
+        pending: Deque[
+            tuple[FilingLike, Future[tuple[str | None, str | None, str | None]]]
+        ] = (
             deque()
         )
         for filing in filings:
@@ -135,12 +160,32 @@ def parse_filings_concurrently(
             pending.append((filing, future))
             if len(pending) >= max_queue:
                 oldest_filing, oldest_future = pending.popleft()
-                cik, cusip = oldest_future.result()
-                yield ParsedFiling(oldest_filing.identifier, cik, cusip)
+                cik, cusip, parse_method = oldest_future.result()
+                yield ParsedFiling(
+                    oldest_filing.identifier,
+                    cik,
+                    cusip,
+                    form=getattr(oldest_filing, "form", None),
+                    filing_date=getattr(oldest_filing, "date", None),
+                    accession_number=getattr(oldest_filing, "accession_number", None),
+                    url=getattr(oldest_filing, "url", None),
+                    company_name=getattr(oldest_filing, "company_name", None),
+                    parse_method=parse_method,
+                )
         while pending:
             filing, future = pending.popleft()
-            cik, cusip = future.result()
-            yield ParsedFiling(filing.identifier, cik, cusip)
+            cik, cusip, parse_method = future.result()
+            yield ParsedFiling(
+                filing.identifier,
+                cik,
+                cusip,
+                form=getattr(filing, "form", None),
+                filing_date=getattr(filing, "date", None),
+                accession_number=getattr(filing, "accession_number", None),
+                url=getattr(filing, "url", None),
+                company_name=getattr(filing, "company_name", None),
+                parse_method=parse_method,
+            )
 
 
 def stream_to_csv(
@@ -151,6 +196,7 @@ def stream_to_csv(
     concurrent: bool = False,
     max_queue: int = 32,
     workers: int = 2,
+    events_csv_path: Path | str | None = None,
 ) -> int:
     csv_path = Path(csv_path)
     csv_path.parent.mkdir(parents=True, exist_ok=True)
@@ -164,11 +210,54 @@ def stream_to_csv(
         )
     else:
         iterator = parse_filings(filings, debug=debug)
-    with csv_path.open("w", newline="") as handle:
-        writer = csv.writer(handle)
-        for parsed in tqdm(iterator, desc="Parsing filings", unit="filing"):
-            writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
-            count += 1
+    events_writer = None
+    events_handle = None
+    if events_csv_path is not None:
+        events_path = Path(events_csv_path)
+        events_path.parent.mkdir(parents=True, exist_ok=True)
+        events_handle = events_path.open("w", newline="")
+        events_writer = csv.writer(events_handle)
+        events_writer.writerow(
+            [
+                "identifier",
+                "cik",
+                "form",
+                "filing_date",
+                "accession_number",
+                "url",
+                "company_name",
+                "cusip9",
+                "cusip8",
+                "cusip6",
+                "parse_method",
+            ]
+        )
+    try:
+        with csv_path.open("w", newline="") as handle:
+            writer = csv.writer(handle)
+            for parsed in tqdm(iterator, desc="Parsing filings", unit="filing"):
+                writer.writerow([parsed.identifier, parsed.cik, parsed.cusip])
+                if events_writer is not None:
+                    cusip9 = parsed.cusip or ""
+                    events_writer.writerow(
+                        [
+                            parsed.identifier,
+                            parsed.cik or "",
+                            parsed.form or "",
+                            parsed.filing_date or "",
+                            parsed.accession_number or "",
+                            parsed.url or "",
+                            parsed.company_name or "",
+                            cusip9,
+                            cusip9[:8] if cusip9 else "",
+                            cusip9[:6] if cusip9 else "",
+                            parsed.parse_method or "",
+                        ]
+                    )
+                count += 1
+    finally:
+        if events_handle is not None:
+            events_handle.close()
     return count
 
 
