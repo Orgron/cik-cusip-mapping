@@ -43,6 +43,10 @@ try:
         sec_email="jane@example.com",
         show_progress=False,
         write_final_mapping=True,
+        filing_start_date="2024-01-01",
+        filing_end_date="2024-03-31",
+        filing_cik_whitelist=("320193", "1652044"),
+        filings_amended_only=False,
         session=session,
     )
 finally:
@@ -64,6 +68,13 @@ Behind the scenes the package exposes dedicated primitives for each stage:
 * `stream_events_to_csv()` writes per-form events CSVs with derived CUSIP details.
 * `postprocess_mapping_from_events()` derives the final mapping directly from those events.
 
+The streaming utilities accept first-class filters so you can limit downloads to
+particular filing windows or issuers. Provide ISO dates via `start_date`/`end_date`,
+specific issuers with `cik_whitelist`, and set `amended_only=True` to focus on
+amendments such as SC 13DA and SC 13GA.
+The `run_pipeline` CLI mirrors these options with `--start-date`, `--end-date`,
+`--cik`/`--cik-file`, and `--amended-only`.
+
 You can reuse a single `requests.Session` across stages to benefit from
 connection pooling and automatic retry/backoff logic:
 
@@ -79,6 +90,10 @@ try:
         email="jane@example.com",
         session=session,
         show_progress=False,
+        start_date="2024-01-01",
+        end_date="2024-03-31",
+        cik_whitelist=("320193",),
+        amended_only=False,
     )
     parsing.stream_events_to_csv(
         filings,
@@ -112,6 +127,9 @@ try:
         email="jane@example.com",
         session=session,
         compress=True,
+        start_date="2024-01-01",
+        cik_whitelist=("1652044",),
+        amended_only=True,
     )
     print(f"Downloaded {count} filings")
     parsing.parse_directory(

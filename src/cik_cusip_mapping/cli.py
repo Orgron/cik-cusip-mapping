@@ -64,6 +64,31 @@ def run_pipeline_cli() -> None:
         default=10.0,
         help="Maximum number of requests per second when downloading from EDGAR.",
     )
+    parser.add_argument(
+        "--start-date",
+        help="Earliest filing date (YYYY-MM-DD) to include when streaming filings.",
+    )
+    parser.add_argument(
+        "--end-date",
+        help="Latest filing date (YYYY-MM-DD) to include when streaming filings.",
+    )
+    parser.add_argument(
+        "--cik",
+        dest="ciks",
+        action="append",
+        help="Limit streaming to specific CIKs. Repeat for multiple values.",
+    )
+    parser.add_argument(
+        "--cik-file",
+        dest="cik_files",
+        action="append",
+        help="Path to a file containing newline-delimited CIKs to include.",
+    )
+    parser.add_argument(
+        "--amended-only",
+        action="store_true",
+        help="Only download amended filings (e.g., SC 13DA and SC 13GA).",
+    )
     parser.add_argument("--sec-name", help="Contact name to include in SEC requests.")
     parser.add_argument("--sec-email", help="Contact email to include in SEC requests.")
     parser.add_argument(
@@ -143,6 +168,22 @@ def run_pipeline_cli() -> None:
 
     args = parser.parse_args()
 
+    cik_whitelist: set[str] = set()
+    if args.ciks:
+        cik_whitelist.update(args.ciks)
+    if args.cik_files:
+        for file_path in args.cik_files:
+            path = Path(file_path)
+            if not path.exists():
+                raise FileNotFoundError(f"CIK file not found: {path}")
+            with path.open("r", encoding="utf-8") as handle:
+                for line in handle:
+                    value = line.strip()
+                    if value:
+                        cik_whitelist.add(value)
+
+    resolved_cik_whitelist = sorted(cik_whitelist) if cik_whitelist else None
+
     mapping, dynamics, events_counts = pipeline.run_pipeline(
         forms=args.forms,
         output_root=Path(args.output_root),
@@ -165,6 +206,10 @@ def run_pipeline_cli() -> None:
         parsing_max_queue=args.parsing_max_queue,
         show_progress=args.show_progress,
         use_notebook=args.use_notebook,
+        filing_start_date=args.start_date,
+        filing_end_date=args.end_date,
+        filing_cik_whitelist=resolved_cik_whitelist,
+        filings_amended_only=args.amended_only,
     )
 
     events_base_path = Path(args.events_output_root)

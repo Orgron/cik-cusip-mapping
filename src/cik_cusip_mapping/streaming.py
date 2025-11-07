@@ -6,11 +6,13 @@ import csv
 import gzip
 import logging
 from dataclasses import dataclass
+from datetime import date, datetime
 from pathlib import Path
-from typing import Generator, Iterator
+from typing import Generator, Iterable, Iterator
 
 import requests
 
+from .filters import coerce_date, is_amended_form, normalize_cik_whitelist
 from .sec import RateLimiter, build_request_headers, create_session
 from .progress import resolve_tqdm
 
@@ -47,14 +49,53 @@ class Filing:
         return reconstruct_filing_url(self.cik, self.accession_number)
 
 
-def _iter_index_rows(form: str, index_path: Path) -> Iterator[dict[str, str]]:
-    """Yield index rows matching ``form`` from ``index_path``."""
+def _iter_index_rows(
+    form: str,
+    index_path: Path,
+    *,
+    start_date: date | datetime | str | None = None,
+    end_date: date | datetime | str | None = None,
+    cik_whitelist: Iterable[str | int] | None = None,
+    amended_only: bool = False,
+) -> Iterator[dict[str, str]]:
+    """Yield index rows matching ``form`` from ``index_path`` applying filters."""
+
+    parsed_start = coerce_date(start_date)
+    parsed_end = coerce_date(end_date)
+    if parsed_start and parsed_end and parsed_start > parsed_end:
+        raise ValueError("start_date cannot be after end_date")
+
+    cik_filters = normalize_cik_whitelist(cik_whitelist)
 
     with index_path.open("r", newline="", encoding="utf-8") as index_file:
         reader = csv.DictReader(index_file)
         for row in reader:
-            if form in row["form"]:
-                yield row
+            row_form = row["form"].strip()
+            if form not in row_form:
+                continue
+
+            if amended_only and not is_amended_form(row_form):
+                continue
+
+            if parsed_start or parsed_end:
+                row_date = coerce_date(row["date"].strip())
+                if parsed_start and row_date < parsed_start:
+                    continue
+                if parsed_end and row_date > parsed_end:
+                    continue
+
+            if cik_filters is not None:
+                raw_ciks, numeric_ciks = cik_filters
+                row_cik = "".join(row["cik"].split())
+                if row_cik not in raw_ciks:
+                    try:
+                        row_cik_int = int(row_cik)
+                    except ValueError:
+                        row_cik_int = None
+                    if row_cik_int not in numeric_ciks:
+                        continue
+
+            yield row
 
 
 def stream_filings(
@@ -69,6 +110,10 @@ def stream_filings(
     progress_desc: str | None = None,
     total_hint: int | None = None,
     use_notebook: bool | None = None,
+    start_date: date | datetime | str | None = None,
+    end_date: date | datetime | str | None = None,
+    cik_whitelist: Iterable[str | int] | None = None,
+    amended_only: bool = False,
 ) -> Generator[Filing, None, None]:
     """Yield filings for the requested form directly from EDGAR."""
 
@@ -93,7 +138,14 @@ def stream_filings(
         else None
     )
     try:
-        for row in _iter_index_rows(form, index_path):
+        for row in _iter_index_rows(
+            form,
+            index_path,
+            start_date=start_date,
+            end_date=end_date,
+            cik_whitelist=cik_whitelist,
+            amended_only=amended_only,
+        ):
             cik = row["cik"].strip()
             date = row["date"].strip()
             url = row["url"].strip()
@@ -162,6 +214,10 @@ def stream_filings_to_disk(
     index_path: Path | str = Path("full_index.csv"),
     session: requests.Session | None = None,
     compress: bool = False,
+    start_date: date | datetime | str | None = None,
+    end_date: date | datetime | str | None = None,
+    cik_whitelist: Iterable[str | int] | None = None,
+    amended_only: bool = False,
 ) -> int:
     """Persist streamed filings to disk for archival purposes."""
 
@@ -176,6 +232,10 @@ def stream_filings_to_disk(
         index_path=index_path,
         session=session,
         show_progress=False,
+        start_date=start_date,
+        end_date=end_date,
+        cik_whitelist=cik_whitelist,
+        amended_only=amended_only,
     )
     tqdm_factory = resolve_tqdm(None)
     for filing in tqdm_factory(
