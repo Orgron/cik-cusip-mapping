@@ -16,6 +16,17 @@ from . import indexing, parsing, postprocessing, streaming
 from .sec import create_session
 
 
+def _count_event_rows(events_path: Path | str) -> int:
+    """Return the number of event rows in ``events_path`` excluding the header."""
+
+    path = Path(events_path)
+    if not path.exists():
+        return 0
+    with path.open("r", encoding="utf-8") as handle:
+        rows = sum(1 for _ in handle)
+    return max(rows - 1, 0)
+
+
 def count_index_rows(form: str, index_path: Path | str) -> int:
     """Return the number of index rows matching ``form`` using Polars."""
 
@@ -64,6 +75,7 @@ def run_pipeline(
     skip_index: bool = False,
     skip_download: bool = False,
     skip_parse: bool = False,
+    skip_existing_events: bool = False,
     index_path: Path | str | None = None,
     concurrent_parsing: bool = True,
     debug: bool = False,
@@ -140,9 +152,14 @@ def run_pipeline(
                     raise FileNotFoundError(
                         f"Expected events CSV {events_path} not found. Remove skip flags or generate it first."
                     )
-                with events_path.open("r", encoding="utf-8") as handle:
-                    events_counts[form] = max(sum(1 for _ in handle) - 1, 0)
+                events_counts[form] = _count_event_rows(events_path)
             else:
+                if skip_existing_events and events_path.exists():
+                    existing_rows = _count_event_rows(events_path)
+                    if existing_rows > 0:
+                        events_counts[form] = existing_rows
+                        events_paths.append(events_path)
+                        continue
                 # Keep streaming progress quiet and parsing progress enabled to
                 # avoid double progress bars (maintains CLI/test expectations).
                 parsing_show_progress = show_progress

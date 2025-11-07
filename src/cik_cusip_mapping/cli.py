@@ -82,6 +82,13 @@ def run_pipeline_cli() -> None:
         help="Skip parsing filings (requires existing per-form CSVs).",
     )
     parser.add_argument(
+        "--skip-parsed-forms",
+        action="store_true",
+        help=(
+            "Skip re-streaming forms when existing per-form event CSVs already contain data."
+        ),
+    )
+    parser.add_argument(
         "--index-path",
         help="Optional custom path to an existing full_index.csv when --skip-index is used.",
     )
@@ -150,6 +157,7 @@ def run_pipeline_cli() -> None:
         skip_index=args.skip_index,
         skip_download=args.skip_download,
         skip_parse=args.skip_parse,
+        skip_existing_events=args.skip_parsed_forms,
         index_path=Path(args.index_path) if args.index_path else None,
         concurrent_parsing=not args.disable_concurrency,
         debug=args.debug,

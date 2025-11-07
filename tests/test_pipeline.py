@@ -423,3 +423,76 @@ def test_pipeline_uses_environment_metadata(monkeypatch, tmp_path):
 
     assert ("download", "Env Contact", "env@example.com") in calls
     assert ("stream", "Env Contact", "env@example.com") in calls
+
+
+def test_skip_existing_events_reuses_cached_csv(monkeypatch, tmp_path):
+    """Existing event CSVs should be reused when skip_existing_events is enabled."""
+
+    events_dir = tmp_path / "events"
+    events_dir.mkdir()
+    cached_events = events_dir / "13G_events.csv"
+    cached_events.write_text(
+        "cik,form,filing_date,accession_number,company_name,cusip9,cusip8,cusip6,parse_method\n"
+        "1,13G,2020-01-01,0001,Example Corp,123456789,12345678,123456,window\n"
+    )
+
+    class DummySession:
+        def __init__(self) -> None:
+            self.closed = False
+
+        def close(self) -> None:
+            self.closed = True
+
+    dummy_session = DummySession()
+    monkeypatch.setattr(pipeline, "create_session", lambda: dummy_session)
+
+    def fake_download(*args, **kwargs):
+        kwargs["output_path"].write_text("master")
+
+    def fake_write(*args, **kwargs):
+        kwargs["output_path"].write_text("cik,comnam,form,date,url\n")
+
+    monkeypatch.setattr(pipeline.indexing, "download_master_index", fake_download)
+    monkeypatch.setattr(pipeline.indexing, "write_full_index", fake_write)
+
+    def fail_stream_filings(*args, **kwargs):  # pragma: no cover - defensive
+        raise AssertionError("stream_filings should not be called when skipping existing events")
+
+    def fail_stream_events_to_csv(*args, **kwargs):  # pragma: no cover - defensive
+        raise AssertionError(
+            "stream_events_to_csv should not be called when skipping existing events"
+        )
+
+    monkeypatch.setattr(pipeline.streaming, "stream_filings", fail_stream_filings)
+    monkeypatch.setattr(pipeline.parsing, "stream_events_to_csv", fail_stream_events_to_csv)
+
+    calls = []
+
+    def fake_postprocess(events_paths, *, output=None):
+        calls.append(("postprocess", [Path(p) for p in events_paths]))
+        return pl.DataFrame({"cik": [], "cusip6": [], "cusip8": []})
+
+    def fake_build_dynamics(events_paths, *, output=None):
+        calls.append(("dynamics", [Path(p) for p in events_paths]))
+        return pl.DataFrame({"cik": []})
+
+    monkeypatch.setattr(
+        pipeline.postprocessing, "postprocess_mapping_from_events", fake_postprocess
+    )
+    monkeypatch.setattr(pipeline.postprocessing, "build_cusip_dynamics", fake_build_dynamics)
+
+    _, _, events_counts = pipeline.run_pipeline(
+        forms=["13G"],
+        output_root=tmp_path,
+        events_output_root=events_dir,
+        skip_existing_events=True,
+        sec_name="Jane Doe",
+        sec_email="jane@example.com",
+    )
+
+    assert events_counts == {"13G": 1}
+    assert calls[0][0] == "postprocess"
+    assert calls[0][1] == [cached_events]
+    assert calls[1][0] == "dynamics"
+    assert calls[1][1] == [cached_events]
+    assert dummy_session.closed is True
