@@ -86,6 +86,7 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
         progress_desc=None,
         total_hint=None,
         use_notebook=None,
+        **filters,
     ):
         """Track streaming invocations and yield a dummy filing."""
 
@@ -102,6 +103,7 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
                 progress_desc,
                 total_hint,
                 use_notebook,
+                filters,
             )
         )
         assert session is dummy_session
@@ -199,8 +201,9 @@ def test_pipeline_invokes_all_steps(monkeypatch, tmp_path):
     assert calls[3][0] == "stream_events_to_csv"
     assert calls[3][7] is True
     assert calls[2][7] is False
-    assert calls[2][-2] == 0
-    assert calls[2][-1] is None
+    assert calls[2][-3] == 0
+    assert calls[2][-2] is None
+    assert calls[2][-1] == {}
     assert calls[3][-2] == 0
     assert calls[3][-1] is None
     assert calls[4][0] == "postprocess"
@@ -265,6 +268,7 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
         progress_desc=None,
         total_hint=None,
         use_notebook=None,
+        **filters,
     ):
         """Capture request metadata passed to the streaming helper."""
 
@@ -280,6 +284,7 @@ def test_pipeline_passes_request_metadata(monkeypatch, tmp_path):
                 progress_desc,
                 total_hint,
                 use_notebook,
+                filters,
             )
         )
         assert session is dummy_session
@@ -383,6 +388,7 @@ def test_pipeline_uses_environment_metadata(monkeypatch, tmp_path):
         progress_desc=None,
         total_hint=None,
         use_notebook=None,
+        **filters,
     ):
         calls.append(("stream", name, email))
         assert session is dummy_session
