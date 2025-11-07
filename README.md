@@ -54,6 +54,8 @@ print(events_counts)
 
 The function returns a `pandas.DataFrame` with the columns `cik`, `cusip6`, and `cusip8`, the optional dynamics DataFrame (or `None` when disabled), and a dictionary summarising how many filing events were written per form. Disk output now consists of per-form events CSVs (e.g. `13D_events.csv`); a consolidated mapping CSV is only written when `write_final_mapping=True`.
 
+When rerunning the pipeline you can reuse existing per-form CSVs by passing `skip_existing_events=True` (or `--skip-parsed-forms` via the CLI). The pipeline will reuse prior results when the CSV already contains event rows, skipping redundant downloads while keeping row counts and post-processing outputs accurate.
+
 Behind the scenes the package exposes dedicated primitives for each stage:
 
 * `download_master_index()` and `write_full_index()` handle EDGAR index collection.

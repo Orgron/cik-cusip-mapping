@@ -39,6 +39,7 @@ def test_run_pipeline_cli_emits_summary(monkeypatch, tmp_path, capsys):
         assert kwargs["parsing_max_queue"] == 32
         assert kwargs["show_progress"] is True
         assert kwargs["write_final_mapping"] is False
+        assert kwargs["skip_existing_events"] is False
         return DummyFrame(3), DummyFrame(2), {"13D": 2, "13G": 1}
 
     monkeypatch.setattr(cli.pipeline, "run_pipeline", fake_run_pipeline)
@@ -71,6 +72,7 @@ def test_run_pipeline_cli_reports_mapping_when_requested(monkeypatch, tmp_path, 
         """Return stubbed data while validating CLI argument wiring."""
 
         assert kwargs["write_final_mapping"] is True
+        assert kwargs["skip_existing_events"] is False
         return DummyFrame(5), DummyFrame(0), {"13D": 2}
 
     monkeypatch.setattr(cli.pipeline, "run_pipeline", fake_run_pipeline)
