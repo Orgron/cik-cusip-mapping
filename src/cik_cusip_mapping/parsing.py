@@ -49,7 +49,6 @@ def _collect_tokens_near_cusip(segment: str) -> list[str]:
                 break
         if block:
             tokens.extend(block)
-            continue
         following: list[str] = []
         for next_index in range(index + 1, min(len(cleaned_lines), index + 20)):
             candidate = cleaned_lines[next_index]
@@ -130,18 +129,35 @@ def _extract_matches(text: str) -> list[str]:
     cleaned = TAG_PATTERN.sub(" ", html.unescape(text))
     upper = cleaned.upper()
     matches: list[str] = []
-    for match in CUSIP_PATTERN.finditer(upper):
+    position = 0
+    length = len(upper)
+    while position < length:
+        match = CUSIP_PATTERN.search(upper, position)
+        if not match:
+            break
         normalized = _normalize_cusip(match.group())
+        start, end = match.span()
         if normalized:
-            start, end = match.span()
+            if start > 0 and upper[start - 1].isalnum():
+                position = start + 1
+                continue
             context = upper[max(0, start - 16) : end + 16]
             if "IRS NUMBER" in context or "I.R.S" in context:
+                position = end
                 continue
             if ".DOC" in context or ".HTM" in context:
+                position = end
                 continue
             if "P.O. BOX" in context or "PO BOX" in context or "P O BOX" in context:
-                continue
+                prefix = upper[max(0, start - 12) : start]
+                compact_prefix = prefix.replace(" ", "").replace(".", "")
+                if "PO" in compact_prefix or "BOX" in compact_prefix:
+                    position = end
+                    continue
             matches.append(normalized)
+            position = end
+        else:
+            position = start + 1
     return matches
 
 
@@ -163,7 +179,7 @@ def _extract_cusip(
             continue
         document_segments.append(raw_line)
         upper_line = raw_line.upper()
-        if "CIK" in upper_line:
+        if "CIK" in upper_line or "CENTRAL INDEX KEY" in upper_line:
             exclude_tokens.update(_extract_matches(raw_line))
         if "CUSIP" in upper_line:
             window = lines[max(0, index - 15) : index + 10]
@@ -199,6 +215,9 @@ def _extract_cusip(
                 saw_none_only = True
                 continue
             if len(ordered) > 1:
+                lettered = [token for token in ordered if any(ch.isalpha() for ch in token)]
+                if len(lettered) == 1:
+                    return lettered[0], "window"
                 bases = {token[:6] for token in ordered if len(token) >= 6}
                 cusip_mentions = upper_segment.count("CUSIP")
                 if len(bases) == 1 or cusip_mentions >= len(ordered):
@@ -227,6 +246,11 @@ def _extract_cusip(
             return winner, "window"
         if saw_none_only:
             return "NONE", "window"
+
+    if matches and exclude_tokens and all(
+        match in exclude_tokens for match, _ in matches
+    ):
+        matches = []
 
     if not matches and document_segments:
         combined = "\n".join(document_segments)

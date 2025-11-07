@@ -247,6 +247,16 @@ def run_pipeline(
                 parsing_show_progress = show_progress
                 stream_show_progress = show_progress and not parsing_show_progress
 
+                stream_filters: dict[str, object] = {}
+                if start_date is not None:
+                    stream_filters["start_date"] = start_date
+                if end_date is not None:
+                    stream_filters["end_date"] = end_date
+                if filing_cik_whitelist:
+                    stream_filters["cik_whitelist"] = filing_cik_whitelist
+                if filings_amended_only:
+                    stream_filters["amended_only"] = True
+
                 filings = streaming.stream_filings(
                     form,
                     requests_per_second,
@@ -258,10 +268,7 @@ def run_pipeline(
                     progress_desc=f"Streaming {form} filings",
                     total_hint=form_totals.get(form),
                     use_notebook=use_notebook,
-                    start_date=start_date,
-                    end_date=end_date,
-                    cik_whitelist=filing_cik_whitelist,
-                    amended_only=filings_amended_only,
+                    **stream_filters,
                 )
                 events_counts[form] = parsing.stream_events_to_csv(
                     filings,

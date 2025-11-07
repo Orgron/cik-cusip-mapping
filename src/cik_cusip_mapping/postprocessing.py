@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from types import SimpleNamespace
 from typing import Iterable
 
 import polars as pl
@@ -91,7 +92,7 @@ def postprocess_mapping_from_events(
         output_path.parent.mkdir(parents=True, exist_ok=True)
         result.write_csv(output_path)
 
-    return result
+    return _attach_polars_iloc(result)
 
 
 def build_cusip_dynamics(
@@ -157,7 +158,7 @@ def build_cusip_dynamics(
                 [
                     pl.col("filing_date").first().alias("first_seen"),
                     pl.col("filing_date").last().alias("last_seen"),
-                    pl.count().alias("filings_count"),
+                    pl.len().alias("filings_count"),
                     pl.col("form").unique().sort().alias("forms_list"),
                     pl.col("filing_date")
                     .dt.strftime("%Y-%m")
@@ -221,7 +222,37 @@ def build_cusip_dynamics(
         output_path.parent.mkdir(parents=True, exist_ok=True)
         result.write_csv(output_path)
 
-    return result
+    return _attach_polars_iloc(result)
+
+
+def _attach_polars_iloc(frame: pl.DataFrame) -> pl.DataFrame:
+    """Attach a lightweight ``iloc`` accessor to ``frame`` for compatibility."""
+
+    frame.iloc = _PolarsIlocAccessor(frame)
+    return frame
+
+
+class _PolarsIlocAccessor:
+    """Provide pandas-like ``.iloc`` semantics for a Polars DataFrame."""
+
+    def __init__(self, frame: pl.DataFrame) -> None:
+        self._frame = frame
+
+    def __getitem__(self, index: int | slice) -> SimpleNamespace | list[SimpleNamespace]:
+        if isinstance(index, slice):
+            start, stop, step = index.indices(self._frame.height)
+            return [
+                SimpleNamespace(**self._frame.row(idx, named=True))
+                for idx in range(start, stop, step)
+            ]
+        if isinstance(index, int):
+            normalized = index
+            if normalized < 0:
+                normalized += self._frame.height
+            if normalized < 0 or normalized >= self._frame.height:
+                raise IndexError("iloc index out of range")
+            return SimpleNamespace(**self._frame.row(normalized, named=True))
+        raise TypeError("iloc only supports integer or slice indexing")
 
 
 def _has_valid_cusip_check_digit(cusip: str | None) -> bool:
