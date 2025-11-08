@@ -257,8 +257,48 @@ def extract_cusip(text: str) -> Optional[str]:
     text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
 
-    # CUSIP pattern: 8-10 alphanumeric characters with at least 5 digits
-    cusip_pattern = r"\b[A-Z0-9]{8,10}\b"
+    # Allow optional whitespace or hyphen separators inside the identifier
+    cusip_pattern = re.compile(
+        r"(?<![A-Z0-9])([A-Z0-9](?:[\s\-]*[A-Z0-9]){7,9})(?![A-Z0-9])",
+        re.IGNORECASE,
+    )
+
+    def normalize(candidate: str) -> Optional[str]:
+        cleaned = re.sub(r"[\s\-]", "", candidate.upper())
+        if not (8 <= len(cleaned) <= 10):
+            return None
+        return cleaned
+
+    def find_candidates(segment: str, offset: int = 0) -> list[tuple[str, int]]:
+        results: list[tuple[str, int]] = []
+        seen: dict[str, int] = {}
+        for match in cusip_pattern.finditer(segment):
+            substring = match.group(1)
+            base_position = offset + match.start(1)
+            tokens = [
+                (token_match.group().upper(), token_match.start())
+                for token_match in re.finditer(r"[A-Z0-9]+", substring, re.IGNORECASE)
+            ]
+
+            for i, (token_text, relative_start) in enumerate(tokens):
+                combined = ""
+                for j in range(i, len(tokens)):
+                    combined += tokens[j][0]
+                    if len(combined) > 10:
+                        break
+
+                    normalized = normalize(combined)
+                    if not normalized:
+                        continue
+                    if not is_valid_cusip(normalized):
+                        continue
+
+                    absolute_position = base_position + relative_start
+                    if normalized not in seen:
+                        seen[normalized] = absolute_position
+                        results.append((normalized, absolute_position))
+
+        return results
 
     # Window method: Look for explicit CUSIP markers
     cusip_markers = [
@@ -267,33 +307,46 @@ def extract_cusip(text: str) -> Optional[str]:
         r"\bCUSIP\b",
     ]
 
+    marker_found = False
+
     for marker in cusip_markers:
         matches = list(re.finditer(marker, text, re.IGNORECASE))
         if not matches:
             continue
 
+        marker_found = True
+
         # Get context around the marker
         for match in matches:
-            start = max(0, match.start() - 500)
-            end = min(len(text), match.end() + 500)
-            window = text[start:end]
+            start = max(0, match.start() - 200)
+            end = min(len(text), match.end() + 200)
+            window_candidates = find_candidates(text[start:end], offset=start)
+            if window_candidates:
+                window_candidates.sort(
+                    key=lambda item: (
+                        abs(len(item[0]) - 9),
+                        -sum(1 for char in item[0] if char.isdigit()),
+                        abs(item[1] - match.end()),
+                        item[1] < match.end(),
+                    )
+                )
+                return window_candidates[0][0]
 
-            # Find CUSIP candidates in window
-            candidates = re.findall(cusip_pattern, window)
-
-            for candidate in candidates:
-                if is_valid_cusip(candidate):
-                    return candidate
+    # If we saw explicit markers but couldn't find a valid candidate nearby,
+    # prefer signaling failure instead of returning unrelated numbers.
+    if marker_found:
+        return None
 
     # Fallback: Search entire document
-    candidates = re.findall(cusip_pattern, text)
+    candidate_positions: dict[str, int] = {}
+    for candidate, position in find_candidates(text):
+        candidate_positions.setdefault(candidate, position)
+
+    candidates = list(candidate_positions.keys())
 
     # Score candidates
     scored = []
     for candidate in candidates:
-        if not is_valid_cusip(candidate):
-            continue
-
         score = 0
         # Prefer candidates with letters (more specific than all digits)
         if re.search(r"[A-Z]", candidate):
@@ -304,6 +357,9 @@ def extract_cusip(text: str) -> Optional[str]:
 
         scored.append((score, candidate))
 
+    if scored:
+        # Require some evidence that the fallback candidate is plausible
+        scored = [item for item in scored if item[0] > 0]
     if scored:
         scored.sort(reverse=True)
         return scored[0][1]
@@ -321,6 +377,8 @@ def is_valid_cusip(candidate: str) -> bool:
     Returns:
         True if likely a valid CUSIP
     """
+    candidate = candidate.upper()
+
     # Length check
     if len(candidate) < 8 or len(candidate) > 10:
         return False
@@ -335,17 +393,11 @@ def is_valid_cusip(candidate: str) -> bool:
         return False
 
     # Exclude common false positives
-    false_positives = [
-        r"^0+$",  # All zeros
-        r"^\d{5}-?\d{4}$",  # Zip codes
-        r"FILE",  # Filename patterns
-        r"PAGE",
-        r"TABLE",
-    ]
+    if re.fullmatch(r"0+", candidate):
+        return False
 
-    for pattern in false_positives:
-        if re.match(pattern, candidate):
-            return False
+    if re.search(r"FILE|PAGE|TABLE", candidate, re.IGNORECASE):
+        return False
 
     return True
 
@@ -366,7 +418,7 @@ def load_cik_filter(cik_filter_file: str) -> set:
             cik = line.strip()
             if cik:
                 # Normalize CIK to 10-digit format with leading zeros
-                ciks.add(cik)
+                ciks.add(cik.zfill(10))
     return ciks
 
 
