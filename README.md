@@ -97,6 +97,20 @@ python main.py \
   --all
 ```
 
+Filter for specific CIKs only:
+
+```bash
+# Create a file with CIKs (one per line)
+echo "1234567" > my_ciks.txt
+echo "9876543" >> my_ciks.txt
+
+python main.py \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com" \
+  --cik-filter my_ciks.txt \
+  --all
+```
+
 Using environment variables:
 
 ```bash
@@ -138,6 +152,18 @@ process_filings(
     forms=('13D', '13G'),
     sec_name='Jane Doe',
     sec_email='jane@example.com',
+    start_year=2020,
+    end_year=2024,
+)
+
+# Filter for specific CIKs only
+process_filings(
+    index_dir='data/indices',
+    output_csv='data/cusips.csv',
+    forms=('13D', '13G'),
+    sec_name='Jane Doe',
+    sec_email='jane@example.com',
+    cik_filter_file='my_ciks.txt',  # Only process these CIKs
     start_year=2020,
     end_year=2024,
 )
@@ -200,6 +226,7 @@ cik,company_name,form,date,cusip
 --sec-name NAME       Your name for SEC User-Agent header
 --sec-email EMAIL     Your email for SEC headers
 --rate FLOAT          Requests per second (default: 10.0)
+--cik-filter PATH     Path to text file with CIKs to filter (one per line)
 
 Year/Quarter Range Options:
 --all                 Download all available indices (1993 to present)
@@ -230,6 +257,38 @@ The CUSIP extraction algorithm:
 - Falls back to document-wide search if needed
 - Validates candidates (length, character composition, excludes false positives)
 - Returns the most likely CUSIP identifier
+
+## CIK Filtering
+
+You can filter filings to process only specific CIKs by providing a text file with the `--cik-filter` option:
+
+1. Create a text file with one CIK per line (CIKs can be any length and will be normalized):
+   ```
+   1234567
+   9876543
+   0001234567
+   ```
+
+2. Use the filter when running the tool:
+   ```bash
+   python main.py --sec-name "Your Name" --sec-email "your@email.com" \
+     --cik-filter my_ciks.txt --all
+   ```
+
+This is useful when you only need to track filings for specific companies and want to reduce processing time.
+
+## Progress Display
+
+The tool displays a real-time progress bar while processing filings with the following information:
+- **Progress**: Current filing number and percentage complete
+- **ETA**: Estimated time remaining to complete processing
+- **Success/Failed counts**: Number of successful CUSIP extractions vs. failures
+- **Latest filing**: Shows the most recently processed company and result
+
+Example output:
+```
+[150/1000] 15.0% | ETA:   12m 34s | Success: 142 | Failed: 8 | Latest: ACME CORPORATION - ✓ CUSIP: 68389X105
+```
 
 ## Rate Limiting
 

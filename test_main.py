@@ -26,6 +26,7 @@ from main import (
     extract_cusip,
     is_valid_cusip,
     process_filings,
+    load_cik_filter,
 )
 
 
@@ -485,6 +486,91 @@ class TestParseIndex:
             assert len(results) == 1
             assert results[0]['cik'] == '0001234567'
             assert results[0]['company_name'] == 'ACME CORP'
+        finally:
+            os.unlink(temp_path)
+
+
+class TestLoadCikFilter:
+    """Test load_cik_filter function."""
+
+    def test_load_basic_ciks(self):
+        """Test loading basic CIKs from file."""
+        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+            f.write("1234567\n")
+            f.write("9876543\n")
+            f.write("123456789\n")
+            temp_path = f.name
+
+        try:
+            result = load_cik_filter(temp_path)
+
+            assert len(result) == 3
+            # CIKs should be normalized to 10 digits
+            assert "0001234567" in result
+            assert "0009876543" in result
+            assert "0123456789" in result
+        finally:
+            os.unlink(temp_path)
+
+    def test_load_with_whitespace(self):
+        """Test that whitespace is stripped."""
+        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+            f.write("  1234567  \n")
+            f.write("\n")  # Empty line
+            f.write("   9876543\n")
+            temp_path = f.name
+
+        try:
+            result = load_cik_filter(temp_path)
+
+            assert len(result) == 2
+            assert "0001234567" in result
+            assert "0009876543" in result
+        finally:
+            os.unlink(temp_path)
+
+    def test_load_already_padded(self):
+        """Test loading CIKs that are already 10 digits."""
+        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+            f.write("0001234567\n")
+            f.write("0009876543\n")
+            temp_path = f.name
+
+        try:
+            result = load_cik_filter(temp_path)
+
+            assert len(result) == 2
+            assert "0001234567" in result
+            assert "0009876543" in result
+        finally:
+            os.unlink(temp_path)
+
+    def test_load_empty_lines(self):
+        """Test that empty lines are skipped."""
+        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+            f.write("1234567\n")
+            f.write("\n")
+            f.write("   \n")
+            f.write("9876543\n")
+            temp_path = f.name
+
+        try:
+            result = load_cik_filter(temp_path)
+
+            assert len(result) == 2
+        finally:
+            os.unlink(temp_path)
+
+    def test_load_empty_file(self):
+        """Test loading from an empty file."""
+        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+            temp_path = f.name
+
+        try:
+            result = load_cik_filter(temp_path)
+
+            assert len(result) == 0
+            assert isinstance(result, set)
         finally:
             os.unlink(temp_path)
 
@@ -982,6 +1068,73 @@ class TestProcessFilings:
 
             # Verify directory was created
             assert os.path.exists(os.path.dirname(output_csv))
+
+    @patch('main.download_indices')
+    @patch('main.parse_index')
+    @patch('main.create_session')
+    @patch('main.RateLimiter')
+    def test_cik_filter(self, mock_limiter, mock_session, mock_parse, mock_download):
+        """Test that CIK filter works correctly."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            index_path = os.path.join(tmpdir, "test.idx")
+            output_csv = os.path.join(tmpdir, "output.csv")
+            cik_filter_path = os.path.join(tmpdir, "ciks.txt")
+
+            # Create CIK filter file
+            with open(cik_filter_path, 'w') as f:
+                f.write("1234567\n")  # Will be normalized to 0001234567
+
+            mock_download.return_value = [index_path]
+            mock_parse.return_value = [
+                {
+                    'cik': '0001234567',
+                    'company_name': 'ACME CORP',
+                    'form': 'SC 13D',
+                    'date': '2024-01-15',
+                    'url': 'https://www.sec.gov/Archives/edgar/data/file1.txt',
+                },
+                {
+                    'cik': '0009876543',
+                    'company_name': 'OTHER CORP',
+                    'form': 'SC 13D',
+                    'date': '2024-01-16',
+                    'url': 'https://www.sec.gov/Archives/edgar/data/file2.txt',
+                },
+            ]
+
+            mock_session_instance = Mock()
+            mock_response = Mock()
+            mock_response.text = "CUSIP: 68389X105"
+            mock_response.raise_for_status = Mock()
+            mock_session_instance.get.return_value = mock_response
+            mock_session_instance.close = Mock()
+            mock_session.return_value = mock_session_instance
+
+            mock_limiter_instance = Mock()
+            mock_limiter_instance.acquire = Mock()
+            mock_limiter.return_value = mock_limiter_instance
+
+            process_filings(
+                index_dir=tmpdir,
+                output_csv=output_csv,
+                sec_name="Test",
+                sec_email="test@example.com",
+                cik_filter_file=cik_filter_path
+            )
+
+            # Verify only one filing was processed (the one matching the filter)
+            assert mock_session_instance.get.call_count == 1
+
+            # Verify CSV was created
+            assert os.path.exists(output_csv)
+
+            # Verify CSV contents - should only have 1 entry
+            with open(output_csv, 'r') as f:
+                reader = csv.DictReader(f)
+                rows = list(reader)
+
+            assert len(rows) == 1
+            assert rows[0]['cik'] == '0001234567'
 
     @patch('main.download_indices')
     @patch('main.parse_index')

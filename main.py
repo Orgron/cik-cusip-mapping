@@ -331,6 +331,27 @@ def is_valid_cusip(candidate: str) -> bool:
     return True
 
 
+def load_cik_filter(cik_filter_file: str) -> set:
+    """
+    Load CIK filter from a text file.
+
+    Args:
+        cik_filter_file: Path to text file containing CIKs (one per line)
+
+    Returns:
+        Set of CIKs to filter for (normalized to 10-digit format)
+    """
+    ciks = set()
+    with open(cik_filter_file, 'r', encoding='utf-8') as f:
+        for line in f:
+            cik = line.strip()
+            if cik:
+                # Normalize CIK to 10-digit format with leading zeros
+                cik = cik.zfill(10)
+                ciks.add(cik)
+    return ciks
+
+
 def process_filings(
     index_dir: str,
     output_csv: str,
@@ -343,6 +364,7 @@ def process_filings(
     start_quarter: int = 1,
     end_year: int = None,
     end_quarter: int = None,
+    cik_filter_file: str = None,
 ):
     """
     Main function to process SEC filings and extract CUSIPs.
@@ -359,6 +381,7 @@ def process_filings(
         start_quarter: Starting quarter (1-4, default: 1)
         end_year: Ending year for indices (default: current year)
         end_quarter: Ending quarter (default: current quarter)
+        cik_filter_file: Optional path to text file with CIKs to filter (one per line)
     """
     # Get SEC credentials from env vars if not provided
     sec_name = sec_name or os.environ.get('SEC_NAME')
@@ -369,6 +392,12 @@ def process_filings(
             "SEC credentials required. Provide sec_name and sec_email, "
             "or set SEC_NAME and SEC_EMAIL environment variables."
         )
+
+    # Load CIK filter if provided
+    cik_filter = None
+    if cik_filter_file:
+        cik_filter = load_cik_filter(cik_filter_file)
+        print(f"Loaded {len(cik_filter)} CIKs from filter file: {cik_filter_file}")
 
     # Create session and rate limiter
     session = create_session(sec_name, sec_email)
@@ -397,12 +426,22 @@ def process_filings(
             entries.extend(index_entries)
         print(f"Found {len(entries)} filings to process across all indices")
 
+        # Step 2.5: Apply CIK filter if provided
+        if cik_filter:
+            original_count = len(entries)
+            entries = [entry for entry in entries if entry['cik'] in cik_filter]
+            print(f"Filtered to {len(entries)} filings matching {len(cik_filter)} CIKs (removed {original_count - len(entries)} filings)")
+
         # Step 3: Process each filing
         results = []
+        failed_count = 0
+        start_time = time.time()
 
         os.makedirs(os.path.dirname(output_csv), exist_ok=True)
 
         print(f"\nProcessing filings (rate limited to {requests_per_second} req/s)...")
+        print()  # Empty line for progress bar
+
         for i, entry in enumerate(entries, 1):
             # Rate limit
             rate_limiter.acquire()
@@ -423,13 +462,40 @@ def process_filings(
                         'date': entry['date'],
                         'cusip': cusip,
                     })
-                    print(f"[{i}/{len(entries)}] {entry['cik']} - {entry['form']} - CUSIP: {cusip}")
+                    status = f"✓ CUSIP: {cusip}"
                 else:
-                    print(f"[{i}/{len(entries)}] {entry['cik']} - {entry['form']} - No CUSIP found")
+                    failed_count += 1
+                    status = "✗ No CUSIP found"
 
             except Exception as e:
-                print(f"[{i}/{len(entries)}] {entry['cik']} - {entry['form']} - Error: {e}")
-                continue
+                failed_count += 1
+                status = f"✗ Error: {str(e)[:30]}"
+
+            # Calculate progress and ETA
+            elapsed = time.time() - start_time
+            progress_pct = (i / len(entries)) * 100
+            if i > 0:
+                avg_time_per_filing = elapsed / i
+                remaining = len(entries) - i
+                eta_seconds = avg_time_per_filing * remaining
+                eta_str = f"{int(eta_seconds // 60)}m {int(eta_seconds % 60)}s"
+            else:
+                eta_str = "calculating..."
+
+            # Format company name (truncate if too long)
+            company = entry['company_name'][:30]
+
+            # Print progress bar (overwrite previous line)
+            progress_line = (
+                f"\r[{i}/{len(entries)}] {progress_pct:5.1f}% | "
+                f"ETA: {eta_str:>8} | "
+                f"Success: {len(results)} | Failed: {failed_count} | "
+                f"Latest: {company} - {status}"
+            )
+            print(progress_line, end='', flush=True)
+
+        # Print newline after progress bar completes
+        print()
 
         # Step 4: Write results to CSV
         print(f"\nWriting {len(results)} results to {output_csv}")
@@ -441,7 +507,7 @@ def process_filings(
 
         print(f"✓ Complete! Extracted {len(results)} CUSIPs from {len(entries)} filings")
         if len(entries) > 0:
-            print(f"  Success rate: {len(results)/len(entries)*100:.1f}%")
+            print(f"  Success: {len(results)} | Failed: {failed_count} | Success rate: {len(results)/len(entries)*100:.1f}%")
 
     finally:
         session.close()
@@ -467,6 +533,7 @@ if __name__ == '__main__':
     parser.add_argument('--sec-name', help='Your name for SEC User-Agent (or set SEC_NAME env var)')
     parser.add_argument('--sec-email', help='Your email for SEC headers (or set SEC_EMAIL env var)')
     parser.add_argument('--rate', type=float, default=10.0, help='Requests per second (default: 10)')
+    parser.add_argument('--cik-filter', help='Path to text file with CIKs to filter (one per line)')
 
     # Year/quarter range arguments
     parser.add_argument('--all', action='store_true', help='Download all available indices (1993 to present)')
@@ -512,4 +579,5 @@ if __name__ == '__main__':
         start_quarter=start_quarter,
         end_year=end_year,
         end_quarter=end_quarter,
+        cik_filter_file=args.cik_filter,
     )
