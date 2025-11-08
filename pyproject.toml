@@ -27,3 +27,9 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/Orgron/cik-cusip-mapping"
 Repository = "https://github.com/Orgron/cik-cusip-mapping"
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.0",
+  "pytest-cov>=4.0",
+]
