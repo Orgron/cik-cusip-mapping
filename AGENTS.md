@@ -10,7 +10,7 @@ This is a professional Python CLI tool that extracts CUSIP identifiers from SEC 
 - Downloads each filing and extracts CUSIP identifiers
 - Extracts accession numbers from filing URLs
 - Writes results to CSV with CIK, company name, form type, date, CUSIP, and accession number
-- Provides a CLI command to download individual filings by accession number
+- Provides a CLI command to download individual filings by CIK and accession number
 - Respects SEC rate limits and authorization requirements
 
 ## Project Structure
@@ -169,8 +169,8 @@ pip install -e ".[dev]"       # With dev dependencies
 cik-cusip extract --sec-name "Name" --sec-email "email@example.com"
 cik-cusip extract --all  # All historical data
 
-# Download filing by accession number
-cik-cusip download 0001234567-12-000001
+# Download filing by CIK and accession number
+cik-cusip download 813828 0001104659-06-026838
 ```
 
 ### Environment Variables
@@ -228,9 +228,9 @@ cik-cusip download 0001234567-12-000001
 ### "I want to download a specific filing"
 
 **GUIDE USER TO:**
-- Use the `cik-cusip download` command with accession number
-- Accession numbers are now included in the CSV output
-- Example: `cik-cusip download 0001234567-12-000001 -o filing.txt`
+- Use the `cik-cusip download` command with both CIK and accession number
+- Both CIK and accession numbers are included in the CSV output
+- Example: `cik-cusip download 813828 0001104659-06-026838 -o filing.txt`
 
 ## Testing
 
@@ -308,15 +308,15 @@ If users ask you to help debug extraction issues:
 
 ### CLI Commands
 ```bash
-cik-cusip extract [OPTIONS]      # Extract CUSIPs from filings
-cik-cusip download ACCESSION     # Download filing by accession number
+cik-cusip extract [OPTIONS]            # Extract CUSIPs from filings
+cik-cusip download CIK ACCESSION       # Download filing by CIK and accession number
 ```
 
 ### Main Functions
 ```python
 # processor.py
 process_filings(index_dir, output_csv, forms, sec_name, sec_email, ...)
-download_filing_txt(accession_number, output_path, sec_name, sec_email)
+download_filing_txt(cik, accession_number, output_path, sec_name, sec_email)
 
 # index.py
 download_indices(output_dir, session, start_year, start_quarter, ...)
