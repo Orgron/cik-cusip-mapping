@@ -132,7 +132,6 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 - Create a text file with one CIK per line
 - Use `--cik-filter` argument or `cik_filter_file` parameter
 - Example: `python main.py --cik-filter my_ciks.txt --all`
-- CIKs are normalized automatically (padding with zeros to 10 digits)
 - This significantly reduces processing time when tracking specific companies
 
 ## Testing

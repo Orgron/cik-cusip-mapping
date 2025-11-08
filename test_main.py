@@ -134,13 +134,15 @@ class TestDownloadIndex:
 
     def test_skip_if_exists(self):
         """Test that download is skipped if file exists."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False) as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False) as f:
             temp_path = f.name
             f.write("existing content")
 
         try:
             mock_session = Mock()
-            result = download_index(temp_path, mock_session, 2024, 1, skip_if_exists=True)
+            result = download_index(
+                temp_path, mock_session, 2024, 1, skip_if_exists=True
+            )
 
             assert result == temp_path
             # Session should not be used
@@ -160,16 +162,20 @@ class TestDownloadIndex:
             mock_session = Mock()
             mock_session.get.return_value = mock_response
 
-            result = download_index(output_path, mock_session, 2024, 1, skip_if_exists=False)
+            result = download_index(
+                output_path, mock_session, 2024, 1, skip_if_exists=False
+            )
 
             assert result == output_path
             assert os.path.exists(output_path)
-            with open(output_path, 'r') as f:
+            with open(output_path, "r") as f:
                 content = f.read()
             assert content == "Index content\nLine 2\n"
 
             # Verify correct URL was called
-            expected_url = "https://www.sec.gov/Archives/edgar/full-index/2024/QTR1/master.idx"
+            expected_url = (
+                "https://www.sec.gov/Archives/edgar/full-index/2024/QTR1/master.idx"
+            )
             mock_session.get.assert_called_once_with(expected_url)
 
     def test_download_404_error(self):
@@ -186,7 +192,9 @@ class TestDownloadIndex:
             mock_session = Mock()
             mock_session.get.return_value = mock_response
 
-            result = download_index(output_path, mock_session, 2024, 1, skip_if_exists=False)
+            result = download_index(
+                output_path, mock_session, 2024, 1, skip_if_exists=False
+            )
 
             # Should return None for 404
             assert result is None
@@ -220,7 +228,9 @@ class TestDownloadIndex:
             mock_session = Mock()
             mock_session.get.return_value = mock_response
 
-            result = download_index(output_path, mock_session, 2024, 1, skip_if_exists=False)
+            result = download_index(
+                output_path, mock_session, 2024, 1, skip_if_exists=False
+            )
 
             assert os.path.exists(output_path)
             assert os.path.exists(os.path.dirname(output_path))
@@ -229,8 +239,8 @@ class TestDownloadIndex:
 class TestDownloadIndices:
     """Test download_indices function."""
 
-    @patch('main.download_index')
-    @patch('time.sleep')
+    @patch("main.download_index")
+    @patch("time.sleep")
     def test_download_single_quarter(self, mock_sleep, mock_download):
         """Test downloading indices for a single quarter."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -238,17 +248,20 @@ class TestDownloadIndices:
 
             mock_session = Mock()
             result = download_indices(
-                tmpdir, mock_session,
-                start_year=2024, start_quarter=1,
-                end_year=2024, end_quarter=1,
-                skip_if_exists=False
+                tmpdir,
+                mock_session,
+                start_year=2024,
+                start_quarter=1,
+                end_year=2024,
+                end_quarter=1,
+                skip_if_exists=False,
             )
 
             assert len(result) == 1
             assert mock_download.call_count == 1
 
-    @patch('main.download_index')
-    @patch('time.sleep')
+    @patch("main.download_index")
+    @patch("time.sleep")
     def test_download_multiple_quarters(self, mock_sleep, mock_download):
         """Test downloading indices for multiple quarters."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -256,18 +269,21 @@ class TestDownloadIndices:
 
             mock_session = Mock()
             result = download_indices(
-                tmpdir, mock_session,
-                start_year=2023, start_quarter=3,
-                end_year=2024, end_quarter=2,
-                skip_if_exists=False
+                tmpdir,
+                mock_session,
+                start_year=2023,
+                start_quarter=3,
+                end_year=2024,
+                end_quarter=2,
+                skip_if_exists=False,
             )
 
             # Q3 2023, Q4 2023, Q1 2024, Q2 2024 = 4 quarters
             assert len(result) == 4
             assert mock_download.call_count == 4
 
-    @patch('main.download_index')
-    @patch('time.sleep')
+    @patch("main.download_index")
+    @patch("time.sleep")
     def test_download_full_year(self, mock_sleep, mock_download):
         """Test downloading all quarters for a year."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -275,18 +291,21 @@ class TestDownloadIndices:
 
             mock_session = Mock()
             result = download_indices(
-                tmpdir, mock_session,
-                start_year=2023, start_quarter=1,
-                end_year=2023, end_quarter=4,
-                skip_if_exists=False
+                tmpdir,
+                mock_session,
+                start_year=2023,
+                start_quarter=1,
+                end_year=2023,
+                end_quarter=4,
+                skip_if_exists=False,
             )
 
             assert len(result) == 4
             assert mock_download.call_count == 4
 
-    @patch('main.download_index')
-    @patch('main.datetime')
-    @patch('time.sleep')
+    @patch("main.download_index")
+    @patch("main.datetime")
+    @patch("time.sleep")
     def test_default_to_current(self, mock_sleep, mock_datetime, mock_download):
         """Test that defaults to current year/quarter."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -304,8 +323,8 @@ class TestDownloadIndices:
             # We don't check exact count due to complexity, just verify it was called
             assert mock_download.call_count > 0
 
-    @patch('main.download_index')
-    @patch('time.sleep')
+    @patch("main.download_index")
+    @patch("time.sleep")
     def test_skip_if_exists(self, mock_sleep, mock_download):
         """Test that skip_if_exists is passed through."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -313,27 +332,32 @@ class TestDownloadIndices:
 
             mock_session = Mock()
             download_indices(
-                tmpdir, mock_session,
-                start_year=2024, start_quarter=1,
-                end_year=2024, end_quarter=1,
-                skip_if_exists=True
+                tmpdir,
+                mock_session,
+                start_year=2024,
+                start_quarter=1,
+                end_year=2024,
+                end_quarter=1,
+                skip_if_exists=True,
             )
 
             # Check that skip_if_exists was passed
             call_args = mock_download.call_args
             # download_index is called as: download_index(output_path, session, year, quarter, skip_if_exists)
             # So skip_if_exists is the 5th positional argument (index 4)
-            if call_args.kwargs and 'skip_if_exists' in call_args.kwargs:
-                assert call_args.kwargs['skip_if_exists'] is True
+            if call_args.kwargs and "skip_if_exists" in call_args.kwargs:
+                assert call_args.kwargs["skip_if_exists"] is True
             else:
                 # Check positional args
                 assert len(call_args.args) >= 5
                 assert call_args.args[4] is True  # 5th arg is skip_if_exists
 
-    @patch('main.download_index')
-    @patch('main.datetime')
-    @patch('time.sleep')
-    def test_end_year_without_end_quarter(self, mock_sleep, mock_datetime, mock_download):
+    @patch("main.download_index")
+    @patch("main.datetime")
+    @patch("time.sleep")
+    def test_end_year_without_end_quarter(
+        self, mock_sleep, mock_datetime, mock_download
+    ):
         """Test that end_quarter defaults to 4 when end_year is specified without end_quarter."""
         with tempfile.TemporaryDirectory() as tmpdir:
             mock_now = Mock()
@@ -345,17 +369,20 @@ class TestDownloadIndices:
 
             mock_session = Mock()
             result = download_indices(
-                tmpdir, mock_session,
-                start_year=2023, start_quarter=1,
-                end_year=2023, end_quarter=None,  # Should default to 4
-                skip_if_exists=False
+                tmpdir,
+                mock_session,
+                start_year=2023,
+                start_quarter=1,
+                end_year=2023,
+                end_quarter=None,  # Should default to 4
+                skip_if_exists=False,
             )
 
             # Should download all 4 quarters of 2023
             assert len(result) == 4
 
-    @patch('main.download_index')
-    @patch('time.sleep')
+    @patch("main.download_index")
+    @patch("time.sleep")
     def test_handles_none_results(self, mock_sleep, mock_download):
         """Test that None results from download_index are filtered out."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -364,10 +391,13 @@ class TestDownloadIndices:
 
             mock_session = Mock()
             result = download_indices(
-                tmpdir, mock_session,
-                start_year=2024, start_quarter=1,
-                end_year=2024, end_quarter=4,
-                skip_if_exists=False
+                tmpdir,
+                mock_session,
+                start_year=2024,
+                start_quarter=1,
+                end_year=2024,
+                end_quarter=4,
+                skip_if_exists=False,
             )
 
             # Only non-None results should be in the list
@@ -379,15 +409,21 @@ class TestParseIndex:
 
     def test_parse_basic_entries(self):
         """Test parsing basic index entries."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.idx') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".idx") as f:
             # Write header (11 lines)
             for i in range(11):
                 f.write(f"Header line {i}\n")
 
             # Write some entries
-            f.write("0001234567|ACME CORPORATION|SC 13D|2024-01-15|edgar/data/1234567/0001234567-24-000001.txt\n")
-            f.write("0009876543|TEST COMPANY INC|SC 13G|2024-01-16|edgar/data/9876543/0009876543-24-000002.txt\n")
-            f.write("0001111111|OTHER CORP|8-K|2024-01-17|edgar/data/1111111/0001111111-24-000003.txt\n")
+            f.write(
+                "0001234567|ACME CORPORATION|SC 13D|2024-01-15|edgar/data/1234567/0001234567-24-000001.txt\n"
+            )
+            f.write(
+                "0009876543|TEST COMPANY INC|SC 13G|2024-01-16|edgar/data/9876543/0009876543-24-000002.txt\n"
+            )
+            f.write(
+                "0001111111|OTHER CORP|8-K|2024-01-17|edgar/data/1111111/0001111111-24-000003.txt\n"
+            )
             f.write("\n")  # Empty line
             temp_path = f.name
 
@@ -396,26 +432,30 @@ class TestParseIndex:
 
             assert len(results) == 2
 
-            assert results[0]['cik'] == '0001234567'
-            assert results[0]['company_name'] == 'ACME CORPORATION'
-            assert results[0]['form'] == 'SC 13D'
-            assert results[0]['date'] == '2024-01-15'
-            assert 'edgar/data/1234567/0001234567-24-000001.txt' in results[0]['url']
+            assert results[0]["cik"] == "0001234567"
+            assert results[0]["company_name"] == "ACME CORPORATION"
+            assert results[0]["form"] == "SC 13D"
+            assert results[0]["date"] == "2024-01-15"
+            assert "edgar/data/1234567/0001234567-24-000001.txt" in results[0]["url"]
 
-            assert results[1]['cik'] == '0009876543'
-            assert results[1]['form'] == 'SC 13G'
+            assert results[1]["cik"] == "0009876543"
+            assert results[1]["form"] == "SC 13G"
         finally:
             os.unlink(temp_path)
 
     def test_parse_amendments(self):
         """Test parsing amended forms (13D/A, 13G/A)."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.idx') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".idx") as f:
             for i in range(11):
                 f.write(f"Header {i}\n")
 
             # Amendment forms
-            f.write("0001234567|ACME CORP|SC 13D/A|2024-01-15|edgar/data/1234567/file.txt\n")
-            f.write("0009876543|TEST CO|SC 13G/A|2024-01-16|edgar/data/9876543/file.txt\n")
+            f.write(
+                "0001234567|ACME CORP|SC 13D/A|2024-01-15|edgar/data/1234567/file.txt\n"
+            )
+            f.write(
+                "0009876543|TEST CO|SC 13G/A|2024-01-16|edgar/data/9876543/file.txt\n"
+            )
             temp_path = f.name
 
         try:
@@ -428,7 +468,7 @@ class TestParseIndex:
 
     def test_parse_malformed_lines(self):
         """Test that malformed lines are skipped."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.idx') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".idx") as f:
             for i in range(11):
                 f.write(f"Header {i}\n")
 
@@ -452,7 +492,7 @@ class TestParseIndex:
 
     def test_parse_custom_forms(self):
         """Test parsing with custom form types."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.idx') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".idx") as f:
             for i in range(11):
                 f.write(f"Header {i}\n")
 
@@ -465,27 +505,29 @@ class TestParseIndex:
             results = parse_index(temp_path, forms=("8-K", "10-K"))
 
             assert len(results) == 2
-            assert results[0]['form'] == '8-K'
-            assert results[1]['form'] == '10-K'
+            assert results[0]["form"] == "8-K"
+            assert results[1]["form"] == "10-K"
         finally:
             os.unlink(temp_path)
 
     def test_parse_strips_whitespace(self):
         """Test that whitespace is stripped from fields."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.idx') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".idx") as f:
             for i in range(11):
                 f.write(f"Header {i}\n")
 
             # Entry with extra whitespace
-            f.write("  0001234567  |  ACME CORP  |  SC 13D  |  2024-01-15  |  edgar/data/file.txt  \n")
+            f.write(
+                "  0001234567  |  ACME CORP  |  SC 13D  |  2024-01-15  |  edgar/data/file.txt  \n"
+            )
             temp_path = f.name
 
         try:
             results = parse_index(temp_path, forms=("13D",))
 
             assert len(results) == 1
-            assert results[0]['cik'] == '0001234567'
-            assert results[0]['company_name'] == 'ACME CORP'
+            assert results[0]["cik"] == "0001234567"
+            assert results[0]["company_name"] == "ACME CORP"
         finally:
             os.unlink(temp_path)
 
@@ -495,7 +537,7 @@ class TestLoadCikFilter:
 
     def test_load_basic_ciks(self):
         """Test loading basic CIKs from file."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".txt") as f:
             f.write("1234567\n")
             f.write("9876543\n")
             f.write("123456789\n")
@@ -505,16 +547,15 @@ class TestLoadCikFilter:
             result = load_cik_filter(temp_path)
 
             assert len(result) == 3
-            # CIKs should be normalized to 10 digits
-            assert "0001234567" in result
-            assert "0009876543" in result
-            assert "0123456789" in result
+            assert "1234567" in result
+            assert "9876543" in result
+            assert "123456789" in result
         finally:
             os.unlink(temp_path)
 
     def test_load_with_whitespace(self):
         """Test that whitespace is stripped."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".txt") as f:
             f.write("  1234567  \n")
             f.write("\n")  # Empty line
             f.write("   9876543\n")
@@ -531,7 +572,7 @@ class TestLoadCikFilter:
 
     def test_load_already_padded(self):
         """Test loading CIKs that are already 10 digits."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".txt") as f:
             f.write("0001234567\n")
             f.write("0009876543\n")
             temp_path = f.name
@@ -547,7 +588,7 @@ class TestLoadCikFilter:
 
     def test_load_empty_lines(self):
         """Test that empty lines are skipped."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".txt") as f:
             f.write("1234567\n")
             f.write("\n")
             f.write("   \n")
@@ -563,7 +604,7 @@ class TestLoadCikFilter:
 
     def test_load_empty_file(self):
         """Test loading from an empty file."""
-        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+        with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".txt") as f:
             temp_path = f.name
 
         try:
@@ -587,8 +628,8 @@ class TestIsValidCusip:
             "A12345678",  # 9 chars with letter
             "1234567AB",  # 9 chars with letters at end
             "AB1234567",  # 9 chars with letters at start
-            "A123456789", # 10 chars, 9 digits + 1 letter
-            "X1234567",   # 8 chars with letter
+            "A123456789",  # 10 chars, 9 digits + 1 letter
+            "X1234567",  # 8 chars with letter
         ]
 
         for cusip in valid_cusips:
@@ -596,40 +637,40 @@ class TestIsValidCusip:
 
     def test_invalid_length(self):
         """Test that CUSIPs with invalid length are rejected."""
-        assert not is_valid_cusip("1234567")     # Too short (7)
-        assert not is_valid_cusip("12345678901") # Too long (11)
-        assert not is_valid_cusip("123")          # Too short
-        assert not is_valid_cusip("")             # Empty
+        assert not is_valid_cusip("1234567")  # Too short (7)
+        assert not is_valid_cusip("12345678901")  # Too long (11)
+        assert not is_valid_cusip("123")  # Too short
+        assert not is_valid_cusip("")  # Empty
 
     def test_non_alphanumeric(self):
         """Test that non-alphanumeric characters are rejected."""
-        assert not is_valid_cusip("12345-678")   # Has hyphen
-        assert not is_valid_cusip("123456 78")   # Has space
-        assert not is_valid_cusip("12345678!")   # Has special char
+        assert not is_valid_cusip("12345-678")  # Has hyphen
+        assert not is_valid_cusip("123456 78")  # Has space
+        assert not is_valid_cusip("12345678!")  # Has special char
 
     def test_insufficient_digits(self):
         """Test that CUSIPs without enough digits are rejected."""
-        assert not is_valid_cusip("ABCDEFGH")    # No digits
-        assert not is_valid_cusip("ABCD1234")    # Only 4 digits (need at least 5)
-        assert not is_valid_cusip("ABCDE123")    # Only 3 digits
+        assert not is_valid_cusip("ABCDEFGH")  # No digits
+        assert not is_valid_cusip("ABCD1234")  # Only 4 digits (need at least 5)
+        assert not is_valid_cusip("ABCDE123")  # Only 3 digits
 
     def test_false_positives(self):
         """Test that common false positives are rejected."""
-        assert not is_valid_cusip("00000000")    # All zeros
-        assert not is_valid_cusip("000000000")   # All zeros
+        assert not is_valid_cusip("00000000")  # All zeros
+        assert not is_valid_cusip("000000000")  # All zeros
         assert not is_valid_cusip("12345-6789")  # Zip code format
-        assert not is_valid_cusip("FILE12345")   # FILE prefix
-        assert not is_valid_cusip("PAGE12345")   # PAGE prefix
-        assert not is_valid_cusip("TABLE1234567") # TABLE prefix
+        assert not is_valid_cusip("FILE12345")  # FILE prefix
+        assert not is_valid_cusip("PAGE12345")  # PAGE prefix
+        assert not is_valid_cusip("TABLE1234567")  # TABLE prefix
 
     def test_edge_cases(self):
         """Test edge cases."""
         # Exactly 5 digits should be valid (8 char total)
-        assert is_valid_cusip("ABC12345")   # 5 digits, 3 letters, 8 chars total
+        assert is_valid_cusip("ABC12345")  # 5 digits, 3 letters, 8 chars total
         # Just below threshold (4 digits)
-        assert not is_valid_cusip("ABCD1234") # 4 digits
+        assert not is_valid_cusip("ABCD1234")  # 4 digits
         # Exactly at minimum length with 5 digits
-        assert is_valid_cusip("AB123456")   # 6 digits, but 8 chars total
+        assert is_valid_cusip("AB123456")  # 6 digits, but 8 chars total
 
 
 class TestExtractCusip:
@@ -753,11 +794,13 @@ class TestExtractCusip:
 class TestProcessFilings:
     """Test process_filings function."""
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_missing_credentials(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_missing_credentials(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test that ValueError is raised when credentials are missing."""
         with tempfile.TemporaryDirectory() as tmpdir:
             output_csv = os.path.join(tmpdir, "output.csv")
@@ -767,15 +810,17 @@ class TestProcessFilings:
                     index_dir=tmpdir,
                     output_csv=output_csv,
                     sec_name=None,
-                    sec_email=None
+                    sec_email=None,
                 )
 
-    @patch.dict(os.environ, {'SEC_NAME': 'Test User', 'SEC_EMAIL': 'test@example.com'})
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_credentials_from_env(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch.dict(os.environ, {"SEC_NAME": "Test User", "SEC_EMAIL": "test@example.com"})
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_credentials_from_env(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test that credentials are read from environment variables."""
         with tempfile.TemporaryDirectory() as tmpdir:
             output_csv = os.path.join(tmpdir, "output.csv")
@@ -788,19 +833,18 @@ class TestProcessFilings:
             mock_limiter.return_value = mock_limiter_instance
 
             # Should not raise
-            process_filings(
-                index_dir=tmpdir,
-                output_csv=output_csv
-            )
+            process_filings(index_dir=tmpdir, output_csv=output_csv)
 
             # Verify credentials were used
-            mock_session.assert_called_once_with('Test User', 'test@example.com')
+            mock_session.assert_called_once_with("Test User", "test@example.com")
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_no_indices_found(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_no_indices_found(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test handling when no indices are found."""
         with tempfile.TemporaryDirectory() as tmpdir:
             output_csv = os.path.join(tmpdir, "output.csv")
@@ -816,17 +860,19 @@ class TestProcessFilings:
                 index_dir=tmpdir,
                 output_csv=output_csv,
                 sec_name="Test",
-                sec_email="test@example.com"
+                sec_email="test@example.com",
             )
 
             # Should not crash, just print message
             mock_parse.assert_not_called()
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_successful_processing(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_successful_processing(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test successful end-to-end processing."""
         with tempfile.TemporaryDirectory() as tmpdir:
             index_path = os.path.join(tmpdir, "test.idx")
@@ -838,11 +884,11 @@ class TestProcessFilings:
             # Mock parsed entries
             mock_parse.return_value = [
                 {
-                    'cik': '0001234567',
-                    'company_name': 'ACME CORP',
-                    'form': 'SC 13D',
-                    'date': '2024-01-15',
-                    'url': 'https://www.sec.gov/Archives/edgar/data/file.txt',
+                    "cik": "0001234567",
+                    "company_name": "ACME CORP",
+                    "form": "SC 13D",
+                    "date": "2024-01-15",
+                    "url": "https://www.sec.gov/Archives/edgar/data/file.txt",
                 }
             ]
 
@@ -866,27 +912,29 @@ class TestProcessFilings:
                 output_csv=output_csv,
                 sec_name="Test",
                 sec_email="test@example.com",
-                requests_per_second=10.0
+                requests_per_second=10.0,
             )
 
             # Verify CSV was created
             assert os.path.exists(output_csv)
 
             # Verify CSV contents
-            with open(output_csv, 'r') as f:
+            with open(output_csv, "r") as f:
                 reader = csv.DictReader(f)
                 rows = list(reader)
 
             assert len(rows) == 1
-            assert rows[0]['cik'] == '0001234567'
-            assert rows[0]['company_name'] == 'ACME CORP'
-            assert rows[0]['cusip'] == '68389X105'
+            assert rows[0]["cik"] == "0001234567"
+            assert rows[0]["company_name"] == "ACME CORP"
+            assert rows[0]["cusip"] == "68389X105"
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_no_cusip_found(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_no_cusip_found(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test handling when no CUSIP is found in filing."""
         with tempfile.TemporaryDirectory() as tmpdir:
             index_path = os.path.join(tmpdir, "test.idx")
@@ -895,11 +943,11 @@ class TestProcessFilings:
             mock_download.return_value = [index_path]
             mock_parse.return_value = [
                 {
-                    'cik': '0001234567',
-                    'company_name': 'ACME CORP',
-                    'form': 'SC 13D',
-                    'date': '2024-01-15',
-                    'url': 'https://www.sec.gov/Archives/edgar/data/file.txt',
+                    "cik": "0001234567",
+                    "company_name": "ACME CORP",
+                    "form": "SC 13D",
+                    "date": "2024-01-15",
+                    "url": "https://www.sec.gov/Archives/edgar/data/file.txt",
                 }
             ]
 
@@ -919,21 +967,23 @@ class TestProcessFilings:
                 index_dir=tmpdir,
                 output_csv=output_csv,
                 sec_name="Test",
-                sec_email="test@example.com"
+                sec_email="test@example.com",
             )
 
             # CSV should exist but be empty (only header)
-            with open(output_csv, 'r') as f:
+            with open(output_csv, "r") as f:
                 reader = csv.DictReader(f)
                 rows = list(reader)
 
             assert len(rows) == 0
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_http_error_handling(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_http_error_handling(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test handling of HTTP errors during filing download."""
         with tempfile.TemporaryDirectory() as tmpdir:
             index_path = os.path.join(tmpdir, "test.idx")
@@ -942,11 +992,11 @@ class TestProcessFilings:
             mock_download.return_value = [index_path]
             mock_parse.return_value = [
                 {
-                    'cik': '0001234567',
-                    'company_name': 'ACME CORP',
-                    'form': 'SC 13D',
-                    'date': '2024-01-15',
-                    'url': 'https://www.sec.gov/Archives/edgar/data/file.txt',
+                    "cik": "0001234567",
+                    "company_name": "ACME CORP",
+                    "form": "SC 13D",
+                    "date": "2024-01-15",
+                    "url": "https://www.sec.gov/Archives/edgar/data/file.txt",
                 }
             ]
 
@@ -964,16 +1014,16 @@ class TestProcessFilings:
                 index_dir=tmpdir,
                 output_csv=output_csv,
                 sec_name="Test",
-                sec_email="test@example.com"
+                sec_email="test@example.com",
             )
 
             # CSV should be created (empty)
             assert os.path.exists(output_csv)
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
     def test_custom_forms(self, mock_limiter, mock_session, mock_parse, mock_download):
         """Test processing with custom form types."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -995,7 +1045,7 @@ class TestProcessFilings:
                 output_csv=output_csv,
                 forms=("10-K", "10-Q"),
                 sec_name="Test",
-                sec_email="test@example.com"
+                sec_email="test@example.com",
             )
 
             # Verify custom forms were passed to parse_index
@@ -1004,17 +1054,19 @@ class TestProcessFilings:
             # Check the second argument (forms tuple)
             call_args = mock_parse.call_args
             if call_args.kwargs:
-                assert call_args.kwargs.get('forms') == ("10-K", "10-Q")
+                assert call_args.kwargs.get("forms") == ("10-K", "10-Q")
             else:
                 # Check positional args
                 assert len(call_args.args) >= 2
                 assert call_args.args[1] == ("10-K", "10-Q")
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_session_closed(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_session_closed(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test that session is properly closed."""
         with tempfile.TemporaryDirectory() as tmpdir:
             output_csv = os.path.join(tmpdir, "output.csv")
@@ -1032,17 +1084,19 @@ class TestProcessFilings:
                 index_dir=tmpdir,
                 output_csv=output_csv,
                 sec_name="Test",
-                sec_email="test@example.com"
+                sec_email="test@example.com",
             )
 
             # Verify session was closed
             mock_session_instance.close.assert_called_once()
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_creates_output_directory(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_creates_output_directory(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test that output directory is created if needed."""
         with tempfile.TemporaryDirectory() as tmpdir:
             index_path = os.path.join(tmpdir, "test.idx")
@@ -1063,16 +1117,16 @@ class TestProcessFilings:
                 index_dir=tmpdir,
                 output_csv=output_csv,
                 sec_name="Test",
-                sec_email="test@example.com"
+                sec_email="test@example.com",
             )
 
             # Verify directory was created
             assert os.path.exists(os.path.dirname(output_csv))
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
     def test_cik_filter(self, mock_limiter, mock_session, mock_parse, mock_download):
         """Test that CIK filter works correctly."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -1081,24 +1135,24 @@ class TestProcessFilings:
             cik_filter_path = os.path.join(tmpdir, "ciks.txt")
 
             # Create CIK filter file
-            with open(cik_filter_path, 'w') as f:
+            with open(cik_filter_path, "w") as f:
                 f.write("1234567\n")  # Will be normalized to 0001234567
 
             mock_download.return_value = [index_path]
             mock_parse.return_value = [
                 {
-                    'cik': '0001234567',
-                    'company_name': 'ACME CORP',
-                    'form': 'SC 13D',
-                    'date': '2024-01-15',
-                    'url': 'https://www.sec.gov/Archives/edgar/data/file1.txt',
+                    "cik": "0001234567",
+                    "company_name": "ACME CORP",
+                    "form": "SC 13D",
+                    "date": "2024-01-15",
+                    "url": "https://www.sec.gov/Archives/edgar/data/file1.txt",
                 },
                 {
-                    'cik': '0009876543',
-                    'company_name': 'OTHER CORP',
-                    'form': 'SC 13D',
-                    'date': '2024-01-16',
-                    'url': 'https://www.sec.gov/Archives/edgar/data/file2.txt',
+                    "cik": "0009876543",
+                    "company_name": "OTHER CORP",
+                    "form": "SC 13D",
+                    "date": "2024-01-16",
+                    "url": "https://www.sec.gov/Archives/edgar/data/file2.txt",
                 },
             ]
 
@@ -1119,7 +1173,7 @@ class TestProcessFilings:
                 output_csv=output_csv,
                 sec_name="Test",
                 sec_email="test@example.com",
-                cik_filter_file=cik_filter_path
+                cik_filter_file=cik_filter_path,
             )
 
             # Verify only one filing was processed (the one matching the filter)
@@ -1129,18 +1183,20 @@ class TestProcessFilings:
             assert os.path.exists(output_csv)
 
             # Verify CSV contents - should only have 1 entry
-            with open(output_csv, 'r') as f:
+            with open(output_csv, "r") as f:
                 reader = csv.DictReader(f)
                 rows = list(reader)
 
             assert len(rows) == 1
-            assert rows[0]['cik'] == '0001234567'
+            assert rows[0]["cik"] == "0001234567"
 
-    @patch('main.download_indices')
-    @patch('main.parse_index')
-    @patch('main.create_session')
-    @patch('main.RateLimiter')
-    def test_rate_limiter_used(self, mock_limiter, mock_session, mock_parse, mock_download):
+    @patch("main.download_indices")
+    @patch("main.parse_index")
+    @patch("main.create_session")
+    @patch("main.RateLimiter")
+    def test_rate_limiter_used(
+        self, mock_limiter, mock_session, mock_parse, mock_download
+    ):
         """Test that rate limiter is properly used."""
         with tempfile.TemporaryDirectory() as tmpdir:
             index_path = os.path.join(tmpdir, "test.idx")
@@ -1149,11 +1205,11 @@ class TestProcessFilings:
             mock_download.return_value = [index_path]
             mock_parse.return_value = [
                 {
-                    'cik': '0001234567',
-                    'company_name': 'ACME CORP',
-                    'form': 'SC 13D',
-                    'date': '2024-01-15',
-                    'url': 'https://www.sec.gov/Archives/edgar/data/file.txt',
+                    "cik": "0001234567",
+                    "company_name": "ACME CORP",
+                    "form": "SC 13D",
+                    "date": "2024-01-15",
+                    "url": "https://www.sec.gov/Archives/edgar/data/file.txt",
                 }
             ]
 
@@ -1174,7 +1230,7 @@ class TestProcessFilings:
                 output_csv=output_csv,
                 sec_name="Test",
                 sec_email="test@example.com",
-                requests_per_second=5.0
+                requests_per_second=5.0,
             )
 
             # Verify rate limiter was created with correct rate
@@ -1189,24 +1245,29 @@ class TestMain:
     def test_main_help(self):
         """Test that --help works."""
         import subprocess
+
         result = subprocess.run(
-            ['python', 'main.py', '--help'],
+            ["python", "main.py", "--help"],
             capture_output=True,
             text=True,
-            cwd='/home/user/cik-cusip-mapping'
+            cwd="/home/user/cik-cusip-mapping",
         )
         assert result.returncode == 0
-        assert 'Extract CUSIPs from SEC 13D/13G filings' in result.stdout
+        assert "Extract CUSIPs from SEC 13D/13G filings" in result.stdout
 
     def test_main_missing_credentials(self):
         """Test that script fails without credentials."""
         import subprocess
+
         result = subprocess.run(
-            ['python', 'main.py'],
+            ["python", "main.py"],
             capture_output=True,
             text=True,
-            cwd='/home/user/cik-cusip-mapping'
+            cwd="/home/user/cik-cusip-mapping",
         )
         # Should fail with missing credentials
         assert result.returncode != 0
-        assert 'SEC credentials required' in result.stderr or 'SEC credentials required' in result.stdout
+        assert (
+            "SEC credentials required" in result.stderr
+            or "SEC credentials required" in result.stdout
+        )

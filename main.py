@@ -73,15 +73,23 @@ def create_session(sec_name: str, sec_email: str) -> requests.Session:
     session.mount("http://", adapter)
 
     # Set SEC-compliant headers
-    session.headers.update({
-        "User-Agent": f"CIK-CUSIP-Mapping/2.0 {sec_name} {sec_email}",
-        "From": sec_email,
-    })
+    session.headers.update(
+        {
+            "User-Agent": f"CIK-CUSIP-Mapping/2.0 {sec_name} {sec_email}",
+            "From": sec_email,
+        }
+    )
 
     return session
 
 
-def download_index(output_path: str, session: requests.Session, year: int, quarter: int, skip_if_exists: bool = True) -> Optional[str]:
+def download_index(
+    output_path: str,
+    session: requests.Session,
+    year: int,
+    quarter: int,
+    skip_if_exists: bool = True,
+) -> Optional[str]:
     """
     Download SEC master index file for a specific year and quarter.
 
@@ -99,7 +107,9 @@ def download_index(output_path: str, session: requests.Session, year: int, quart
         print(f"Index already exists at {output_path}, skipping download")
         return output_path
 
-    url = f"https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{quarter}/master.idx"
+    url = (
+        f"https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{quarter}/master.idx"
+    )
 
     print(f"Downloading index from {url}...")
     try:
@@ -107,7 +117,7 @@ def download_index(output_path: str, session: requests.Session, year: int, quart
         response.raise_for_status()
 
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        with open(output_path, 'w', encoding='utf-8') as f:
+        with open(output_path, "w", encoding="utf-8") as f:
             f.write(response.text)
 
         print(f"Index downloaded to {output_path}")
@@ -119,10 +129,15 @@ def download_index(output_path: str, session: requests.Session, year: int, quart
         raise
 
 
-def download_indices(output_dir: str, session: requests.Session,
-                     start_year: int = None, start_quarter: int = 1,
-                     end_year: int = None, end_quarter: int = None,
-                     skip_if_exists: bool = True) -> list[str]:
+def download_indices(
+    output_dir: str,
+    session: requests.Session,
+    start_year: int = None,
+    start_quarter: int = 1,
+    end_year: int = None,
+    end_quarter: int = None,
+    skip_if_exists: bool = True,
+) -> list[str]:
     """
     Download multiple SEC master index files for a range of years/quarters.
 
@@ -148,7 +163,9 @@ def download_indices(output_dir: str, session: requests.Session,
     elif end_quarter is None:
         end_quarter = 4
 
-    print(f"\nDownloading indices from {start_year} Q{start_quarter} to {end_year} Q{end_quarter}...")
+    print(
+        f"\nDownloading indices from {start_year} Q{start_quarter} to {end_year} Q{end_quarter}..."
+    )
 
     index_paths = []
     os.makedirs(output_dir, exist_ok=True)
@@ -189,7 +206,7 @@ def parse_index(index_path: str, forms: tuple = ("13D", "13G")) -> list[dict]:
     """
     entries = []
 
-    with open(index_path, 'r', encoding='utf-8') as f:
+    with open(index_path, "r", encoding="utf-8") as f:
         # Skip header lines (first 11 lines are header)
         for _ in range(11):
             next(f, None)
@@ -200,23 +217,25 @@ def parse_index(index_path: str, forms: tuple = ("13D", "13G")) -> list[dict]:
                 continue
 
             # Parse fixed-width format: CIK|Company Name|Form Type|Date Filed|Filename
-            parts = line.split('|')
+            parts = line.split("|")
             if len(parts) != 5:
                 continue
 
             cik, company_name, form_type, date, filename = parts
 
             # Normalize form type (remove SC prefix and /A suffix for matching)
-            normalized_form = form_type.replace('SC ', '').split('/')[0].strip()
+            normalized_form = form_type.replace("SC ", "").split("/")[0].strip()
 
             if normalized_form in forms:
-                entries.append({
-                    'cik': cik.strip(),
-                    'company_name': company_name.strip(),
-                    'form': form_type.strip(),
-                    'date': date.strip(),
-                    'url': f"https://www.sec.gov/Archives/{filename.strip()}",
-                })
+                entries.append(
+                    {
+                        "cik": cik.strip(),
+                        "company_name": company_name.strip(),
+                        "form": form_type.strip(),
+                        "date": date.strip(),
+                        "url": f"https://www.sec.gov/Archives/{filename.strip()}",
+                    }
+                )
 
     return entries
 
@@ -235,17 +254,17 @@ def extract_cusip(text: str) -> Optional[str]:
         CUSIP string if found, None otherwise
     """
     # Clean HTML entities and tags
-    text = re.sub(r'&[a-z]+;', ' ', text, flags=re.IGNORECASE)
-    text = re.sub(r'<[^>]+>', ' ', text)
+    text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
 
     # CUSIP pattern: 8-10 alphanumeric characters with at least 5 digits
-    cusip_pattern = r'\b[A-Z0-9]{8,10}\b'
+    cusip_pattern = r"\b[A-Z0-9]{8,10}\b"
 
     # Window method: Look for explicit CUSIP markers
     cusip_markers = [
-        r'CUSIP\s+(?:NO\.?|NUMBER|#)',
-        r'CUSIP:',
-        r'\bCUSIP\b',
+        r"CUSIP\s+(?:NO\.?|NUMBER|#)",
+        r"CUSIP:",
+        r"\bCUSIP\b",
     ]
 
     for marker in cusip_markers:
@@ -277,7 +296,7 @@ def extract_cusip(text: str) -> Optional[str]:
 
         score = 0
         # Prefer candidates with letters (more specific than all digits)
-        if re.search(r'[A-Z]', candidate):
+        if re.search(r"[A-Z]", candidate):
             score += 10
         # Prefer 9-character CUSIPs
         if len(candidate) == 9:
@@ -317,11 +336,11 @@ def is_valid_cusip(candidate: str) -> bool:
 
     # Exclude common false positives
     false_positives = [
-        r'^0+$',  # All zeros
-        r'^\d{5}-?\d{4}$',  # Zip codes
-        r'FILE',  # Filename patterns
-        r'PAGE',
-        r'TABLE',
+        r"^0+$",  # All zeros
+        r"^\d{5}-?\d{4}$",  # Zip codes
+        r"FILE",  # Filename patterns
+        r"PAGE",
+        r"TABLE",
     ]
 
     for pattern in false_positives:
@@ -339,15 +358,14 @@ def load_cik_filter(cik_filter_file: str) -> set:
         cik_filter_file: Path to text file containing CIKs (one per line)
 
     Returns:
-        Set of CIKs to filter for (normalized to 10-digit format)
+        Set of CIKs to filter for
     """
     ciks = set()
-    with open(cik_filter_file, 'r', encoding='utf-8') as f:
+    with open(cik_filter_file, "r", encoding="utf-8") as f:
         for line in f:
             cik = line.strip()
             if cik:
                 # Normalize CIK to 10-digit format with leading zeros
-                cik = cik.zfill(10)
                 ciks.add(cik)
     return ciks
 
@@ -384,8 +402,8 @@ def process_filings(
         cik_filter_file: Optional path to text file with CIKs to filter (one per line)
     """
     # Get SEC credentials from env vars if not provided
-    sec_name = sec_name or os.environ.get('SEC_NAME')
-    sec_email = sec_email or os.environ.get('SEC_EMAIL')
+    sec_name = sec_name or os.environ.get("SEC_NAME")
+    sec_email = sec_email or os.environ.get("SEC_EMAIL")
 
     if not sec_name or not sec_email:
         raise ValueError(
@@ -406,12 +424,13 @@ def process_filings(
     try:
         # Step 1: Download indices
         index_paths = download_indices(
-            index_dir, session,
+            index_dir,
+            session,
             start_year=start_year,
             start_quarter=start_quarter,
             end_year=end_year,
             end_quarter=end_quarter,
-            skip_if_exists=skip_index_download
+            skip_if_exists=skip_index_download,
         )
 
         if not index_paths:
@@ -429,8 +448,10 @@ def process_filings(
         # Step 2.5: Apply CIK filter if provided
         if cik_filter:
             original_count = len(entries)
-            entries = [entry for entry in entries if entry['cik'] in cik_filter]
-            print(f"Filtered to {len(entries)} filings matching {len(cik_filter)} CIKs (removed {original_count - len(entries)} filings)")
+            entries = [entry for entry in entries if entry["cik"] in cik_filter]
+            print(
+                f"Filtered to {len(entries)} filings matching {len(cik_filter)} CIKs (removed {original_count - len(entries)} filings)"
+            )
 
         # Step 3: Process each filing
         results = []
@@ -448,20 +469,22 @@ def process_filings(
 
             try:
                 # Download filing
-                response = session.get(entry['url'])
+                response = session.get(entry["url"])
                 response.raise_for_status()
 
                 # Parse CUSIP from filing text
                 cusip = extract_cusip(response.text)
 
                 if cusip:
-                    results.append({
-                        'cik': entry['cik'],
-                        'company_name': entry['company_name'],
-                        'form': entry['form'],
-                        'date': entry['date'],
-                        'cusip': cusip,
-                    })
+                    results.append(
+                        {
+                            "cik": entry["cik"],
+                            "company_name": entry["company_name"],
+                            "form": entry["form"],
+                            "date": entry["date"],
+                            "cusip": cusip,
+                        }
+                    )
                     status = f"✓ CUSIP: {cusip}"
                 else:
                     failed_count += 1
@@ -483,7 +506,7 @@ def process_filings(
                 eta_str = "calculating..."
 
             # Format company name (truncate if too long)
-            company = entry['company_name'][:30]
+            company = entry["company_name"][:30]
 
             # Print progress bar (overwrite previous line)
             progress_line = (
@@ -492,55 +515,100 @@ def process_filings(
                 f"Success: {len(results)} | Failed: {failed_count} | "
                 f"Latest: {company} - {status}"
             )
-            print(progress_line, end='', flush=True)
+            print(progress_line, end="", flush=True)
 
         # Print newline after progress bar completes
         print()
 
         # Step 4: Write results to CSV
         print(f"\nWriting {len(results)} results to {output_csv}")
-        with open(output_csv, 'w', newline='', encoding='utf-8') as f:
+        with open(output_csv, "w", newline="", encoding="utf-8") as f:
             if results:
-                writer = csv.DictWriter(f, fieldnames=['cik', 'company_name', 'form', 'date', 'cusip'])
+                writer = csv.DictWriter(
+                    f, fieldnames=["cik", "company_name", "form", "date", "cusip"]
+                )
                 writer.writeheader()
                 writer.writerows(results)
 
-        print(f"✓ Complete! Extracted {len(results)} CUSIPs from {len(entries)} filings")
+        print(
+            f"✓ Complete! Extracted {len(results)} CUSIPs from {len(entries)} filings"
+        )
         if len(entries) > 0:
-            print(f"  Success: {len(results)} | Failed: {failed_count} | Success rate: {len(results)/len(entries)*100:.1f}%")
+            print(
+                f"  Success: {len(results)} | Failed: {failed_count} | Success rate: {len(results) / len(entries) * 100:.1f}%"
+            )
 
     finally:
         session.close()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(
-        description='Extract CUSIPs from SEC 13D/13G filings',
-        epilog='Examples:\n'
-               '  # Download all historical indices (1993 to present)\n'
-               '  python main.py --all\n\n'
-               '  # Download indices for 2020-2024\n'
-               '  python main.py --start-year 2020 --end-year 2024\n\n'
-               '  # Download specific quarter range\n'
-               '  python main.py --start-year 2023 --start-quarter 3 --end-year 2024 --end-quarter 2\n',
-        formatter_class=argparse.RawDescriptionHelpFormatter
+        description="Extract CUSIPs from SEC 13D/13G filings",
+        epilog="Examples:\n"
+        "  # Download all historical indices (1993 to present)\n"
+        "  python main.py --all\n\n"
+        "  # Download indices for 2020-2024\n"
+        "  python main.py --start-year 2020 --end-year 2024\n\n"
+        "  # Download specific quarter range\n"
+        "  python main.py --start-year 2023 --start-quarter 3 --end-year 2024 --end-quarter 2\n",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    parser.add_argument('--index-dir', default='data/indices', help='Directory for index files (default: data/indices)')
-    parser.add_argument('--output', default='data/cusips.csv', help='Path to output CSV (default: data/cusips.csv)')
-    parser.add_argument('--skip-index', action='store_true', help='Skip index download if files exist')
-    parser.add_argument('--sec-name', help='Your name for SEC User-Agent (or set SEC_NAME env var)')
-    parser.add_argument('--sec-email', help='Your email for SEC headers (or set SEC_EMAIL env var)')
-    parser.add_argument('--rate', type=float, default=10.0, help='Requests per second (default: 10)')
-    parser.add_argument('--cik-filter', help='Path to text file with CIKs to filter (one per line)')
+    parser.add_argument(
+        "--index-dir",
+        default="data/indices",
+        help="Directory for index files (default: data/indices)",
+    )
+    parser.add_argument(
+        "--output",
+        default="data/cusips.csv",
+        help="Path to output CSV (default: data/cusips.csv)",
+    )
+    parser.add_argument(
+        "--skip-index", action="store_true", help="Skip index download if files exist"
+    )
+    parser.add_argument(
+        "--sec-name", help="Your name for SEC User-Agent (or set SEC_NAME env var)"
+    )
+    parser.add_argument(
+        "--sec-email", help="Your email for SEC headers (or set SEC_EMAIL env var)"
+    )
+    parser.add_argument(
+        "--rate", type=float, default=10.0, help="Requests per second (default: 10)"
+    )
+    parser.add_argument(
+        "--cik-filter", help="Path to text file with CIKs to filter (one per line)"
+    )
 
     # Year/quarter range arguments
-    parser.add_argument('--all', action='store_true', help='Download all available indices (1993 to present)')
-    parser.add_argument('--start-year', type=int, help='Starting year (default: current year if not --all)')
-    parser.add_argument('--start-quarter', type=int, choices=[1, 2, 3, 4], default=1, help='Starting quarter 1-4 (default: 1)')
-    parser.add_argument('--end-year', type=int, help='Ending year (default: current year)')
-    parser.add_argument('--end-quarter', type=int, choices=[1, 2, 3, 4], help='Ending quarter 1-4 (default: current quarter)')
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="Download all available indices (1993 to present)",
+    )
+    parser.add_argument(
+        "--start-year",
+        type=int,
+        help="Starting year (default: current year if not --all)",
+    )
+    parser.add_argument(
+        "--start-quarter",
+        type=int,
+        choices=[1, 2, 3, 4],
+        default=1,
+        help="Starting quarter 1-4 (default: 1)",
+    )
+    parser.add_argument(
+        "--end-year", type=int, help="Ending year (default: current year)"
+    )
+    parser.add_argument(
+        "--end-quarter",
+        type=int,
+        choices=[1, 2, 3, 4],
+        help="Ending quarter 1-4 (default: current quarter)",
+    )
 
     args = parser.parse_args()
 
@@ -559,8 +627,12 @@ if __name__ == '__main__':
             start_quarter = current_quarter
             end_year = current_year
             end_quarter = current_quarter
-            print(f"No year range specified, defaulting to current quarter: {current_year} Q{current_quarter}")
-            print("Use --all to download all historical indices, or specify --start-year/--end-year")
+            print(
+                f"No year range specified, defaulting to current quarter: {current_year} Q{current_quarter}"
+            )
+            print(
+                "Use --all to download all historical indices, or specify --start-year/--end-year"
+            )
         else:
             start_year = args.start_year
             start_quarter = args.start_quarter

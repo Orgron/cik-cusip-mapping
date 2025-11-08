@@ -262,7 +262,7 @@ The CUSIP extraction algorithm:
 
 You can filter filings to process only specific CIKs by providing a text file with the `--cik-filter` option:
 
-1. Create a text file with one CIK per line (CIKs can be any length and will be normalized):
+1. Create a text file with one CIK per line:
    ```
    1234567
    9876543
