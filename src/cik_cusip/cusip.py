@@ -29,18 +29,22 @@ def extract_cusip(text: str) -> Optional[str]:
 
     # Clean HTML entities and tags
     # First, normalize CUSIPs with various separators (dashes, spaces, &nbsp;)
+    # IMPORTANT: Apply patterns in specific order, most specific first, to avoid
+    # partial matches that could destroy valid CUSIPs
 
     # Pattern 1: CUSIPs with dashes in various formats
+    # Use word boundaries to prevent matching partial CUSIPs with following text
     # 1a: Standard format with digits: "80004C-10-1" → "80004C101"
-    text = re.sub(r'([A-Z0-9]{6})[\s\-]+(\d{1,2})[\s\-]+(\d)', r'\1\2\3', text, flags=re.IGNORECASE)
+    text = re.sub(r'\b([A-Z0-9]{6})[\s\-]+(\d{1,2})[\s\-]+(\d)\b', r'\1\2\3', text, flags=re.IGNORECASE)
     # 1b: With letters at end: "461148-AA6" → "461148AA6"
-    text = re.sub(r'([A-Z0-9]{6})[\s\-]+([A-Z0-9]{2,3})', r'\1\2', text, flags=re.IGNORECASE)
+    text = re.sub(r'\b([A-Z0-9]{6})[\s\-]+([A-Z0-9]{2,3})\b', r'\1\2', text, flags=re.IGNORECASE)
     # 1c: Unusual positions: "922-57T-202" → "92257T202"
-    text = re.sub(r'([A-Z0-9]{3})[\s\-]+([A-Z0-9]{3})[\s\-]+([A-Z0-9]{3})', r'\1\2\3', text, flags=re.IGNORECASE)
+    # Must have word boundaries to avoid matching "106\n\nChe"
+    text = re.sub(r'\b([A-Z0-9]{3})[\s\-]+([A-Z0-9]{3})[\s\-]+([A-Z0-9]{3})\b', r'\1\2\3', text, flags=re.IGNORECASE)
 
     # Pattern 2: CUSIPs with spaces/&nbsp; - e.g., "518439 10 4" or "563 118 108"
     # Already handled by Pattern 1c for 3-3-3 format
-    text = re.sub(r'([A-Z0-9]{6})[\s&nbsp;]+([A-Z0-9]{2})[\s&nbsp;]+([A-Z0-9])', r'\1\2\3', text, flags=re.IGNORECASE)
+    text = re.sub(r'\b([A-Z0-9]{6})[\s&nbsp;]+([A-Z0-9]{2})[\s&nbsp;]+([A-Z0-9])\b', r'\1\2\3', text, flags=re.IGNORECASE)
 
     # Pattern 3: Remove parentheses around CUSIPs - e.g., "(736420100)" → "736420100"
     text = re.sub(r'\(([A-Z0-9]{8,10})\)', r'\1', text)
@@ -53,8 +57,11 @@ def extract_cusip(text: str) -> Optional[str]:
     text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
 
-    # CUSIP pattern: 8-10 alphanumeric characters (but will validate separately)
-    cusip_pattern = r"\b[A-Z0-9]{8,10}\b"
+    # CUSIP pattern: 8-10 alphanumeric characters
+    # IMPORTANT: Must contain at least one digit to avoid matching English words
+    # like "WASHINGTON", "remainder", etc.
+    # This pattern requires at least one digit anywhere in the string
+    cusip_pattern = r"\b(?=\w*\d)[A-Z0-9]{8,10}\b"
 
     # Window method: Look for explicit CUSIP markers
     cusip_markers = [
@@ -80,15 +87,15 @@ def extract_cusip(text: str) -> Optional[str]:
             forward_start = match.end()
             forward_end = min(len(text), match.end() + 200)
             forward_window = text[forward_start:forward_end]
-            for m in re.finditer(cusip_pattern, forward_window):
+            for m in re.finditer(cusip_pattern, forward_window, re.IGNORECASE):
                 distance = m.start()  # Distance from marker end
                 all_candidates.append((distance, m.group(), 'forward'))
 
-            # Backward window (100 chars)
-            backward_start = max(0, match.start() - 100)
+            # Backward window (300 chars - increased to catch CUSIPs in previous table rows)
+            backward_start = max(0, match.start() - 300)
             backward_end = match.start()
             backward_window = text[backward_start:backward_end]
-            for m in re.finditer(cusip_pattern, backward_window):
+            for m in re.finditer(cusip_pattern, backward_window, re.IGNORECASE):
                 distance = (backward_end - backward_start) - m.end()  # Distance from marker start
                 all_candidates.append((distance, m.group(), 'backward'))
 
