@@ -1,7 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "cik-cusip-mapping"
 version = "2.0.0"
-description = "Simple tool for extracting CUSIPs from SEC 13D/13G filings."
+description = "CLI tool for extracting CUSIPs from SEC 13D/13G filings."
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
@@ -22,6 +26,7 @@ classifiers = [
 ]
 dependencies = [
   "requests>=2.0",
+  "click>=8.0",
 ]
 
 [project.urls]
@@ -33,3 +38,12 @@ dev = [
   "pytest>=7.0",
   "pytest-cov>=4.0",
 ]
+
+[project.scripts]
+cik-cusip = "cik_cusip.cli:cli"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

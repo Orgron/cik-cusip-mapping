@@ -4,26 +4,89 @@ This document provides guidance for AI agents (like Claude) working with the CIK
 
 ## Project Overview
 
-This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filings. The tool:
+This is a professional Python CLI tool that extracts CUSIP identifiers from SEC 13D and 13G filings. The tool:
 - Downloads SEC EDGAR master indices for specified time periods
 - Filters for 13D/13G forms
 - Downloads each filing and extracts CUSIP identifiers
-- Writes results to CSV
+- Extracts accession numbers from filing URLs
+- Writes results to CSV with CIK, company name, form type, date, CUSIP, and accession number
+- Provides a CLI command to download individual filings by accession number
 - Respects SEC rate limits and authorization requirements
+
+## Project Structure
+
+```
+cik-cusip-mapping/
+├── src/
+│   └── cik_cusip/               # Main package
+│       ├── __init__.py          # Package exports
+│       ├── cli.py               # CLI commands (extract, download)
+│       ├── rate_limiter.py      # Token bucket rate limiter
+│       ├── session.py           # SEC-compliant session creation
+│       ├── index.py             # Index download/parsing + accession extraction
+│       ├── cusip.py             # CUSIP extraction and validation
+│       ├── processor.py         # Main processing orchestration
+│       └── utils.py             # Utility functions (CIK filter)
+├── tests/                       # Comprehensive test suite
+│   ├── test_cli.py
+│   ├── test_rate_limiter.py
+│   ├── test_session.py
+│   ├── test_index.py
+│   ├── test_cusip.py
+│   ├── test_processor.py
+│   └── test_utils.py
+├── pyproject.toml               # Package config with CLI entry points
+├── README.md                    # User-facing documentation
+└── AGENTS.md                    # This file
+```
 
 ## Key Files
 
-- `main.py`: Core functionality
-  - `RateLimiter` class: Token bucket rate limiting
-  - `create_session()`: Creates SEC-compliant HTTP session
-  - `download_indices()`: Downloads multiple index files
-  - `parse_index()`: Parses index files for target forms
-  - `extract_cusip()`: Extracts CUSIP from filing text using pattern matching
-  - `load_cik_filter()`: Loads CIK filter from text file
-  - `process_filings()`: Main orchestration function with progress display
-- `test_main.py`: Comprehensive pytest test suite with 100% coverage
-- `README.md`: User-facing documentation
-- `.gitignore`: Excludes data/, pytest, and coverage files
+### src/cik_cusip/cli.py
+- Main CLI interface using Click framework
+- Two commands:
+  - `cik-cusip extract`: Extract CUSIPs from filings (main functionality)
+  - `cik-cusip download`: Download filing by accession number
+- Handles command-line arguments and environment variables
+
+### src/cik_cusip/rate_limiter.py
+- `RateLimiter` class: Thread-safe token bucket rate limiter
+- Default: 10 requests/second
+- Critical for SEC compliance
+
+### src/cik_cusip/session.py
+- `create_session()`: Creates SEC-compliant HTTP session
+- Sets proper User-Agent and From headers
+- Configures retry strategy with exponential backoff
+
+### src/cik_cusip/index.py
+- `download_index()`: Downloads single index file
+- `download_indices()`: Downloads multiple indices for year/quarter range
+- `parse_index()`: Parses index files and filters for target forms
+- `extract_accession_number()`: Extracts accession number from URL
+
+### src/cik_cusip/cusip.py
+- `extract_cusip()`: Two-phase CUSIP extraction (window-based + fallback)
+- `is_valid_cusip()`: Multi-layered validation with strict/lenient modes
+
+### src/cik_cusip/processor.py
+- `process_filings()`: Main orchestration function with progress display
+- `download_filing_txt()`: Downloads filing by accession number
+- Handles CSV output with accession numbers
+
+### src/cik_cusip/utils.py
+- `load_cik_filter()`: Loads CIK filter from text file
+
+### tests/
+- Comprehensive pytest test suite
+- Tests all modules with mocking for external dependencies
+- Aim to maintain high test coverage
+
+### pyproject.toml
+- Package configuration with setuptools
+- CLI entry point: `cik-cusip = "cik_cusip.cli:cli"`
+- Dependencies: requests, click
+- Dev dependencies: pytest, pytest-cov
 
 ## Critical Constraints
 
@@ -55,22 +118,25 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 
 ### Data Flow
 
-1. **Index Download** (`download_indices`)
+1. **Index Download** (`index.download_indices`)
    - Fetches master.idx files from SEC EDGAR
    - Format: `https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{quarter}/master.idx`
    - Supports year/quarter ranges (1993-present)
 
-2. **Index Parsing** (`parse_index`)
+2. **Index Parsing** (`index.parse_index`)
    - Parses fixed-width pipe-delimited format
    - Skips first 11 header lines
    - Fields: CIK|Company Name|Form Type|Date Filed|Filename
    - Normalizes form types (removes "SC" prefix, "/A" suffix)
+   - Extracts accession numbers from URLs
 
-3. **Filing Download & Extraction** (`process_filings`)
+3. **Filing Download & Extraction** (`processor.process_filings`)
    - Rate-limited downloads of individual filings
    - Calls `extract_cusip()` on each filing
+   - Extracts accession number via `extract_accession_number()`
+   - Writes to CSV with 6 columns including accession_number
 
-4. **CUSIP Extraction** (`extract_cusip`)
+4. **CUSIP Extraction** (`cusip.extract_cusip`)
    - Two-phase approach:
      a. Window-based search around "CUSIP" markers (preferred)
      b. Document-wide search with scoring (fallback)
@@ -79,12 +145,37 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 
 ### Design Patterns
 
+- **CLI Framework**: Click for robust command-line interface
+- **Modular Architecture**: Clean separation of concerns across modules
 - **Session Management**: Single `requests.Session` per execution with connection pooling
 - **Rate Limiting**: Token bucket pattern (thread-safe with Lock)
 - **Error Handling**: Retry with exponential backoff, graceful degradation
 - **Validation**: Multi-layered CUSIP validation (length, composition, false positive filtering)
 - **CIK Filtering**: Optional filtering to process only specific CIKs
-- **Progress Display**: Real-time progress bar with ETA, success/failure counts, and latest filing info
+- **Progress Display**: Real-time progress bar with ETA, success/failure counts
+- **Accession Numbers**: Extracted from URLs and stored in CSV output
+
+## Installation and Usage
+
+### Installation
+```bash
+pip install -e .              # Standard installation
+pip install -e ".[dev]"       # With dev dependencies
+```
+
+### CLI Usage
+```bash
+# Extract CUSIPs
+cik-cusip extract --sec-name "Name" --sec-email "email@example.com"
+cik-cusip extract --all  # All historical data
+
+# Download filing by accession number
+cik-cusip download 0001234567-12-000001
+```
+
+### Environment Variables
+- `SEC_NAME`: Your name for User-Agent
+- `SEC_EMAIL`: Your email for headers
 
 ## Common User Requests & How to Handle
 
@@ -111,8 +202,8 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 
 **APPROACH:**
 - Study the form structure (provide SEC EDGAR examples)
-- Add new extraction functions similar to `extract_cusip()`
-- Update CSV output schema
+- Add new extraction functions similar to `extract_cusip()` in cusip.py
+- Update CSV output schema in processor.py
 - Add validation similar to `is_valid_cusip()`
 - Update tests to cover new extraction logic
 
@@ -121,8 +212,8 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 **DEBUGGING APPROACH:**
 1. Ask user for specific failing examples (CIK, form, date)
 2. Examine the filing text structure
-3. Adjust regex patterns in `extract_cusip()`
-4. Modify `is_valid_cusip()` validation rules
+3. Adjust regex patterns in `cusip.extract_cusip()`
+4. Modify `cusip.is_valid_cusip()` validation rules
 5. Test on known cases
 6. Update test suite with new cases
 
@@ -131,17 +222,24 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 **GUIDE USER TO:**
 - Create a text file with one CIK per line
 - Use `--cik-filter` argument or `cik_filter_file` parameter
-- Example: `python main.py --cik-filter my_ciks.txt --all`
+- Example: `cik-cusip extract --cik-filter my_ciks.txt --all`
 - This significantly reduces processing time when tracking specific companies
+
+### "I want to download a specific filing"
+
+**GUIDE USER TO:**
+- Use the `cik-cusip download` command with accession number
+- Accession numbers are now included in the CSV output
+- Example: `cik-cusip download 0001234567-12-000001 -o filing.txt`
 
 ## Testing
 
 The project has comprehensive pytest coverage:
-- `test_main.py`: Tests all major functions
-- Includes mocking of HTTP requests
+- Tests for all modules: cli, rate_limiter, session, index, cusip, processor, utils
+- Includes mocking of HTTP requests and file I/O
 - Tests edge cases, error handling, rate limiting
-- Run with: `pytest test_main.py -v`
-- Coverage: `pytest --cov=main --cov-report=html`
+- Run with: `pytest`
+- Coverage: `pytest --cov=cik_cusip --cov-report=html`
 
 **When making changes**: Always update or add tests to maintain coverage.
 
@@ -152,38 +250,39 @@ The project has comprehensive pytest coverage:
 3. **CUSIP Validation**: Many false positives (ZIP codes, file numbers) - validation is crucial
 4. **Rate Limiting**: Must be enforced per-request, not per-batch
 5. **Year/Quarter Logic**: Edge cases in range handling (start/end year quarters)
+6. **Accession Number Format**: Must match pattern NNNNNNNNNN-NN-NNNNNN
+7. **CLI Entry Points**: Defined in pyproject.toml [project.scripts]
 
 ## Environment & Dependencies
 
 - Python 3.9+
-- Dependencies: `requests` (with urllib3 for retry logic)
+- Dependencies: `requests`, `click`
+- Dev dependencies: `pytest`, `pytest-cov`
 - No database required (CSV output)
 - No authentication tokens (just User-Agent headers)
 
 ## Useful Commands for Development
 
 ```bash
-# Run with current quarter only
-python main.py --sec-name "Test User" --sec-email "test@example.com"
+# Install for development
+pip install -e ".[dev]"
 
-# Download all historical data
-python main.py --sec-name "Test User" --sec-email "test@example.com" --all
+# Run CLI
+cik-cusip extract --help
+cik-cusip download --help
 
-# Download specific range
-python main.py --sec-name "Test User" --sec-email "test@example.com" \
-  --start-year 2020 --end-year 2024
-
-# Filter for specific CIKs only
-echo "1234567" > ciks.txt
-echo "9876543" >> ciks.txt
-python main.py --sec-name "Test User" --sec-email "test@example.com" \
-  --cik-filter ciks.txt --all
+# Run with environment variables
+export SEC_NAME="Test User"
+export SEC_EMAIL="test@example.com"
+cik-cusip extract
 
 # Run tests
-pytest test_main.py -v
+pytest
+pytest --cov=cik_cusip
+pytest -v tests/test_cli.py
 
-# Check coverage
-pytest --cov=main --cov-report=term-missing
+# Check imports
+python -c "from cik_cusip import extract_cusip, process_filings; print('OK')"
 ```
 
 ## When Reading SEC Filings
@@ -199,29 +298,51 @@ If users ask you to help debug extraction issues:
 
 1. **Read Before Suggesting**: Always read relevant code sections before making suggestions
 2. **Respect Constraints**: SEC policies are non-negotiable
-3. **Test Coverage**: Maintain the 100% test coverage standard
+3. **Test Coverage**: Maintain high test coverage standard
 4. **User Education**: Explain SEC requirements when relevant
 5. **Examples**: Provide working code examples when suggesting changes
-6. **Documentation**: Update README.md if user-facing changes are made
+6. **Documentation**: Update README.md and AGENTS.md if user-facing changes are made
+7. **Module Organization**: Keep modules focused on single responsibilities
 
-## Quick Reference: Main Function Parameters
+## Quick Reference: Key Functions
 
-```python
-process_filings(
-    index_dir: str,          # Where to save/load indices
-    output_csv: str,         # Output file path
-    forms: tuple,            # ("13D", "13G") - which forms to process
-    sec_name: str,           # User's name (REQUIRED)
-    sec_email: str,          # User's email (REQUIRED)
-    requests_per_second: float,  # Rate limit (default: 10)
-    skip_index_download: bool,   # Reuse existing indices
-    start_year: int,         # Start year (default: 1993)
-    start_quarter: int,      # Start quarter 1-4
-    end_year: int,           # End year (default: current)
-    end_quarter: int,        # End quarter (default: current)
-    cik_filter_file: str,    # Optional: path to CIK filter file
-)
+### CLI Commands
+```bash
+cik-cusip extract [OPTIONS]      # Extract CUSIPs from filings
+cik-cusip download ACCESSION     # Download filing by accession number
 ```
+
+### Main Functions
+```python
+# processor.py
+process_filings(index_dir, output_csv, forms, sec_name, sec_email, ...)
+download_filing_txt(accession_number, output_path, sec_name, sec_email)
+
+# index.py
+download_indices(output_dir, session, start_year, start_quarter, ...)
+parse_index(index_path, forms) -> list[dict]
+extract_accession_number(url) -> str
+
+# cusip.py
+extract_cusip(text) -> Optional[str]
+is_valid_cusip(candidate, strict=True) -> bool
+
+# session.py
+create_session(sec_name, sec_email) -> requests.Session
+
+# utils.py
+load_cik_filter(cik_filter_file) -> set
+```
+
+## CSV Output Schema
+
+The output CSV has 6 columns:
+1. `cik`: Central Index Key
+2. `company_name`: Company name from filing
+3. `form`: Form type (13D, SC 13D, 13G, SC 13G, etc.)
+4. `date`: Filing date
+5. `cusip`: Extracted CUSIP identifier
+6. `accession_number`: SEC accession number (NEW in v2.0)
 
 ## Resources
 
@@ -229,6 +350,8 @@ process_filings(
 - [SEC EDGAR](https://www.sec.gov/edgar)
 - [CUSIP on Wikipedia](https://en.wikipedia.org/wiki/CUSIP)
 - [Form 13D/13G Overview](https://www.sec.gov/answers/sched13)
+- [Click Documentation](https://click.palletsprojects.com/)
+- [Python Packaging Guide](https://packaging.python.org/)
 
 ---
 
