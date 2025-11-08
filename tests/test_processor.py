@@ -27,8 +27,9 @@ class TestDownloadFilingTxt:
         with tempfile.TemporaryDirectory() as tmpdir:
             output_path = os.path.join(tmpdir, "filing.txt")
             result = download_filing_txt(
-                "0001234567-12-000001",
-                output_path,
+                accession_number="0001234567-12-000001",
+                output_path=output_path,
+                cik="813828",
                 sec_name="Test",
                 sec_email="test@example.com",
             )
@@ -39,17 +40,20 @@ class TestDownloadFilingTxt:
                 assert f.read() == "Filing content here"
 
             # Verify correct URL was called
-            expected_url = "https://www.sec.gov/Archives/edgar/data/0001234567/0001234567-12-000001/0001234567-12-000001.txt"
+            expected_url = "https://www.sec.gov/Archives/edgar/data/813828/0001234567-12-000001.txt"
             mock_session.get.assert_called_once()
             actual_url = mock_session.get.call_args[0][0]
-            # URL should contain the accession number
-            assert "0001234567-12-000001.txt" in actual_url
+            assert actual_url == expected_url
 
     @patch("cik_cusip.processor.create_session")
     def test_download_filing_txt_no_credentials(self, mock_create_session):
         """Test that error is raised when credentials missing."""
         with pytest.raises(ValueError, match="SEC credentials required"):
-            download_filing_txt("0001234567-12-000001", "output.txt")
+            download_filing_txt(
+                accession_number="0001234567-12-000001",
+                output_path="output.txt",
+                cik="813828",
+            )
 
     @patch("cik_cusip.processor.create_session")
     def test_download_filing_txt_env_vars(self, mock_create_session):
@@ -64,10 +68,24 @@ class TestDownloadFilingTxt:
         with tempfile.TemporaryDirectory() as tmpdir:
             with patch.dict(os.environ, {"SEC_NAME": "EnvName", "SEC_EMAIL": "env@example.com"}):
                 output_path = os.path.join(tmpdir, "filing.txt")
-                result = download_filing_txt("0001234567-12-000001", output_path)
+                result = download_filing_txt(
+                    accession_number="0001234567-12-000001",
+                    output_path=output_path,
+                    cik="813828",
+                )
 
                 assert result == output_path
                 mock_create_session.assert_called_once_with("EnvName", "env@example.com")
+
+    def test_download_filing_txt_no_cik(self):
+        """Test that error is raised when CIK is missing."""
+        with pytest.raises(ValueError, match="CIK is required"):
+            download_filing_txt(
+                accession_number="0001234567-12-000001",
+                output_path="output.txt",
+                sec_name="Test",
+                sec_email="test@example.com",
+            )
 
 
 class TestProcessFilings:

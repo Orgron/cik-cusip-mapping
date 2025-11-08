@@ -108,6 +108,7 @@ class TestDownloadCommand:
             cli,
             [
                 "download",
+                "813828",
                 "0001234567-12-000001",
                 "--sec-name",
                 "Test",
@@ -123,7 +124,7 @@ class TestDownloadCommand:
     def test_download_without_credentials(self):
         """Test download command fails without credentials."""
         runner = CliRunner()
-        result = runner.invoke(cli, ["download", "0001234567-12-000001"])
+        result = runner.invoke(cli, ["download", "813828", "0001234567-12-000001"])
 
         assert result.exit_code == 1
         assert "SEC credentials required" in result.output
@@ -137,6 +138,7 @@ class TestDownloadCommand:
             cli,
             [
                 "download",
+                "813828",
                 "0001234567-12-000001",
                 "-o",
                 "myfile.txt",
