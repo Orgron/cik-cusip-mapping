@@ -5,6 +5,7 @@ Tests all functions with various edge cases to achieve full coverage.
 """
 
 import csv
+import json
 import os
 import tempfile
 import time
@@ -547,9 +548,9 @@ class TestLoadCikFilter:
             result = load_cik_filter(temp_path)
 
             assert len(result) == 3
-            assert "1234567" in result
-            assert "9876543" in result
-            assert "123456789" in result
+            assert "0001234567" in result
+            assert "0009876543" in result
+            assert "0123456789" in result
         finally:
             os.unlink(temp_path)
 
@@ -630,6 +631,8 @@ class TestIsValidCusip:
             "AB1234567",  # 9 chars with letters at start
             "A123456789",  # 10 chars, 9 digits + 1 letter
             "X1234567",  # 8 chars with letter
+            "165303108",  # All digits should still be valid
+            "055645105",  # Leading zeros and digits only
         ]
 
         for cusip in valid_cusips:
@@ -775,8 +778,7 @@ class TestExtractCusip:
         """
 
         result = extract_cusip(text)
-        # Might be None or might find something invalid
-        # The important thing is it doesn't crash
+        assert result is None
 
     def test_extract_filters_invalid(self):
         """Test that invalid CUSIPs are filtered out."""
@@ -789,6 +791,35 @@ class TestExtractCusip:
         # Should filter out the invalid ones
         if result:
             assert is_valid_cusip(result)
+
+    def test_extract_hyphenated_cusip(self):
+        """CUSIPs with hyphen separators should be normalized."""
+        text = "CUSIP NO. 68338A-10-7"
+        assert extract_cusip(text) == "68338A107"
+
+    def test_extract_spaced_cusip(self):
+        """CUSIPs split by spaces should be normalized."""
+        text = "CUSIP No. 230215 10 5"
+        assert extract_cusip(text) == "230215105"
+
+    def test_extract_digits_before_marker(self):
+        """CUSIP may appear immediately before the marker label."""
+        text = "140065103\n(CUSIP Number)"
+        assert extract_cusip(text) == "140065103"
+
+    def test_extract_real_filings(self):
+        """Ensure real sample filings extract the annotated values."""
+        manual_map = json.loads(
+            (Path("sample_filings") / "manual_cusips.json").read_text()
+        )
+
+        for filename, expected in manual_map.items():
+            text = (Path("sample_filings") / filename).read_text(errors="ignore")
+            result = extract_cusip(text)
+            if expected is None:
+                assert result is None, f"Expected no CUSIP for {filename}"
+            else:
+                assert result == expected, f"Unexpected CUSIP for {filename}"
 
 
 class TestProcessFilings:
@@ -1246,11 +1277,13 @@ class TestMain:
         """Test that --help works."""
         import subprocess
 
+        repo_root = Path(__file__).resolve().parent
+
         result = subprocess.run(
             ["python", "main.py", "--help"],
             capture_output=True,
             text=True,
-            cwd="/home/user/cik-cusip-mapping",
+            cwd=str(repo_root),
         )
         assert result.returncode == 0
         assert "Extract CUSIPs from SEC 13D/13G filings" in result.stdout
@@ -1259,11 +1292,13 @@ class TestMain:
         """Test that script fails without credentials."""
         import subprocess
 
+        repo_root = Path(__file__).resolve().parent
+
         result = subprocess.run(
             ["python", "main.py"],
             capture_output=True,
             text=True,
-            cwd="/home/user/cik-cusip-mapping",
+            cwd=str(repo_root),
         )
         # Should fail with missing credentials
         assert result.returncode != 0
