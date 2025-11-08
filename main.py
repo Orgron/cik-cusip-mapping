@@ -13,7 +13,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 from threading import Lock
-from typing import Optional
+from typing import Iterable, Optional
 from urllib.parse import urljoin
 
 import requests
@@ -241,72 +241,106 @@ def parse_index(index_path: str, forms: tuple = ("13D", "13G")) -> list[dict]:
 
 
 def extract_cusip(text: str) -> Optional[str]:
-    """
-    Extract CUSIP identifier from SEC filing text.
+    """Extract the best CUSIP identifier from a raw filing."""
 
-    Uses a window-based approach looking for explicit CUSIP markers,
-    with fallback to document-wide search.
-
-    Args:
-        text: Raw filing text
-
-    Returns:
-        CUSIP string if found, None otherwise
-    """
-    # Clean HTML entities and tags
-    text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
+    # Clean HTML entities, numeric entities, and tags while preserving spacing so
+    # offsets remain stable for token analysis.
+    text = re.sub(r"&[a-z0-9#]+;", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
 
-    # CUSIP pattern: 8-10 alphanumeric characters with at least 5 digits
-    cusip_pattern = r"\b[A-Z0-9]{8,10}\b"
+    working_text = text.upper()
 
-    # Window method: Look for explicit CUSIP markers
-    cusip_markers = [
+    def iter_token_candidates(segment_start: int, segment_end: int) -> Iterable[tuple[str, int]]:
+        """Yield candidate strings with their starting offsets."""
+
+        segment = working_text[segment_start:segment_end]
+        matches = list(re.finditer(r"[A-Z0-9]+", segment))
+        tokens = [match.group() for match in matches]
+        positions = [match.start() for match in matches]
+
+        banned_tokens = {"13D", "13G"}
+
+        for idx, token in enumerate(tokens):
+            if token in banned_tokens:
+                continue
+            if not any(ch.isdigit() for ch in token):
+                continue
+
+            candidate = ""
+            for offset in range(idx, min(idx + 4, len(tokens))):
+                next_token = tokens[offset]
+                if not any(ch.isdigit() for ch in next_token):
+                    break
+
+                candidate += next_token
+                length = len(candidate)
+                if length >= 8:
+                    yield candidate, segment_start + positions[idx]
+                if length >= 10:
+                    break
+
+    def score_candidate(candidate: str, distance: int) -> int:
+        score = 0
+        if any(ch.isalpha() for ch in candidate):
+            score += 10
+        if len(candidate) == 9:
+            score += 5
+        elif len(candidate) == 8:
+            score += 3
+        # Penalise distance modestly so closer candidates win ties.
+        score -= min(distance // 10, 5)
+        return score
+
+    markers = [
         r"CUSIP\s+(?:NO\.?|NUMBER|#)",
         r"CUSIP:",
         r"\bCUSIP\b",
     ]
 
-    for marker in cusip_markers:
-        matches = list(re.finditer(marker, text, re.IGNORECASE))
-        if not matches:
+    for marker in markers:
+        for match in re.finditer(marker, working_text, flags=re.IGNORECASE):
+            candidates: list[tuple[int, int, str]] = []
+            seen: set[str] = set()
+
+            after_start = match.end()
+            after_end = min(len(working_text), after_start + 160)
+            for candidate, offset in iter_token_candidates(after_start, after_end):
+                if candidate in seen or not is_valid_cusip(candidate):
+                    continue
+                seen.add(candidate)
+                distance = max(offset - match.end(), 0)
+                candidates.append((score_candidate(candidate, distance), distance, candidate))
+
+            before_end = match.start()
+            before_start = max(0, before_end - 160)
+            for candidate, offset in iter_token_candidates(before_start, before_end):
+                if candidate in seen or not is_valid_cusip(candidate):
+                    continue
+                seen.add(candidate)
+                distance = max(match.start() - offset, 0)
+                candidates.append((score_candidate(candidate, distance), distance, candidate))
+
+            if candidates:
+                candidates.sort(key=lambda item: (-item[0], item[1]))
+                return candidates[0][2]
+
+    # Fallback: scan entire document and score candidates.
+    scored: list[tuple[int, int, str]] = []
+    seen: set[str] = set()
+    for candidate, offset in iter_token_candidates(0, len(working_text)):
+        if candidate in seen:
             continue
+        seen.add(candidate)
 
-        # Get context around the marker
-        for match in matches:
-            start = max(0, match.start() - 500)
-            end = min(len(text), match.end() + 500)
-            window = text[start:end]
-
-            # Find CUSIP candidates in window
-            candidates = re.findall(cusip_pattern, window)
-
-            for candidate in candidates:
-                if is_valid_cusip(candidate):
-                    return candidate
-
-    # Fallback: Search entire document
-    candidates = re.findall(cusip_pattern, text)
-
-    # Score candidates
-    scored = []
-    for candidate in candidates:
         if not is_valid_cusip(candidate):
             continue
 
-        score = 0
-        # Prefer candidates with letters (more specific than all digits)
-        if re.search(r"[A-Z]", candidate):
-            score += 10
-        # Prefer 9-character CUSIPs
-        if len(candidate) == 9:
-            score += 5
-
-        scored.append((score, candidate))
+        score = score_candidate(candidate, 0)
+        scored.append((score, offset, candidate))
 
     if scored:
-        scored.sort(reverse=True)
-        return scored[0][1]
+        scored.sort(key=lambda item: (-item[0], item[1]))
+        return scored[0][2]
 
     return None
 
@@ -337,7 +371,6 @@ def is_valid_cusip(candidate: str) -> bool:
     # Exclude common false positives
     false_positives = [
         r"^0+$",  # All zeros
-        r"^\d{5}-?\d{4}$",  # Zip codes
         r"FILE",  # Filename patterns
         r"PAGE",
         r"TABLE",
@@ -366,7 +399,8 @@ def load_cik_filter(cik_filter_file: str) -> set:
             cik = line.strip()
             if cik:
                 # Normalize CIK to 10-digit format with leading zeros
-                ciks.add(cik)
+                normalized = cik.zfill(10)
+                ciks.add(normalized)
     return ciks
 
 

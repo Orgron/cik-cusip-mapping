@@ -5,12 +5,14 @@ Tests all functions with various edge cases to achieve full coverage.
 """
 
 import csv
+import json
 import os
 import tempfile
 import time
 from pathlib import Path
 from unittest.mock import Mock, patch, MagicMock, mock_open, call
 from threading import Thread
+from typing import Optional
 
 import pytest
 import requests
@@ -28,6 +30,21 @@ from main import (
     process_filings,
     load_cik_filter,
 )
+
+
+HERE = Path(__file__).resolve().parent
+SAMPLE_FILINGS_DIR = HERE / "sample_filings"
+MANUAL_CUSIPS_PATH = HERE / "sample_analysis" / "manual_cusips.json"
+
+
+def _load_manual_cusip_cases() -> list[tuple[str, Optional[str]]]:
+    """Load manual CUSIP annotations for parameterised testing."""
+
+    manual = json.loads(MANUAL_CUSIPS_PATH.read_text(encoding="utf-8"))
+    cases: list[tuple[str, str | None]] = []
+    for filename, expected in sorted(manual.items()):
+        cases.append((filename, expected))
+    return cases
 
 
 class TestRateLimiter:
@@ -547,9 +564,9 @@ class TestLoadCikFilter:
             result = load_cik_filter(temp_path)
 
             assert len(result) == 3
-            assert "1234567" in result
-            assert "9876543" in result
-            assert "123456789" in result
+            assert "0001234567" in result
+            assert "0009876543" in result
+            assert "0123456789" in result
         finally:
             os.unlink(temp_path)
 
@@ -789,6 +806,27 @@ class TestExtractCusip:
         # Should filter out the invalid ones
         if result:
             assert is_valid_cusip(result)
+
+    def test_manual_annotations_cover_all_samples(self):
+        """Ensure manual annotations align with the sample corpus."""
+
+        manual_files = {filename for filename, _ in _load_manual_cusip_cases()}
+        sample_files = {path.name for path in SAMPLE_FILINGS_DIR.glob("*.txt")}
+        assert manual_files == sample_files
+
+    @pytest.mark.parametrize("filename, expected", _load_manual_cusip_cases())
+    def test_extract_matches_sample_filings(self, filename, expected):
+        """Ensure the parser matches manual annotations for sample filings."""
+
+        path = SAMPLE_FILINGS_DIR / filename
+        assert path.exists(), f"Missing sample filing: {filename}"
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        result = extract_cusip(text)
+
+        if expected is None:
+            assert result is None
+        else:
+            assert result == expected
 
 
 class TestProcessFilings:
@@ -1250,7 +1288,7 @@ class TestMain:
             ["python", "main.py", "--help"],
             capture_output=True,
             text=True,
-            cwd="/home/user/cik-cusip-mapping",
+            cwd=str(HERE),
         )
         assert result.returncode == 0
         assert "Extract CUSIPs from SEC 13D/13G filings" in result.stdout
@@ -1263,7 +1301,7 @@ class TestMain:
             ["python", "main.py"],
             capture_output=True,
             text=True,
-            cwd="/home/user/cik-cusip-mapping",
+            cwd=str(HERE),
         )
         # Should fail with missing credentials
         assert result.returncode != 0
