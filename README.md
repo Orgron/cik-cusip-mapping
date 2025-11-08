@@ -1,200 +1,179 @@
-# cik-cusip mapping
+# CIK-CUSIP Mapping
 
-This project produces an open CIK → CUSIP mapping by downloading the SEC EDGAR master index, streaming 13D/13G filings, parsing CUSIP identifiers, and post-processing the results into a deduplicated table.
+A simple, focused tool for extracting CUSIP identifiers from SEC 13D and 13G filings.
+
+## What it does
+
+This tool:
+1. Downloads the SEC EDGAR master index
+2. Filters for 13D and 13G forms
+3. Downloads each filing
+4. Parses CUSIP identifiers from the filing text
+5. Writes results to a CSV file
+
+All while respecting SEC rate limits and authorization requirements.
 
 ## Installation
 
-The repository is now structured as an installable package. Install it in editable mode while developing, or as a standard dependency in downstream projects:
+### Requirements
 
+- Python 3.9 or higher
+- `requests` library
+
+### Install dependencies
+
+```bash
+pip install requests
 ```
-pip install -e .            # editable install for local development
-# or
-pip install cik-cusip-mapping
+
+Or if you want to install as a package:
+
+```bash
+pip install -e .
 ```
 
-The package targets **Python 3.12** and depends on `pandas` for post-processing.
+## SEC Usage Etiquette
 
-## SEC usage etiquette
+**IMPORTANT**: You must follow the [SEC fair access policies](https://www.sec.gov/os/webmaster-fair-access).
 
-Please follow the [SEC fair access policies](https://www.sec.gov/os/webmaster-fair-access).
-Always identify yourself via the `User-Agent` and `From` headers, which you can
-provide through `run_pipeline()` or the CLI via `--sec-name`/`--sec-email`. When
-these options are omitted the pipeline will fall back to the `SEC_NAME` and
-`SEC_EMAIL` environment variables if they are set. The default rate limit is 10
-requests per second; adjust `requests_per_second` to a lower value if you are
-running large historical backfills or operating from a shared IP address.
+You must identify yourself via proper User-Agent and From headers. The tool requires:
+- Your name
+- Your email address
 
-## Library usage
+You can provide these via:
+1. Command-line arguments: `--sec-name "Your Name" --sec-email "your@email.com"`
+2. Environment variables: `SEC_NAME` and `SEC_EMAIL`
 
-The full pipeline is exposed as a composable function. After installation, orchestrate a run entirely from Python:
+The default rate limit is 10 requests per second. Use `--rate` to adjust if needed.
+
+## Usage
+
+### Command Line
+
+Basic usage:
+
+```bash
+python main.py --sec-name "Jane Doe" --sec-email "jane@example.com"
+```
+
+With options:
+
+```bash
+python main.py \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com" \
+  --index data/master.idx \
+  --output data/cusips.csv \
+  --skip-index \
+  --rate 5
+```
+
+Using environment variables:
+
+```bash
+export SEC_NAME="Jane Doe"
+export SEC_EMAIL="jane@example.com"
+python main.py
+```
+
+### As a Python Library
 
 ```python
-from pathlib import Path
+from main import process_filings
 
-from cik_cusip_mapping import create_session, run_pipeline
-
-session = create_session()
-try:
-    mapping, dynamics, events_counts = run_pipeline(
-        forms=("13D", "13G"),
-        output_root=Path("data"),
-        requests_per_second=5,
-        sec_name="Jane Doe",
-        sec_email="jane@example.com",
-        show_progress=False,
-        write_final_mapping=True,
-        filing_start_date="2024-01-01",
-        filing_end_date="2024-03-31",
-        filing_cik_whitelist=("320193", "1652044"),
-        filings_amended_only=False,
-        session=session,
-    )
-finally:
-    session.close()
-
-print(mapping.head())
-print(events_counts)
+# Process filings and extract CUSIPs
+process_filings(
+    index_path='data/master.idx',
+    output_csv='data/cusips.csv',
+    forms=('13D', '13G'),
+    sec_name='Jane Doe',
+    sec_email='jane@example.com',
+    requests_per_second=10.0,
+    skip_index_download=True,  # Skip if index already exists
+)
 ```
 
-The function returns a `pandas.DataFrame` with the columns `cik`, `cusip6`, and `cusip8`, the optional dynamics DataFrame (or `None` when disabled), and a dictionary summarising how many filing events were written per form. Disk output now consists of per-form events CSVs (e.g. `13D_events.csv`); a consolidated mapping CSV is only written when `write_final_mapping=True`.
-
-When rerunning the pipeline you can reuse existing per-form CSVs by passing `skip_existing_events=True` (or `--skip-parsed-forms` via the CLI). The pipeline will reuse prior results when the CSV already contains event rows, skipping redundant downloads while keeping row counts and post-processing outputs accurate.
-
-Behind the scenes the package exposes dedicated primitives for each stage:
-
-* `download_master_index()` and `write_full_index()` handle EDGAR index collection.
-* `stream_filings()` yields filing metadata and text while honouring the SEC rate limit.
-* `parse_filings_concurrently()` parses filings in parallel with downloading to keep the network and CPU busy simultaneously.
-* `stream_events_to_csv()` writes per-form events CSVs with derived CUSIP details.
-* `postprocess_mapping_from_events()` derives the final mapping directly from those events.
-
-The streaming utilities accept first-class filters so you can limit downloads to
-particular filing windows or issuers. Provide ISO dates via `start_date`/`end_date`,
-specific issuers with `cik_whitelist`, and set `amended_only=True` to focus on
-amendments such as SC 13DA and SC 13GA.
-The `run_pipeline` CLI mirrors these options with `--start-date`, `--end-date`,
-`--cik`/`--cik-file`, and `--amended-only`.
-
-You can reuse a single `requests.Session` across stages to benefit from
-connection pooling and automatic retry/backoff logic:
+Or use individual functions:
 
 ```python
-from cik_cusip_mapping import create_session, parsing, streaming
+from main import create_session, download_index, parse_index, extract_cusip
+import os
 
-session = create_session()
-try:
-    filings = streaming.stream_filings(
-        "13D",
-        requests_per_second=5,
-        name="Jane Doe",
-        email="jane@example.com",
-        session=session,
-        show_progress=False,
-        start_date="2024-01-01",
-        end_date="2024-03-31",
-        cik_whitelist=("320193",),
-        amended_only=False,
-    )
-    parsing.stream_events_to_csv(
-        filings,
-        "13D_events.csv",
-        concurrent=True,
-        workers=4,
-        max_queue=64,
-        show_progress=False,
-    )
-finally:
-    session.close()
+# Create SEC-compliant session
+session = create_session('Jane Doe', 'jane@example.com')
+
+# Download index
+index_path = download_index('data/master.idx', session, skip_if_exists=True)
+
+# Parse index for 13D/13G forms
+entries = parse_index(index_path, forms=('13D', '13G'))
+
+# Process individual filing
+for entry in entries[:10]:  # First 10 as example
+    response = session.get(entry['url'])
+    cusip = extract_cusip(response.text)
+    print(f"{entry['cik']}: {cusip}")
 ```
 
-### Batch workflows
+## Output
 
-The streaming helpers also support disk-first workflows when you prefer to
-persist filings locally before parsing:
+The tool generates a CSV file with the following columns:
 
-```python
-from pathlib import Path
+- `cik`: Central Index Key (SEC identifier)
+- `company_name`: Company name from filing
+- `form`: Form type (13D, SC 13D, 13G, SC 13G, etc.)
+- `date`: Filing date
+- `cusip`: Extracted CUSIP identifier (8-10 characters)
 
-from cik_cusip_mapping import create_session, parsing, streaming
+Example output:
 
-session = create_session()
-try:
-    count = streaming.stream_filings_to_disk(
-        "13G",
-        Path("raw_filings"),
-        requests_per_second=5,
-        name="Jane Doe",
-        email="jane@example.com",
-        session=session,
-        compress=True,
-        start_date="2024-01-01",
-        cik_whitelist=("1652044",),
-        amended_only=True,
-    )
-    print(f"Downloaded {count} filings")
-    parsing.parse_directory(
-        Path("raw_filings"),
-        output_csv=Path("parsed.csv"),
-        concurrent=True,
-        workers=4,
-        glob_pattern="**/*.txt.gz",
-        show_progress=False,
-    )
-finally:
-    session.close()
+```csv
+cik,company_name,form,date,cusip
+0001234567,EXAMPLE CORP,SC 13D,2024-01-15,12345678
+0007654321,ANOTHER COMPANY,SC 13G,2024-01-20,87654321
 ```
 
-`parse_directory` accepts a configurable glob pattern, so nested directory
-structures (or compressed `.gz` files) are easy to handle.
-
-`postprocess_mapping_from_events()` exposes the same
-filtering controls as the legacy CSV workflow, while `build_cusip_dynamics()` now emits
-`valid_check_digit`, `parse_methods`, and `fallback_filings` columns to help
-with downstream quality filtering. The per-event `parse_method` field
-distinguishes the primary window-based extraction from fallback heuristics so
-you can decide which events to trust.
-
-### Event CSV schema and URL reconstruction
-
-Every per-form events file contains the header:
+## Command Line Options
 
 ```
-cik,form,filing_date,accession_number,company_name,cusip9,cusip8,cusip6,parse_method
+--index PATH        Path to index file (default: data/master.idx)
+--output PATH       Path to output CSV (default: data/cusips.csv)
+--skip-index        Skip index download if file exists
+--sec-name NAME     Your name for SEC User-Agent header
+--sec-email EMAIL   Your email for SEC headers
+--rate FLOAT        Requests per second (default: 10.0)
 ```
 
-The combination of `cik` and `accession_number` uniquely identifies each
-filing. Use `cusip9`, `cusip8`, and `cusip6` to derive mappings or aggregate
-filing histories. When you need to link back to EDGAR, reconstruct the filing
-index URL on-demand:
+## How It Works
 
-```python
-from cik_cusip_mapping import reconstruct_filing_url
+### 1. Index Download
+Downloads the current quarter's SEC EDGAR master index file, which contains metadata for all filings.
 
-url = reconstruct_filing_url("0000123456", "0000123456-23-000001")
-print(url)  # https://www.sec.gov/Archives/edgar/data/123456/000012345623000001/0000123456-23-000001-index.html
-```
+### 2. Index Parsing
+Parses the index file and filters for 13D and 13G form types (including SC 13D, SC 13G, and amended versions).
 
-## Command-line entry points
+### 3. Filing Processing
+For each matching filing:
+- Downloads the filing from SEC EDGAR (with rate limiting)
+- Extracts CUSIP using pattern matching
+- Writes result to CSV
 
-Lightweight console commands are available once the package is installed:
+### 4. CUSIP Extraction
+The CUSIP extraction algorithm:
+- First looks for explicit "CUSIP" markers in the text
+- Searches a window around these markers for valid CUSIP patterns
+- Falls back to document-wide search if needed
+- Validates candidates (length, character composition, excludes false positives)
+- Returns the most likely CUSIP identifier
 
-```
-cik-cusip-run-pipeline --help
-```
+## Rate Limiting
 
-Each command delegates to the corresponding library function, providing convenient access for quick experiments while keeping the core implementation import-friendly. Use `--parsing-workers`, `--parsing-max-queue`, and the `--no-progress`/`--quiet-progress` flags to tune parsing throughput or disable progress bars across indexing, streaming, and parsing when running in non-interactive environments. Pass `--use-notebook` (or `--no-use-notebook`) to override the auto-detected tqdm widget consistently for every stage. By default the pipeline presents a single parsing progress bar so streaming work does not flicker or nest multiple displays. Supply `--write-final-mapping` if you want a consolidated `cik-cusip-maps.csv` alongside the per-form events outputs.
+The tool uses a token bucket algorithm to respect SEC rate limits:
+- Default: 10 requests per second
+- Configurable via `--rate` argument
+- Includes exponential backoff for failed requests
+- Retries on 429, 500, 502, 503, 504 status codes
 
-## Running the automated tests
+## License
 
-Install the development requirements and execute pytest:
-
-```
-pip install -r requirements-dev.txt
-pytest
-```
-
-The test suite exercises the library APIs directly, including the new concurrent parsing hand-off, so regressions are caught as the architecture evolves.
-
-## Obtaining the mapping
-
-If you simply need the latest mapping, the repository still publishes a generated `cik-cusip-maps.csv`. You may also install the package and call `run_pipeline()` to refresh the dataset yourself—remember to pass `write_final_mapping=True` (or `--write-final-mapping` via the CLI) if you want a consolidated mapping on disk; otherwise only per-form events CSVs are written. Downstream users remain responsible for any business-specific rules (for example, interpolating or extrapolating the validity window for each CUSIP).
+MIT License - See LICENSE file for details.

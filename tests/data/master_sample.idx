@@ -1,8 +1,0 @@
-Description:          Master Index of EDGAR Dissemination Feed
-Last Data Received:   December 31, 2022
-Comments:             This is a sample master index file.
-
-CIK|Company Name|Form Type|Date Filed|Filename
-0000000001|Alpha Corp|13D|2022-12-30|edgar/data/0000000001/0000000001-22-000001.txt
-0000000002|Beta LLC|13G|2022-12-31|edgar/data/0000000002/0000000002-22-000002.txt
-0000000003|Gamma Inc|SC 13G|2022-12-31|edgar/data/0000000003/0000000003-22-000003.txt
