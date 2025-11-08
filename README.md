@@ -5,7 +5,7 @@ A simple, focused tool for extracting CUSIP identifiers from SEC 13D and 13G fil
 ## What it does
 
 This tool:
-1. Downloads the SEC EDGAR master index
+1. Downloads SEC EDGAR master indices (current quarter or historical data from 1993-present)
 2. Filters for 13D and 13G forms
 3. Downloads each filing
 4. Parses CUSIP identifiers from the filing text
@@ -50,22 +50,51 @@ The default rate limit is 10 requests per second. Use `--rate` to adjust if need
 
 ### Command Line
 
-Basic usage:
+Basic usage (downloads current quarter only):
 
 ```bash
 python main.py --sec-name "Jane Doe" --sec-email "jane@example.com"
 ```
 
-With options:
+Download all historical indices (1993 to present):
+
+```bash
+python main.py --sec-name "Jane Doe" --sec-email "jane@example.com" --all
+```
+
+Download specific year range:
 
 ```bash
 python main.py \
   --sec-name "Jane Doe" \
   --sec-email "jane@example.com" \
-  --index data/master.idx \
+  --start-year 2020 \
+  --end-year 2024
+```
+
+Download specific quarter range:
+
+```bash
+python main.py \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com" \
+  --start-year 2023 \
+  --start-quarter 3 \
+  --end-year 2024 \
+  --end-quarter 2
+```
+
+With additional options:
+
+```bash
+python main.py \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com" \
+  --index-dir data/indices \
   --output data/cusips.csv \
   --skip-index \
-  --rate 5
+  --rate 5 \
+  --all
 ```
 
 Using environment variables:
@@ -73,7 +102,7 @@ Using environment variables:
 ```bash
 export SEC_NAME="Jane Doe"
 export SEC_EMAIL="jane@example.com"
-python main.py
+python main.py --all
 ```
 
 ### As a Python Library
@@ -81,35 +110,64 @@ python main.py
 ```python
 from main import process_filings
 
-# Process filings and extract CUSIPs
+# Process filings and extract CUSIPs (current quarter only)
 process_filings(
-    index_path='data/master.idx',
+    index_dir='data/indices',
     output_csv='data/cusips.csv',
     forms=('13D', '13G'),
     sec_name='Jane Doe',
     sec_email='jane@example.com',
     requests_per_second=10.0,
-    skip_index_download=True,  # Skip if index already exists
+    skip_index_download=True,  # Skip if indices already exist
+)
+
+# Download all historical data (1993-present)
+process_filings(
+    index_dir='data/indices',
+    output_csv='data/cusips.csv',
+    forms=('13D', '13G'),
+    sec_name='Jane Doe',
+    sec_email='jane@example.com',
+    start_year=1993,  # All historical data
+)
+
+# Download specific year range
+process_filings(
+    index_dir='data/indices',
+    output_csv='data/cusips.csv',
+    forms=('13D', '13G'),
+    sec_name='Jane Doe',
+    sec_email='jane@example.com',
+    start_year=2020,
+    end_year=2024,
 )
 ```
 
 Or use individual functions:
 
 ```python
-from main import create_session, download_index, parse_index, extract_cusip
-import os
+from main import create_session, download_indices, parse_index, extract_cusip
 
 # Create SEC-compliant session
 session = create_session('Jane Doe', 'jane@example.com')
 
-# Download index
-index_path = download_index('data/master.idx', session, skip_if_exists=True)
+# Download multiple indices (2020-2024)
+index_paths = download_indices(
+    'data/indices',
+    session,
+    start_year=2020,
+    end_year=2024,
+    skip_if_exists=True
+)
 
-# Parse index for 13D/13G forms
-entries = parse_index(index_path, forms=('13D', '13G'))
+# Parse all indices for 13D/13G forms
+all_entries = []
+for index_path in index_paths:
+    entries = parse_index(index_path, forms=('13D', '13G'))
+    all_entries.extend(entries)
 
 # Process individual filing
-for entry in entries[:10]:  # First 10 as example
+for entry in all_entries[:10]:  # First 10 as example
     response = session.get(entry['url'])
     cusip = extract_cusip(response.text)
     print(f"{entry['cik']}: {cusip}")
@@ -136,21 +194,28 @@ cik,company_name,form,date,cusip
 ## Command Line Options
 
 ```
---index PATH        Path to index file (default: data/master.idx)
---output PATH       Path to output CSV (default: data/cusips.csv)
---skip-index        Skip index download if file exists
---sec-name NAME     Your name for SEC User-Agent header
---sec-email EMAIL   Your email for SEC headers
---rate FLOAT        Requests per second (default: 10.0)
+--index-dir PATH      Directory for index files (default: data/indices)
+--output PATH         Path to output CSV (default: data/cusips.csv)
+--skip-index          Skip index download if files exist
+--sec-name NAME       Your name for SEC User-Agent header
+--sec-email EMAIL     Your email for SEC headers
+--rate FLOAT          Requests per second (default: 10.0)
+
+Year/Quarter Range Options:
+--all                 Download all available indices (1993 to present)
+--start-year YEAR     Starting year (default: current year if not --all)
+--start-quarter 1-4   Starting quarter (default: 1)
+--end-year YEAR       Ending year (default: current year)
+--end-quarter 1-4     Ending quarter (default: current quarter)
 ```
 
 ## How It Works
 
 ### 1. Index Download
-Downloads the current quarter's SEC EDGAR master index file, which contains metadata for all filings.
+Downloads SEC EDGAR master index files for the specified time range (current quarter by default, or all historical data from 1993-present with `--all`), which contains metadata for all filings.
 
 ### 2. Index Parsing
-Parses the index file and filters for 13D and 13G form types (including SC 13D, SC 13G, and amended versions).
+Parses all downloaded index files and filters for 13D and 13G form types (including SC 13D, SC 13G, and amended versions).
 
 ### 3. Filing Processing
 For each matching filing:

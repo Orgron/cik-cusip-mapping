@@ -81,39 +81,99 @@ def create_session(sec_name: str, sec_email: str) -> requests.Session:
     return session
 
 
-def download_index(output_path: str, session: requests.Session, skip_if_exists: bool = True) -> str:
+def download_index(output_path: str, session: requests.Session, year: int, quarter: int, skip_if_exists: bool = True) -> Optional[str]:
     """
-    Download SEC master index file.
+    Download SEC master index file for a specific year and quarter.
 
     Args:
         output_path: Path to save the index file
         session: Requests session with SEC headers
+        year: Year to download (e.g., 2024)
+        quarter: Quarter to download (1-4)
         skip_if_exists: If True, skip download if file already exists
 
     Returns:
-        Path to the downloaded index file
+        Path to the downloaded index file, or None if failed
     """
     if skip_if_exists and os.path.exists(output_path):
         print(f"Index already exists at {output_path}, skipping download")
         return output_path
 
-    # Download the current quarter's master index
-    # You can modify this to download multiple quarters if needed
-    current_year = datetime.now().year
-    current_quarter = (datetime.now().month - 1) // 3 + 1
-
-    url = f"https://www.sec.gov/Archives/edgar/full-index/{current_year}/QTR{current_quarter}/master.idx"
+    url = f"https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{quarter}/master.idx"
 
     print(f"Downloading index from {url}...")
-    response = session.get(url)
-    response.raise_for_status()
+    try:
+        response = session.get(url)
+        response.raise_for_status()
 
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(response.text)
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(response.text)
 
-    print(f"Index downloaded to {output_path}")
-    return output_path
+        print(f"Index downloaded to {output_path}")
+        return output_path
+    except requests.HTTPError as e:
+        if e.response.status_code == 404:
+            print(f"Index not found for {year} Q{quarter} (404)")
+            return None
+        raise
+
+
+def download_indices(output_dir: str, session: requests.Session,
+                     start_year: int = None, start_quarter: int = 1,
+                     end_year: int = None, end_quarter: int = None,
+                     skip_if_exists: bool = True) -> list[str]:
+    """
+    Download multiple SEC master index files for a range of years/quarters.
+
+    Args:
+        output_dir: Directory to save index files
+        session: Requests session with SEC headers
+        start_year: Starting year (default: 1993)
+        start_quarter: Starting quarter (1-4, default: 1)
+        end_year: Ending year (default: current year)
+        end_quarter: Ending quarter (default: current quarter)
+        skip_if_exists: If True, skip download if file already exists
+
+    Returns:
+        List of paths to downloaded index files
+    """
+    # Default to all available indices (1993 to current)
+    if start_year is None:
+        start_year = 1993
+
+    if end_year is None:
+        end_year = datetime.now().year
+        end_quarter = (datetime.now().month - 1) // 3 + 1
+    elif end_quarter is None:
+        end_quarter = 4
+
+    print(f"\nDownloading indices from {start_year} Q{start_quarter} to {end_year} Q{end_quarter}...")
+
+    index_paths = []
+    os.makedirs(output_dir, exist_ok=True)
+
+    for year in range(start_year, end_year + 1):
+        for quarter in range(1, 5):
+            # Skip quarters before start
+            if year == start_year and quarter < start_quarter:
+                continue
+            # Skip quarters after end
+            if year == end_year and quarter > end_quarter:
+                continue
+
+            output_path = os.path.join(output_dir, f"master_{year}_Q{quarter}.idx")
+
+            result = download_index(output_path, session, year, quarter, skip_if_exists)
+            if result:
+                index_paths.append(result)
+
+            # Small delay between downloads to be respectful
+            if not (skip_if_exists and os.path.exists(output_path)):
+                time.sleep(0.1)
+
+    print(f"Downloaded {len(index_paths)} index files")
+    return index_paths
 
 
 def parse_index(index_path: str, forms: tuple = ("13D", "13G")) -> list[dict]:
@@ -272,25 +332,33 @@ def is_valid_cusip(candidate: str) -> bool:
 
 
 def process_filings(
-    index_path: str,
+    index_dir: str,
     output_csv: str,
     forms: tuple = ("13D", "13G"),
     sec_name: str = None,
     sec_email: str = None,
     requests_per_second: float = 10.0,
     skip_index_download: bool = False,
+    start_year: int = None,
+    start_quarter: int = 1,
+    end_year: int = None,
+    end_quarter: int = None,
 ):
     """
     Main function to process SEC filings and extract CUSIPs.
 
     Args:
-        index_path: Path to save/load the index file
+        index_dir: Directory to save/load index files
         output_csv: Path to save the results CSV
         forms: Tuple of form types to process (default: ("13D", "13G"))
         sec_name: Your name for SEC User-Agent (or set SEC_NAME env var)
         sec_email: Your email for SEC headers (or set SEC_EMAIL env var)
         requests_per_second: Rate limit for SEC requests (default: 10)
-        skip_index_download: If True, skip downloading index if it exists
+        skip_index_download: If True, skip downloading indices if they exist
+        start_year: Starting year for indices (default: 1993)
+        start_quarter: Starting quarter (1-4, default: 1)
+        end_year: Ending year for indices (default: current year)
+        end_quarter: Ending quarter (default: current quarter)
     """
     # Get SEC credentials from env vars if not provided
     sec_name = sec_name or os.environ.get('SEC_NAME')
@@ -307,14 +375,27 @@ def process_filings(
     rate_limiter = RateLimiter(requests_per_second)
 
     try:
-        # Step 1: Download index
-        if not skip_index_download or not os.path.exists(index_path):
-            download_index(index_path, session, skip_if_exists=skip_index_download)
+        # Step 1: Download indices
+        index_paths = download_indices(
+            index_dir, session,
+            start_year=start_year,
+            start_quarter=start_quarter,
+            end_year=end_year,
+            end_quarter=end_quarter,
+            skip_if_exists=skip_index_download
+        )
 
-        # Step 2: Parse index for target forms
-        print(f"\nParsing index for forms: {forms}")
-        entries = parse_index(index_path, forms)
-        print(f"Found {len(entries)} filings to process")
+        if not index_paths:
+            print("No index files found or downloaded!")
+            return
+
+        # Step 2: Parse all indices for target forms
+        print(f"\nParsing {len(index_paths)} indices for forms: {forms}")
+        entries = []
+        for index_path in index_paths:
+            index_entries = parse_index(index_path, forms)
+            entries.extend(index_entries)
+        print(f"Found {len(entries)} filings to process across all indices")
 
         # Step 3: Process each filing
         results = []
@@ -359,7 +440,8 @@ def process_filings(
                 writer.writerows(results)
 
         print(f"✓ Complete! Extracted {len(results)} CUSIPs from {len(entries)} filings")
-        print(f"  Success rate: {len(results)/len(entries)*100:.1f}%")
+        if len(entries) > 0:
+            print(f"  Success rate: {len(results)/len(entries)*100:.1f}%")
 
     finally:
         session.close()
@@ -368,22 +450,66 @@ def process_filings(
 if __name__ == '__main__':
     import argparse
 
-    parser = argparse.ArgumentParser(description='Extract CUSIPs from SEC 13D/13G filings')
-    parser.add_argument('--index', default='data/master.idx', help='Path to index file')
-    parser.add_argument('--output', default='data/cusips.csv', help='Path to output CSV')
-    parser.add_argument('--skip-index', action='store_true', help='Skip index download if exists')
-    parser.add_argument('--sec-name', help='Your name for SEC User-Agent')
-    parser.add_argument('--sec-email', help='Your email for SEC headers')
+    parser = argparse.ArgumentParser(
+        description='Extract CUSIPs from SEC 13D/13G filings',
+        epilog='Examples:\n'
+               '  # Download all historical indices (1993 to present)\n'
+               '  python main.py --all\n\n'
+               '  # Download indices for 2020-2024\n'
+               '  python main.py --start-year 2020 --end-year 2024\n\n'
+               '  # Download specific quarter range\n'
+               '  python main.py --start-year 2023 --start-quarter 3 --end-year 2024 --end-quarter 2\n',
+        formatter_class=argparse.RawDescriptionHelpFormatter
+    )
+    parser.add_argument('--index-dir', default='data/indices', help='Directory for index files (default: data/indices)')
+    parser.add_argument('--output', default='data/cusips.csv', help='Path to output CSV (default: data/cusips.csv)')
+    parser.add_argument('--skip-index', action='store_true', help='Skip index download if files exist')
+    parser.add_argument('--sec-name', help='Your name for SEC User-Agent (or set SEC_NAME env var)')
+    parser.add_argument('--sec-email', help='Your email for SEC headers (or set SEC_EMAIL env var)')
     parser.add_argument('--rate', type=float, default=10.0, help='Requests per second (default: 10)')
+
+    # Year/quarter range arguments
+    parser.add_argument('--all', action='store_true', help='Download all available indices (1993 to present)')
+    parser.add_argument('--start-year', type=int, help='Starting year (default: current year if not --all)')
+    parser.add_argument('--start-quarter', type=int, choices=[1, 2, 3, 4], default=1, help='Starting quarter 1-4 (default: 1)')
+    parser.add_argument('--end-year', type=int, help='Ending year (default: current year)')
+    parser.add_argument('--end-quarter', type=int, choices=[1, 2, 3, 4], help='Ending quarter 1-4 (default: current quarter)')
 
     args = parser.parse_args()
 
+    # Handle --all flag
+    if args.all:
+        start_year = 1993
+        start_quarter = 1
+        end_year = None  # Will default to current year
+        end_quarter = None  # Will default to current quarter
+    else:
+        # If no year specified, default to current year only
+        if args.start_year is None and args.end_year is None:
+            current_year = datetime.now().year
+            current_quarter = (datetime.now().month - 1) // 3 + 1
+            start_year = current_year
+            start_quarter = current_quarter
+            end_year = current_year
+            end_quarter = current_quarter
+            print(f"No year range specified, defaulting to current quarter: {current_year} Q{current_quarter}")
+            print("Use --all to download all historical indices, or specify --start-year/--end-year")
+        else:
+            start_year = args.start_year
+            start_quarter = args.start_quarter
+            end_year = args.end_year
+            end_quarter = args.end_quarter
+
     process_filings(
-        index_path=args.index,
+        index_dir=args.index_dir,
         output_csv=args.output,
         forms=("13D", "13G"),
         sec_name=args.sec_name,
         sec_email=args.sec_email,
         requests_per_second=args.rate,
         skip_index_download=args.skip_index,
+        start_year=start_year,
+        start_quarter=start_quarter,
+        end_year=end_year,
+        end_quarter=end_quarter,
     )
