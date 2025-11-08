@@ -1,6 +1,6 @@
 # CIK-CUSIP Mapping
 
-A simple, focused tool for extracting CUSIP identifiers from SEC 13D and 13G filings.
+A professional CLI tool for extracting CUSIP identifiers from SEC 13D and 13G filings.
 
 ## What it does
 
@@ -9,7 +9,8 @@ This tool:
 2. Filters for 13D and 13G forms
 3. Downloads each filing
 4. Parses CUSIP identifiers from the filing text
-5. Writes results to a CSV file
+5. Writes results to a CSV file with accession numbers
+6. Provides a convenient command to download individual filings by accession number
 
 All while respecting SEC rate limits and authorization requirements.
 
@@ -18,18 +19,22 @@ All while respecting SEC rate limits and authorization requirements.
 ### Requirements
 
 - Python 3.9 or higher
-- `requests` library
+- `requests` and `click` libraries
 
-### Install dependencies
-
-```bash
-pip install requests
-```
-
-Or if you want to install as a package:
+### Install the package
 
 ```bash
 pip install -e .
+```
+
+This installs the `cik-cusip` command globally on your system.
+
+### Development installation
+
+For development with testing tools:
+
+```bash
+pip install -e ".[dev]"
 ```
 
 ## SEC Usage Etiquette
@@ -48,53 +53,57 @@ The default rate limit is 10 requests per second. Use `--rate` to adjust if need
 
 ## Usage
 
-### Command Line
+### Command Line Interface
+
+After installation, use the `cik-cusip` command:
+
+#### Extract CUSIPs from filings
 
 Basic usage (downloads current quarter only):
 
 ```bash
-python main.py --sec-name "Jane Doe" --sec-email "jane@example.com"
+cik-cusip extract --sec-name "Jane Doe" --sec-email "jane@example.com"
 ```
 
 Download all historical indices (1993 to present):
 
 ```bash
-python main.py --sec-name "Jane Doe" --sec-email "jane@example.com" --all
+cik-cusip extract --all --sec-name "Jane Doe" --sec-email "jane@example.com"
 ```
 
 Download specific year range:
 
 ```bash
-python main.py \
-  --sec-name "Jane Doe" \
-  --sec-email "jane@example.com" \
+cik-cusip extract \
   --start-year 2020 \
-  --end-year 2024
+  --end-year 2024 \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
 ```
 
 Download specific quarter range:
 
 ```bash
-python main.py \
-  --sec-name "Jane Doe" \
-  --sec-email "jane@example.com" \
+cik-cusip extract \
   --start-year 2023 \
   --start-quarter 3 \
   --end-year 2024 \
-  --end-quarter 2
+  --end-quarter 2 \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
 ```
 
 With additional options:
 
 ```bash
-python main.py \
-  --sec-name "Jane Doe" \
-  --sec-email "jane@example.com" \
+cik-cusip extract \
   --index-dir data/indices \
   --output data/cusips.csv \
   --skip-index \
   --rate 5 \
-  --all
+  --all \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
 ```
 
 Filter for specific CIKs only:
@@ -104,11 +113,11 @@ Filter for specific CIKs only:
 echo "1234567" > my_ciks.txt
 echo "9876543" >> my_ciks.txt
 
-python main.py \
-  --sec-name "Jane Doe" \
-  --sec-email "jane@example.com" \
+cik-cusip extract \
   --cik-filter my_ciks.txt \
-  --all
+  --all \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
 ```
 
 Using environment variables:
@@ -116,13 +125,40 @@ Using environment variables:
 ```bash
 export SEC_NAME="Jane Doe"
 export SEC_EMAIL="jane@example.com"
-python main.py --all
+cik-cusip extract --all
+```
+
+#### Download a specific filing by accession number
+
+Download a filing in text format:
+
+```bash
+cik-cusip download 0001234567-12-000001 \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
+```
+
+With custom output path:
+
+```bash
+cik-cusip download 0001234567-12-000001 \
+  -o my-filing.txt \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
+```
+
+Using environment variables:
+
+```bash
+export SEC_NAME="Jane Doe"
+export SEC_EMAIL="jane@example.com"
+cik-cusip download 0001234567-12-000001
 ```
 
 ### As a Python Library
 
 ```python
-from main import process_filings
+from cik_cusip import process_filings, download_filing_txt
 
 # Process filings and extract CUSIPs (current quarter only)
 process_filings(
@@ -167,12 +203,26 @@ process_filings(
     start_year=2020,
     end_year=2024,
 )
+
+# Download a specific filing by accession number
+download_filing_txt(
+    accession_number='0001234567-12-000001',
+    output_path='filing.txt',
+    sec_name='Jane Doe',
+    sec_email='jane@example.com',
+)
 ```
 
 Or use individual functions:
 
 ```python
-from main import create_session, download_indices, parse_index, extract_cusip
+from cik_cusip import (
+    create_session,
+    download_indices,
+    parse_index,
+    extract_cusip,
+    extract_accession_number,
+)
 
 # Create SEC-compliant session
 session = create_session('Jane Doe', 'jane@example.com')
@@ -196,7 +246,8 @@ for index_path in index_paths:
 for entry in all_entries[:10]:  # First 10 as example
     response = session.get(entry['url'])
     cusip = extract_cusip(response.text)
-    print(f"{entry['cik']}: {cusip}")
+    accession = entry['accession_number']
+    print(f"{entry['cik']}: CUSIP={cusip}, Accession={accession}")
 ```
 
 ## Output
@@ -208,32 +259,76 @@ The tool generates a CSV file with the following columns:
 - `form`: Form type (13D, SC 13D, 13G, SC 13G, etc.)
 - `date`: Filing date
 - `cusip`: Extracted CUSIP identifier (8-10 characters)
+- `accession_number`: SEC accession number for the filing
 
 Example output:
 
 ```csv
-cik,company_name,form,date,cusip
-0001234567,EXAMPLE CORP,SC 13D,2024-01-15,12345678
-0007654321,ANOTHER COMPANY,SC 13G,2024-01-20,87654321
+cik,company_name,form,date,cusip,accession_number
+0001234567,EXAMPLE CORP,SC 13D,2024-01-15,12345678,0001234567-24-000001
+0007654321,ANOTHER COMPANY,SC 13G,2024-01-20,87654321,0007654321-24-000002
 ```
 
 ## Command Line Options
 
-```
---index-dir PATH      Directory for index files (default: data/indices)
---output PATH         Path to output CSV (default: data/cusips.csv)
---skip-index          Skip index download if files exist
---sec-name NAME       Your name for SEC User-Agent header
---sec-email EMAIL     Your email for SEC headers
---rate FLOAT          Requests per second (default: 10.0)
---cik-filter PATH     Path to text file with CIKs to filter (one per line)
+### Extract command
 
-Year/Quarter Range Options:
---all                 Download all available indices (1993 to present)
---start-year YEAR     Starting year (default: current year if not --all)
---start-quarter 1-4   Starting quarter (default: 1)
---end-year YEAR       Ending year (default: current year)
---end-quarter 1-4     Ending quarter (default: current quarter)
+```
+cik-cusip extract [OPTIONS]
+
+Options:
+  --index-dir PATH          Directory for index files (default: data/indices)
+  --output PATH             Path to output CSV (default: data/cusips.csv)
+  --skip-index              Skip index download if files exist
+  --sec-name TEXT           Your name for SEC User-Agent (or set SEC_NAME env var)
+  --sec-email TEXT          Your email for SEC headers (or set SEC_EMAIL env var)
+  --rate FLOAT              Requests per second (default: 10.0)
+  --cik-filter PATH         Path to text file with CIKs to filter (one per line)
+  --all                     Download all available indices (1993 to present)
+  --start-year INTEGER      Starting year (default: current year if not --all)
+  --start-quarter [1|2|3|4] Starting quarter (default: 1)
+  --end-year INTEGER        Ending year (default: current year)
+  --end-quarter [1|2|3|4]   Ending quarter (default: current quarter)
+  --help                    Show this message and exit
+```
+
+### Download command
+
+```
+cik-cusip download [OPTIONS] ACCESSION_NUMBER
+
+Options:
+  -o, --output PATH    Output file path (default: {accession_number}.txt)
+  --sec-name TEXT      Your name for SEC User-Agent (or set SEC_NAME env var)
+  --sec-email TEXT     Your email for SEC headers (or set SEC_EMAIL env var)
+  --help               Show this message and exit
+```
+
+## Project Structure
+
+```
+cik-cusip-mapping/
+├── src/
+│   └── cik_cusip/
+│       ├── __init__.py          # Package exports
+│       ├── cli.py               # CLI commands (extract, download)
+│       ├── rate_limiter.py      # Rate limiting for SEC requests
+│       ├── session.py           # SEC-compliant session creation
+│       ├── index.py             # Index download and parsing
+│       ├── cusip.py             # CUSIP extraction and validation
+│       ├── processor.py         # Main processing orchestration
+│       └── utils.py             # Utility functions
+├── tests/
+│   ├── test_cli.py              # CLI tests
+│   ├── test_rate_limiter.py     # Rate limiter tests
+│   ├── test_session.py          # Session tests
+│   ├── test_index.py            # Index tests
+│   ├── test_cusip.py            # CUSIP extraction tests
+│   ├── test_processor.py        # Processor tests
+│   └── test_utils.py            # Utility tests
+├── pyproject.toml               # Package configuration
+├── README.md                    # This file
+└── AGENTS.md                    # Guide for AI agents
 ```
 
 ## How It Works
@@ -242,12 +337,13 @@ Year/Quarter Range Options:
 Downloads SEC EDGAR master index files for the specified time range (current quarter by default, or all historical data from 1993-present with `--all`), which contains metadata for all filings.
 
 ### 2. Index Parsing
-Parses all downloaded index files and filters for 13D and 13G form types (including SC 13D, SC 13G, and amended versions).
+Parses all downloaded index files and filters for 13D and 13G form types (including SC 13D, SC 13G, and amended versions). Extracts accession numbers from filing URLs.
 
 ### 3. Filing Processing
 For each matching filing:
 - Downloads the filing from SEC EDGAR (with rate limiting)
 - Extracts CUSIP using pattern matching
+- Extracts accession number from filing URL
 - Writes result to CSV
 
 ### 4. CUSIP Extraction
@@ -271,8 +367,7 @@ You can filter filings to process only specific CIKs by providing a text file wi
 
 2. Use the filter when running the tool:
    ```bash
-   python main.py --sec-name "Your Name" --sec-email "your@email.com" \
-     --cik-filter my_ciks.txt --all
+   cik-cusip extract --cik-filter my_ciks.txt --all
    ```
 
 This is useful when you only need to track filings for specific companies and want to reduce processing time.
@@ -297,6 +392,20 @@ The tool uses a token bucket algorithm to respect SEC rate limits:
 - Configurable via `--rate` argument
 - Includes exponential backoff for failed requests
 - Retries on 429, 500, 502, 503, 504 status codes
+
+## Testing
+
+Run the test suite:
+
+```bash
+pytest
+```
+
+With coverage:
+
+```bash
+pytest --cov=cik_cusip --cov-report=html
+```
 
 ## License
 
