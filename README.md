@@ -10,7 +10,7 @@ This tool:
 3. Downloads each filing
 4. Parses CUSIP identifiers from the filing text
 5. Writes results to a CSV file with accession numbers
-6. Provides a convenient command to download individual filings by accession number
+6. Provides a convenient command to download individual filings by CIK and accession number
 
 All while respecting SEC rate limits and authorization requirements.
 
@@ -128,12 +128,12 @@ export SEC_EMAIL="jane@example.com"
 cik-cusip extract --all
 ```
 
-#### Download a specific filing by accession number
+#### Download a specific filing by CIK and accession number
 
-Download a filing in text format:
+Download a filing in text format (requires both CIK and accession number):
 
 ```bash
-cik-cusip download 0001234567-12-000001 \
+cik-cusip download 813828 0001104659-06-026838 \
   --sec-name "Jane Doe" \
   --sec-email "jane@example.com"
 ```
@@ -141,7 +141,7 @@ cik-cusip download 0001234567-12-000001 \
 With custom output path:
 
 ```bash
-cik-cusip download 0001234567-12-000001 \
+cik-cusip download 813828 0001104659-06-026838 \
   -o my-filing.txt \
   --sec-name "Jane Doe" \
   --sec-email "jane@example.com"
@@ -152,7 +152,7 @@ Using environment variables:
 ```bash
 export SEC_NAME="Jane Doe"
 export SEC_EMAIL="jane@example.com"
-cik-cusip download 0001234567-12-000001
+cik-cusip download 813828 0001104659-06-026838
 ```
 
 ### As a Python Library
@@ -204,9 +204,10 @@ process_filings(
     end_year=2024,
 )
 
-# Download a specific filing by accession number
+# Download a specific filing by CIK and accession number
 download_filing_txt(
-    accession_number='0001234567-12-000001',
+    cik='813828',
+    accession_number='0001104659-06-026838',
     output_path='filing.txt',
     sec_name='Jane Doe',
     sec_email='jane@example.com',
@@ -295,7 +296,11 @@ Options:
 ### Download command
 
 ```
-cik-cusip download [OPTIONS] ACCESSION_NUMBER
+cik-cusip download [OPTIONS] CIK ACCESSION_NUMBER
+
+Arguments:
+  CIK                  Company's Central Index Key (e.g., 813828)
+  ACCESSION_NUMBER     SEC accession number (e.g., 0001104659-06-026838)
 
 Options:
   -o, --output PATH    Output file path (default: {accession_number}.txt)
