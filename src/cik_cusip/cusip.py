@@ -28,6 +28,11 @@ def extract_cusip(text: str) -> Optional[str]:
             break
 
     # Clean HTML entities and tags
+    # First, preserve CUSIPs with spaces/entities by normalizing them
+    # Pattern for CUSIP with spaces: "518439 10 4" or "518439&nbsp;10&nbsp;4"
+    text = re.sub(r'(\d{6})[\s&nbsp;]+(\d{1,2})[\s&nbsp;]+(\d)', r'\1\2\3', text, flags=re.IGNORECASE)
+
+    # Now clean remaining HTML entities and tags
     text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
 
