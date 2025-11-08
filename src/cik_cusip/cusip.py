@@ -28,9 +28,26 @@ def extract_cusip(text: str) -> Optional[str]:
             break
 
     # Clean HTML entities and tags
-    # First, preserve CUSIPs with spaces/entities by normalizing them
-    # Pattern for CUSIP with spaces: "518439 10 4" or "518439&nbsp;10&nbsp;4"
-    text = re.sub(r'(\d{6})[\s&nbsp;]+(\d{1,2})[\s&nbsp;]+(\d)', r'\1\2\3', text, flags=re.IGNORECASE)
+    # First, normalize CUSIPs with various separators (dashes, spaces, &nbsp;)
+
+    # Pattern 1: CUSIPs with dashes in various formats
+    # 1a: Standard format with digits: "80004C-10-1" → "80004C101"
+    text = re.sub(r'([A-Z0-9]{6})[\s\-]+(\d{1,2})[\s\-]+(\d)', r'\1\2\3', text, flags=re.IGNORECASE)
+    # 1b: With letters at end: "461148-AA6" → "461148AA6"
+    text = re.sub(r'([A-Z0-9]{6})[\s\-]+([A-Z0-9]{2,3})', r'\1\2', text, flags=re.IGNORECASE)
+    # 1c: Unusual positions: "922-57T-202" → "92257T202"
+    text = re.sub(r'([A-Z0-9]{3})[\s\-]+([A-Z0-9]{3})[\s\-]+([A-Z0-9]{3})', r'\1\2\3', text, flags=re.IGNORECASE)
+
+    # Pattern 2: CUSIPs with spaces/&nbsp; - e.g., "518439 10 4" or "563 118 108"
+    # Already handled by Pattern 1c for 3-3-3 format
+    text = re.sub(r'([A-Z0-9]{6})[\s&nbsp;]+([A-Z0-9]{2})[\s&nbsp;]+([A-Z0-9])', r'\1\2\3', text, flags=re.IGNORECASE)
+
+    # Pattern 3: Remove parentheses around CUSIPs - e.g., "(736420100)" → "736420100"
+    text = re.sub(r'\(([A-Z0-9]{8,10})\)', r'\1', text)
+
+    # Pattern 4: Separate CUSIPs from form types like "13G/A", "13D", "SC 13G"
+    # e.g., "82257T20213G/A" → "82257T202 13G/A"
+    text = re.sub(r'([A-Z0-9]{9})(\d{1,2}[A-Z](/[A-Z])?)', r'\1 \2', text)
 
     # Now clean remaining HTML entities and tags
     text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
@@ -53,18 +70,33 @@ def extract_cusip(text: str) -> Optional[str]:
         if not matches:
             continue
 
-        # Get context around the marker (look ahead more than behind)
+        # Get context around the marker
         for match in matches:
-            start = max(0, match.start() - 100)
-            end = min(len(text), match.end() + 200)
-            window = text[start:end]
+            # Try both forward and backward windows
+            # Collect all candidates with their relative positions
+            all_candidates = []
 
-            # Find CUSIP candidates in window
-            candidates = re.findall(cusip_pattern, window)
+            # Forward window (200 chars)
+            forward_start = match.end()
+            forward_end = min(len(text), match.end() + 200)
+            forward_window = text[forward_start:forward_end]
+            for m in re.finditer(cusip_pattern, forward_window):
+                distance = m.start()  # Distance from marker end
+                all_candidates.append((distance, m.group(), 'forward'))
 
-            # Try candidates in order of appearance
-            # Use lenient validation since we have an explicit label
-            for candidate in candidates:
+            # Backward window (100 chars)
+            backward_start = max(0, match.start() - 100)
+            backward_end = match.start()
+            backward_window = text[backward_start:backward_end]
+            for m in re.finditer(cusip_pattern, backward_window):
+                distance = (backward_end - backward_start) - m.end()  # Distance from marker start
+                all_candidates.append((distance, m.group(), 'backward'))
+
+            # Sort by distance (closest first)
+            all_candidates.sort(key=lambda x: x[0])
+
+            # Try candidates in order of proximity
+            for _, candidate, _ in all_candidates:
                 if is_valid_cusip(candidate, strict=False):
                     return candidate
 
@@ -160,9 +192,7 @@ def is_valid_cusip(candidate: str, strict: bool = True) -> bool:
     # Lenient validation for labeled candidates
     # If we found it near a CUSIP label, trust the label more
     # Just do basic sanity checks
-    else:
-        # Still reject obvious non-CUSIPs
-        if candidate.isdigit() and len(candidate) == 10:  # 10-digit phone numbers
-            return False
+    # Note: We allow 10-digit numeric CUSIPs here because leading zeros are valid
+    # (e.g., "0462220109") and when explicitly labeled, we trust the label
 
     return True
