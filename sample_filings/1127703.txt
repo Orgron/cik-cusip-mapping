@@ -1,0 +1,226 @@
+<SEC-DOCUMENT>0000080255-22-001880.txt : 20220214
+<SEC-HEADER>0000080255-22-001880.hdr.sgml : 20220214
+<ACCEPTANCE-DATETIME>20220214143423
+ACCESSION NUMBER:		0000080255-22-001880
+CONFORMED SUBMISSION TYPE:	SC 13G
+CONFIRMING COPY:	
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220214
+DATE AS OF CHANGE:		20220214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PROASSURANCE CORP
+		CENTRAL INDEX KEY:			0001127703
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				631261433
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-61739
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BROOKWOOD PLACE
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35209
+		BUSINESS PHONE:		2058774400
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRICE T ROWE ASSOCIATES INC /MD/
+		CENTRAL INDEX KEY:			0000080255
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		IRS NUMBER:				520556948
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 EAST PRATT ST
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21202
+		BUSINESS PHONE:		(410)345-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 89000
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21289
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>pra13gdec21.txt
+<TEXT>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 13G
+
+Under the Securities Exchange Act of 1934
+
+(Amendment No. )
+
+PROASSURANCE CORP
+(Name of Issuer)
+
+COMMON STOCK
+(Title of Class of Securities)
+
+74267C106
+(CUSIP NUMBER)
+
+December 31, 2021
+(Date of Event which Requires Filing of Statement)
+
+Check the appropriate box to designate the Rule pursuant to which this
+Schedule is filed:
+[x]  Rule 13d - 1(b)
+     Rule 13d - 1(c)
+     Rule 13d - 1(d)
+
+1. Name of Reporting Person
+   T. ROWE PRICE ASSOCIATES, INC.
+   52-0556948
+
+2. Check the Appropriate Box if a Member of a Group
+   NOT APPLICABLE
+
+3. SEC Use Only
+
+4. Citizenship or Place of Organization
+   Maryland
+
+Number of Shares Beneficially Owned by Each Reporting Person With
+
+5. Sole Voting Power*         1,027,699
+
+6. Shared Voting Power*       0
+
+7. Sole Dispositive Power*    2,976,937
+
+8. Shared Dispositive Power   0
+
+9. Aggregate Amount Beneficially Owned by Each Reporting Person
+   2,976,937
+
+10. Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares
+	NOT APPLICABLE
+
+11. Percent of Class Represented by Amount in Row 9
+	5.5%
+
+12. Type of Reporting Person
+	IA
+
+*Any shares reported in Items 5 and 6 are also reported in Item 7.
+
+
+Item 1(a) Name of Issuer:
+PROASSURANCE CORP
+
+Item 1(b) Address of Issuer's Principal Executive Offices:
+100 BROOKWOOD PLACE, BIRMINGHAM, ALABAMA 35209
+
+Item 2(a) Name of Person(s) Filing:
+(1) T. ROWE PRICE ASSOCIATES, INC. ("Price Associates")
+
+
+Item 2(b) Address of Principal Business Office:
+100 E. Pratt Street, Baltimore, MD 21202
+
+Item 2(c) Citizenship or Place of Organization:
+(1) Maryland
+
+Item 2(d) Title of Class of Securities: COMMON STOCK
+
+Item 2(e) Cusip Number: 74267C106
+
+Item 3: The person filing this Schedule 13G is an:
+X   Investment Adviser registered under Section 203 of the Investment
+    Advisers Act of 1940
+
+Item 4: Reference is made to Items 5-11 on the preceding pages of this
+        Schedule 13G.
+
+Item 5: Ownership of Five Percent or Less of a Class
+	Not Applicable
+
+Item 6: Ownership of More than Five Percent on Behalf of Another Person
+
+(1)     Price Associates does not serve as custodian of the assets of any of
+        its clients; accordingly, in each instance only the client or the
+        client's custodian or trustee bank has the right to receive dividends
+        paid with respect to, and proceeds from the sale of, such securities.
+
+        The ultimate power to direct the receipt of dividends paid with
+        respect to, and the proceeds from the sale of, such securities, is
+        vested in the individual and institutional clients which Price
+        Associates serves as investment adviser. Any and all discretionary
+        authority which has been delegated to Price Associates may be revoked
+        in whole or in part at any time.
+
+        Except as may be indicated if this is a joint filing with one of the
+        registered investment companies sponsored by Price Associates which it
+        also serves as investment adviser ("T. Rowe Price Funds"), not more
+        than 5% of the class of such securities is owned by any one client
+        subject to the investment advice of Price Associates.
+
+(2)     With respect to securities owned by any one of the T. Rowe Price
+        Funds, only the custodian for each of such Funds, has the right to
+        receive dividends paid with respect to, and proceeds from the sale of,
+        such securities. No other person is known to have such right, except
+        that the shareholders of each such Fund participate proportionately
+        in any dividends and distributions so paid.
+
+Item 7: Identification and Classification of the Subsidiary Which Acquired the
+        Security Being Reported on By the Parent Holding Company.
+        Not Applicable
+
+Item 8: Identification and Classification of Members of the Group
+        Not Applicable
+
+Item 9: Notice of Dissolution of Group
+        Not Applicable
+
+Item 10: Certification
+         By signing below I certify that, to the best of my knowledge and
+         belief, the securities referred to above were acquired in the
+         ordinary course of business and were not acquired and are not
+         held for the purpose of or with the effect of changing or
+         influencing the control of the issuer of the securities and were
+         not acquired and are not held in connection with or as a participant
+         in any transaction having that purpose or effect. T. Rowe Price
+         Associates, Inc. hereby declares and affirms that the filing
+         of Schedule 13G shall not be construed as an admission that Price
+         Associates is the beneficial owner of the securities referred to,
+         which beneficial ownership is expressly denied.
+
+         Signature.
+
+         After reasonable inquiry and to the best of my knowledge and belief,
+         I certify that the information set forth in this statement is true,
+         complete and correct.
+
+T. ROWE PRICE ASSOCIATES, INC.
+Date: February 14, 2022
+Signature: /s/ David Oestreicher
+Name & Title: David Oestreicher, Executive Vice President
+
+12/31/2021
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

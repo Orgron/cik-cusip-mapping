@@ -1,0 +1,2434 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FeFZSr7fCxkdMYPWLVBhDtqQeu6y2Ys4HlN+WFGTBSRj4KPb/ckRBlZ3I//MgzaB
+ 75mxmEDYOeDXdmhKgCAtEQ==
+
+<SEC-DOCUMENT>0000950144-04-011596.txt : 20041129
+<SEC-HEADER>0000950144-04-011596.hdr.sgml : 20041129
+<ACCEPTANCE-DATETIME>20041129165827
+ACCESSION NUMBER:		0000950144-04-011596
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20041129
+DATE AS OF CHANGE:		20041129
+GROUP MEMBERS:		COCONUT PALM CAPITAL INVESTORS II, INC.
+GROUP MEMBERS:		COCONUT PALM CAPITAL INVESTORS II, LTD.
+GROUP MEMBERS:		MARIO B. FERRARI
+GROUP MEMBERS:		RICHARD C. ROCHON
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HERMAN MICHAEL D
+		CENTRAL INDEX KEY:			0000928169
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		617-350-7770
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 60446
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80960
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNAIR ELECTRONICS INC
+		CENTRAL INDEX KEY:			0000095366
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				590780772
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-36098
+		FILM NUMBER:		041172278
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3005 SW THIRD AVE
+		STREET 2:		EXECUTIVE OFFICES
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33315
+		BUSINESS PHONE:		9545251505
+
+	MAIL ADDRESS:	
+		STREET 1:		3005 SW THIRD AVENUE
+		CITY:			FT LAUDERDALE
+		STATE:			FL
+		ZIP:			33315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>g92155sc13d.htm
+<DESCRIPTION>SUNAIR ELECTRONICS, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>SUNAIR ELECTRONICS, INC.</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<TABLE align="right" width="160" border="1" cellspacing="0" cellpadding="1">
+<TR><TD align="center" nowrap>OMB APPROVAL</TD></TR>
+<TR><TD nowrap>OMB Number: 3235-0145</TD></TR>
+<TR><TD nowrap>Expires: December 31, 2005</TD></TR>
+<TR><TD nowrap>Estimated average burden<BR>
+hours per response...15</TD></TR></TABLE>
+
+<BR clear="right">
+<BR clear="right">
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B><BR>
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B></DIV>
+<P align="center" style="font-size: 18pt"><B>SCHEDULE 13D</B>
+
+<P align="center"><B>Under the Securities Exchange Act of 1934<BR>
+(Amendment No. )*</B>
+
+<P><DIV align="center" style="font-size: 24pt">SUNAIR ELECTRONICS, INC.</DIV>
+<HR size="1" noshade>
+<DIV align="center" style="font-size: 10pt">(Name of Issuer)</DIV>
+
+<P><DIV align="center" style="font-size: 10pt">Common Stock, par value $.10 per share<BR>
+<HR size="1" noshade>
+(Title of Class of Securities)</DIV>
+
+<P><DIV align="center" style="font-size: 10pt">867017105<BR>
+<HR size="1" noshade>
+(Cusip Number)</DIV>
+
+<P> <DIV align="center" style="font-size: 10pt"> David Ristaino, Esq.<BR>
+Akerman Senterfitt<BR>
+One SE Third Avenue<BR>
+Miami, FL 33131<BR>
+Tel. No.: (305) 374-5600<BR>
+<HR size="1" noshade>
+(Name, Address and Telephone Number of Person<BR>Authorized to Receive Notices and Communications)</DIV>
+<P><DIV align="center" style="font-size: 10pt">November 17, 2004<BR>
+<HR size="1" noshade>
+(Date of Event Which Requires Filing of this Statement)</DIV>
+<P align="left" style="font-size: 10pt">If the filing person has previously filed a statement on Schedule 13G to report the acquisition that is the subject of this Schedule 13D, and is filing this schedule because of &#167;&#167;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box. <FONT face="wingdings">&#111;</FONT>
+<P>
+<P align="left" style="font-size: 10pt"><B>Note:</B> Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See &#167;240.13d-7 for other parties to whom copies are to be sent.
+<P>
+<P align="left" style="font-size: 10pt"><SUP>*</SUP> The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
+<P>
+<P align="left" style="font-size: 10pt">The information required on the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+<P align="center" style="font-size: 10pt">
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4" style="font-size: 10pt">
+<TR>
+<TD width="4%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="28%">&nbsp;</TD>
+<TD width="14%">&nbsp;</TD>
+<TD width="45%">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD colspan="5">CUSIP No. 867017105 </td> <TD colspan="2" align="right">Page 2 of 13 Pages </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>1.</TD>
+<TD valign=top colspan=3>Name of Reporting Person:<BR>MICHAEL D. HERMAN</TD>
+<TD valign=top colspan=2>I.R.S. Identification Nos. of above persons (entities only):<BR>
+</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>2.</TD>
+<TD valign=top colspan=5>Check the Appropriate Box if a Member of a Group (See Instructions):</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(a)</TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(b)</TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>3.</TD>
+<TD valign=top colspan=5>SEC Use Only:</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>4.</TD>
+<TD valign=top colspan=5>Source of Funds (See Instructions):<BR>00</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>5.</TD>
+<TD valign=top colspan=5>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>6.</TD>
+<TD valign=top colspan=5>Citizenship or Place of Organization:<BR>UNITED STATES</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center">Number of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person With</TD></TR>
+
+<TR><TD valign=top>7.</TD>
+<TD valign=top colspan=3>Sole Voting Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>8.</TD><TD valign=top colspan=3> Shared Voting Power:<BR>2,056,700</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>9.</TD><TD valign=top colspan=3> Sole Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>10.</TD><TD valign=top colspan=3>Shared Dispositive Power:<BR>2,056,700</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>11.</TD><TD valign=top colspan=5>Aggregate Amount Beneficially Owned by Each Reporting Person: <BR>2,056,700</TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>12.</TD><TD valign=top colspan=5>Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>13.</TD><TD valign=top colspan=5>Percent of Class Represented by Amount in Row (11):<BR>51.3%</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>14.</TD><TD valign=top colspan=5>Type of Reporting Person (See Instructions):<BR>IN</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt">
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4" style="font-size: 10pt">
+<TR>
+<TD width="4%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="28%">&nbsp;</TD>
+<TD width="14%">&nbsp;</TD>
+<TD width="45%">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD colspan="5">CUSIP No. 867017105 </td> <TD colspan="2" align="right">Page 3 of 13 Pages </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>1.</TD>
+<TD valign=top colspan=3>Name of Reporting Person:<BR>COCONUT PALM CAPITAL INVESTORS II, LTD.</TD>
+<TD valign=top colspan=2>I.R.S. Identification Nos. of above persons (entities only):<BR>
+</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>2.</TD>
+<TD valign=top colspan=5>Check the Appropriate Box if a Member of a Group (See Instructions):</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(a)</TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(b)</TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>3.</TD>
+<TD valign=top colspan=5>SEC Use Only:</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>4.</TD>
+<TD valign=top colspan=5>Source of Funds (See
+Instructions):<BR>00<BR>
+Securities are deemed beneficially owned in connection with the
+execution of a Voting Agreement (as defined in Item&nbsp;4)</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>5.</TD>
+<TD valign=top colspan=5>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>6.</TD>
+<TD valign=top colspan=5>Citizenship or Place of Organization:<BR>State of Florida</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center">Number of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person With</TD></TR>
+
+<TR><TD valign=top>7.</TD>
+<TD valign=top colspan=3>Sole Voting Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>8.</TD><TD valign=top colspan=3> Shared Voting
+Power:<BR>2,056,700*</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>9.</TD><TD valign=top colspan=3> Sole Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>10.</TD><TD valign=top colspan=3>Shared Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>11.</TD><TD valign=top colspan=5>Aggregate Amount
+Beneficially Owned by Each Reporting Person: <BR>2,056,700*</TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>12.</TD><TD valign=top colspan=5>Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>13.</TD><TD valign=top colspan=5>Percent of Class
+Represented by Amount in Row (11):<BR>51.3%</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>14.</TD><TD valign=top colspan=5>Type of Reporting Person (See Instructions):<BR>PN</TD></TR>
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">* 2,056,700 shares of the Issuer&#146;s common stock, par value $.10 per share (the
+&#147;Common Stock&#148;), covered by this Statement are subject to a Voting Agreement
+(as defined and described in Item&nbsp;4 herein), pursuant to which Michael D.
+Herman has agreed to vote all of his shares of the Issuer&#146;s Common Stock in
+favor of certain proposals at the annual meeting of the Issuer (as described in
+Item&nbsp;4 herein) and grant Coconut Palm Capital Investors II, Ltd. an irrevocable
+proxy to vote such shares of Common Stock.
+
+<P align="center" style="font-size: 10pt">
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4" style="font-size: 10pt">
+<TR>
+<TD width="4%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="28%">&nbsp;</TD>
+<TD width="14%">&nbsp;</TD>
+<TD width="45%">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD colspan="5">CUSIP No. 867017105 </td> <TD colspan="2" align="right">Page 4 of 13 Pages </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>1.</TD>
+<TD valign=top colspan=3>Name of Reporting Person:<BR>COCONUT PALM CAPITAL INVESTORS II, INC.</TD>
+<TD valign=top colspan=2>I.R.S. Identification Nos. of above persons (entities only):<BR>
+</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>2.</TD>
+<TD valign=top colspan=5>Check the Appropriate Box if a Member of a Group (See Instructions):</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(a)</TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(b)</TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>3.</TD>
+<TD valign=top colspan=5>SEC Use Only:</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>4.</TD>
+<TD valign=top colspan=5>Source of Funds (See
+Instructions):<BR>00<BR>Securities are deemed beneficially owned in
+connection with the execution of a Voting Agreement (as defined in
+Item 4)</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>5.</TD>
+<TD valign=top colspan=5>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>6.</TD>
+<TD valign=top colspan=5>Citizenship or Place of Organization:<BR>State of Florida</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center">Number of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person With</TD></TR>
+
+<TR><TD valign=top>7.</TD>
+<TD valign=top colspan=3>Sole Voting Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>8.</TD><TD valign=top colspan=3> Shared Voting
+Power:<BR>2,056,700*</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>9.</TD><TD valign=top colspan=3> Sole Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>10.</TD><TD valign=top colspan=3>Shared Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>11.</TD><TD valign=top colspan=5>Aggregate Amount
+Beneficially Owned by Each Reporting Person: <BR>2,056,700*</TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>12.</TD><TD valign=top colspan=5>Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>13.</TD><TD valign=top colspan=5>Percent of Class Represented by Amount in Row (11):<BR>51.3%</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>14.</TD><TD valign=top colspan=5>Type of Reporting Person (See Instructions):<BR>CO</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">* 2,056,700 shares of the Issuer&#146;s common stock, par value $.10 per share (the
+&#147;Common Stock&#148;), covered by this Statement are subject to a Voting Agreement
+(as defined and described in Item&nbsp;4 herein), pursuant to which Michael D.
+Herman has agreed to vote all of his shares of the Issuer&#146;s Common Stock in
+favor of certain proposals at the annual meeting of the Issuer (as described in
+Item&nbsp;4 herein) and grant Coconut Palm Capital Investors II, Ltd. an irrevocable
+proxy to vote such shares of Common Stock.
+
+<P align="center" style="font-size: 10pt">
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4" style="font-size: 10pt">
+<TR>
+<TD width="4%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="28%">&nbsp;</TD>
+<TD width="14%">&nbsp;</TD>
+<TD width="45%">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD colspan="5">CUSIP No. 867017105 </td> <TD colspan="2" align="right">Page 5 of 13 Pages </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>1.</TD>
+<TD valign=top colspan=3>Name of Reporting Person:<BR>RICHARD C. ROCHON</TD>
+<TD valign=top colspan=2>I.R.S. Identification Nos. of above persons (entities only):<BR>
+</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>2.</TD>
+<TD valign=top colspan=5>Check the Appropriate Box if a Member of a Group (See Instructions):</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(a)</TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(b)</TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>3.</TD>
+<TD valign=top colspan=5>SEC Use Only:</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>4.</TD>
+<TD valign=top colspan=5>Source of Funds (See Instructions):<BR>00<BR>
+Securities are deemed beneficially owned in connection with the
+execution of a Voting Agreement (as defined in Item&nbsp;4)</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>5.</TD>
+<TD valign=top colspan=5>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>6.</TD>
+<TD valign=top colspan=5>Citizenship or Place of Organization:<BR>United States</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center">Number of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person With</TD></TR>
+
+<TR><TD valign=top>7.</TD>
+<TD valign=top colspan=3>Sole Voting Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>8.</TD><TD valign=top colspan=3> Shared Voting
+Power:<BR>2,056,700*</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>9.</TD><TD valign=top colspan=3> Sole Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>10.</TD><TD valign=top colspan=3>Shared Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>11.</TD><TD valign=top colspan=5>Aggregate Amount
+Beneficially Owned by Each Reporting Person: <BR>2,056,700*</TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>12.</TD><TD valign=top colspan=5>Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>13.</TD><TD valign=top colspan=5>Percent of Class Represented by Amount in Row (11):<BR>51.3%</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>14.</TD><TD valign=top colspan=5>Type of Reporting Person (See Instructions):<BR>IN</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">* 2,056,700 shares of the Issuer&#146;s common stock, par value $.10 per share (the
+&#147;Common Stock&#148;), covered by this Statement are subject to a Voting Agreement
+(as defined and described in Item&nbsp;4 herein), pursuant to which Michael D.
+Herman has agreed to vote all of his shares of the Issuer&#146;s Common Stock in
+favor of certain proposals at the annual meeting of the Issuer (as described in
+Item&nbsp;4 herein) and grant Coconut Palm Capital Investors II, Ltd. an irrevocable
+proxy to vote such shares of Common Stock.
+
+<P align="center" style="font-size: 10pt">
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4" style="font-size: 10pt">
+<TR>
+<TD width="4%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+<TD width="28%">&nbsp;</TD>
+<TD width="14%">&nbsp;</TD>
+<TD width="45%">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD colspan="5">CUSIP No. 867017105 </td> <TD colspan="2" align="right">Page 6 of 13 Pages </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>1.</TD>
+<TD valign=top colspan=3>Name of Reporting Person:<BR>MARIO B. FERRARI</TD>
+<TD valign=top colspan=2>I.R.S. Identification Nos. of above persons (entities only):<BR>
+</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>2.</TD>
+<TD valign=top colspan=5>Check the Appropriate Box if a Member of a Group (See Instructions):</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(a)</TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD valign=top>(b)</TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3>&nbsp;</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>3.</TD>
+<TD valign=top colspan=5>SEC Use Only:</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>4.</TD>
+<TD valign=top colspan=5>Source of Funds (See
+Instructions):<BR>00<BR>Securities are deemed beneficially owned in
+connection with the execution of a Voting Agreement (as defined in
+Item 4)</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>5.</TD>
+<TD valign=top colspan=5>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD valign=top>6.</TD>
+<TD valign=top colspan=5>Citizenship or Place of Organization:<BR>United States</TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center">Number of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person With</TD></TR>
+
+<TR><TD valign=top>7.</TD>
+<TD valign=top colspan=3>Sole Voting Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>8.</TD><TD valign=top colspan=3> Shared Voting
+Power:<BR>2,056,700*</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>9.</TD><TD valign=top colspan=3> Sole Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top>10.</TD><TD valign=top colspan=3>Shared Dispositive Power:<BR>-0-</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>11.</TD><TD valign=top colspan=5>Aggregate Amount
+Beneficially Owned by Each Reporting Person: <BR>2,056,700*</TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>12.</TD><TD valign=top colspan=5>Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>13.</TD><TD valign=top colspan=5>Percent of Class Represented by Amount in Row (11):<BR>51.3%</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD>&nbsp;</TD>
+<TD valign=top>14.</TD><TD valign=top colspan=5>Type of Reporting Person (See Instructions):<BR>IN</TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">* 2,056,700 shares of the Issuer&#146;s common stock, par value $.10 per share (the
+&#147;Common Stock&#148;), covered by this Statement are subject to a Voting Agreement
+(as defined and described in Item&nbsp;4 herein), pursuant to which Michael D.
+Herman has agreed to vote all of his shares of the Issuer&#146;s Common Stock in
+favor of certain proposals at the annual meeting of the Issuer (as described in
+Item&nbsp;4 herein) and grant Coconut Palm Capital Investors II, Ltd. an irrevocable
+proxy to vote such shares of Common Stock.
+
+<P align="center" style="font-size: 10pt">
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Page 7 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><B>ITEM 1. SECURITY AND ISSUER.</B>
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">This Statement relates to the common stock, $.10 par value per share (the
+&#147;Common Stock&#148;), of Sunair Electronics, Inc., a Florida corporation (the
+&#147;Company&#148;), whose principal executive offices are located at 3005 SW Third
+Ave., Fort Lauderdale, FL 33315.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Information in this Statement with respect to Coconut Palm Capital Investors
+II, Ltd., Coconut Palm Capital Investors II, Inc., Richard C. Rochon and Mario
+B. Ferrari is given solely by Coconut Palm Capital Investors II, Ltd., Coconut
+Palm Capital Investors II, Inc., Richard C. Rochon and Mario B. Ferrari and
+Michael D. Herman has no responsibility for the accuracy or completeness of
+information supplied by Coconut Palm Capital Investors II, Ltd., Coconut Palm
+Capital Investors II, Inc., Richard C. Rochon and Mario B. Ferrari. Similarly,
+information in this Statement with respect to Michael D. Herman is given solely
+by Mr.&nbsp;Herman and each of Coconut Palm Capital Investors II, Ltd., Coconut Palm
+Capital Investors II, Inc., Richard C. Rochon and Mario B. Ferrari have no
+responsibility for the accuracy or completeness of information supplied by Mr.
+Herman.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>ITEM 2. IDENTITY AND BACKGROUND.</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(a)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>This statement is filed by: (i)&nbsp;Michael D. Herman, with respect to shares
+of Common Stock beneficially owned by him; (ii)&nbsp;Coconut Palm Capital
+Investors II, Ltd. (&#147;Coconut Palm&#148;), with respect to shares of Common
+Stock to which it has voting rights; (iii)&nbsp;Coconut Palm Capital Investors
+II, Inc. (&#147;Coconut Palm Inc.&#148;), with respect to shares of Common Stock to
+which Coconut Palm has voting rights; (iv)&nbsp;Richard C. Rochon, with respect
+to shares of Common Stock to which Coconut Palm has voting rights; and (v)
+Mario B. Ferrari, with respect to shares of Common Stock to which Coconut
+Palm has voting rights. The foregoing persons are hereinafter sometimes
+referred to as the &#147;Reporting Persons.&#148; Any disclosures herein with
+respect to persons other than the Reporting Persons are made on
+information and belief after making inquiry to the appropriate party.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The residence or principal business and principal office address of each
+of the Reporting Persons and present principal occupation or employment is
+as follows:</TD>
+</TR>
+
+</TABLE>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="11%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="84%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(1)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Michael D. Herman</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">PO Box 60446</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Colorado Springs, CO 80960</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mr. Herman is a business consultant.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(2)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm:</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm Capital Investors II, Ltd.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">555 South Federal Highway, 2nd Floor</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Boca Raton, Florida 33342</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm Inc. is the general partner of Coconut Palm.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(3)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm Inc.:</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm Capital Investors II, Inc.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">c/o Coconut Palm Capital Investors II, Ltd.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">555 South, Federal Highway, 2nd Floor</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Boca Raton, Florida 33342</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mr. Ferrari is 1 of 2 directors and the Vice</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">President of Coconut Palm Inc.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mr. Rochon is sole shareholder, 1 of 2 directors</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">and the President of Coconut Palm Inc.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(4)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Richard C. Rochon</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">c/o Coconut Palm Capital Investors II, Ltd.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">555 South, Federal Highway, 2nd Floor</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Boca Raton, Florida 33342</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mr. Rochon is a business consultant and investor.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="CENTER" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="RIGHT" valign="top">Page 8 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(5)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mario B. Ferrari</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">c/o Coconut Palm Capital Investors II, Ltd.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">555 South, Federal Highway, 2nd Floor</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Boca Raton, Florida 33342</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mr. Ferrari is a business consultant and investor.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>None of the entities or Reporting Persons identified in this Item&nbsp;2 have,
+during the last five years, been convicted in a criminal proceeding
+(excluding traffic violations or similar misdemeanors).</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(d)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>None of the Reporting Persons identified in this Item&nbsp;2 have, during the
+last five years, been a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction and as a result of such
+proceeding was or is subject to a judgment, decree or final order
+enjoining future violations of, or prohibiting or mandating activities
+subject to, Federal or State securities laws or finding any violations
+with respect to such laws.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(e)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Citizenship of Reporting Persons:</TD>
+</TR>
+
+</TABLE>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="81%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="14%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Michael D. Herman
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Colorado</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Coconut Palm Capital Investors II, Ltd.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Florida</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Coconut Palm Capital Investors II, Inc.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Florida</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Richard C. Rochon
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Florida</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Mario B. Ferrari
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Florida</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.</B>
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">As a condition to Coconut Palm entering into the Purchase Agreement (as defined
+and described in Item&nbsp;4 herein), Michael D. Herman and Coconut Palm entered
+into a Voting Agreement (as defined and described in Item&nbsp;4 herein). Coconut
+Palm did not pay additional consideration in connection with the execution and
+delivery of the Voting Agreement.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>ITEM 4. PURPOSE OF THE TRANSACTION.</B>
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">On November&nbsp;17, 2004, the Company entered into a Purchase Agreement by and
+between the Company and Coconut Palm (the &#147;Purchase Agreement&#148;), pursuant to
+which the Company agreed to issue, subject to shareholder approval, and Coconut
+Palm agreed to purchase: (i)&nbsp;3,000,000 Units (as described below) at a purchase
+price of $5.00 per Unit for an aggregate purchase price of $15,000,000; and
+(ii)&nbsp;at the option of Coconut Palm, up to an additional 2,000,000 Units at a
+purchase price of $5.00 per Unit for an aggregate purchase price of up to
+$10,000,000.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">The Units will consist of: (i)&nbsp;one share of the Company&#146;s Common Stock; (ii)
+warrants to purchase one additional share of the Company&#146;s Common Stock for
+each share of Common Stock purchased, at an exercise price of $6.00 per share,
+which will be immediately exercisable and will expire after three years; and
+(iii)&nbsp;warrants to purchase one additional share of the Company&#146;s Common Stock
+for each share of Common Stock purchased, at an exercise price of $7.00 per
+share, which will be immediately exercisable and will expire after five years.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">The initial purchase price of $15,000,000 for the 3,000,000 Units, and the
+additional purchase price of up to $10,000,000, if Coconut Palm exercises its
+option to purchase up to 2,000,000 additional Units, will be payable in cash.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Based on the number of shares of Common Stock of the Company outstanding on
+November&nbsp;17, 2004, if Coconut Palm: (i)&nbsp;purchases only the 3,000,000 Units,
+Coconut Palm will acquire approximately 43% of the Company&#146;s Common Stock
+outstanding immediately after the closing of the Purchase Agreement; (ii)
+exercises its option to purchase the 2,000,000 additional Units, Coconut Palm
+will acquire approximately 56% of the Company&#146;s Common Stock outstanding
+immediately after the closing of the Purchase Agreement. In addition, Coconut
+Palm will be entitled, on a fully diluted basis, to acquire up to: (i)&nbsp;69% of
+the Company&#146;s Common Stock outstanding immediately after the closing of the
+Purchase Agreement, upon exercise of the 6,000,000 warrants acquired in
+connection with the purchase of the 3,000,000 Units;
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Page 9 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">and (ii)&nbsp;80% of the Company&#146;s Common Stock outstanding immediately after the
+closing of the Purchase Agreement upon exercise of an additional 4,000,000
+warrants, if Coconut Palm exercises its option to purchase the 2,000,000
+additional Units. If Coconut Palm were to: (i)&nbsp;exercise its option to purchase
+up to 2,000,000 additional Units; or (ii)&nbsp;exercise the warrants acquired with
+the 3,000,000 Units, it would have enough shares of Common Stock of the Company
+to control the Company.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">In connection with the Purchase Agreement, Coconut Palm has designated two
+individuals, Richard C. Rochon and Mario B. Ferrari, to be nominated to the
+Company&#146;s board of directors. This will require an increase in the size of the
+Company&#146;s board of directors from 5 to 7 members. Under the Company&#146;s bylaws,
+this increase requires shareholder approval. Pursuant to the Purchase
+Agreement, and provided the Company&#146;s shareholders vote in favor of expanding
+the Company&#146;s board of directors from 5 to 7 members, 2 of the Company&#146;s board
+of directors may resign or be removed at a future date, and the Company&#146;s board
+of directors would be required to appoint 2 additional directors (to be
+designated by Coconut Palm) to fill the newly created vacancies.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">In connection with the Purchase Agreement, certain of the Reporting Persons
+entered into a Voting Agreement, dated November&nbsp;17, 2004 (the &#147;Voting
+Agreement&#148;). Pursuant to the terms of the Voting Agreement, Michael D. Herman
+agreed to vote his beneficially owned shares of Common Stock in favor of the
+issuance and sale of the Units by the Company to Coconut Palm at the annual
+meeting of the Company and to grant Coconut Palm an irrevocable proxy to vote
+such shares of Common Stock: (i)&nbsp;in favor of the issuance and sale of the Units
+by the Company to Coconut Palm, as contemplated by the Purchase Agreement; and
+(ii)&nbsp;against any actions or approval that could compete with or could serve to
+materially interfere with, delay, discourage adversely or inhibit the timely
+consummation of the issuance and sale of the Units by the Company to Coconut
+Palm, as contemplated by the Purchase Agreement. The Voting Agreement also
+prohibits Mr.&nbsp;Herman from selling or transferring the shares of Common Stock
+beneficially owned by him other than in certain permitted circumstances. The
+Voting Agreement terminates upon the earlier to occur of: (i)&nbsp;the consummation
+of the transactions contemplated by the Purchase Agreement; (ii)&nbsp;any
+termination of the Purchase Agreement in accordance with its terms; or (iii)
+the withdrawal by the Company&#146;s board of directors of its approval of the
+transactions contemplated by the Purchase Agreement pursuant to Section 8(n) of
+the Purchase Agreement.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">In connection with the Purchase Agreement, the Company has agreed to use its
+best efforts to enter into a definitive agreement as soon as practicable to
+divest itself of certain non-core assets of the Company acquired in connection
+with its purchase of: (i)&nbsp;Percipia, Inc. and its wholly-owned subsidiary
+Percipia Networks, Inc.; and (ii)&nbsp;the assets of Telecom FM, at a purchase price
+equal to the amount paid by the Company for such assets plus the amount of any
+intercompany debt incurred and advances made in connection with such purchases
+by the Company, which such purchase price shall be payable in shares of a
+publicly traded company. Such non-core assets are currently held in separate
+wholly-owned subsidiaries of the Company.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">In connection with the investment by Coconut Palm, the Company plans to pursue
+a strategic alternative to its current line of business by entering into the
+pest control services business. In connection with such new line of business,
+ the Company intends to amend its Articles of Incorporation to: (i)&nbsp;change the
+name of the Company to Sunair, Inc., and (ii) change the Company's business
+purpose to permit the Company to conduct any business to the extent permitted by law.  Such change to the Company's Articles of Incorporation is subject to shareholder approval.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Except as described in this Item&nbsp;4, the Reporting Persons have no present plans
+or proposals which relate to or would result in: (i)&nbsp;the acquisition by any
+person of additional securities of the Company, or the disposition of
+securities of the Company; (ii)&nbsp;an extraordinary corporate transaction such as
+a merger, reorganization or liquidation, involving the Company or any of its
+subsidiaries; (iii)&nbsp;any material change in the present capitalization or
+dividend policy of the Company; (iv)&nbsp;causing a class of
+securities of the Company to be delisted from a national securities exchange or
+to cease to be authorized to be quoted on an inter-dealer quotation system of a
+registered national securities association; (v)&nbsp;a class of equity securities
+of the Company becoming eligible for termination of registration pursuant to
+Section&nbsp;12(g)(4) of the Securities Exchange Act of 1934, as amended; or (vi)
+any action similar to any of those enumerated above.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">This Statement was filed in accordance with Rule&nbsp;13d-5(b)(1) of the Securities
+Exchange Act of 1934, as amended.
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Page 10 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><B>ITEM 5. INTEREST IN SECURITIES OF THE ISSUER.</B>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(a)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>As of the date this Statement:</TD>
+</TR>
+
+</TABLE>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="78%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(1</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Michael D. Herman beneficially owns 2,056,700 shares of the
+Company&#146;s Common Stock, constituting approximately 51.3% of the
+shares outstanding.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(2</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm owns no shares of Common Stock of the Company,
+but pursuant to the Purchase Agreement is contractually obligated to
+purchase 3,000,000 Units, subject to certain closing conditions such
+as the receipt of shareholder approval of the issuance of the Units.
+Coconut Palm may, however, be deemed to have shared voting power
+with respect to 2,056,700 shares of Common Stock, which are subject
+to the Voting Agreement described above in Item&nbsp;4 and which
+represents 51.3% of the outstanding Common Stock.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(3</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm Inc. owns no shares of Common Stock of the
+Company, however, Coconut Palm Inc. is the general partner of
+Coconut Palm and, therefore, Coconut Palm Inc. has the power to
+direct the voting of any shares of Common Stock that may be deemed
+to be beneficially owned by Coconut Palm. As a result, Coconut Palm
+Inc. may be deemed to beneficially own any shares of Common Stock
+that may be deemed to be beneficially owned by Coconut Palm.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(4</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Richard C. Rochon owns no shares of Common Stock of the
+Company, however, Mr.&nbsp;Rochon is the sole shareholder, 1 of 2
+directors and the President of Coconut Palm Inc., and, therefore,
+has the power to direct the voting of any shares of Common Stock
+that may be deemed to be beneficially owned by Coconut Palm Inc.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(5</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mario B. Ferrari owns no shares of Common Stock of the
+Company, however, Mr.&nbsp;Ferrari is 1 of 2 directors and the Vice
+President of Coconut Palm Inc., and, therefore, has the power to
+direct the voting of any shares of Common Stock that may be deemed
+to be beneficially owned by Coconut Palm Inc.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(6</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Reporting Persons are deemed to beneficially own, in the
+aggregate, 2,056,700
+shares of Common Stock, constituting approximately 51.3% of the
+shares outstanding.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The approximate aggregate percentage of Common Stock reported
+beneficially owned by the Reporting Persons is based on 4,006,620 shares,
+which is the total number of shares of Common Stock outstanding as of
+November&nbsp;17, 2004, as provided by the Company.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>With respect to each of the Reporting Persons named in paragraph (a)
+above:</TD>
+</TR>
+
+</TABLE>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="78%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(1</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Michael D. Herman has the power to vote and to dispose of all
+of the shares of Common Stock beneficially owned by him, subject to
+the terms of the Voting Agreement.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(2</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm has the shared power to vote any shares of
+Common Stock that may be deemed to be beneficially owned by it.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(3</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Coconut Palm Inc., as the sole general partner of Coconut
+Palm, and Richard C. Rochon and Mario B. Ferrari (by virtue of their
+control of Coconut Palm Inc.), have the shared power to vote any
+shares of Common Stock that may be deemed to be beneficially owned
+Coconut Palm.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">(4</TD>
+    <TD nowrap valign="top">)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Richard C. Rochon, as the sole shareholder, 1 of 2 directors
+and the President of Coconut Palm Inc., has the shared power to vote
+any shares of Common Stock that may be deemed to be beneficially
+owned or controlled by Coconut Palm Inc.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Page 11 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(5)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mario B. Ferrari, as 1 of 2 directors and the Vice President
+of Coconut Palm Inc., has the shared power to vote any shares of
+Common Stock that may be deemed to be beneficially owned or
+controlled by Coconut Palm Inc.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>None of the Reporting Persons named in response to paragraph (a)&nbsp;has
+effected any transactions in shares of Common Stock during the past 60
+days.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(d)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>There is no other person that is known to have the right to receive
+dividends on, and proceeds from the sale of, the shares of Common Stock
+which may be beneficially owned by the Reporting Persons named in response
+to paragraph (a).</TD>
+</TR>
+
+</TABLE>
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+TO SECURITIES OF THE ISSUER.</B>
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">As described in Item&nbsp;4 above, certain of the Reporting Persons entered into the
+Voting Agreement (as defined in Item&nbsp;4), in connection with the Purchase
+Agreement (as defined in Item&nbsp;4). Pursuant to the Voting Agreement, such
+Reporting Persons agreed to vote certain of their beneficially owned shares of
+Common Stock in favor of certain proposals at the annual meeting of the
+Company.
+
+
+<P align="left" style="font-size: 10pt"><B>ITEM 7. MATERIAL TO BE FILED AS EXHIBITS.</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="89%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;1.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Joint Filing Agreement relating to the filing of this Schedule&nbsp;13D.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;2.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Purchase Agreement, dated November&nbsp;17, 2004, by and between Sunair Electronics, Inc., a Florida corporation, and
+Coconut Palm Capital Investors II, Ltd., a Florida limited partnership. (1)</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;2.
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Voting Agreement and Irrevocable Proxy, dated November&nbsp;17, 2004, by and between Michael D. Herman and Coconut Palm
+Capital Investors II, Ltd., a Florida limited partnership. (2)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><HR align="left" size="1" noshade width="25%">
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Filed as Exhibit&nbsp;2.1 to the Company&#146;s Form 8-K filed on
+November&nbsp;17, 2004 and incorporated by reference herein.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Filed as Exhibit&nbsp;99.1 to the Company&#146;s Form 8-K filed on
+November&nbsp;17, 2004 and incorporated by reference herein.</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Page 12 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, the
+undersigned certifies that the information set forth in this statement is true,
+complete and correct.
+
+
+<P align="left" style="font-size: 10pt">Date: November&nbsp;29, 2004
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">                                   /s/ MICHAEL D. HERMAN
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Michael D. Herman&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>COCONUT PALM CAPITAL INVESTORS II, LTD.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2">            Coconut Palm Capital Investors II, Inc., as general partner
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">                     /s/ RICHARD C. ROCHON
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD>Richard C. Rochon&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD>President&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>COCONUT PALM CAPITAL INVESTORS II, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">                       /s/ RICHARD C. ROCHON
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD>Richard C. Rochon&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD>President&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">                                   /s/ RICHARD C. ROCHON
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Richard C. Rochon&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">                                   /s/ MARIO B. FERRARI
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Mario B. Ferrari&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The original statement shall be signed by each person on whose behalf the
+statement is filed or his authorized representative (other than an executive
+officer or general partner of the filing person), evidence of the
+representative&#146;s authority to sign on behalf of such person shall be filed with
+the statement; <I>provided, however, </I>that a power of attorney for this purpose
+which is already on file with the Commission may be incorporated by reference.
+The name of any title of each person who signs the statement shall be typed or
+printed beneath his signature.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><I>Attention</I>: Intentional misstatements or omissions of fact constitute federal
+criminal violations (See 18 U.S.C. 1001).
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>g92155exv99w1.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Joint Filing Agreement</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.&nbsp;867017105
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">13D
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Page 13 of 13 Pages</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="right" style="font-size: 10pt">EXHIBIT 1
+
+
+
+<P align="center" style="font-size: 10pt">JOINT FILING AGREEMENT
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">In accordance with Rule&nbsp;13d-1(f) under the Securities Exchange Act of 1934, as
+amended, the undersigned acknowledge and agree that the foregoing statement on
+Schedule&nbsp;13D with respect to the Common Stock is filed on behalf of each of the
+undersigned and that all subsequent amendments to this statement on Schedule
+13D shall be filed on behalf of each of the undersigned without the necessity
+of filing additional joint acquisition statements. Additionally, the
+undersigned acknowledge and agree to the inclusion of this Joint Filing
+Agreement as an Exhibit to this Statement. The undersigned acknowledge that
+each shall be responsible for the timely filing of such amendments, and for the
+completeness and accuracy of the information concerning him or it contained
+therein, but shall not be responsible for the completeness and accuracy of the
+information concerning the other, except to the extent that he or it knows or
+has reason to believe that such information is inaccurate.
+
+
+<P align="left" style="font-size: 10pt">November&nbsp;29, 2004
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">                                   /s/ MICHAEL D. HERMAN
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Michael D. Herman&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>COCONUT PALM CAPITAL INVESTORS II, LTD.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2">            Coconut Palm Capital Investors II, Inc., as general partner
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">                     /s/ RICHARD C. ROCHON
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD>Richard C. Rochon&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD>President&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>COCONUT PALM CAPITAL INVESTORS II, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">                       /s/ RICHARD C. ROCHON
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD>Richard C. Rochon&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD>President&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">                                   /s/ RICHARD C. ROCHON
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Richard C. Rochon&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">                                   /s/ MARIO B. FERRARI
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Mario B. Ferrari&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

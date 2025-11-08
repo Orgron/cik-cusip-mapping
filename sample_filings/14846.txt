@@ -1,0 +1,635 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PYa5godspmOa3at4im2JyzdP3UxtI/cCGdz2ZmGnCoOeRC11B9FfjF65ZWlcVTOn
+ yYgRGNJLJqOQhiV59bSDLg==
+
+<SEC-DOCUMENT>0000712770-96-000005.txt : 19960729
+<SEC-HEADER>0000712770-96-000005.hdr.sgml : 19960729
+ACCESSION NUMBER:		0000712770-96-000005
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960726
+SROS:			NYSE
+GROUP MEMBERS:		FREDRIC H. GOULD
+GROUP MEMBERS:		GOULD INVESTORS L.P.
+GROUP MEMBERS:		MARSHALL ROSE
+GROUP MEMBERS:		ONE LIBERTY PROPERTIES INC
+GROUP MEMBERS:		ONE LIBERTY PROPERTIES, INC.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRT REALTY TRUST
+		CENTRAL INDEX KEY:			0000014846
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				132755856
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-09293
+		FILM NUMBER:		96599116
+
+	BUSINESS ADDRESS:	
+		STREET 1:		60 CUTTER MILL RD
+		STREET 2:		SUITE 303
+		CITY:			GREAT NECK
+		STATE:			NY
+		ZIP:			11021-3190
+		BUSINESS PHONE:		5164663100
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BERG ENTERPRISES REALTY GROUP
+		DATE OF NAME CHANGE:	19750724
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ONE LIBERTY PROPERTIES INC
+		CENTRAL INDEX KEY:			0000712770
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				133147497
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		60 CUTTER MILL RD
+		STREET 2:		SUITE 303
+		CITY:			GREAT NECK
+		STATE:			NY
+		ZIP:			11021-3190
+		BUSINESS PHONE:		5164663100
+
+	MAIL ADDRESS:	
+		STREET 1:		60 CUTTER MILL ROAD
+		STREET 2:		SUITE 303
+		CITY:			GREAT NECK
+		STATE:			NY
+		ZIP:			11021-3190
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ONE LIBERTY FIRESTONE PROPERTIES INC
+		DATE OF NAME CHANGE:	19851112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+     
+
+                           SCHEDULE 13D
+               
+            Under the Securities Exchange Act of l934
+
+                       (Amendment No. 3   )*
+BRT Realty Trust
+________________________________________________________________
+                  (Name of Issuer)
+Shares of Beneficial Interest, $3.00 Par Value
+________________________________________________________________
+                  (Title of Class of Securities)
+055645-10-5
+_______________________________________________________________
+                          (CUSIP Number)
+Simeon Brinberg, Esq.
+60 Cutter Mill Road, Great Neck, New York  11021
+________________________________________________________________
+          (Name, Address and Telephone Number of Person
+        Authorized to Receive Notices and Communications)
+
+_______________________________________________________________
+     (Date of Event which Requires Filing of this Statement)
+
+     If the filing person has previously filed a statement on
+Schedule l3G to report the acquisition which is the subject of
+this Schedule l3D, and is filing this schedule because of Rule
+l3d-l(b)(3) or (4), check the following box / /.
+
+     Check the following box if a fee is being paid with the
+statement / /.  (A fee is not required only if the reporting
+person: (l) has a previous statement on file reporting beneficial
+ownership of more than five percent of the class of securities
+described in Item l; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of
+such class.)  (See Rule l3d-7).
+
+     NOTE:  Six copies of this statement, including all exhibits,
+should be filed with the Commission.  See Rule l3d-l(a) for other
+parties to whom copies are to be sent.
+
+     *The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter disclosures provided in
+a prior cover page.
+
+
+
+
+                      (Page l of  12 Pages)
+<PAGE>
+     The information required on the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section l8
+of the Securities Exchange Act of l934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+                  (Continued on following pages)
+
+                      (Page 2 of  12 Pages)
+
+<PAGE>
+                                        Page 3 of Pages 12        
+                            
+_________________________________________________________________
+l.   NAME OF REPORTING PERSON
+     S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+Fredric H. Gould - ###-##-####
+
+_________________________________________________________________2.   CHECK
+THE APPROPRIATE BOX IF A MEMBER OF A GROUP*        (a) x
+                                                   (b)
+_________________________________________________________________
+3.   SEC USE ONLY
+
+_________________________________________________________________
+4.   SOURCE OF FUNDS*
+PF
+_________________________________________________________________
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED   
+PURSUANT TO ITEMS 2(d) or 2(e)
+
+_________________________________________________________________
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+United States
+_________________________________________________________________
+                    7.   SOLE VOTING POWER - 189,185
+ NUMBER OF          _____________________________________________
+ SHARES             8.   SHARED VOTING POWER - 1,921,748
+ BENEFICIALLY       ____________________________________________
+ OWNED BY           9.   SOLE DISPOSITIVE POWER - 189,185
+ EACH               _____________________________________________ 
+ REPORTING          10.  SHARED DISPOSITIVE POWER - 1,921,748
+ PERSON WITH        _____________________________________________
+_________________________________________________________________
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+PERSON - 2,110,933
+
+_________________________________________________________________12.  CHECK
+BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+SHARES*
+
+_________________________________________________________________
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+24.05
+_________________________________________________________________14.  TYPE OF
+REPORTING PERSON*
+IN
+_________________________________________________________________
+
+
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                        Page 4 of Pages 12
+
+ 
+_________________________________________________________________
+l.   NAME OF REPORTING PERSON
+     S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+Marshall Rose - ###-##-####
+_________________________________________________________________2.   CHECK
+THE APPROPRIATE BOX IF A MEMBER OF A GROUP*        (a) x
+                                                   (b)
+_________________________________________________________________
+3.   SEC USE ONLY
+                                                              
+_________________________________________________________________
+4.   SOURCE OF FUNDS*
+
+PF
+_________________________________________________________________
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED   
+PURSUANT TO ITEMS 2(d) or 2(e)
+
+_________________________________________________________________
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+United States
+_________________________________________________________________
+                    7.   SOLE VOTING POWER - 274,279
+ NUMBER OF          _____________________________________________
+ SHARES             8.   SHARED VOTING POWER - 1,693,150
+ BENEFICIALLY       ____________________________________________
+ OWNED BY           9.   SOLE DISPOSITIVE POWER - 274,279
+ EACH               _____________________________________________ 
+ REPORTING          10.  SHARED DISPOSITIVE POWER - 1,693,150
+ PERSON WITH        _____________________________________________
+_________________________________________________________________
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+PERSON - 1,967,429
+
+_________________________________________________________________12.  CHECK
+BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+SHARES*
+
+_________________________________________________________________
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+22.42
+_________________________________________________________________14.  TYPE OF
+REPORTING PERSON*
+IN
+
+
+                                        Page 5 of 12 Pages
+
+
+
+_________________________________________________________________
+l.   NAME OF REPORTING PERSON
+     S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+Gould Investors L.P. - 11-276-3164
+_________________________________________________________________2.   CHECK
+THE APPROPRIATE BOX IF A MEMBER OF A GROUP*        (a) x
+                                                   (b)
+_________________________________________________________________
+3.   SEC USE ONLY
+
+_________________________________________________________________
+4.   SOURCE OF FUNDS*
+WC
+_________________________________________________________________
+
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED   
+PURSUANT TO ITEMS 2(d) or 2(e)
+
+_________________________________________________________________
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+Delaware
+________________________________________________________________
+                    7.   SOLE VOTING POWER - 1,512,241
+ NUMBER OF          _____________________________________________
+ SHARES             8.   SHARED VOTING POWER            
+ BENEFICIALLY       ____________________________________________
+ OWNED BY           9.   SOLE DISPOSITIVE POWER - 1,512,241
+ EACH               _____________________________________________ 
+ REPORTING          10.  SHARED DISPOSITIVE POWER            
+ PERSON WITH        _____________________________________________
+_________________________________________________________________
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+PERSON - 1,512,241
+
+_________________________________________________________________12.  CHECK
+BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+SHARES*
+
+_________________________________________________________________
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+17.23
+_________________________________________________________________14.  TYPE OF
+REPORTING PERSON*
+PN
+
+
+                                   Page 6 of 12 Pages
+
+
+     
+_________________________________________________________________
+l.   NAME OF REPORTING PERSON
+S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+One Liberty Properties, Inc. - 13-314-7497
+_________________________________________________________________2.   CHECK
+THE APPROPRIATE BOX IF A MEMBER OF A GROUP*        (a) x
+                                                   (b)
+_________________________________________________________________
+3.   SEC USE ONLY
+
+_________________________________________________________________
+4.   SOURCE OF FUNDS*
+00
+_________________________________________________________________
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED   
+PURSUANT TO ITEMS 2(d) or 2(e)
+
+_________________________________________________________________
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+Maryland     
+_________________________________________________________________
+                    7.   SOLE VOTING POWER   - 30,048 
+ NUMBER OF          _____________________________________________
+ SHARES             8.   SHARED VOTING POWER -          
+ BENEFICIALLY       ____________________________________________
+ OWNED BY           9.   SOLE DISPOSITION POWER - 30,048   
+ EACH               _____________________________________________ 
+ REPORTING          10.  SHARED DISPOSITION POWER -          
+ PERSON WITH        _____________________________________________
+_________________________________________________________________
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+PERSON - 30,048   
+
+_________________________________________________________________12.  CHECK
+BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+SHARES*
+
+_________________________________________________________________
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+Less than 1%
+_________________________________________________________________14.  TYPE OF
+REPORTING PERSON*
+CO.
+_________________________________________________________________
+<PAGE>
+                                        Page 7 of 12 Pages
+
+This Amendment No. 3 amends and supplements the Schedule 13D
+dated September 21, 1993 ("Original 13D") jointly filed by One
+Liberty Properties, Inc. ("OLP"), Fredric H. Gould ("Gould") and
+Marshall Rose ("Rose"), as amended by Amendment No. 1 dated
+November 1, 1993 ("Amendment No. 1") and was joined in by Gould
+Investors L.P. ("GLP") by Amendment No. 2 dated January 31, 1996
+(Amendment No. 2).  GLP is a limited partnership, in which Gould
+and Rose are individual general partners and the principal
+executive officers of the corporate managing general partner. 
+Gould is the sole shareholder of the corporate managing general
+partner of GLP.
+
+GLP owns 35.7% of the voting stock of OLP and Gould and Rose are
+Chairman and Vice Chairman, respectively, of OLP.  GLP and OLP
+are affiliated entities and BRT Realty Trust ("BRT" or "Issuer")
+is also affiliated with GLP and OLP.  Gould and Rose are Chairman
+(and Chief Executive Officer) and a Trustee (formerly Vice
+Chairman), respectively, of BRT.
+
+Except as reported herein, there has been no change in the
+information contained in the Original 13D, as amended to date.
+
+
+Item 2.   Identity and Background
+
+As to GLP, it is a Delaware limited partnership having its 
+principal place of business at 60 Cutter Mill Road, Great Neck,
+New York 11021.  It is engaged in the business of owning and
+operating income producing real estate and in investing in
+non-related real estate entities.
+
+The general partners of GLP are Gould, Rose and Georgetown
+Partners, Inc.  Reference is made to Item 2 of the Original 13D
+for information with respect to Gould and Rose and with respect
+to Matthew Gould, Israel Rosenzweig, Nathan Kupin, David W.
+Kalish, Jeffrey A. Gould and Simeon Brinberg, who are executive
+officers of Georgetown Partners, Inc.  As to changes in the Item
+2 information,  Mr. Rosenzweig has not been Chief Executive
+Officer of BRT since November 1994, although he  remained
+President until March 1996.  Gould, who had been Chairman of the
+Board of Trustees, became Chairman of the Board and Chief
+Executive Officer of the Issuer in November 1994.  Since November
+1994 Mr. Rosenzweig has been Executive Vice President of Bankers
+Federal Savings & Loan Association FSB.  In March 1996 Mr.
+Rosenzweig became Vice Chairman of the Board of BRT and Jeffrey
+Gould was elected President and Chief Operating Officer of BRT.
+
+<PAGE>
+                                        Page 8 of 12 Pages
+
+
+Item 3.   Source and Amount of Funds or
+          Other Consideration
+
+
+Since Amendment No. 2 GLP has acquired 68,175 Beneficial Shares 
+of BRT from unrelated parties and converted 1,030,000 shares of
+preferred stock into 1,030,000 Beneficial Shares.  The funds for
+the purchase of the 68,175 shares was derived from GLP's working
+capital, which includes a margin credit facility of $5,000,000
+from Smith Barney Shearson secured by shares of North Fork Bank
+beneficially owned by GLP.
+
+
+Item 5.   Interest in Securities 
+          of the Issuer
+
+
+(a)  As of July 15, 1996 BRT had 8,774,324 Beneficial Shares
+outstanding.  In addition, 53,000 Beneficial Shares are reserved
+for issuance pursuant to outstanding stock options, of which
+14,000 are presently exercisable.  GLP owns as of July 15, 1996
+1,512,241 Beneficial Shares, or 17.23% of the outstanding
+Beneficial Shares of BRT.
+
+(b)  With respect to Fredric H. Gould, the total number of
+Beneficial Shares owned by Mr. Gould is 2,110,933 shares,
+representing 24.05% of the outstanding Beneficial Shares.  Mr.
+Gould owns directly 189,185 shares as to which he has sole voting
+and dispositive power.  The following sets forth the number of
+Beneficial Shares which Mr. Gould may be deemed to beneficially
+own and the nature of the voting and dispositive power:
+
+
+REGISTERED          NUMBER OF SHARES/        TYPE OF VOTING AND
+OWNER               PERCENTAGE OF SHARES     DISPOSITIVE POWER
+
+One Liberty
+Properties, Inc.     30,048/less than 1%     Shared (1)
+
+The Georgetown
+ Group, Inc.         4,790/less than 1%      Shared (2)
+
+Gould Investors
+   L.P.                1,512,241/17.23%      Shared (3)
+
+130 Store Company   18,988/less than 1%      Shared (4)
+
+Georgetown Investment
+ Company            41,456/less than 1%      Shared (5)
+
+REIT Management Corp.
+
+                                        Page 9 of 12 Pages
+
+
+Pension & Profit
+Sharing Trusts      263,546/3.00%            Shared (6)
+
+BRT Realty Trust
+Pension Trust       15,915/less than 1%      Shared (7)
+
+Trust for the 
+Benefit of 
+Relatives           34,762/less than 1%      Shared (8)
+
+The above does not include 25,565 Beneficial Shares owned by
+Gould's wife, as to which shares Gould disclaims beneficial
+ownership and Mrs. Gould has sole voting and dispositive power.
+
+As to Marshall Rose the total number of Beneficial Shares owned
+by him is 1,967,429 Beneficial Shares, or 22.42% of the
+outstanding Beneficial Shares.  Rose owns 169,715 Beneficial
+Shares as to which he has sole voting and dispositive power.  The
+following sets forth the number of Beneficial Shares which Rose   
+may be deemed to beneficially own and the nature of the voting
+and dispositive power:                           
+
+REGISTERED          NUMBER OF SHARES/        TYPE OF VOTING AND
+OWNER               PERCENTAGE OF SHARES     DISPOSITIVE POWER
+
+One Liberty
+Properties, Inc.        30,048/less than 1%       Shared (1)
+
+The Georgetown
+ Group, Inc.             4,790/less than 1%       Shared (2)
+
+Marshall & Jill Rose
+Foundation, Inc.         8,644/less than 1%       Shared (9)
+
+Gould Investors
+   L.P.                    1,512,241/17.23%       Shared (3)
+
+130 Store Company       18,988/less than 1%       Shared (4)
+
+Georgetown Investment
+ Company                41,456/less than 1%       Shared (5)
+
+Trustee for the 
+benefit of various
+persons                 61,302/less than 1%       Sole (10)
+
+Georgetown Group                             
+Profit Sharing Plan     76,983/less than 1%       Shared (11)
+
+Jill Rose and 
+Jill Rose, as trustee   43,262/less than 1%       Sole (12) 
+                                        Page 10 of 12 Pages
+
+          
+(1) Gould is Chairman of the Board of OLP.  Rose is Vice Chairman
+of the Board.  GLP owns 35.7% of the voting power of OLP. Gould
+and Rose are General Partners of GLP and President and Chairman,
+respectively, of Georgetown Partners, Inc., managing general
+partner of GLP.  Gould is the sole shareholder of Georgetown
+Partners, Inc.
+
+(2) Gould and Rose are executive officers of The Georgetown
+Group, Inc. and Rose is a director and shareholder.
+
+(3) Gould and Rose are the General Partners of GLP and executive
+officers of the managing general partner.  See note (1) above.
+
+(4) Gould and Rose are partners of the 130 Store Company.
+
+(5) Gould and Rose are partners in Georgetown Investment Company.
+
+(6) Gould is a trustee of the REIT Management Corp. Pension and
+Profit Sharing Trusts.
+
+(7) Gould is one of the trustees of the BRT Realty Trust Pension
+Trust.
+
+(8) Gould is co-trustee of trusts established for the benefit of
+his brother's children.
+
+(9) Rose is a trustee of the Foundation.
+
+(10) Rose is sole trustee of this Trust.
+ 
+(11) Rose is a trustee of the Georgetown Group Profit Sharing
+Plan.
+
+(12) 1600 Beneficial Shares are owned of record by Rose's wife
+and 41,662 shares by Rose's wife as trustee for her children. 
+Mrs. Rose is deceased and probate of her last will and testament
+is pending.  Rose is designated executor and accordingly he, at
+present time, has sole voting and dispositive power over these
+shares.
+
+(c)  The transactions effected in Beneficial Shares of BRT during
+the past 60 days is as follows:
+                                    
+     1.   On July 2, 1996 GLP converted 1,030,000 shares
+convertible preferred stock into 1,030,000 Beneficial Shares. 
+The conversion was made in accordance with BRT's governing
+instruments.
+
+     2.   GLP purchased Beneficial Shares of BRT within the
+past 60 days as follows:
+
+                                        Page 11 of 12 Pages
+                                        
+
+
+                    Amount of Beneficial            Price
+     Date           Shares Purchased              Per Share
+
+     4/18/96               223*                     4.375
+     5/15/96             1,400                      4.50    
+     5/16/96             8,600                      4.50
+     5/20/96            12,400                      4.50
+     5/21/96             1,600                      4.50
+     5/22/96               400                      4.50
+     6/6/96              3,500                      4.625
+     6/6/96                 52*                     4.50
+
+All transactions were effected in regular way transactions over
+the facilities of the New York Stock Exchange except for those
+marked with an asterisk(*).  The transactions marked with an
+asterisk were purchased in private transactions.
+
+
+Item 7.   Materials to be filed as Exhibits
+
+
+Agreement to file single statement. (Filed with Amendment No.2).
+
+<PAGE>
+                                        Page 12 of 12 Pages
+
+
+                            Signature
+
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this
+statement is true, complete and correct.
+
+Dated: July 25, 1996
+
+
+                             GOULD INVESTORS L.P.
+
+
+
+                          By s/                     
+                            Fredric H. Gould, Partner  
+
+
+
+                            ONE LIBERTY PROPERTIES, INC.
+
+
+
+                          By s/                     
+                            Matthew Gould, President
+
+
+                             s/                     
+                            Marshall Rose
+
+
+                             s/                     
+                            Fredric H. Gould
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

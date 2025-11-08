@@ -1,0 +1,1098 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C7Umo3Ik+hI6JdG9qyRZiPso/IBrvkWAIpwVZDskNgwNF7AENoP6OvkyUWXGb8L6
+ 1NS2cLuIb2TgBceJZkCMeQ==
+
+<SEC-DOCUMENT>0000950134-08-001058.txt : 20080124
+<SEC-HEADER>0000950134-08-001058.hdr.sgml : 20080124
+<ACCEPTANCE-DATETIME>20080124164540
+ACCESSION NUMBER:		0000950134-08-001058
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20080124
+DATE AS OF CHANGE:		20080124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			THORNBURG MORTGAGE INC
+		CENTRAL INDEX KEY:			0000892535
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				850404134
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44111
+		FILM NUMBER:		08548083
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 WASHINGTON AVE
+		STREET 2:		SUITE 302
+		CITY:			SANTA FE
+		STATE:			NM
+		ZIP:			87501
+		BUSINESS PHONE:		5059891900
+
+	MAIL ADDRESS:	
+		STREET 1:		150 WASHINGTON AVE
+		STREET 2:		SUITE 302
+		CITY:			SANTA FE
+		STATE:			NM
+		ZIP:			87501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THORNBURG MORTGAGE ASSET CORP
+		DATE OF NAME CHANGE:	19940531
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RAINWATER RICHARD E
+		CENTRAL INDEX KEY:			0000909549
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			KY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		8178780402
+
+	MAIL ADDRESS:	
+		STREET 1:		777 MAIN STREET
+		STREET 2:		SUITE 2250
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RAINWATER RICHARD E/777 MAIN STREET CORP
+		DATE OF NAME CHANGE:	19930722
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>d53310bsc13d.htm
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sc13d</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>SCHEDULE 13D</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>Under the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>THORNBURG MORTGAGE, INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Name of Issuer)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">10% Series&nbsp;F Cumulative Convertible Redeemable Preferred Stock, $0.01 par value<BR>
+(Title of Class of Securities)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">885218701<BR>
+(CUSIP Number)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Melissa Parrish<BR>
+777 Main Street, Suite&nbsp;2250<BR>
+Fort Worth, Texas 76102<BR>
+(817)&nbsp;820-6600<BR>
+(Name, Address and Telephone Number of Person<BR>
+Authorized to Receive Notices and Communications)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">January&nbsp;15, 2008<BR>
+(Date of Event Which<BR>
+Requires Filing of this Statement)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the filing person has previously filed a statement on Schedule&nbsp;13G to report the
+acquisition that is the subject of this Schedule&nbsp;13D, and is filing this schedule because of &#167;
+240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box. <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information required on the remainder of this cover page shall not be deemed to be &#147;filed&#148;
+for the purpose of Section&nbsp;18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject
+to the liabilities of that section of the Act but shall be subject to all other provisions of the
+Act (however, see the Notes).
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Schedule&nbsp;13D</B>
+</DIV>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="20%">&nbsp;</TD>
+<TD width="55%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="9%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="9%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+
+<TR valign="bottom">
+<TD valign="top" nowrap><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">885218701&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P>&nbsp;<DIV style="width: 100%; border: 1px solid black"><DIV align="center">
+
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="1" width="100%">
+<!-- Begin Table Head --><TR style="font-size: 1px">
+<TD width="5%">&nbsp;</TD>
+<TD width="1%" style="border-left: 1px solid #000000"></TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="83%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD valign="middle" align="center"><FONT style="font-size: 18pt"><B>1</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">NAME OF REPORTING PERSONS<BR>
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)<br><br>Richard E. Rainwater</TD>
+</TR>
+<TR valign="bottom">
+<TD>&nbsp;</TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>2</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)<BR><BR></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(a)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#111;</FONT>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(b)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#254;</FONT>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>3</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">SEC USE ONLY</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>4</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">SOURCE OF FUNDS (See Instructions) </TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">OO and PF (see Item 3)</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>5</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d) or 2(e)</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>6</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CITIZENSHIP OR PLACE OF ORGANIZATION</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">USA
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>7</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SOLE VOTING POWER</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">NUMBER OF</TD>
+<TD>&nbsp;</TD>
+<TD align="left">3,945,000 (1)(2)</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">SHARES</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>8</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SHARED VOTING POWER</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">BENEFICIALLY</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">OWNED BY</TD>
+<TD>&nbsp;</TD>
+<TD>0</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+<TD align="center" colspan="3">EACH</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>9</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SOLE DISPOSITIVE POWER</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">REPORTING</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">PERSON</TD>
+<TD>&nbsp;</TD>
+<TD align="left">3,945,000 (1)(2)</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">WITH</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>10</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SHARED DISPOSITIVE POWER</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD align="left">0</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>11</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">3,945,000 (1)(2)</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>12</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)&nbsp;EXCLUDES CERTAIN SHARES (See Instructions)  </TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#254;</FONT>
+(3)
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>13</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">13.0&#37;(4) </TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>14</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">TYPE OF REPORTING PERSON (See Instructions)</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">IN</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">
+
+
+
+</DIV>
+
+
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Such shares of the Series&nbsp;F Preferred include (a)&nbsp;1,925,000 shares owned directly by
+Mr.&nbsp;Rainwater, (b)&nbsp;710,000 shares owned by Richard E. Rainwater 1995 Charitable Remainder
+Unitrust No.&nbsp;1, Richard E. Rainwater, Trustee (&#147;Trust 1&#148;), (c)&nbsp;867,000 shares owned by
+Richard E. Rainwater Charitable Remainder Unitrust No.&nbsp;2, Richard E. Rainwater, Trustee
+(&#147;Trust 2&#148;), (d)&nbsp;330,000 shares owned by Richard E. Rainwater Charitable Remainder Unitrust
+No.&nbsp;3, Richard E. Rainwater, Trustee (&#147;Trust 3&#148;, and together with Trust 1 and Trust 2,
+the &#147;Trusts&#148;), (e)&nbsp;13,000 shares owned by RER Global Liquidity Fund, L.P. (&#147;Partnership
+1&#148;), and (f)&nbsp;100,000 shares owned by RER FI Trading, L.P. (&#147;Partnership 2&#148;, and together
+with Partnership 1, the &#147;Partnerships&#148;).</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Mr.&nbsp;Rainwater is the sole trustee of the Trusts and in that capacity exercises the
+power to vote and to dispose of all shares owned by the Trusts. Mr.&nbsp;Rainwater may have a
+pecuniary interest in the shares owned by the Trusts. Mr.&nbsp;Rainwater is the general partner
+of the Partnerships and in that capacity exercises the power to vote and to dispose of all
+shares owned by the Partnerships. Mr.&nbsp;Rainwater may have a pecuniary interest in the
+&nbsp;shares owned by the Partnerships.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The amount of shares disclosed in Row 11 excludes 400,000 shares owned by Mr.
+Rainwater&#146;s spouse, Darla D. Moore, and certain entities controlled by Ms.&nbsp;Moore. Mr.
+Rainwater disclaims beneficial ownership of these securities, and this report shall not be
+deemed an admission that the reporting person is the beneficial owners of such securities
+for purposes of Section&nbsp;13 or otherwise.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(4)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Based on 30,281,000 shares of Series&nbsp;F Preferred issued and outstanding as of January
+15, 2008, as disclosed in the Issuer&#146;s prospectus supplement dated as of January&nbsp;14, 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. Security and Issuer.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Schedule&nbsp;13D (the &#147;Schedule&#148;) relates to shares of the 10% Series&nbsp;F Cumulative
+Convertible Redeemable Preferred Stock, par value $0.01 per share (the &#147;Series&nbsp;F Preferred&#148;), of
+Thornburg Mortgage, Inc., a company organized under the laws of Maryland (the &#147;Issuer&#148;), with its
+principal executive offices located at 150 Washington Avenue, Suite&nbsp;302, Santa Fe, New Mexico,
+87501.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;2. Identity and Background</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;- (c)&nbsp;This Schedule is being filed by Richard E. Rainwater, together with certain trusts
+and limited partnerships over which Mr.&nbsp;Rainwater has voting and investment control (collectively,
+the &#147;Reporting Person&#148;). The Reporting Person has a business address at 777 Main Street, Suite
+2250, Fort Worth, Texas 76102. The Reporting Person is self-employed and his principal occupation
+is personal investment for his own account.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;- (e)&nbsp;During the past five years, the Reporting Person has not been convicted in a
+criminal proceeding (excluding traffic violations and similar misdemeanors) and has not been a
+party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a
+result of such proceeding was or is subject to a judgment, decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to, federal or state securities laws
+or finding any violation with respect to such laws.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;The Reporting Person is a citizen of the United States of America.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;3. Source and Amount of Funds or Other Consideration.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Reporting Person acquired an aggregate of 2,875,000 shares of the Series&nbsp;F Preferred in a
+registered public offering that closed on January&nbsp;15, 2008 (the &#147;Public Offering&#148;). The Series&nbsp;F
+Preferred is convertible into shares of the Issuer&#146;s common stock, par value $0.01 per share (the
+&#147;Common Stock&#148;) at a conversion rate of 2.1739 shares of Common Stock for each share of Series&nbsp;F
+Preferred, which is the equivalent to a conversion price of $11.50 per share of Common Stock.
+Prior to the closing of the Public Offering, the Reporting Person owned an aggregate of 1,070,000
+shares of Series&nbsp;F Preferred, which were acquired in the initial public offering of
+the Series&nbsp;F Preferred and open market transactions.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Reporting Person purchased the 2,875,000 shares of Series&nbsp;F Preferred in the Public
+Offering at a purchase price of $19.50 per share. The Reporting Person purchased the 1,070,000
+shares of Series&nbsp;F Preferred in the initial public offering of
+the Series&nbsp;F Preferred and open market transactions prior to the Public Offering at the prices
+set forth in Item&nbsp;5. The Series&nbsp;F Preferred was acquired by the Reporting Person with available
+cash. The Reporting Person does not intend to borrow funds in connection with the purchase of the
+Series&nbsp;F Preferred.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;4. Purpose of Transaction.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All of the shares of Series&nbsp;F Preferred acquired by the Reporting Person have been acquired
+for investment purposes.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depending on market conditions and other factors that he may deem material to his investment
+decision, the Reporting Person may or may not, directly or indirectly, acquire shares of the Series
+F Preferred in the open market or in private transactions; and may or may not, directly or
+indirectly, dispose of shares of the Series&nbsp;F Preferred in the open market or in private
+transactions.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except as set forth herein, the Reporting Person has no present plans or proposals that relate
+to or that would result in any of the actions specified in clauses (a)&nbsp;through (j)&nbsp;of Item&nbsp;4 of
+Schedule&nbsp;13D of the Act.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5. Interest in Securities of the Issuer</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;Because of the Reporting Person&#146;s direct ownership of 1,925,000 shares of the Series
+F Preferred, his status as settlor and sole trustee of the Trusts, which own an aggregate of
+1,907,000 shares of the Series&nbsp;F Preferred, and his status as general partner of the Partnerships,
+which own an aggregate of 113,000 shares of the Series&nbsp;F Preferred, Reporting Person may, pursuant
+to Rule&nbsp;13d-3 of the Act, be deemed to be the beneficial owner of 3,945,000 shares of the Series&nbsp;F
+Preferred in the aggregate, which constitutes approximately 13.0% of the outstanding shares of the
+Series&nbsp;F Preferred.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;The Reporting Person has the sole power, directly or indirectly, to vote or to direct
+the vote or to dispose or to direct the disposition of all of the shares of Common Stock underlying
+the Series&nbsp;F Preferred reported herein.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>During the past sixty (60)&nbsp;days, the Reporting Person has purchased shares of the Series
+F Preferred in the initial public offering of
+the Series&nbsp;F Preferred and open market purchases on New York Stock Exchange, as follows:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Reporting Person</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Date</B></TD>
+    <TD nowrap align="center" colspan="5"><B>Number of Shares</B></TD>
+    <TD nowrap align="center" colspan="3"><B>Price Per Share</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Trust 1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">8/30/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">560,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">25.00</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Trust 2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">8/30/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">200,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">25.00</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">10/17/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">100,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">24.42</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">11/20/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">17,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">21.77</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Trust 3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">9/4/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">130,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">26.30</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Partnership 1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">8/30/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">6,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">25.00</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">11/20/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">3,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">21.77</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Partnership 2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">8/30/07
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">54,000</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom">25.00</TD>
+    <TD nowrap valign="bottom">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Other than the transactions described above, the Reporting Person has not effected any
+transactions in the Series&nbsp;F Preferred or the Common Stock within the past 60&nbsp;days.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;None.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;6. Contracts, Arrangements, Understandings or Relationships With Respect to Securities of the
+Issuer.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except as set forth herein, there are no contracts, arrangements, understandings or
+relationships with respect to the Series&nbsp;F Preferred owned by the Reporting Person.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;7. Material to be Filed as Exhibits</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Exhibit&nbsp;1
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&#151;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Power of Attorney authorizing Melissa T. Parrish to sign on behalf of Reporting Person</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, the undersigned certify
+that the information set forth in this statement is true, complete and correct.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="15%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="34%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Date: January&nbsp;24, 2008
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">/s/ /Richard E. Rainwater, by
+Melissa Parrish, Attorney-in-Fact</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">Richard E. Rainwater, by Melissa Parrish, Attorney-in-Fact</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>d53310bexv1.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">EXHIBIT 1
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 6pt"><B>Power of Attorney</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know all men by these presents, that the undersigned hereby constitutes and appoints Melissa
+T. Parrish the undersigned&#146;s true and lawful attorney-in-fact, and hereby confirms and ratifies all
+actions heretofore taken by Melissa T. Parrish on behalf of the undersigned, with respect to:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;excluding for and on behalf of the undersigned, in the undersigned&#146;s capacity as an
+officer, director and/or stockholder of any public company, including, but not limited to,
+Thornburg Mortgage, Inc., and in any and all other capacities of the undersigned (including, but
+not limited to, the undersigned&#146;s capacity as a director, officer, manager or member of any
+entity), Forms 3, 4 and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934
+(the &#147;Exchange Act&#148;) and the rules thereunder;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;executing for and on behalf of the undersigned, in any and all capacities of the
+undersigned (including, but not limited to, the undersigned&#146;s capacity as a director, officer,
+manager or member of any entity), any and all instruments, statements, forms, filings and other
+documents required by Section 13(d) of the Exchange Act and the rules thereunder, including, but
+not limited to, Schedules 13D;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp;doing and performing any and all acts for and on behalf of the undersigned which may be
+necessary or desirable to complete and execute any such Forms 3, 4 or 5, Schedule&nbsp;13D or other
+document and timely file such form with the United States Securities and Exchange Commission and
+any stock exchange or similar authority; and
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)&nbsp;taking any other action of any type whatsoever in connection with the foregoing which, in
+the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally
+required by, the undersigned, it being understood that the documents executed by such
+attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such
+form and shall contain such terms and conditions as such attorney-in-fact may approve in such
+attorney-in-fact&#146;s discretion.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned hereby grants to such attorney-in-fact full power and authority to do and
+perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the
+exercise of any of the rights and powers herein granted, as fully to all intents and purposes as
+the undersigned might or could do if personally present, with full power of substitution or
+revocation, hereby ratifying and confirming all that such attorney-in-fact, or such
+attorney-in-fact&#146;s substitute or substitutes, shall lawfully do or cause to be done by virtue of
+this power of attorney and the rights and powers herein granted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Power of Attorney shall remain in full force and effect until revoked by the undersigned
+in a signed writing delivered to the foregoing attorney-in-fact.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of the
+24th day of January, 2008.
+</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">           /s/ Richard E. Rainwater
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Richard E. Rainwater&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,490 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GW7iMRoo8dg58IIR4iELdsx/qRZiLaUOfBGMfrYNbs5JhxEjbY50bDNGTEETIeRr
+ StcCF3VD232BHwZgSqO6eg==
+
+<SEC-DOCUMENT>0001085601-10-000011.txt : 20100216
+<SEC-HEADER>0001085601-10-000011.hdr.sgml : 20100215
+<ACCEPTANCE-DATETIME>20100216114254
+ACCESSION NUMBER:		0001085601-10-000011
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20100216
+DATE AS OF CHANGE:		20100216
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LASALLE INVESTMENT MANAGEMENT SECURITIES LP
+		CENTRAL INDEX KEY:			0001085601
+		IRS NUMBER:				363991973
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 E PRATT STREET 20TH FLOOR
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21202
+		BUSINESS PHONE:		4103470600
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BioMed Realty Trust Inc
+		CENTRAL INDEX KEY:			0001289236
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80142
+		FILM NUMBER:		10603759
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17190 BERNARDO CENTER DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92128
+		BUSINESS PHONE:		858-485-9840
+
+	MAIL ADDRESS:	
+		STREET 1:		17190 BERNARDO CENTER DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BioMed Property Trust Inc
+		DATE OF NAME CHANGE:	20040504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>bmr.txt
+<TEXT>
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 13G
+Under the Securities Exchange Act of 1934
+
+(Amendment No. 8)
+
+Biomed Realty Trust Inc
+(Name of Issuer)
+
+Common Stock
+(Title of Class of Securities)
+
+09063H107
+(CUSIP Number)
+
+
+Check the appropriate box to designate the rule pursuant
+ to which this Schedule is filed:
+	Rule 13d-1(b)
+?	Rule 13d-1(c)
+?	Rule 13d-1(d)
+
+
+
+Page 1 of 8 Pages
+
+1
+NAME OF REPORTING PERSON:
+LaSalle Investment Management, Inc.
+
+S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON:
+36-4160747
+
+2
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+	(a)
+
+
+(b)	?
+3
+SEC USE ONLY
+4
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+Maryland
+
+5
+SOLE VOTING POWER
+
+250,488
+
+NUMBER
+OF SHARES
+BENEFICIALLY
+OWNED BY
+6
+SHARED VOTING POWER
+
+0
+
+EACH
+REPORTING
+PERSON WITH
+7
+SOLE DISPOSITIVE POWER
+
+655,587
+
+
+8
+SHARED DISPOSITIVE POWER
+
+0
+
+9
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+PERSON
+
+655,587
+
+10
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+ CERTAIN SHARES*
+
+Excludes shares beneficially owned by LaSalle
+ Investment Management (Securities), L.P.
+11
+PERCENT
+OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+0.7%
+
+12
+TYPE OF REPORTING PERSON*
+IA
+
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+1
+NAME OF REPORTING PERSON:
+LaSalle Investment Management (Securities), L.P.
+
+S.S. or I.R.S. IDENTIFICATION NO. OF ABOVE PERSON:
+36-3991973
+
+2
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+
+	(a)
+
+	(b)	?
+3
+SEC USE ONLY
+4
+CITIZENSHIP OR
+ PLACE OF ORGANIZATION
+Maryland
+
+5
+SOLE VOTING POWER
+
+1,257,650
+
+NUMBER
+OF SHARES
+BENEFICIALLY
+OWNED BY
+6
+SHARED VOTING POWER
+
+0
+
+EACH
+REPORTING
+PERSON WITH
+7
+SOLE DISPOSITIVE POWER
+
+4,135,445
+
+
+8
+SHARED DISPOSITIVE POWER
+
+0
+
+9
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+ REPORTING PERSON
+
+4,135,445
+
+10
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9)
+EXCLUDES CERTAIN SHARES*
+
+Excludes shares beneficially owned by LaSalle
+Investment Management, Inc.
+11
+PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+4.2%
+
+12
+TYPE OF REPORTING PERSON*
+IA
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+Item 1.
+     	(a)	Name of Issuer
+     		Biomed Realty Trust Inc
+
+(b) Address of Issuer's Principal
+(c) Executive Offices
+		17190 Bernardo Center Drive
+		San Diego, CA 92128
+
+Item 2.
+     LaSalle Investment Management, Inc. provides
+ the following information:
+     	(a)	Name of Person Filing
+		LaSalle Investment Management, Inc.
+
+	(b)	Address of Principal Business Office
+or, if none, Residence
+		200 East Randolph Drive
+		Chicago, Illinois  60601
+
+	(c)	Citizenship
+		Maryland
+
+	(d)	Title of Class of Securities
+
+		Common Stock, $.01 par value per share
+
+	(e)	CUSIP Number
+
+		09063H107
+     	LaSalle Investment Management (Securities),
+ L.P. provides the following information:
+     	(a)	Name of Person Filing
+		LaSalle Investment Management
+ (Securities), L.P.
+
+	(b)	Address of Principal Business Office
+ or, if none, Residence
+		100 East Pratt Street
+		Baltimore, MD 21202
+
+	(c)	Citizenship
+		Maryland
+
+	(d)	Title of Class of Securities
+
+		Common Stock, $.01 par value per
+ share
+
+	(e)	CUSIP Number
+
+		09063H107
+
+Item 3.*	If this statement is filed pursuant to Rule
+13d-1(b), or 13d-2(b), check whether the person filing is a:
+      (a)	?	Broker or Dealer registered under Section
+15 of the Act
+      (b)	?	Bank as defined in Section 3(a)(6) of the
+ Act
+      (c)	?	Insurance Company as defined in Section 3
+(a)(19) of the Act
+(d)	?	Investment Company registered under Section 8
+ of the Investment Company Act
+(e)		Investment Adviser registered under Section 203
+ of the Investment Advisers Act of 1940
+(f)	?	Employee Benefit Plan, Pension Fund which is
+ subject to the provisions of the Employee Retirement Income
+Security Act of 1974 or Endowment Fund; see 240.13d-1(b)(1)(ii)(F)
+(g)	?	Parent Holding Company, in accordance with
+240.13d-1(b)(ii)(G) (Note:  See Item 7)
+(h)	?	A savings association as defined in section 3(b)
+ of the Federal Deposit Insurance Act
+(i)	?	A church plan that is excluded from the
+ definition of an investment company under section
+3(c)(14) of the Investment Company Act of 1940
+(j)	?	Group, in accordance with 240.13d-1(b)-1(ii)(J)
+
+* This response is provided on behalf of LaSalle
+* Investment Management, Inc. and LaSalle Investment
+*  Management (Securities), L.P., each an investment
+* adviser under Section 203 of the Investment Advisers
+*  Act of 1940.
+
+Item 4.	Ownership
+     If the percent of the class owned, as of December 31 of
+the year covered by the statement, or as of the last day of
+any month described in Rule 13d-1(b)(2), if applicable,
+exceeds five percent, provide the following information
+ as of that date and identify those shares which there
+ is a right to acquire.
+     LaSalle Investment Management, Inc. provides the
+following information:
+	(a)	Amount Beneficially Owned
+      	655,587
+	(b)	Percent of Class
+      	0.7%
+
+	(c)	Number of shares as to which such person has:
+
+		(i)	sole power to vote or to direct the vote
+      		250,488
+
+		(ii)	shared power to vote or to direct the vote
+      		0
+
+		(iii)	sole power to dispose or to direct the
+disposition of
+      		655,587
+
+(iv) shared power to dispose or to direct the
+(v) disposition of
+      		0
+     LaSalle Investment Management (Securities), L.P. provides
+ the following information:
+	(a)	Amount Beneficially Owned
+      	4,135,445
+
+	(b)	Percent of Class
+      	4.2%
+
+	(c)	Number of shares as to which such person has:
+
+		(i)	sole power to vote or to direct the vote
+      		1,257,650
+
+		(ii)	shared power to vote or to direct the vote
+      		0
+
+		(iii)	sole power to dispose or to direct the
+ disposition of
+      		4,135,445
+
+(iv) shared power to dispose or to direct the
+(v)  disposition of
+      		0
+
+Item 5.	Ownership of Five Percent or Less of a Class
+     If this statement is being filed to report the fact that
+ as of the date hereof the reporting person has ceased to be
+ the beneficial owner of more than five percent of the class
+ of securities, check the following ?.
+
+
+Item 6.	Ownership of More than Five Percent on Behalf of
+ Another Person
+
+      	Not applicable.
+
+
+Item 7.	Identification and Classification of the Subsidiary
+ Which Acquired the Security Being Reported on By the Parent
+Holding Company
+
+      	Not applicable.
+
+
+Item 8.	Identification and Classification of Members of
+the Group
+
+      	The two members of the Group are: LaSalle Investment
+Management, Inc. ("LaSalle") and LaSalle Investment Management
+(Securities), L.P. ("LIMS").
+
+
+Item 9.	Notice of Dissolution of Group
+
+      	Not applicable.
+
+
+Item 10.	Certification
+     	By signing below I certify that, to the best of my
+knowledge and belief, the securities referred to above were
+ acquired in the ordinary course of business and were not
+ acquired for the purpose of and do not have the effect
+of changing or influencing the control of the issuer of
+ such securities and were not acquired in connection
+with or as a participant in any transaction having such
+purposes or effect.
+
+
+
+SIGNATURE
+
+	After reasonable inquiry and to the best of my
+knowledge and belief, I certify that the information
+set forth in this Statement is true, complete and correct.
+
+	The parties agree that this statement is filed
+ on behalf of each of them.
+
+
+Dated:	February 5, 2010
+
+
+LASALLE INVESTMENT
+MANAGEMENT, INC.
+
+
+By:/s/ Marci S. McCready_
+Name:	Marci S. McCready
+Title:	Vice President
+
+
+LASALLE INVESTMENT
+MANAGEMENT
+(SECURITIES), L.P.
+
+
+By:/s/ Marci S. McCready
+Name:	Marci S. McCready
+Title:	Vice President
+
+
+
+1
+~BALT2:631732.v1  |2/14/02
+17298-27
+
+~BALT2:631732.v1  |2/14/02
+17298-27
+
+
+
+
+
+
+
+
+8
+
+
+
+~BALT2:631732.v1  |2/14/02
+17298-27
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

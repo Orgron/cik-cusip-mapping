@@ -1,0 +1,290 @@
+<SEC-DOCUMENT>0000905718-05-000027.txt : 20120705
+<SEC-HEADER>0000905718-05-000027.hdr.sgml : 20120704
+<ACCEPTANCE-DATETIME>20050204171419
+ACCESSION NUMBER:		0000905718-05-000027
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20050204
+DATE AS OF CHANGE:		20050204
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROCKER DAVID A /NY/
+		CENTRAL INDEX KEY:			0000919275
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		45 ROCKEFELLER PLAZA
+		STREET 2:		SUITE 1759
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10111
+		BUSINESS PHONE:		212-397-1220
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PALMSOURCE INC
+		CENTRAL INDEX KEY:			0001178056
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770586278
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-79627
+		FILM NUMBER:		05578021
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1240 CROSSMAN AVENUE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			94086
+		BUSINESS PHONE:		408-400-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		1240 CROSSMAN AVENUE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			94086
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>palmsource13g.txt
+<DESCRIPTION>SC 13G
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13G
+
+                    Under the Securities Exchange Act of 1934
+
+
+
+                                PALMSOURCE, INC.
+--------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                    Common Stock, par value $0.001 per share
+--------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    697154102
+--------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                                January 27, 2005
+--------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the  appropriate box to designate the rule pursuant to which this Schedule
+13G is filed:
+
+          [ ] Rule 13d-1(b)
+          [X] Rule 13d-1(c)
+          [ ] Rule 13d-1(d)
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for any  subsequent  amendment  containing  information  which  would  alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+<PAGE>
+
+
+CUSIP NO. 697154102
+--------------------------------------------------------------------------------
+(1)  Names of Reporting  Persons.  I.R.S.  Identification  Nos. of Above Persons
+     (entities only):   David A. Rocker
+--------------------------------------------------------------------------------
+
+(2)  Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)                     (b)
+--------------------------------------------------------------------------------
+
+(3)     SEC Use Only
+--------------------------------------------------------------------------------
+
+(4)     Citizenship or Place of Organization:  United States
+--------------------------------------------------------------------------------
+
+Number of Shares Beneficially Owned by
+  Each Reporting Person With:          (5)  Sole Voting Power:          860,036*
+                                            ------------------------------------
+                                       (6)  Shared Voting Power:      0
+                                            ------------------------------------
+                                       (7)  Sole Dispositive Power:     860,036*
+                                            ------------------------------------
+                                       (8)  Shared Dispositive Power: 0
+                                            ------------------------------------
+--------------------------------------------------------------------------------
+(9)  Aggregate Amount Beneficially Owned by Each Reporting Person:
+     860,036*
+--------------------------------------------------------------------------------
+
+(10) Check if  the Aggregate  Amount in  Row (9) Excludes  Certain  Shares  (See
+     Instructions):  N/A
+--------------------------------------------------------------------------------
+
+(11) Percent of Class Represented by Amount in Row (9): 5.7%*
+--------------------------------------------------------------------------------
+
+(12) Type of Reporting Person (See Instructions):  IN
+--------------------------------------------------------------------------------
+
+* As of January 27, 2005, Rocker Partners,  L.P., a New York limited partnership
+("Rocker  Partners"),  holds 541,710 shares of PalmSource,  Inc. (the "Company")
+common  stock,  par value  $0.001 per share (the  "Common  Stock"),  and Compass
+Holdings,  Ltd.,  a  corporation  organized  under  the  International  Business
+Companies  Ordinance of the British Virgin Islands ("Compass  Holdings"),  holds
+318,326 shares of Common Stock. David A. Rocker possesses sole power to vote and
+direct the disposition of all shares of Common Stock held by Rocker Partners and
+Compass  Holdings by virtue of his positions as (i) the sole managing partner of
+Rocker  Partners and (ii) the president of Rocker Offshore  Management  Company,
+Inc., the investment advisor to Compass Holdings.  Accordingly, for the purposes
+of Rule 13d-3 under the Securities Exchange Act of 1934, as amended,  Mr. Rocker
+is deemed to  beneficially  own 860,036 shares of Common Stock, or 5.7% of those
+issued and outstanding, as of January 27, 2005.
+
+
+<PAGE>
+
+
+Item 1(a).  Name Of Issuer: PalmSource, Inc.
+--------------------------------------------------------------------------------
+
+Item 1(b).  Address of Issuer's Principal  Executive Offices:     1240 Crossman
+Avenue,  Sunnyvale,  California, 94089-1116.
+--------------------------------------------------------------------------------
+
+Item 2(a).  Name of Person Filing:  David A. Rocker
+--------------------------------------------------------------------------------
+
+Item 2(b).  Address  of  Principal   Business  Office  or,  if None,  Residence:
+c/o Rocker Partners, L.P., 374 Millburn Avenue, Suite 205E, Millburn, New Jersey
+07041.
+--------------------------------------------------------------------------------
+
+Item 2(c).  Citizenship:  United States
+--------------------------------------------------------------------------------
+
+Item 2(d). Title of Class of Securities:      Common Stock, par value $0.001 per
+share
+--------------------------------------------------------------------------------
+
+Item 2(e).  CUSIP No.:  697154102
+--------------------------------------------------------------------------------
+
+Item  3.    If This  Statement  Is Filed  Pursuant  to Section  240.13d-1(b)  or
+            240.13d-2(b) or (c), check whether the Person Filing is a:
+
+            Not Applicable.
+--------------------------------------------------------------------------------
+
+Item 4.  Ownership
+
+     (a)  Amount Beneficially Owned (as of January 27, 2005):   860,036
+                                                                ---------
+
+     (b)  Percent of Class (as of January 27, 2005)):           5.7%
+                                                                ----
+
+     (c)  Number of Shares as to which such person has:
+
+          (i)  sole power to vote or to direct the vote         860,036
+                                                                ---------
+
+          (ii) shared power to vote or to direct the vote       0
+                                                                ---
+
+          (iii) sole power to dispose or to direct the disposition of    860,036
+                                                                         -------
+
+          (iv) shared power to dispose or to direct the disposition of    0
+                                                                         ---
+
+
+
+<PAGE>
+
+Item 5.  Ownership of Five Percent or Less of a Class
+
+         Not Applicable.
+
+
+Item 6.  Ownership of More Than Five Percent on Behalf of Another Person
+
+         Not Applicable.
+
+
+Item 7.  Identification  and Classification of the Subsidiary Which Acquired the
+         Security  Being Reported  on by the  Parent Holding  Company or Control
+         Person
+
+         Not Applicable.
+
+
+Item 8.  Identification and Classification of Members of the Group
+
+         Not Applicable.
+
+
+Item 9.  Notice of Dissolution of Group
+
+         Not Applicable.
+
+
+Item 10.  Certification
+
+          By  signing  below I certify  that,  to the best of my  knowledge  and
+belief, the securities  referred to above were not acquired and are not held for
+the purpose of or with the effect of changing or influencing  the control of the
+issuer of such  securities  and were not acquired and are not held in connection
+with or as a participant in any transaction having that purpose or effect.
+
+
+<PAGE>
+
+                                    SIGNATURE
+
+          After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information  set forth in this statement is true,  complete and
+correct.
+
+
+
+                                        February 2, 2005
+
+
+                                        /s/ David A. Rocker
+                                        ----------------------------------------
+                                        David A. Rocker
+
+
+
+      Attention: Intentional misstatements or omissions of fact constitute
+                Federal criminal violations (See 18 U.S.C. 1001)
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

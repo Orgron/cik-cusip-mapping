@@ -1,0 +1,398 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Pvt7RBF1dcYK/qg98JlQyWobjEUnJXVE79yWNRSCUnb/m+WpzV0llhHe7GlWS2ld
+ ZGNQWjHHnXrexLFQ+XDeZQ==
+
+<SEC-DOCUMENT>0000902219-04-000900.txt : 20040212
+<SEC-HEADER>0000902219-04-000900.hdr.sgml : 20040212
+<ACCEPTANCE-DATETIME>20040212152007
+ACCESSION NUMBER:		0000902219-04-000900
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20040212
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PS BUSINESS PARKS INC/CA
+		CENTRAL INDEX KEY:			0000866368
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				954300881
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41373
+		FILM NUMBER:		04590974
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 WESTERN AVE
+		STREET 2:		SUITE 200
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201-2397
+		BUSINESS PHONE:		(818) 244-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		701 WESTERN AVE
+		STREET 2:		SUITE 200
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBLIC STORAGE PROPERTIES XI INC
+		DATE OF NAME CHANGE:	19930328
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WELLINGTON MANAGEMENT CO LLP
+		CENTRAL INDEX KEY:			0000902219
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				042683227
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		75 STATE STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6179515000
+
+	MAIL ADDRESS:	
+		STREET 1:		75 STATE STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WELLINGTON MANAGEMENT CO
+		DATE OF NAME CHANGE:	19930426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>filing.txt
+<DESCRIPTION>DOC ONE
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                  SCHEDULE 13G
+                                 (Rule 13d-102)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+            TO RULES 13d-1(b),(c), AND (d) AND AMENDMENTS THERETO FILED
+                             PURSUANT TO RULE 13d-2(b)
+                                (Amendment No. 0)1
+
+
+                              PS Business Parks, Inc.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                                   Common Stock
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    69360J107
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+                                    12/31/2003
+- --------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+
+Check the  appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[X]  Rule 13d-1(b)
+[_]  Rule 13d-1(c)
+[_]  Rule 13d-1(d)
+
+- --------------------------------------------------------------------------------
+1 The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 (the "Act") or otherwise subject to the liabilities of that section
+of the Act, but shall be subject to all other provisions of the Act (however,
+see the Notes.)
+
+                         (Continued on following pages)
+
+                                Page 1 of 7 Pages
+
+
+<PAGE>
+
+CUSIP No. 69360J107            Schedule 13G                 Page 2 of 7 Pages
+          -----------        --------------
+
+1.       NAMES OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+         Wellington Management Company, LLP
+         04-2683227
+- --------------------------------------------------------------------------------
+2.       CHECK THE APPROPRIATE BOX IF THE MEMBER OF A GROUP*
+                                                                 (a)  [_]
+                                                                 (b)  [_]
+- --------------------------------------------------------------------------------
+3.       SEC USE ONLY
+- --------------------------------------------------------------------------------
+4.       CITIZENSHIP OR PLACE OF ORGANIZATION
+         Massachusetts
+- --------------------------------------------------------------------------------
+                     5.   SOLE VOTING POWER
+NUMBER OF                 0
+SHARES              ------------------------------------------------------------
+BENEFICIALLY         6.   SHARED VOTING POWER
+OWNED BY                  1,096,400
+EACH                ------------------------------------------------------------
+REPORTING            7.   SOLE DISPOTIVE POWER
+PERSON                    0
+WITH                ------------------------------------------------------------
+                     8.   SHARED DISPOTIVE POWER
+                          1,457,700
+- --------------------------------------------------------------------------------
+9.       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         1,457,700
+- --------------------------------------------------------------------------------
+10.      CHECK BOX IF AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN
+         SHARES*                                              [_]
+- --------------------------------------------------------------------------------
+11.      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+         6.759%
+- --------------------------------------------------------------------------------
+12.      TYPE OF REPORTING PERSON
+         HC,IA
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+CUSIP No. 69360J107            Schedule 13G                 Page 3 of 7 Pages
+          -----------        --------------
+
+Item 1(a).   Name of Issuer:
+
+                  PS Business Parks, Inc.
+
+Item 1(b).   Address of Issuer's Principal Executive Offices:
+
+                  701 Western Avenue, Suite 200
+                  Glendale, CA  91201
+
+Item 2(a).   Name of Person Filing:
+
+                  Wellington Management Company, LLP(''WMC'')
+
+Item 2(b).   Address of Principal Business Office or, if None,
+             Residence:
+
+                  75 State St
+                  Boston, MA  02109
+
+Item 2(c).   Citizenship:
+
+                  Massachusetts
+
+Item 2(d).   Title of Class of Securities:
+
+                  Common Stock
+
+Item 2(e).   CUSIP Number:
+
+                  69360J107
+
+Item 3.      If This Statement is Filed Pursuant to Rule 13d-1(b), or
+             13d-2(b) or (c), Check Whether the Person Filing is a:
+
+        (a)  [ ] Broker or dealer registered under Section 15 of the Act.
+
+        (b)  [ ] Bank as defined in Section 3(a)(6) of the Act.
+
+        (c)  [ ] Insurance Company as defined in Section 3(a)(19) of
+              the Act.
+
+<PAGE>
+
+CUSIP No. 69360J107            Schedule 13G                 Page 4 of 7 Pages
+          -----------        --------------
+
+        (d)  [ ] Investment Company registered under Section 8 of the
+              Investment Company Act.
+
+        (e)  [X] An investment adviser in accordance with
+                Rule 13d-1(b)(1)(ii)(E);
+
+        (f)  [ ] An employee benefit plan or endowment fund in accordance
+              with Rule 13d-1(b)(1)(ii)(F);
+
+        (g)  [X] A parent holding company or control person in accordance
+                with Rule 13d-1(b)(1)(ii)(G);  see item 7;
+
+        (h)  [ ] A savings association as defined in Section 3(b) of the
+              Federal Deposit Insurance Act;
+
+        (i)  [ ] A church plan that is excluded from the definition of an
+              investment company under Section 3(c)(14) of the
+              Investment Company Act;
+
+        (j)  [ ] Group, in accordance with Rule 13d-1(b)(1)(ii)(J).
+
+             If this statement is filed pursuant to Rule 13d-1(c),
+             check this box [ ]
+
+Item 4.      Ownership.
+             Provide the following information regarding the aggregate
+             number and percentage of the class of securities of the issuer
+             identified in Item 1.
+
+        (a)  Amount Beneficially Owned: WMC, in its capacity as
+             investment adviser, may be deemed to beneficially own
+             1,457,700 shares of the Issuer which are held of
+             record by clients of WMC.
+
+        (b)  Percent of Class: 6.759%
+
+        (c)  Number of shares as to which such person has:
+
+               (i)    sole power to vote or to direct the vote  0
+                                                                ----------
+               (ii)   shared power to vote or to direct the
+                      vote                                      1,096,400
+                                                                ----------
+               (iii)  sole power to dispose or to direct the
+                      disposition of                            0
+                                                                ----------
+               (iv)   shared power to dispose or to direct the
+                      disposition of                            1,457,700
+                                                                ----------
+
+<PAGE>
+
+CUSIP No. 69360J107            Schedule 13G                 Page 5 of 7 Pages
+          -----------        --------------
+
+Item 5.      Ownership of Five Percent or Less of Class.
+             If this statement is being filed to report the fact that as of the
+             date hereof the reporting person has ceased to be the beneficial
+             owner of more than five percent of the class of securities, check
+             the following
+
+             [ ]
+
+Item 6.      Ownership of More than Five Percent on Behalf of Another
+             Person.
+
+             The securities as to which this Schedule is filed by
+             WMC, in its capacity as investment adviser, are
+             owned of record by clients of WMC. Those clients
+             have the right to receive, or the power to direct the receipt
+             of, dividends from, or the proceeds from the sale of, such
+             securities. No such client is known to have such right or
+             power with respect to more than five percent of this class of
+             securities, except as follows:
+
+             None
+
+Item 7.      Identification and Classification of the Subsidiary Which
+             Acquired the Security Being Reported on by the Parent Holding
+             Company.
+
+             See  Exhibit A
+
+Item 8.      Identification and Classification of Members of the Group.
+
+             Not Applicable.  This schedule is not being filed pursuant to
+             Rule 13d-1(b)(1)(ii)(J) or Rule 13d-1(d).
+
+Item 9.      Notice of Dissolution of Group.
+
+             Not Applicable
+
+Item 10.     Certification.
+             -------------
+
+          (a) The following certification shall be included if the statement
+          is filed pursuant to Rule 13d-1(b):
+
+          "By signing below I certify that, to the best of my knowledge
+          and belief, the securities referred to above were acquired
+          and are held in the ordinary course of business and were not
+          acquired and are not held for the purpose of or with the
+
+<PAGE>
+
+CUSIP No. 69360J107            Schedule 13G                Page 6 of 7 Pages
+          -----------        --------------
+
+          effect of changing or influencing the control of the issuer of
+          the securities and were not acquired and are not held in
+          connection withor as a participant in any transaction
+          having that purpose or effect. "
+
+                                    SIGNATURE
+
+          After reasonable inquiry and to the best of my knowledge and belief,
+          I certify that the information set forth in this statement is true,
+          complete and correct.
+
+
+
+                                By:  --//Brian P. Hillery//--
+                                     --------------------------------------
+                                Name:    Brian P. Hillery
+                                Title:   Vice President
+                                Date:    February 13, 2004
+
+
+*Signed pursuant to a Power of Attorney dated January 17, 2002 and filed with
+the SEC on February 5, 2002.
+
+
+
+
+
+
+<PAGE>
+
+CUSIP No. 69360J107            Schedule 13G                 Page 7 of 7 Pages
+          -----------        --------------
+
+                              Exhibit A
+
+
+Pursuant to the instructions in Item 7 of this Schedule 13G, the
+identity and the Item 3 classification of the relevant subsidiary
+are:  Wellington Trust Company, NA, 75 State Street, Boston MA  02109,
+a wholly-owned subsidiary of Wellington Management Company, LLP and a
+bank as defined in Section 3(a)(6) of the Securities Exchange Act of 1934.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

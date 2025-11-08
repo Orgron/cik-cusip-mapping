@@ -1,0 +1,772 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PxBZycFZXZdOXoPH9xGxrxCRBQYciHoyEmxdci1HvHKGRVFN44ig5g2IjkxC5fN/
+ STLEy4UB8oSF7tU6D9/3pw==
+
+<SEC-DOCUMENT>0000950134-06-006559.txt : 20060403
+<SEC-HEADER>0000950134-06-006559.hdr.sgml : 20060403
+<ACCEPTANCE-DATETIME>20060403154402
+ACCESSION NUMBER:		0000950134-06-006559
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20060403
+DATE AS OF CHANGE:		20060403
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLOBAL TRAFFIC NETWORK, INC.
+		CENTRAL INDEX KEY:			0001344907
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS BUSINESS SERVICES [7380]
+		IRS NUMBER:				331117834
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-81708
+		FILM NUMBER:		06733332
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7521 WEST LAKE MEAD BOULEVARD, SUITE 300
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89128
+		BUSINESS PHONE:		702-562-4151
+
+	MAIL ADDRESS:	
+		STREET 1:		7521 WEST LAKE MEAD BOULEVARD, SUITE 300
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89128
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARFMAN DALE C
+		CENTRAL INDEX KEY:			0001354152
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		727-480-2245
+
+	MAIL ADDRESS:	
+		STREET 1:		16480 REDDINGTON DRIVE
+		CITY:			REDDINGTON BEACH
+		STATE:			FL
+		ZIP:			33708
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>c03995asc13d.htm
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sc13d</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right">
+<TABLE style="font-size: 12pt" cellspacing="0" border="0" cellpadding="0" width="15%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="1%">&nbsp;</TD>
+<TD width="98%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000">&nbsp;</TD>
+<TD align="center" valign="top" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">OMB APPROVAL</DIV></TD>
+<TD width="1%" style="border-right: 1px solid #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">OMB Number: 3235-0145</DIV></TD>
+<TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" nowrap><DIV style="margin-left:0px; text-indent:-0px">Expires: February&nbsp;28, 2009</DIV>
+</TD>
+<TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Estimated average burden hours per response...15</DIV></TD>
+<TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px" valign="bottom">
+<TD nowrap align="left" colspan="3" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>SCHEDULE 13D</B>
+
+
+<P align="center" style="font-size: 12pt"><B>Under the Securities Exchange Act of 1934<BR>
+(Amendment No.&nbsp;&nbsp;)<SUP>1</SUP></B>
+
+
+<DIV align="center">
+<DIV style="font-size: 24pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">GLOBAL TRAFFIC NETWORK, INC.</DIV>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name of Issuer)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">Common Stock, $.001 par value</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Title of Class of Securities)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">37947B 10 3</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(CUSIP Number)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">Dale C. Arfman<BR>Global Traffic Network <BR>800 Second Avenue<BR>New York, NY 10017<BR>(212) 896-1255<BR></DIV>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name, Address and Telephone Number of Person Authorized to<BR>
+Receive Notices and Communications)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">March 23, 2006</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Date of Event Which Requires Filing of this Statement)
+</DIV>
+
+<P align="left" style="font-size: 10pt">If the filing person has previously filed a statement on Schedule&nbsp;13G to report the acquisition that is the subject of this Schedule&nbsp;13D, and is filing this schedule because of &#167;&#167;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box. <FONT face="wingdings" size="2">&#111;</FONT>
+
+<P align="left" style="font-size: 10pt"><B>Note: </B>Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See &#167;240.13d-7 for other parties to whom copies are to be sent.
+
+<P align="left" style="font-size: 10pt">* The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
+
+<P align="left" style="font-size: 10pt">The information required on the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of Section
+18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+<P align="left" style="font-size: 10pt"><B>Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB control number.</B>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt">Page 1 of 5 pages
+</DIV>
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="20%">&nbsp;</TD>
+<TD width="55%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="9%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="9%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+
+<TR valign="bottom">
+<TD valign="top" nowrap><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">37947B 10 3&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="left" valign="top">Page</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">2&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="left" valign="top">of&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">5&nbsp;</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P>&nbsp;<DIV style="width: 100%; border: 1px solid black"><DIV align="center">
+
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="1" width="100%">
+<!-- Begin Table Head --><TR style="font-size: 1px">
+<TD width="5%">&nbsp;</TD>
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="83%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>1</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">NAMES OF REPORTING PERSONS:<BR>
+<BR>
+Dale C. Arfman</TD>
+</TR>
+<TR valign="bottom"> <TD style="border-left: 1px solid #000000">&nbsp;</TD> <TD colspan="4" align="left">&nbsp;</TD> </TR> <TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY):<BR>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>2</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS):<BR><BR></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(a)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#111;</FONT>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(b)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#111;</FONT>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>3</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">SEC USE ONLY:</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>4</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">SOURCE OF FUNDS (SEE INSTRUCTIONS):</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">OO (shares held by the Reporting Person prior to the Issuer's initial public offering)</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>5</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e):</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>6</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CITIZENSHIP OR PLACE OF ORGANIZATION:</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">USA
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>7</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SOLE VOTING POWER:</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">NUMBER OF</TD>
+<TD>&nbsp;</TD>
+<TD align="left">2,512,417</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">SHARES</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>8</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SHARED VOTING POWER:</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">BENEFICIALLY</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">OWNED BY</TD>
+<TD>&nbsp;</TD>
+<TD>0</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+<TD align="center" colspan="3">EACH</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>9</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SOLE DISPOSITIVE POWER:</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">REPORTING</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">PERSON</TD>
+<TD>&nbsp;</TD>
+<TD align="left">2,512,417</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">WITH</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>10</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SHARED DISPOSITIVE POWER:</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD align="left">0</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>11</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON:</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">2,512,417</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>12</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK IF THE AGGREGATE AMOUNT IN ROW (11)&nbsp;EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS):</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT>
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>13</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11):</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">20.4&#37;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>14</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS):</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">IN</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">Page 2 of 5 pages
+
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECURITY AND ISSUER
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">This statement relates to the common stock, $.001 par value, of Global Traffic Network, Inc., a
+Delaware corporation (&#147;Global&#148; or the &#147;Issuer&#148;). The address of the Issuer&#146;s principal executive
+offices is 800 Second Avenue, Fifth Floor, New York, NY 10017.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDENTITY AND BACKGROUND
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">This Schedule&nbsp;13D is being filed by Dale C. Arfman. The principal business address for Mr.&nbsp;Arfman
+is 800 Second Avenue, Fifth Floor, New York, NY 10017. Mr.&nbsp;Arfman is the Issuer&#146;s Treasurer and
+Secretary and is a member of its Board of Directors.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">During the last five years, the Reporting Person has not been (i)&nbsp;convicted in a criminal
+proceeding (excluding traffic violations or similar misdemeanors), or (ii)&nbsp;party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction and as a result of such
+proceeding was or is subject to a judgment, decree or final order enjoining future violations of,
+or prohibiting or mandating activities subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Mr.&nbsp;Arfman is a citizen of the United States.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not applicable.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PURPOSE OF TRANSACTION
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The shares of Global subject to this Statement are held by the Reporting Person solely for
+investment purposes.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Although the Reporting Person has not formulated any other definitive plan, he may from time to
+time acquire, or dispose of, common stock and/or other securities of
+the Issuer if and when he
+deems it appropriate. The Reporting Person may formulate other purposes, plans or proposals
+relating to any of such securities of the Issuer to the extent deemed advisable in light of market
+conditions, investment policies and other factors. Except as indicated in this Statement, the
+Reporting Person has no current plans or proposals which would relate to or would result in any
+of the following matters:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The acquisition by any person of additional securities of the issuer, or the disposition
+of securities of the issuer;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An extraordinary corporate transaction, such as a merger, reorganization or liquidation,
+involving the issuer or any of its subsidiaries;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A sale or transfer of a material amount of assets of the issuer or of any of its
+subsidiaries;
+</DIV>
+
+<P align="center" style="font-size: 10pt">Page 3 of 5 pages
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any change in the present board of directors or management of the issuer, including any
+plans or proposals to change the number or term of directors or to fill any existing vacancies on
+the board;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any material change in the present capitalization or dividend policy of the issuer;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any other material change in the issuer&#146;s business or corporate structure, including but
+not limited to, if the issuer is a registered closed-end investment company, any plans or proposals
+to make any changes in its investment policy for which a vote is required by Section&nbsp;13 of the
+Investment Company Act of 1940;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes in the issuer&#146;s charter, bylaws or instruments corresponding thereto or other
+actions which may impede the acquisition of control of the issuer by any person;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Causing a class of securities of the issuer to be delisted from a national securities
+exchange or to cease to be authorized to be quoted in an inter-dealer quotation system of a
+registered national securities association;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A class of equity securities of the issuer becoming eligible for termination of
+registration pursuant to Section&nbsp;12(g)(4) of the Act; or
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(j)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any action similar to any of those enumerated above.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INTEREST IN THE SECURITIES OF THE ISSUER
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(a)&nbsp;and
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Reporting Person beneficially owns 2,512,417 shares.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">According
+to information provided by the Issuer in its final prospectus dated
+March&nbsp;23, 2006, the number of shares
+outstanding after its initial public offering is 12,300,000. Accordingly, based upon this
+information, the Reporting Person is the beneficial owner of 20.4% of the outstanding shares.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TRANSACTIONS WITHIN THE LAST 60 DAYS
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">None.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS WITH RESPECT TO SECURITIES OF THE ISSUER
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">None
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">Page 4 of 5 pages
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ITEM 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EXHIBITS.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">None
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURE
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, I certify that the
+information set forth in this statement is true, complete and correct.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated: March 31, 2006&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">/s/ Dale C. Arfman
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Dale C. Arfman&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">Page 5 of 5 pages
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

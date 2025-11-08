@@ -1,0 +1,256 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EPQ9kVqLNxTwUYOTHkSM64FNzSidu7puaFnlIcHc2e7u1l9ip49tuqpeOmP87Atc
+ vgAuCUlwxeeprgx78ldYsw==
+
+<SEC-DOCUMENT>0000354204-98-000539.txt : 19980211
+<SEC-HEADER>0000354204-98-000539.hdr.sgml : 19980211
+ACCESSION NUMBER:		0000354204-98-000539
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19980210
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URS CORP /NEW/
+		CENTRAL INDEX KEY:			0000102379
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING SERVICES [8711]
+		IRS NUMBER:				941381538
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-08539
+		FILM NUMBER:		98529292
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CALIFORNIA ST STE 500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		4157742700
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CALIFORNIA STREET
+		STREET 2:		SUITE 500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THORTEC INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19900222
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	URS CORP /DE/
+		DATE OF NAME CHANGE:	19871214
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIMENSIONAL FUND ADVISORS INC
+		CENTRAL INDEX KEY:			0000354204
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				22370029
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1299 OCEAN AVE
+		STREET 2:		11TH FLOOR
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90401
+		BUSINESS PHONE:		3103958005
+
+	MAIL ADDRESS:	
+		STREET 1:		1299 OCEAN AVENUE
+		STREET 2:		11TH FLOOR
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>1997 SCHEDULE 13G  -  URS CORP NEW
+<TEXT>
+
+
+- -------------------------------------------------------------------
+                                                       Page 1 of 4
+
+SCHEDULE 13G
+ (12/31/97)
+
+URS CORP NEW
+Cusip # 903236107
+Amendment
+
+- --------------------------------------------------------------------
+                                                        Page 2 of 4
+
+Cusip # 903236107
+
+Item  1:    REPORTING PERSONS
+            Dimensional Fund Advisors Inc. (Tax ID: 22-2370029)
+
+Item  4:    CITIZENSHIP
+            Delaware Corporation
+
+Item  5:    SOLE VOTING POWER
+            361,710   (See Note 1)*
+              * Persons who are officers of Dimensional Fund Advisors
+              Inc. also serve as officers of DFA Investment Dimensions
+              Group Inc., (the "Fund") and The DFA Investment Trust
+              Company (the "Trust"), each an open-end management
+              investment company registered under the Investment
+              Company Act of 1940.  In their capacities as officers of
+              the Fund and the Trust, these persons vote 76,705
+              additional shares which are owned by the Fund and
+              73,502    shares which are owned by the Trust. (Included
+              in Item 7 of this page of this Schedule)
+
+Item  6:    SHARED VOTING POWER --
+            None
+
+Item  7:    SOLE DISPOSITIVE POWER --
+            511,917   (See Note 1)
+
+Item  8:    SHARED DISPOSITIVE POWER --
+            0
+
+Item  9:    AGGREGATE AMOUNT BENEFICIALLY OWNED --
+            511,917   (See Note 1)
+
+Item 11:    PERCENT OF CLASS REPRESENTED BY LINE 9 --
+            4.83  (See Note 1)
+
+Item 12:    TYPE OF REPORTING PERSON --
+            IA
+
+- -----------------------------------------------------------------------
+                                                    Page 3 of 4
+
+ITEM 1(A).  NAME OF ISSUER
+
+            URS CORP NEW
+
+ITEM 1(B).  ADDRESS OF ISSUER
+
+            100 California Street
+            Suite 500
+            San Francisco, CA  94111
+
+ITEM 2(A).  NAME OF PERSON FILING
+
+            Dimensional Fund Advisors
+
+ITEM 2(B).  ADDRESS OF PRINCIPAL BUSINESS OFFICE
+
+            1299 Ocean Avenue, 11th Floor, Santa Monica, CA  90401
+
+ITEM 2(C).  CITIZENSHIP
+
+            A Delaware Corporation
+
+ITEM 2(D).  TITLE OF CLASS OF SECURITIES
+
+            Common Stock
+
+ITEM 2(E).  CUSIP NUMBER
+
+            903236107
+
+ITEM 3.     This statement is filed pursuant to Rule 13d-1 (b), or
+            13d-2 (b) and the person filing is an investment advisor
+            registered under section 203 of the Investment Advisors
+            Act of 1940.
+
+- ---------------------------------------------------------------------
+                                                 Page 4 of 4
+
+ITEM 4.     OWNERSHIP
+ITEM 4(a).  AMOUNT BENEFICIALLY OWNED
+            See Page 2, Item No. 9
+ITEM 4(b).  PERCENT OF CLASS
+            See Page 2, Item No. 11
+ITEM 4(c).  NUMBER OF SHARE AS TO WHICH SUCH PERSON HAS:
+      (i).  SOLE POWER TO VOTE OR DIRECT THE VOTE --
+            See Page 2, Item No. 5
+     (ii).  SHARED POWER TO VOTE OR TO DIRECT THE VOTE --
+            None
+    (iii).  SOLE POWER TO DISPOSE OR TO DIRECT DISPOSITION OF --
+            See Page 2, Item No. 9
+     (iv).  SHARE POWER TO DISPOSE OR TO DIRECT DISPOSISTION OF --
+            None
+
+ITEM 5.     OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS
+            If this statement is being filed to report the fact that
+            as of 12/31/97 the reporting person has ceased to be the
+            beneficial owner of more than five percent of the class
+            of securities, check the following: [X]
+
+ITEM 6.     OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF
+            ANOTHER PERSON
+            All Securities reported in this schedule are onwed by
+            advisory clients of Dimensional Fund Advisors Inc., no one
+            of which to the knowledge of Dimensional Fund Advisors Inc.
+            owns more than 5% of the class.  Dimensional Fund Advisors
+            Inc disclaims beneficial ownership of all such securities.
+
+ITEM 7.     IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH
+            ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING
+            COMPANY:
+            Not Applicable
+
+ITEM 8.     IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP
+            Not Applicable
+
+ITEM 9.     NOTICE OF DISSOLUTION OF GROUP
+            Not Applicable
+
+ITEM 10.    CERTIFICATION
+            By signing below I certify that, to the best of my knowledge
+            and belief, the securities referred to above were acquired
+            in the ordinary course of business and were not acquired for
+            the purpose of and do not have the effect of changing or
+            influencing the control of the issuer of such securities
+            and were not acquired in connection with or as a participant
+            in any transaction having such purposes or effect.
+
+(Note 1): All securities reported on the schedule are owned by advisory
+          clients of Dimensional Fund Advisors Inc.  Dimensional Fund
+          Advisors Inc. disclaims beneficial ownership of all such
+          securities.
+
+After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true,
+complete are correct.
+
+Signature
+
+   Monday, February 6, 1997
+Date
+
+   Michael T. Scardina
+   Vice President and Chief Finacial Officer
+Name/Title
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

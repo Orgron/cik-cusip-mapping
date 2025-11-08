@@ -1,0 +1,531 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NcaJW7TKo4uB9chlfc/od9uevaZj7MDbolWlfNtjnffk3NAGFfBhHI8FiPC57Nht
+ AghsloQlJH6+5WCnP/4G1A==
+
+<SEC-DOCUMENT>0001422849-08-000035.txt : 20080110
+<SEC-HEADER>0001422849-08-000035.hdr.sgml : 20080110
+<ACCEPTANCE-DATETIME>20080110160755
+ACCESSION NUMBER:		0001422849-08-000035
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20080110
+DATE AS OF CHANGE:		20080110
+GROUP MEMBERS:		AMERICAN HIGH-INCOME TRUST
+GROUP MEMBERS:		THE INCOME FUND OF AMERICA, INC.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNCOM WIRELESS HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0001091973
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO TELEPHONE COMMUNICATIONS [4812]
+		IRS NUMBER:				232974475
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-58313
+		FILM NUMBER:		08523667
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 CASSATT ROAD
+		CITY:			BERWYN
+		STATE:			PA
+		ZIP:			19312
+		BUSINESS PHONE:		6106515900
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 CASSATT ROAD
+		CITY:			BERWYN
+		STATE:			PA
+		ZIP:			19312
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRITON PCS HOLDINGS INC
+		DATE OF NAME CHANGE:	19990728
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Capital World Investors
+		CENTRAL INDEX KEY:			0001422849
+		IRS NUMBER:				951411037
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 SOUTH HOPE STREET
+		STREET 2:		55TH FLOOR
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+		BUSINESS PHONE:		213-486-9200
+
+	MAIL ADDRESS:	
+		STREET 1:		333 SOUTH HOPE STREET
+		STREET 2:		55TH FLOOR
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>edgecs693.txt
+<DESCRIPTION>SC 13G
+<TEXT>
+
+                             UNITED STATES
+                  SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D.C. 20549
+
+
+                             SCHEDULE 13G
+
+               Under the Securities Exchange Act of 1934
+
+
+                           (Amendment No. )*
+
+
+                      Suncom Wireless Holdings, Inc.
+                             (Name of Issuer)
+
+                           Class A Common Stock
+                      (Title of Class of Securities)
+
+                                86722Q207
+                              (CUSIP Number)
+
+                            December 31, 2007
+         (Date of Event Which Requires Filing of this Statement)
+
+
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+[X] Rule 13d-1(b)
+[ ] Rule 13d-1(c)
+[ ] Rule 13d-1(d)
+
+
+*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class
+of securities, and for any subsequent amendment containing information
+which would alter the disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not
+be deemed to be "filed" for the purpose of Section 18 of the Securities
+Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of
+that section of the Act but shall be subject to all other provisions of
+the Act (however, see the Notes).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CUSIP: 86722Q207                                                Page 1 of 7
+
+
+ 1   NAMES OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+     Capital World Investors **
+
+
+ 2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE
+     INSTRUCTIONS)                                                 (a)
+
+                                                                    (b)
+ 3   SEC USE ONLY
+
+
+ 4   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     Delaware
+
+             5   SOLE VOTING POWER
+
+                  8,548,250
+
+
+             6   SHARED VOTING POWER
+ NUMBER OF
+   SHARES         NONE
+BENEFICIALL
+ Y OWNED BY
+             7   SOLE DISPOSITIVE POWER
+    EACH
+ REPORTING        13,280,530
+   PERSON
+   WITH:
+             8   SHARED DISPOSITIVE POWER
+
+                  NONE
+
+ 9   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+     13,280,530     Beneficial ownership disclaimed pursuant to Rule 13d-4
+
+
+
+ 10  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+     (SEE INSTRUCTIONS)
+
+
+ 11  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+     22.4%
+
+ 12  TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+     IA
+
+** A division of Capital Research and Management Company (CRMC)
+
+
+
+
+CUSIP: 86722Q207                                                Page 2 of 7
+<page>
+<page>
+<page>
+
+
+ 1   NAMES OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+     The Income Fund of America, Inc.
+
+
+ 2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE
+     INSTRUCTIONS)                                                 (a)
+
+                                                                    (b)
+ 3   SEC USE ONLY
+
+
+ 4   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     Maryland
+
+             5   SOLE VOTING POWER
+
+                  4,732,277
+
+
+             6   SHARED VOTING POWER
+ NUMBER OF
+   SHARES         NONE
+BENEFICIALL
+ Y OWNED BY
+             7   SOLE DISPOSITIVE POWER
+    EACH
+ REPORTING        NONE
+   PERSON
+   WITH:
+             8   SHARED DISPOSITIVE POWER
+
+                  NONE
+
+ 9   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+     4,732,277
+
+
+
+ 10  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+     (SEE INSTRUCTIONS)
+
+
+ 11  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+     8.0%
+
+ 12  TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+     IV
+
+
+
+
+
+
+CUSIP: 86722Q207                                                Page 3 of 7
+<page>
+<page>
+<page>
+
+                  SECURITIES AND EXCHANGE COMMISSION
+                         Washington, DC 20549
+
+                             Schedule 13G
+               Under the Securities Exchange Act of 1934
+
+
+Amendment No.
+
+Item 1(a)     Name of Issuer:
+       Suncom Wireless Holdings, Inc.
+
+Item 1(b)     Address of Issuer's Principal Executive Offices:
+       1100 Cassatt Road
+       Berwyn, PA 19312
+
+Item 2(a)     Name of Person(s) Filing:
+       Capital World Investors and The Income Fund of America, Inc.
+
+Item 2(b)     Address of Principal Business Office or, if none,
+       Residence:
+       333 South Hope Street
+       Los Angeles, CA  90071
+
+Item 2(c)     Citizenship:   N/A
+
+Item 2(d)     Title of Class of Securities:
+       Class A Common Stock
+
+Item 2(e)     CUSIP Number:
+       86722Q207
+
+Item 3     If this statement is filed pursuant to sections 240.13d-1(b)
+       or 240.13d-2(b) or (c), check whether the person filing is a:
+       (d)     [X]     Investment company registered under section 8
+            of the Investment Company Act of 1940 (15 U.S.C. 80a-8).
+       (e)      [X]     An investment adviser in accordance with
+            section 240.13d-1(b)(1)(ii)(E).
+
+Item 4     Ownership
+
+       Provide the following information regarding the aggregate
+       number and percentage of the class of securities of the issuer
+       identified in Item 1.
+
+       (a)    Amount beneficially owned:
+       (b)    Percent of class:
+       (c)    Number of shares as to which the person has:
+       (i)    Sole power to vote or to direct the vote:
+       (ii)   Shared power to vote or to direct the vote:
+       (iii)  Sole power to dispose or to direct the disposition of:
+       (iv)   Shared power to dispose or to direct the disposition of:
+
+       See pages 2 and 3
+
+
+
+
+CUSIP: 86722Q207                                                Page 4 of 7
+<page>
+<page>
+<page>
+
+
+       Capital World Investors is deemed to be the beneficial owner of
+       13,280,530 shares or 22.4% of the 59,229,000 shares of Class A
+       Common Stock believed to be outstanding as a result of CRMC
+       acting as investment adviser to various investment companies
+       registered under Section 8 of the Investment Company Act of
+       1940.
+
+       The Income Fund of America, Inc., an investment company
+       registered under the Investment Company Act of 1940, which is
+       advised by Capital Research and Management Company ("CRMC"), is
+       the beneficial owner of 4,732,277 shares or 8.0% of the
+       59,229,000 shares of Class A Common Stock believed to be
+       outstanding.  CRMC manages equity assets for various investment
+       companies through two divisions, Capital Research Global
+       Investors and Capital World Investors. These divisions
+       generally function separately from each other with respect to
+       investment research activities and they make investment
+       decisions and proxy voting decisions for the investment
+       companies on a separate basis.
+
+Item 5     Ownership of Five Percent or Less of a Class.  If this
+       statement is being filed to report the fact that as of the date
+       hereof the reporting person has ceased to be the beneficial
+       owner of more than five percent of the class of securities,
+       check the following: [ ]
+
+Item 6     Ownership of More than Five Percent on Behalf of Another
+       Person: One or more clients of Capital World Investors have the
+       right to receive or the power to direct the receipt of
+       dividends from, or the proceeds from the sale of, the Class A
+       Common Stock of Suncom Wireless Holdings, Inc..  Capital World
+       Investors holds more than five percent of the outstanding Class
+       A Common Stock of Suncom Wireless Holdings, Inc. as of December
+       31, 2007 on behalf of each of the following client(s):
+
+     American High-Income Trust
+     The Income Fund of America, Inc.
+
+Item 7     Identification and Classification of the Subsidiary Which
+       Acquired the Security Being Reported on By the Parent Holding
+       Company or Control Person. : N/A
+
+Item 8     Identification and Classification of Members of the Group:
+       N/A
+
+Item 9     Notice of Dissolution of Group:  N/A
+
+Item 10     Certification
+
+       By signing below, I certify that, to the best of my knowledge
+       and belief, the securities referred to above were acquired and
+       are held in the ordinary course of business and were not
+       acquired and are not held for the purpose of or with the effect
+       of changing or influencing the control of the issuer of the
+       securities and were not acquired and are not held in connection
+       with or as a participant in any transaction having that purpose
+       or effect.
+
+
+CUSIP: 86722Q207                                                Page 5 of 7
+
+
+
+     Signature
+
+       After reasonable inquiry and to the best of my knowledge and
+       belief, I certify that the information set forth in this
+       statement is true, complete and correct.
+
+
+        Date:          January 10, 2008
+
+        Signature:     Robert W. Lovelace^
+        Name/Title:    Robert W. Lovelace -- Senior Vice
+                       President
+                       Capital World Investors
+
+        Date:          January 10, 2008
+
+        Signature:     Patrick F. Quan^
+        Name/Title:    Patrick F. Quan -- Secretary
+                       The Income Fund of America, Inc.
+
+
+
+        ^By    /s/ Walter R. Burkley
+               Walter R. Burkley
+               Attorney-in-fact
+
+          Signed pursuant to a Power of Attorney dated December 21,
+          2007 included as an Exhibit to Schedule 13G filed with the
+          Securities and Exchange Commission by Capital World Investors
+          on January 10, 2008 with respect to Lowes Companies,
+          Incorporated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CUSIP: 86722Q207                                                Page 6 of 7
+
+
+                               AGREEMENT
+
+                            Los Angeles, CA
+                           January 10, 2008
+
+  Capital World Investors ("CWI") and The Income Fund of America, Inc.
+("IFA") hereby agree to file a joint statement on Schedule 13G under
+the Securities Exchange Act of 1934 (the "Act") in connection with
+their beneficial ownership of Class A Common Stock issued by Suncom
+Wireless Holdings, Inc.
+
+  CWI and IFA state that they are each entitled to individually use
+Schedule 13G pursuant to Rule 13d-1(c) of the Act.
+
+  CWI and IFA are each responsible for the timely filing of the
+statement and any amendments thereto, and for the completeness and
+accuracy of the information concerning each of them contained therein
+but are not responsible for the completeness or accuracy of the
+information concerning the others.
+
+
+
+                 CAPITAL WORLD INVESTORS
+
+                 BY:              Robert W. Lovelace^
+                                  Robert W. Lovelace -- Senior
+                                   Vice President
+                                   Capital World Investors
+
+
+                 THE INCOME FUND OF AMERICA, INC.
+
+                 BY:              Patrick F. Quan^
+                                  Patrick F. Quan -- Secretary
+                                   The Income Fund of America,
+                                   Inc.
+
+
+^By  /s/ Walter R. Burkley
+     Walter R. Burkley
+     Attorney-in-fact
+
+     Signed pursuant to a Power of Attorney dated December 21, 2007
+     included as an Exhibit to Schedule 13G filed with the Securities
+     and Exchange Commission by Capital World Investors on January 10,
+     2008 with respect to Lowes Companies, Incorporated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CUSIP: 86722Q207                                                Page 7 of 7
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

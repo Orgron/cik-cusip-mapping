@@ -1,0 +1,406 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ObaKOWrqCXE7BwwGa3LK1oV2F4yZuWcZoSYZdxpruc3z8pFOaCIANWUDBD9WrmVs
+ UsnfsezfSVd3RzBTJIP8xw==
+
+<SEC-DOCUMENT>0000950127-03-001233.txt : 20031103
+<SEC-HEADER>0000950127-03-001233.hdr.sgml : 20031103
+<ACCEPTANCE-DATETIME>20031103133511
+ACCESSION NUMBER:		0000950127-03-001233
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20031103
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABANAT LTD
+		CENTRAL INDEX KEY:			0001268403
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			T0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PO BOX 222
+		CITY:			JEDDAH SAUDI ARABIA
+		STATE:			T0
+		ZIP:			21411
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ON2 TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001045280
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				841280679
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-56347
+		FILM NUMBER:		03972382
+
+	BUSINESS ADDRESS:	
+		STREET 1:		145 HUDSON STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		9172370500
+
+	MAIL ADDRESS:	
+		STREET 1:		645 FIFTH AVE
+		STREET 2:		C/O STEVEN SISKIND
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ON2COM INC
+		DATE OF NAME CHANGE:	19990622
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLIED CAPITAL FUNDING INC
+		DATE OF NAME CHANGE:	19971002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>schedule13g.txt
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  ------------
+
+                                  SCHEDULE 13G
+
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+
+                             On2 Technologies, Inc.
+                     ---------------------------------------
+                                (Name of Issuer)
+
+                     Common Stock, par value $0.01 per share
+                     ---------------------------------------
+                         (Title of Class of Securities)
+
+                                   68338A-10-7
+                     ---------------------------------------
+                                 (CUSIP Number)
+
+                                 April 30, 2001
+                     ---------------------------------------
+             (Date of Event Which Required Filing of this Statement)
+
+     Check the  appropriate  box to  designate  the rule  pursuant to which this
+Schedule is filed:
+
+                                [ ] Rule 13d-1(b)
+                                [X] Rule 13d-1(c)
+                                [ ] Rule 13d-1(d)
+<PAGE>
+
+- -----------------------------------
+CUSIP No. 68338A-10-7                           13G         Page 2 of 7 Pages
+- -----------------------------------
+
+
+
+- --------------------------------------------------------------------------------
+1        NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+         Abanat Limited
+- --------------------------------------------------------------------------------
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [_]
+                                                                       (b) [_]
+- --------------------------------------------------------------------------------
+3        SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4        CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         British Virgin Islands
+- --------------------------------------------------------------------------------
+NUMBER OF                    5      SOLE VOTING POWER
+SHARES                              9,167,330
+BENEFICIALLY                 ---------------------------------------------------
+OWNED BY                            SHARED VOTING POWER
+EACH                         6      0
+REPORTING                    ---------------------------------------------------
+PERSON WITH                         SOLE DISPOSITIVE POWER
+                             7      9,167,330
+                             ---------------------------------------------------
+PERSON WITH                         SHARED DISPOSITIVE POWER
+                             8      0
+- --------------------------------------------------------------------------------
+9        AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         9,167,330
+- --------------------------------------------------------------------------------
+10       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+         CERTAIN SHARES                                                    [_]
+         NOT APPLICABLE
+- --------------------------------------------------------------------------------
+11       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+         13.9%
+- --------------------------------------------------------------------------------
+12       TYPE OF REPORTING PERSON
+
+         CO
+- --------------------------------------------------------------------------------
+<PAGE>
+
+- -----------------------------------
+CUSIP No. 68338A-10-7                           13G         Page 3 of 7 Pages
+- -----------------------------------
+
+
+
+- --------------------------------------------------------------------------------
+1        NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+         H.E. Abdul Aziz Al-Sulaiman
+- --------------------------------------------------------------------------------
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [_]
+                                                                       (b) [_]
+- --------------------------------------------------------------------------------
+3        SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4        CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         Saudi Arabia
+- --------------------------------------------------------------------------------
+NUMBER OF                    5      SOLE VOTING POWER
+SHARES                              9,167,330*
+BENEFICIALLY                 ---------------------------------------------------
+OWNED BY                            SHARED VOTING POWER
+EACH                         6      0
+REPORTING                    ---------------------------------------------------
+PERSON WITH                         SOLE DISPOSITIVE POWER
+                             7      9,167,330*
+                             ---------------------------------------------------
+                                    SHARED DISPOSITIVE POWER
+                             8      0
+- --------------------------------------------------------------------------------
+ 9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         9,167,330*
+- --------------------------------------------------------------------------------
+10       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+         CERTAIN SHARES
+         NOT APPLICABLE
+- --------------------------------------------------------------------------------
+11       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+         13.9%*
+- --------------------------------------------------------------------------------
+12       TYPE OF REPORTING PERSON
+
+         IN
+- --------------------------------------------------------------------------------
+
+* Includes shares held by the other reporting person.
+<PAGE>
+
+- -----------------------------------
+CUSIP No. 68338A-10-7                           13G         Page 4 of 7 Pages
+- -----------------------------------
+
+Item 1(a).        Name of Issuer:
+
+                  On2 Technologies, Inc.
+
+Item 1(b).        Address of Issuer's Principal Executive Offices:
+
+                  21 Corporate Drive, Suite 103, Clifton Park, New York  12065
+
+Item 2(a).        Name of Person Filing:
+
+                  Abanat Limited ("Abanat")
+
+                  H.E. Abdul Aziz Al-Sulaiman
+
+Item 2(b).        Address of Principal Business Office or, if none, Residence:
+
+                  The address of the principal office of Abanat is:
+
+                           c/o P.O. Box 222
+                           Jeddah, Saudi Arabia 21411
+
+                  The address of the principal office of H.E. Abdul Aziz
+                  Al-Sulaiman is:
+
+                           c/o P.O. Box 222
+                           Jeddah, Saudi Arabia 21411
+
+Item 2(c).        Citizenship:
+
+                  The citizenship of Abanat is the British Virgin Islands.
+
+                  The citizenship of H.E. Abdul Aziz Al-Sulaiman is Saudi
+                  Arabia.
+
+Item 2(d).        Title of Class of Securities:
+
+                  Common stock, par value $0.01 per share
+
+Item 2(e).        CUSIP Number:
+
+                  68338A-10-7
+
+Item 3.           If this statement is filed pursuant to Rules 13d-1(b), or
+                  13d-2(b) or (c), check whether the person filing is a:
+
+                  (a) [_] Broker or dealer registered under section 15 of the
+                          Act;
+
+                  (b) [_] Bank as defined in section 3(a)(6) of the Act;
+<PAGE>
+
+- -----------------------------------
+CUSIP No. 68338A-10-7                           13G         Page 5 of 7 Pages
+- -----------------------------------
+
+                  (c) [_] Insurance company as defined in section 3(a)(19) of
+                          the Act;
+
+                  (d) [_] Investment company registered under section 8 of the
+                          Investment Company Act of 1940;
+
+                  (e) [_] An investment adviser in accordance with Rule
+                          13d-1(b)(1)(ii)(E);
+
+                  (f) [_] An employee benefit plan or endowment fund in
+                          accordance with Rule 13d-1(b)(1)(ii)(F);
+
+                  (g) [_] A parent holding company or control person in
+                          accordance with Rule 13d-1(b)(1)(ii)(G) (Note: See
+                          Item 7);
+
+                  (h) [_] A savings association as defined in section 3(b) of
+                          the Federal Deposit Insurance Act;
+
+                  (i) [_] A church plan that is excluded from the definition of
+                          an investment company under section 3(c)(14) of the
+                          Investment Company Act of 1940;
+
+                  (j) [_] Group, in accordance with Rule 13d-1(b)(1)(ii)(H).
+
+                  If this statement is filed pursuant to Rule 13d-1(c), check
+this box. [X]
+
+Item 4.      Ownership.
+
+         (a) Amount beneficially owned: See Item 9 of cover pages.
+
+         (b) Percent of class: See Item 11 of cover pages.
+
+         (c) Number of shares as to which the person has:
+
+             (i) sole power to vote or to direct the vote: See Item 5 of cover
+                 pages.
+
+            (ii) shared power to vote or to direct the vote: See Item 6 of cover
+                 pages.
+
+           (iii) sole power to dispose or to direct the disposition of: See
+                 Item 7 of cover pages.
+
+            (iv) shared power to dispose or to direct the disposition of: See
+                 Item 8 of cover pages.
+<PAGE>
+
+- -----------------------------------
+CUSIP No. 68338A-10-7                           13G         Page 6 of 7 Pages
+- -----------------------------------
+
+Item 5.           Ownership of Five Percent or Less of a Class.
+
+                  If this statement is being filed to report the fact that as of
+the date hereof the reporting person has ceased to be the beneficial owner of
+more than five percent of the class of securities, check the following [ ].
+
+Item 6.           Ownership of More than Five Percent on Behalf of Another
+                  Person.
+
+                  Not applicable.
+
+Item 7.           Identification and Classification of the Subsidiary Which
+                  Acquired the Security Being Reported on by the Parent Holding
+                  Company or Control Person.
+
+                  Not Applicable.
+
+Item 8.           Identification and Classification of Members of the Group.
+
+                  Not Applicable.
+
+Item 9.           Notice of Dissolution of Group.
+
+                  Not Applicable.
+
+Item 10.          Certification.
+
+                  By signing below, I certify that, to the best of my knowledge
+and belief, the securities referred to above were acquired and are held in the
+ordinary course of business and were not acquired and are not held for the
+purpose of or with the effect of changing or influencing the control of the
+issuer of the securities and were not acquired and are not held in connection
+with or as a participant in any transaction having that purpose or effect.
+<PAGE>
+
+- -----------------------------------
+CUSIP No. 68338A-10-7                                 13G   Page 7 of 7 Pages
+- -----------------------------------
+
+
+
+                                    SIGNATURE
+
+                  After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement is true,
+complete and correct.
+
+Dated: October 31, 2003
+
+
+
+                                  Abanat Limited
+
+
+
+                                  By:  /s/ Saud A. Al-Sulaiman
+                                     ----------------------------------------
+                                     Name:   Saud A. Al-Sulaiman
+                                     Title:  Director
+
+
+
+                                  H.E. Abdul Aziz Al-Sulaiman
+
+
+
+                                  By: /s/ Saud A. Al-Sulaiman
+                                     ----------------------------------------
+                                     Name:   Saud A. Al-Sulaiman
+                                     Title:  Attorney-in-Fact
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

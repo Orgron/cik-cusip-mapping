@@ -1,0 +1,992 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QppP+S3QSKv/zrcuAHGmM6CMFiAnznRv01HVWZdfcM122Lhzmz+sEfcP43MDUIuR
+ j6Oil7fSAsui2Nmbxl37Eg==
+
+<SEC-DOCUMENT>0000921895-07-001345.txt : 20070618
+<SEC-HEADER>0000921895-07-001345.hdr.sgml : 20070618
+<ACCEPTANCE-DATETIME>20070618162838
+ACCESSION NUMBER:		0000921895-07-001345
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20070618
+DATE AS OF CHANGE:		20070618
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BTHC VI Inc
+		CENTRAL INDEX KEY:			0001368148
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [9995]
+		IRS NUMBER:				204864095
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-82141
+		FILM NUMBER:		07926079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12890 HILLTOP ROAD
+		CITY:			ARGYLE
+		STATE:			TX
+		ZIP:			76226
+		BUSINESS PHONE:		940-241-1991
+
+	MAIL ADDRESS:	
+		STREET 1:		12890 HILLTOP ROAD
+		CITY:			ARGYLE
+		STATE:			TX
+		ZIP:			76226
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCIPITER CAPITAL MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001280190
+		IRS NUMBER:				134220800
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		38TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127058700
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		38TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCIPITER CAPITAL MANAGEMENT
+		DATE OF NAME CHANGE:	20040213
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>sc13g06588bth_06082007.htm
+<TEXT>
+<html>
+<head>
+<title>sec document</title>
+</head>
+<body>
+<PRE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                 --------------
+
+                                  SCHEDULE 13G
+                                 (Rule 13d-102)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+           TO RULES 13d-1(b) (c) AND (d) AND AMENDMENTS THERETO FILED
+                            PURSUANT TO RULE 13d-2(b)
+
+                              (Amendment No. )(1)
+
+                                  BTHC VI, Inc.
+ ------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                    Common Stock, Par Value $0.001 Per Share
+ ------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    05578C203
+ ------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                                  June 8, 2007
+ ------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+                                 --------------
+
+Check the  appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+      / /  Rule 13d-1(b)
+
+      /X/  Rule 13d-1(c)
+
+      / /  Rule 13d-1(d)
+
+
+- ------------
+      (1)   The remainder of this cover page shall be filled out for a reporting
+person's  initial  filing on this  form with  respect  to the  subject  class of
+securities,  and for any subsequent amendment containing information which would
+alter the disclosures provided in a prior cover page.
+
+            The  information  required in the remainder of this cover page shall
+not be deemed to be "filed"  for the  purpose  of  Section 18 of the  Securities
+Exchange Act of 1934 or otherwise  subject to the liabilities of that section of
+the Act but shall be subject to all other  provisions of the Act  (however,  SEE
+the NOTES).
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 2 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    ACCIPITER LIFE SCIENCES FUND, LP
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    DELAWARE
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  398,125 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   0 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              398,125 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              0 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    398,125 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    2.1%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    PN
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 3 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    ACCIPITER LIFE SCIENCES FUND (OFFSHORE), LTD.
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    CAYMAN ISLANDS
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  399,938 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   0 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              399,938 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              0 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    399,938 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    2.1%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    OO
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 4 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    ACCIPITER LIFE SCIENCES FUND II, LP
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    DELAWARE
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  165,437 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   0 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              165,437 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              0 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    165,437 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    0.9%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    PN
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 5 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    ACCIPITER LIFE SCIENCES FUND II (OFFSHORE), LTD.
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    CAYMAN ISLANDS
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  339,313 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   0 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              339,313 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              0 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    339,313 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    1.8%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    OO
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 6 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    ACCIPITER LIFE SCIENCES FUND II (QP), LP
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    DELAWARE
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  197,187 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   0 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              197,187 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              0 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    197,187 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    1.0%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    PN
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 7 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    CANDENS CAPITAL, LLC
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    DELAWARE
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  0 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   760,749 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              0 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              760,749 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    760,749 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    4.0%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    OO
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 8 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    ACCIPITER CAPITAL MANAGEMENT, LLC
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    DELAWARE
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  0 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   739,251 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              0 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              739,251 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    739,251 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    3.9%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    OO
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 9 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+================================================================================
+     1         NAME OF REPORTING PERSONS
+               I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                    GABE HOFFMAN
+- --------------------------------------------------------------------------------
+     2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*         (a) / /
+                                                                         (b) / /
+- --------------------------------------------------------------------------------
+     3         SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+     4         CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                    USA
+- --------------------------------------------------------------------------------
+ NUMBER OF         5     SOLE VOTING POWER
+   SHARES
+BENEFICIALLY                  0 shares
+  OWNED BY     -----------------------------------------------------------------
+    EACH           6     SHARED VOTING POWER
+ REPORTING
+PERSON WITH                   1,500,000 shares
+               -----------------------------------------------------------------
+                   7     SOLE DISPOSITIVE POWER
+
+                              0 shares
+               -----------------------------------------------------------------
+                   8     SHARED DISPOSITIVE POWER
+
+                              1,500,000 shares
+- --------------------------------------------------------------------------------
+     9         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+               PERSON
+
+                    1,500,000 shares
+- --------------------------------------------------------------------------------
+    10         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+               CERTAIN SHARES*                                               / /
+- --------------------------------------------------------------------------------
+    11         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                    7.9%
+- --------------------------------------------------------------------------------
+    12         TYPE OF REPORTING PERSON*
+
+                    IN
+================================================================================
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 10 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+Item 1(a).  Name of Issuer:
+
+            BTHC VI, Inc.
+
+Item 1(b).  Address of Issuer's Principal Executive Offices:
+
+            3201 Carnegie Avenue
+            Cleveland, OH 44115
+
+Item 2(a).  Name of Person Filing:
+
+            This statement is jointly filed by Accipiter Life Sciences Fund, LP,
+            a Delaware  limited  partnership  ("ALSF"),  Accipiter Life Sciences
+            Fund  (Offshore),  Ltd.,  a  Cayman  Islands  company  ("Offshore"),
+            Accipiter Life Sciences Fund II, LP, a Delaware limited  partnership
+            ("ALSF II"),  Accipiter  Life Sciences Fund II  (Offshore),  Ltd., a
+            Cayman Islands Company ("Offshore II"), Accipiter Life Sciences Fund
+            II (QP), LP, a Delaware  limited  partnership  ("QP II"),  Accipiter
+            Capital  Management,  LLC,  a  Delaware  limited  liability  company
+            ("Management"),  Candens Capital,  LLC, a Delaware limited liability
+            company  ("Candens") and Gabe Hoffman  (together with ALSF, ALSF II,
+            Offshore, Offshore II, QP II, Management and Candens, the "Reporting
+            Person").  Because Gabe  Hoffman is the  managing  member of Candens
+            (Gabe  Hoffman  and  Candens  are  hereinafter  referred  to as  the
+            "Domestic  Controlling  Persons"),  which  in  turn  is the  general
+            partner of ALSF,  ALSF II and QP II, and because Gabe Hoffman is the
+            managing  member of  Management  (Gabe  Hoffman and  Management  are
+            hereinafter referred to as the "Foreign Controlling Persons"), which
+            in turn is the  investment  manager of Offshore and Offshore II, the
+            Domestic  Controlling Persons and Foreign Controlling Persons may be
+            deemed,  pursuant to Rule 13d-3 of the  Securities  Exchange  Act of
+            1934,  as amended (the "Act"),  to be the  beneficial  owners of all
+            shares of Common Stock held by ALSF, ALSF II, Offshore,  Offshore II
+            and QP II. The Reporting Persons are filing this joint statement, as
+            they may be considered a "group" under Section  13(d)(3) of the Act.
+            However,  neither  the fact of this  filing nor  anything  contained
+            herein shall be deemed to be an admission by the  Reporting  Persons
+            that such a group exists.
+
+Item 2(b).  Address of Principal Business Office or, if None, Residence:
+
+            399 Park Avenue, 38th Floor
+            New York, New York 10022
+
+Item 2(c).  Citizenship:
+
+            ALSF, ALSF II, QP II, Candens and Management are organized under the
+            laws  of  the  State  of  Delaware.  Offshore  and  Offshore  II are
+            organized  under the laws of the Cayman  Islands.  Gabe Hoffman is a
+            citizen of the United States of America.
+
+Item 2(d).  Title of Class of Securities:
+
+            Common Stock
+
+Item 2(e).  CUSIP Number:
+
+            05578C203
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 11 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+Item 3.     If This Statement is Filed Pursuant to Rule 13d-1(b), or 13d-2(b) or
+            (c), Check Whether the Person Filing is a:
+
+            /X/   Not Applicable
+
+      (a)   / /   Broker or dealer  registered  under Section 15 of the Exchange
+                  Act.
+
+      (b)   / /   Bank as defined in Section 3(a)(6) of the Exchange Act.
+
+      (c)   / /   Insurance  company  as  defined  in  Section  3(a)(19)  of the
+                  Exchange Act.
+
+      (d)   / /   Investment   company   registered   under  Section  8  of  the
+                  Investment Company Act.
+
+      (e)   /  /  An    investment    adviser    in    accordance    with   Rule
+                  13d-1(b)(1)(ii)(E).
+
+      (f)   / /   An employee  benefit plan or endowment fund in accordance with
+                  Rule 13d-1(b)(1)(ii)(F).
+
+      (g)   / /   A parent holding  company or control person in accordance with
+                  Rule 13d-1(b)(1)(ii)(G).
+
+      (h)   / /   A  savings  association  as  defined  in  Section  3(b) of the
+                  Federal Deposit Insurance Act.
+
+      (i)   / /   A church  plan  that is  excluded  from the  definition  of an
+                  investment  company under Section  3(c)(14) of the  Investment
+                  Company Act.
+
+      (j)   / /   Group, in accordance with Rule 13d-1(b)(1)(ii)(J).
+
+Item 4.     Ownership
+
+            The percentages  reported herein are calculated  based on 18,927,990
+            shares of Common Stock  outstanding  as of June 8, 2007, as reported
+            in the  Issuer's  Form 8-K filed with the  Securities  and  Exchange
+            Commission on June 14, 2007.
+
+            See Cover Pages Items 5-11.
+
+Item 5.     Ownership of Five Percent or Less of a Class.
+
+            If this  statement  is being filed to report the fact that as of the
+date hereof the reporting  person has ceased to be the beneficial  owner of more
+than five percent of the class of securities, check the following [].
+
+Item 6.     Ownership of More than Five Percent on Behalf of Another Person.
+
+            Not Applicable
+
+
+Item 7.     Identification and Classification of the Subsidiary Which
+            Acquired the Security Being Reported on by the Parent Holding
+            Company or Control Person.
+
+            Not Applicable
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 12 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+Item 8.     Identification and Classification of Members of the Group.
+
+            See Exhibit A.
+
+Item 9.     Notice of Dissolution of Group.
+
+            Not Applicable
+
+Item 10.    Certifications.
+
+            By signing  below I certify  that,  to the best of my knowledge  and
+belief, the securities  referred to above were not acquired and are not held for
+the purpose of or with the effect of changing or influencing  the control of the
+issuer of the  securities  and were not acquired and are not held in  connection
+with or as a participant in any transaction having that purpose or effect.
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 13 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+                                    SIGNATURE
+
+            After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this statement is true, complete and
+correct.
+
+Dated: June 18, 2007                    ACCIPITER LIFE SCIENCES FUND, LP
+
+                                        By: Candens Capital, LLC
+                                            its general partner
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND II, LP
+
+                                        By: Candens Capital, LLC
+                                            its general partner
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND
+                                        (OFFSHORE), LTD.
+
+                                        By: Accipiter Capital Management, LLC
+                                            its investment manager
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND II
+                                        (OFFSHORE), LTD.
+
+                                        By: Accipiter Capital Management, LLC
+                                            its investment manager
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND II (QP),
+                                        LP
+
+                                        By: Candens Capital, LLC
+                                            its general partner
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 14 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+                                        ACCIPITER CAPITAL MANAGEMENT, LLC
+
+                                        By:  /s/ Gabe Hoffman
+                                            ------------------------------------
+                                             Gabe Hoffman, Managing Member
+
+
+                                        CANDENS CAPITAL, LLC
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        /s/ Gabe Hoffman
+                                        ----------------------------------------
+                                        GABE HOFFMAN
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 15 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+                                  EXHIBIT INDEX
+
+      The following document is filed herewith:
+
+(a)               Joint  Filing  Agreement  dated June 18, 2007 among  Accipiter
+                  Life Sciences Fund,  LP,  Accipiter Life Sciences Fund II, LP,
+                  Accipiter Life Sciences Fund (Offshore),  Ltd., Accipiter Life
+                  Sciences Fund II  (Offshore),  Ltd.,  Accipiter  Life Sciences
+                  Fund II (QP), LP, Accipiter Capital  Management,  LLC, Candens
+                  Capital, LLC and Gabe Hoffman.
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 16 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+                                    EXHIBIT A
+
+                             JOINT FILING AGREEMENT
+
+      The undersigned hereby agree that the Statement on Schedule 13G dated June
+18, 2007 with  respect to the shares of Common  Stock of BTHC VI,  Inc.  and any
+further  amendments thereto executed by each and any of the undersigned shall be
+filed on behalf of each of the  undersigned  pursuant to and in accordance  with
+the provisions of Rule 13d-1(k)(1) under the Securities Exchange Act of 1934, as
+amended.
+
+Dated: June 18, 2007                    ACCIPITER LIFE SCIENCES FUND, LP
+
+                                        By: Candens Capital, LLC
+                                            its general partner
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND II, LP
+
+                                        By: Candens Capital, LLC
+                                            its general partner
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND
+                                        (OFFSHORE), LTD.
+
+                                        By: Accipiter Capital Management, LLC
+                                            its investment manager
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER LIFE SCIENCES FUND II
+                                        (OFFSHORE), LTD.
+
+                                        By: Accipiter Capital Management, LLC
+                                            its investment manager
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+<PAGE>
+
+- ----------------------                                    ----------------------
+CUSIP No. 05578C203                   13D                    Page 17 of 17 Pages
+- ----------------------                                    ----------------------
+
+
+                                        ACCIPITER LIFE SCIENCES FUND II (QP),
+                                        LP
+
+                                        By: Candens Capital, LLC
+                                            its general partner
+
+                                        By: /s/ Gabe Hoffman
+                                        ----------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        ACCIPITER CAPITAL MANAGEMENT, LLC
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        CANDENS CAPITAL, LLC
+
+                                        By: /s/ Gabe Hoffman
+                                            ------------------------------------
+                                            Gabe Hoffman, Managing Member
+
+
+                                        /s/ Gabe Hoffman
+                                        ----------------------------------------
+                                        GABE HOFFMAN
+
+
+</PRE>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

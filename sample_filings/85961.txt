@@ -1,0 +1,593 @@
+<SEC-DOCUMENT>0001214659-22-015537.txt : 20221230
+<SEC-HEADER>0001214659-22-015537.hdr.sgml : 20221230
+<ACCEPTANCE-DATETIME>20221230163247
+ACCESSION NUMBER:		0001214659-22-015537
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20221230
+DATE AS OF CHANGE:		20221230
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RYDER SYSTEM INC
+		CENTRAL INDEX KEY:			0000085961
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				590739250
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-10554
+		FILM NUMBER:		221502348
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11690 N.W. 105TH STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+		BUSINESS PHONE:		3055003726
+
+	MAIL ADDRESS:	
+		STREET 1:		11690 N.W. 105TH STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HG Vora Capital Management, LLC
+		CENTRAL INDEX KEY:			0001525362
+		IRS NUMBER:				264369896
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 MADISON AVENUE
+		STREET 2:		20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(212) 707-4300
+
+	MAIL ADDRESS:	
+		STREET 1:		330 MADISON AVENUE
+		STREET 2:		20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>b1230220sc13g.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0"></p>
+
+<p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SCHEDULE 13G</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Under the Securities Exchange Act of 1934</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 24pt Times New Roman, Times, Serif; margin: 0pt 0.1in 0pt 0; text-align: center"><font style="background-color: white"><b>Ryder
+System, Inc.</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><u>_____________________________________________________</u></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Name of Issuer)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Common Stock, par value $0.50 per share</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><u>_____________________________________________________</u></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Title of Class of Securities)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">783549108</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><u>_____________________________________________________</u></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(CUSIP Number)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">December 29, 2022</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><u>___________________________________________________</u></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Date of Event Which Requires Filing of this Statement)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.5in"></td><td style="width: 0.25in"><font style="font-family: Wingdings">x</font></td><td>Rule 13d-1(b)</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.5in"></td><td style="width: 0.25in"><font style="font-family: Wingdings">o</font></td><td>Rule 13d-1(c)</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.5in"></td><td style="width: 0.25in"><font style="font-family: Wingdings">o</font></td><td>Rule 13d-1(d)</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Note</B>: Schedules filed in paper format shall include a signed
+original and five copies of the schedule, including all exhibits. See &sect;240.13d-7 for other parties to whom copies are to be sent.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>*</B> The remainder of this cover page shall be filled out for a
+reporting person&rsquo;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment
+containing information which would alter disclosures provided in a prior cover page.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The information required on the remainder of this cover page shall
+not be deemed to be &ldquo;filed&rdquo; for the purposes of Section 18 of the Securities Exchange Act of 1934 (the &ldquo;Act&rdquo;)
+or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).</P>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><div style="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection; Value: 1 -->
+    <div style="margin-top: 8pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><table style="border-collapse: collapse; width: 100%; font-size: 10pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&nbsp;</td><td style="width: 34%; text-align: center">&nbsp;</td><td style="width: 33%; text-align: right">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --> of 5</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 8pt"><table style="width: 100%" cellspacing="0" cellpadding="0"><tr><td style="text-align: left; width: 100%"><font style="font-size: 8pt">&nbsp;</font></td></tr></table></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">CUSIP NO.: 783549108</p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(1)</td><td>NAME OF REPORTING PERSON: <b>HG Vora Capital Management, LLC</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in"><font style="font-weight: normal">(2)</font></td><td><font style="font-weight: normal">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</font></td></tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 36pt"></td><td style="width: 35.65pt">(a)</td><td><font style="font-family: Wingdings">o</font></td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 36pt"></td><td style="width: 35.65pt">(b)</td><td><font style="font-family: Wingdings">o</font></td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(3)</td><td>SEC USE ONLY</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(4)</td><td>CITIZENSHIP OR PLACE OF ORGANIZATION: <b>Delaware</b></td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+PERSON WITH:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(5)</td><td>SOLE VOTING POWER: 5,050,000</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(6)</td><td>SHARED VOTING POWER: 0</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(7)</td><td>SOLE DISPOSITIVE POWER: 5,050,000</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(8)</td><td>SHARED DISPOSITIVE POWER: 0</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(9)</td><td>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON: 5,050,000</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in"><font style="font-size: 10pt">(10)</font></td><td><font style="font-size: 10pt">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="font-family: Wingdings">o</font></td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(11)</td><td>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9): 10.0%</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0"></td><td style="width: 0.5in">(12)</td><td>TYPE OF REPORTING PERSON: <b>OO (Delaware limited liability company)</b></td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="margin-top: 8pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><table style="border-collapse: collapse; width: 100%; font-size: 10pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&nbsp;</td><td style="width: 34%; text-align: center">&nbsp;</td><td style="width: 33%; text-align: right">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --> of 5</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 8pt"><table style="width: 100%" cellspacing="0" cellpadding="0"><tr><td style="text-align: left; width: 100%"><font style="font-size: 8pt">&nbsp;</font></td></tr></table></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in">Item 1.</td><td style="width: 0.25in"><font style="font-weight: normal">(a)</font></td><td>Name of Issuer</td></tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><font style="font-weight: normal">Ryder System,
+Inc. </font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in">&nbsp;</p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(b)</font></td><td>Address of principal executive offices</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><FONT STYLE="font-weight: normal">11690 N.W.
+105<SUP>th</SUP> Street</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><FONT STYLE="font-weight: normal">Miami,
+Florida 33178</FONT></P>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in">Item 2.</td><td style="width: 0.25in"><font style="font-weight: normal">(a)</font></td><td>Name of Person Filing</td></tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><font style="font-weight: normal">This statement
+is filed by HG Vora Capital Management, LLC, a Delaware limited liability company (the &ldquo;Investment Manager&rdquo;). The foregoing
+person hereinafter sometimes is referred to as the &ldquo;Reporting Person.&rdquo; Any disclosures herein with respect to persons other
+than the Reporting Person are made on information and belief after making inquiry to the appropriate party. </font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(b)</font></td><td>Address of principal executive offices</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in"><font style="font-weight: normal">The business
+office address of the Investment Manager is 330 Madison Avenue, 20th Floor, New York, NY 10017.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"></p>
+
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(c)</font></td><td>Citizenship</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><font style="font-weight: normal">The Investment
+Manager is a Delaware limited liability company.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(d)</font></td><td>Title of Class of Securities</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><font style="font-weight: normal">Common Stock,
+$0.50 par value per share (the &ldquo;Common Stock&rdquo;).</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(e)</font></td><td>CUSIP Number</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><font style="font-weight: normal">783549108</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 3.</td><td><font style="font-weight: normal">Not applicable.</font></td>
+    </tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 4.</td><td>Ownership.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">A.</font></td><td>HG Vora Capital Management, LLC</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(a)</font></td><td>Amount beneficially owned:</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><font style="font-weight: normal">As of December
+30, 2022, may be deemed to beneficially own: 5,050,000 shares of Common Stock. </font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(b)</font></td><td>Percent of class:</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 1in; text-indent: 0in"><font style="font-weight: normal">10%.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 3 -->
+    <div style="margin-top: 8pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><table style="border-collapse: collapse; width: 100%; font-size: 10pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&nbsp;</td><td style="width: 34%; text-align: center">&nbsp;</td><td style="width: 33%; text-align: right">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --> of 5</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 8pt"><table style="width: 100%" cellspacing="0" cellpadding="0"><tr><td style="text-align: left; width: 100%"><font style="font-size: 8pt">&nbsp;</font></td></tr></table></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0.75in"></td><td style="width: 0.25in"><font style="font-weight: normal">(c)</font></td><td>Number of shares as to which the person has:</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 1in"></td><td style="width: 0.5in"><font style="font-weight: normal">(i)</font></td><td><font style="font-weight: normal">Sole
+power to vote or to direct the vote: 5,050,000</font></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 1in"></td><td style="width: 0.5in"><font style="font-weight: normal">(ii)</font></td><td><font style="font-weight: normal">Shared power to vote or to direct the vote: 0</font></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 1in"></td><td style="width: 0.5in"><font style="font-weight: normal">(iii)</font></td><td><font style="font-weight: normal">Sole
+power to dispose or to direct the disposition of: 5,050,000</font></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" width="100%" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 1in"></td><td style="width: 0.5in"><font style="font-weight: normal">(iv)</font></td><td><font style="font-weight: normal">Shared power to dispose or to direct the disposition of: 0</font></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"><font style="font-weight: normal">&nbsp;</font></p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 5.</td><td>Ownership of Five Percent or Less of a Class.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.75in"><font style="font-size: 10pt">If
+ this statement
+is being filed to report the fact that as of the date hereof, the
+Reporting Persons have ceased to be the beneficial owner of more than
+five percent of the class of securities, check the following </font><font style="font-family: Wingdings">o</font>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&nbsp;</b></p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 6.</td><td>Ownership of More than Five Percent on Behalf of Another Person.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">Not applicable.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&nbsp;</b></p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 7.</td><td>Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">Not applicable.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 8.</td><td>Identification and Classification of Members of the Group.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">Not applicable.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 9.</td><td>Notice of Dissolution of Group.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">Not applicable.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="width: 100%; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top">
+<td style="width: 0%"></td><td style="width: 0.75in">Item 10.</td><td>Certification.</td></tr></table>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.75in">Each of the Reporting Person hereby makes the following
+certification:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.75in">By
+ signing below I certify that, to the best of
+my knowledge and belief, the securities referred to above were not
+acquired and are not held for the purpose of or with the effect of
+changing or influencing the control of the issuer of the securities and
+were not acquired and are not held in connection with or as a
+participant in any transaction having that purpose or effect.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="margin-top: 8pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><table style="border-collapse: collapse; width: 100%; font-size: 10pt" cellspacing="0" cellpadding="0"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&nbsp;</td><td style="width: 34%; text-align: center">&nbsp;</td><td style="width: 33%; text-align: right">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --> of 5</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 8pt"><table style="width: 100%" cellspacing="0" cellpadding="0"><tr><td style="text-align: left; width: 100%"><font style="font-size: 8pt">&nbsp;</font></td></tr></table></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">After reasonable inquiry and to the best of my knowledge
+and belief, I certify that the information set forth in this statement is true, complete and correct.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 1in">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">December 30, 2022</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table style="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse" cellspacing="0" cellpadding="0">
+  <tr style="vertical-align: top">
+    <td style="width: 50%">&nbsp;</td>
+    <td style="width: 1%; font-size: 10pt; layout-grid-mode: line">&nbsp;</td>
+    <td style="width: 2%">&nbsp;</td>
+    <td style="width: 47%">&nbsp;</td></tr>
+  <tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td colspan="3" style="font-size: 10pt; layout-grid-mode: line"><font style="font-size: 10pt">HG VORA CAPITAL MANAGEMENT, LLC</font></td></tr>
+  <tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td style="font-size: 10pt; layout-grid-mode: line">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td></tr>
+  <tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td style="font-size: 10pt; layout-grid-mode: line"><font style="font-size: 10pt">By:</font></td>
+    <td style="border-bottom: Black 1pt solid">/s/</td>
+    <td style="border-bottom: Black 1pt solid">Parag Vora</td></tr>
+  <tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td style="font-size: 10pt; layout-grid-mode: line"><font style="font-size: 10pt">Name:</font></td>
+    <td>&nbsp;</td>
+    <td>Parag Vora</td></tr>
+  <tr style="vertical-align: top">
+    <td>&nbsp;</td>
+    <td style="font-size: 10pt; layout-grid-mode: line"><font style="font-size: 10pt">Title:</font></td>
+    <td>&nbsp;</td>
+    <td>Manager</td></tr>
+  </table>
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="margin: 0">&nbsp;</p>
+<p style="margin: 0">
+
+</p><p style="text-align: right; margin: 0">Page 5 of 5</p>
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 3pt" align="LEFT"><div style="font-size: 1pt; border-top: Black 2px solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0">&nbsp;</p>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1429 @@
+<SEC-DOCUMENT>0001193125-22-083968.txt : 20220324
+<SEC-HEADER>0001193125-22-083968.hdr.sgml : 20220324
+<ACCEPTANCE-DATETIME>20220324170012
+ACCESSION NUMBER:		0001193125-22-083968
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20220324
+DATE AS OF CHANGE:		20220324
+GROUP MEMBERS:		CAROL ORME HOLDING
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOLLY ENERGY PARTNERS LP
+		CENTRAL INDEX KEY:			0001283140
+		STANDARD INDUSTRIAL CLASSIFICATION:	PIPE LINES (NO NATURAL GAS) [4610]
+		IRS NUMBER:				200833098
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80393
+		FILM NUMBER:		22767242
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2828 N. HARWOOD
+		STREET 2:		SUITE 1300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		214-871-3555
+
+	MAIL ADDRESS:	
+		STREET 1:		2828 N. HARWOOD
+		STREET 2:		SUITE 1300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sinclair Companies
+		CENTRAL INDEX KEY:			0001915467
+		IRS NUMBER:				830230188
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		550 EAST SOUTH TEMPLE
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84102
+		BUSINESS PHONE:		801-524-2756
+
+	MAIL ADDRESS:	
+		STREET 1:		550 EAST SOUTH TEMPLE
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>d335058dsc13d.htm
+<DESCRIPTION>SC 13D
+<TEXT>
+<HTML><HEAD>
+<TITLE>SC 13D</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>WASHINGTON, DC 20549 </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE&nbsp;13D </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Under the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;)* </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>Holly Energy
+Partners, L.P. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Issuer) </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Common Units </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Title of
+Class of Securities) </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>435763107 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(CUSIP Number) </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>The
+Sinclair Companies </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>550 East South Temple </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Salt Lake City, Utah 84102 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Attn: General Counsel </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B></B><B><I>with a copy to:</I></B><B> </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Scott Wulfe </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Alan Beck
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Vinson &amp; Elkins LLP </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>845 Texas Avenue, Suite 4700 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Houston, TX 77002 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name,
+Address and Telephone Number of Person Authorized to Receive Notices and Communications) </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>March 14, 2022 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Date of Event which Requires Filing of this Statement) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If the filing
+person has previously filed a statement on Schedule&nbsp;13G to report the acquisition that is the subject of this Schedule&nbsp;13D, and is filing this schedule because of &#167;&#167;&nbsp;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the
+following box.&nbsp;&nbsp;&#9744; </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Note</I>. Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See Rule&nbsp;13d-7 for
+other parties to whom copies are to be sent. </P> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form
+with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The information required on the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of section&nbsp;18 of
+the Securities Exchange Act of 1934, as amended (the &#147;<U>Act</U>&#148;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes). </P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">CUSIP No. 435763107 </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="99%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;1&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp; Name of Reporting Person</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;The Sinclair Companies</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;2</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Check the appropriate box
+if a member of a group*</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;(a):&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b):&nbsp;&nbsp;&#9744;</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;3</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;SEC use only</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;4</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Source of Funds </P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;OO</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;5</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Check if Disclosure of
+Legal Proceedings is Required Pursuant to Items 2(d) or 2(e)</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&#9744;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;6</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Citizenship or Place of
+Organization</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Wyoming</P></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="99%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="2%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="86%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="middle" COLSPAN="3" ROWSPAN="4" STYLE="BORDER-LEFT:1px solid #000000; padding-left:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Number&nbsp;of</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Shares</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">&nbsp;Beneficially&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Owned&nbsp;by the</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Reporting</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Person</P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;7&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Sole Voting Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;0</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;8</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Shared Voting Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;21,000,000 (1)</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;9</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Sole Dispositive Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;0</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">10</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Shared Dispositive Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;15,710,000
+(1)</P></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="99%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">11&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Aggregate Amount Beneficially Owned by the Reporting Person:</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;21,000,000 (1)</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">12</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Check if the Aggregate
+Amount in Row (11) Excludes Certain Shares</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&#9744;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">13</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Percent of Class
+Represented by Amount in Row (11)</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;16.6%*</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">14</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Type of Reporting Person
+</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;CO</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Calculation of percentage based on a total of 126,440,201 limited partner units outstanding as of March 14,
+2022 as reported in the Issuer&#146;s Registration Statement on Form S-3, filed with the Securities and Exchange Commission (&#147;SEC&#148;) on March 21, 2022. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Sinclair Companies (&#147;Sinclair&#148;) is the primary and direct beneficial owner of the 21,000,000
+units indicated above, and the board of directors of Sinclair has all voting and investment power with respect to such units (subject to the terms of the escrow described below). Among these units, 5,290,000 units are currently held in escrow for
+the purpose of securing Sinclair&#146;s obligations under Section 6.22 of the Business Combination Agreement dated August 2, 2021 (as amended), by and among HF Sinclair Corporation, Sinclair and the other parties thereto. During the term of the
+escrow, Sinclair has voting power but lacks investment power over the escrowed units until any such units are released from the escrow. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">CUSIP No. 435763107 </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="99%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;1&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp; Name of Reporting Person</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Carol Orme Holding</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;2</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Check the appropriate box
+if a member of a group*</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;(a):&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b):&nbsp;&nbsp;&#9744;</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;3</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;SEC use only</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;4</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Source of Funds </P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;OO</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;5</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Check if Disclosure of
+Legal Proceedings is Required Pursuant to Items 2(d) or 2(e)</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&#9744;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;6</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Citizenship or Place of
+Organization</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;United States of
+America</P></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="99%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="2%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="86%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="middle" COLSPAN="3" ROWSPAN="4" STYLE="BORDER-LEFT:1px solid #000000; padding-left:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Number&nbsp;of</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Shares</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">&nbsp;Beneficially&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Owned&nbsp;by the</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Reporting</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Person</P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;7&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Sole Voting Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;0</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;8</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Shared Voting Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;21,000,000 (1)</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;9</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Sole Dispositive Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;0</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">10</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Shared Dispositive Power:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;15,710,000
+(1)</P></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="99%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">11&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Aggregate Amount Beneficially Owned by the Reporting Person:</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;21,000,000 (1)</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">12</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Check if the Aggregate
+Amount in Row (11) Excludes Certain Shares</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&#9744;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">13</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Percent of Class
+Represented by Amount in Row (11)</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;16.6%*</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">14</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;Type of Reporting Person
+</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;IN</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Calculation of percentage based on a total of 126,440,201 limited partner units outstanding as of March 14,
+2022 as reported in the Issuer&#146;s Registration Statement on Form S-3, filed with the SEC on March 21, 2022. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">As a result of her relationship with Sinclair, Mrs. Holding may be deemed to beneficially own such units under
+applicable securities law and SEC guidance. Mrs. Holding, however, does not intend ever to own such units directly for investment purposes in the future and expressly disclaims such beneficial ownership to the maximum extent permitted by law.
+</P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>SCHEDULE 13D </U></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Security and Issuer. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Schedule 13D is being filed with respect to the common units representing limited partnership interests (&#147;<U>Common Units</U>&#148;) of Holly Energy
+Partners, L.P., a Delaware limited partnership (the &#147;<U>Issuer</U>&#148;). The address of the principal executive offices of the Issuer is 2828 N. Harwood, Suite&nbsp;1300, Dallas, Texas 75201. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Identity and Background </B></P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">This Schedule 13D is filed by: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Sinclair Companies, a Wyoming corporation (&#147;<U>Sinclair</U>&#148;); and </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Carol Orme Holding (&#147;<U>Mrs.</U><U></U><U>&nbsp;Holding</U>&#148;, together with Sinclair, the
+&#147;<U>Reporting Persons</U>&#148;). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The business address of each of Sinclair and Mrs.&nbsp;Holding is 550 East South Temple, Salt Lake City, Utah
+84102. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The principal business of Sinclair is engaging in hospitality, ranching and oil and gas business and the
+ownership of equity interests in certain entities, including the Issuer and Holly Energy Partners, L.P. and Mrs.&nbsp;Holding is a principal investor and philanthropist. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">None of the Reporting Persons has, during the last five years, been convicted in a criminal proceeding
+(excluding traffic violations or similar misdemeanors). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">None of the Reporting Persons has, during the last five years, been a party to a civil proceeding of a judicial
+or administrative body of competent jurisdiction and, as a result of such proceeding, was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state
+securities laws or finding any violation with respect to such laws. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Sinclair is organized as a corporation under the laws of Wyoming. Mrs.&nbsp;Holding is a citizen of the United
+States of America. </P></TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;3.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Sources and Amount of Funds or Other Consideration </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On August&nbsp;2, 2021, the Issuer, Sinclair, and Sinclair Transportation Company, then a Wyoming corporation and wholly owned subsidiary of Sinclair
+(&#147;<U>STC</U>&#148;), entered into a Contribution Agreement (as amended, the &#147;<U>Contribution Agreement</U>&#148;) pursuant to which the Issuer acquired all of the outstanding units of STC in exchange for 21,000,000 newly issued Common
+Units and cash consideration equal to $325&nbsp;million (the &#147;<U>HEP Transactions</U>&#148;). The HEP Transactions closed on March&nbsp;14, 2022. Among the units issued at closing, 5,290,000 units are currently held in escrow to secure
+Sinclair&#146;s obligations under Section&nbsp;6.22 of the Business Combination Agreement dated August&nbsp;2, 2021 (as amended), by and among HF Sinclair Corporation (f/k/a Hippo Parent Corporation), Sinclair and the other parties thereto. During
+the term of the escrow, Sinclair has voting power but lacks investment power over the escrowed units until any such units are released from the escrow. The foregoing description of the escrow does not purport to be complete and is qualified in its
+entirety by reference to the Escrow Agreement dated as of March&nbsp;14, 2022, by and among HF Sinclair Corporation, Sinclair and American Stock Transfer&nbsp;&amp; Trust Company, LLC, which is filed as Exhibit 10.2 hereto and incorporated by
+reference herein. The issuance of Common Units to Sinclair was exempt from registration under Section&nbsp;4(a)(2) of the Securities Act of 1933, as amended (the &#147;<U>Securities Act</U>&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The foregoing summary description of the Contribution Agreement and the HEP Transactions contemplated thereby is subject to and qualified in its entirety by
+reference to the Contribution Agreement, which is filed as Exhibit 2.1 hereto and incorporated by reference herein. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;4.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Purpose of Transaction </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The information contained in Items 3 and 6 is incorporated herein by reference. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Reporting Persons acquired the Common Units in connection with the closing of the HEP Transactions. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Subject to the terms of the Unitholders Agreement (as defined below), the Reporting Persons may acquire additional Common Units or dispose of any or all of
+the Common Units it owns depending upon an ongoing evaluation of the investment in the Common Units, prevailing market conditions, other investment opportunities, other investment considerations and/or other factors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the Unitholders Agreement, the Reporting Persons have certain nomination rights, as further described in Item 6 below. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Reporting Persons evaluate their investments in the Common Units on a continual basis. The Reporting Persons have no plans or proposals as of the date of
+this filing, which relate to, or would result in, any of the actions enumerated in Item 4 of the instructions to Schedule 13D. The Reporting Persons may, at any time and from time to time, review or reconsider their position and/or change their
+purpose and/or formulate plans or proposals with respect thereto. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;5.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Interest in Securities of the Issuer. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(a.) &#150; (b.)&nbsp;&nbsp;&nbsp;&nbsp;The aggregate number and percentage of Common Units beneficially owned by the Reporting Persons (on the basis of a
+total of 126,440,201 Common Units outstanding as of March&nbsp;14, 2022 as reported in the Issuer&#146;s Registration Statement on Form <FONT STYLE="white-space:nowrap">S-3,</FONT> filed with the SEC on March&nbsp;21, 2022): </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A. The Sinclair Corporation </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">i.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Amount beneficially owned: 21,000,000 </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Percentage: 16.6% </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">a.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Sole power to vote or to direct the vote: 0 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">b.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Shared power to vote or to direct the vote: 21,000,000 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">c.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Sole power to dispose or to direct the disposition of: 0 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">d.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Shared power to dispose or to direct the disposition of: 15,710,000 </P></TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">B. Carol Orme Holding </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">i.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Amount beneficially owned: 21,000,000 </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Percentage: 16.6% </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">a.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Sole power to vote or to direct the vote: 0 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">b.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Shared power to vote or to direct the vote: 21,000,000 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">c.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Sole power to dispose or to direct the disposition of: 0 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">d.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Shared power to dispose or to direct the disposition of: 15,710,000 </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The units set forth above are directly owned by Sinclair and not Mrs.&nbsp;Holding. Sinclair is the primary and direct beneficial owner of the units indicated
+above, and the board of directors of Sinclair has all voting and investment power with respect to such units. However, as a result of her relationship with Sinclair, Mrs.&nbsp;Holding may be deemed to also beneficially own such units under
+applicable securities law and SEC guidance. Mrs.&nbsp;Holding, however, does not intend ever to own such units directly for investment purposes in the future and expressly disclaims such beneficial ownership to the maximum extent permitted by law.
+</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Reporting Persons have entered into a Joint Filing Agreement, a copy of which is filed with this
+Schedule 13D as Exhibit 1.1, pursuant to which the Reporting Persons have agreed to file this Schedule 13D jointly in accordance with the provisions of Rule <FONT STYLE="white-space:nowrap">13d-1(k)(1)</FONT> under the Act. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(c.)&nbsp;&nbsp;&nbsp;&nbsp;To the best knowledge of the Reporting Persons, no transactions were effected by the Reporting Persons during the past 60 days
+other than the transactions described herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d.)&nbsp;&nbsp;&nbsp;&nbsp;No other person is known to have the right to receive or the power to direct
+the receipt of dividends from, or the proceeds from the sale of, any of the Common Units beneficially owned by the Reporting Persons, other than as described herein. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(e.)&nbsp;&nbsp;&nbsp;&nbsp;Not applicable. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;6.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Contracts, Arrangements, Understandings or Relationships with Respect to Securities of the Issuer.
+</B></P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The information contained in Item 3 above is incorporated herein by reference. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Unitholders Agreement </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On August&nbsp;2, 2021, in
+connection with the Contribution Agreement, HEP, Holly Logistic Services, L.L.C. (&#147;<U>HLS</U>&#148;) and Navajo Pipeline Co., L.P., the sole member of HLS (the &#147;<U>Sole Member</U>&#148;) entered into a unitholders agreement (the
+&#147;<U>Unitholders Agreement</U>&#148;) by and among HEP, HLS, the Sole Member, Sinclair and the stockholders of Sinclair (each a &#147;<U>Unitholder</U>&#148; and collectively, the &#147;<U>Unitholders</U>,&#148; and along with Sinclair and each
+of their permitted transferees, the &#147;<U>Sinclair Parties</U>&#148;), which became effective at the closing of the HEP Transactions on March&nbsp;14, 2022. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the Unitholders Agreement, the Sinclair Parties have the right to nominate one person to the HLS board of directors at the closing until such time
+that (x)&nbsp;the Sinclair Parties beneficially own less than 10.5&nbsp;million Common Units or (y)&nbsp;the Common Units beneficially owned by the Sinclair Parties constitute less than 5% of all outstanding Common Units. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Unitholders Agreement also subjects 15,750,000 of the Common Units issued to the Sinclair Parties (the &#147;<U>Restricted Units</U>&#148;) to <FONT
+STYLE="white-space:nowrap">a&nbsp;&#147;lock-up&#148;&nbsp;period</FONT> commencing on the closing date, during which the Sinclair Parties are prohibited from selling the Restricted Units, except for certain permitted
+<FONT STYLE="white-space:nowrap">transfers.&nbsp;One-third&nbsp;of</FONT> such Restricted Units were released from such restrictions on the date that is six months after the <FONT STYLE="white-space:nowrap">closing,&nbsp;one-third&nbsp;of</FONT> the
+Restricted Units will be released from such restrictions on the first anniversary of the closing date, and the remainder will be released from such restrictions on the date that is 15 months from the closing date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, the Unitholders Agreement contains customary registration rights, requiring the Issuer to file, within five business days following the closing
+date of the HEP Transactions, a shelf registration statement under the Securities Act, to permit the public resale of all the registrable securities held by the Sinclair Parties and to use commercially reasonable efforts to cause such shelf
+registration statement to be declared effective immediately upon filing, or if the form of such shelf registration statement would not permit immediate effectiveness, to be declared effective as soon as reasonably practicable after the initial
+filing of the shelf registration statement, but in any event within ninety days following the filing of a registration statement on Form <FONT STYLE="white-space:nowrap">S-1</FONT> and within forty-five days after filing of a registration statement
+(if such <FONT STYLE="white-space:nowrap">Form&nbsp;S-3&nbsp;is</FONT> not immediately effective upon filing). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The foregoing description of the
+Unitholders Agreement does not purport to be complete and is qualified in its entirety by reference to the Unitholders Agreement, which is filed as Exhibit 10.1 hereto and incorporated by reference herein. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Material to be Filed as Exhibits. </B></P></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Exhibit&nbsp;2.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Contribution Agreement, dated as of August&nbsp;2, 2021, by and among Holly Energy Partners, L.P., The Sinclair Companies, and Sinclair Transportation Company (incorporated by reference to Exhibit 2.1 to the Issuer&#146;s Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> filed with the Securities and Exchange Commission on August&nbsp;2, 2021).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Exhibit&nbsp;10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Unitholders Agreement, dated as of August&nbsp;2, 2021, by and among Holly Energy Partners, L.P., Holly Logistic Services, L.L.C., Navajo Pipeline Co., L.P., The Sinclair Companies, and the unitholders set forth on Schedule I
+thereto, as may be amended from time to time (incorporated by reference to Exhibit 10.1 to the Issuer&#146;s Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed with the Securities and Exchange Commission on August&nbsp;2, 2021).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Exhibit&nbsp;10.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Escrow Agreement, dated as of March&nbsp;14, 2022, by and among The Sinclair Companies, HF Sinclair Corporation (f/k/a Hippo Parent Corporation), and American Stock Transfer&nbsp;&amp; Trust Company, LLC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Exhibit 99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Joint Filing Agreement, dated March&nbsp;24, 2022.</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation <FONT
+STYLE="white-space:nowrap">S-K.</FONT> A copy of any omitted schedule or exhibit will be furnished supplementally to the Securities and Exchange Commission upon request. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">After reasonable inquiry and to the best of my knowledge and belief, the undersigned certifies that the information set forth in this
+statement is true, complete and correct. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">March&nbsp;24, 2022 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="12%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"><B>THE SINCLAIR COMPANIES&nbsp;</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">By: /s/ Ross B. Matthews</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Ross B. Matthews</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Chief Operating Officer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Carol Orme Holding</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">Name: Carol Orme Holding</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>2
+<FILENAME>d335058dex102.htm
+<DESCRIPTION>EX-10.2
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-10.2</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 10.2 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B><I>Execution Version </I></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ESCROW AGREEMENT </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This
+ESCROW AGREEMENT, dated as of March&nbsp;14, 2022 (together with <U>Schedule A</U> hereto, this &#147;Agreement&#148;), is by and among The Sinclair Companies, a Wyoming corporation, with principal offices located at 550 East South Temple, Salt Lake
+City, Utah 84102 (&#147;Sinclair HoldCo&#148;); HF Sinclair Corporation (f/k/a Hippo Parent Corporation), a Delaware corporation, with principal offices located at 2828 North Harwood Street, Suite 1300, Dallas, Texas 75201 (&#147;HFS&#148;); and
+AMERICAN<B> </B>STOCK TRANSFER&nbsp;&amp; TRUST COMPANY, LLC, a New York limited liability trust company, with principal offices located at 6201 15th Avenue, Brooklyn, New York, 11219 (&#147;Escrow Agent&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, Sinclair HoldCo and HFS have entered into a Business Combination Agreement, dated August&nbsp;2, 2021 (as amended to date, the
+&#147;BCA&#148;), by and among HFS, HollyFrontier Corporation (&#147;HollyFrontier&#148;), Hippo Merger Sub, Inc., a wholly owned subsidiary of HFS (&#147;Parent Merger Sub&#148; and together with HollyFrontier and HFS, the &#147;HFS Parties&#148;),
+Sinclair HoldCo, and Hippo Holding LLC, a wholly owned subsidiary of Sinclair HoldCo (the &#147;Target Company&#148;); </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, Holly
+Energy Partners, a Delaware limited Partnership (&#147;HEP&#148;), Sinclair HoldCo and Sinclair Transportation Company, a wholly owned subsidiary of Sinclair HoldCo (&#147;STC&#148;), have entered into a Contribution Agreement, dated August&nbsp;2,
+2021 (as amended to date the &#147;Contribution Agreement&#148;); </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, pursuant to the BCA, HFS will acquire HollyFrontier and the
+Target Company by effecting (a)&nbsp;a holding company merger in accordance with Section&nbsp;251(g) of the Delaware General Corporation Law whereby Parent Merger Sub will merge with and into HollyFrontier, with HollyFrontier surviving such merger
+as a direct wholly owned subsidiary of HFS (the &#147;HFC Merger&#148;), and (b)&nbsp;immediately following the HFC Merger, a contribution whereby Sinclair HoldCo will contribute all of the equity interests of the Target Company (and cash, if
+applicable) to HFS in exchange for shares of HFS, resulting in the Target Company becoming a direct wholly owned subsidiary of HFS (together with the HFC Merger, the &#147;HFC Transactions&#148;); </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, pursuant to the Contribution Agreement HEP will acquire all of the outstanding shares of STC in exchange for 21&nbsp;million newly
+issued common units of HEP and cash consideration equal to $325&nbsp;million (the &#147;HEP Transaction&#148; and together with the HFC Transactions, the &#147;Sinclair Transactions&#148;), subject to downward adjustment pursuant to the terms of the
+Contribution Agreement; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, Section&nbsp;2.5(e)(i) of the BCA provides that HFS shall deposit the Escrowed Securities (defined
+below) with Escrow Agent, and the Escrow Agent shall place such Escrowed Securities in a segregated escrow account (the &#147;Escrow Account&#148;) titled in the name of Escrow Agent for the benefit of Sinclair HoldCo to be held by Escrow Agent in
+accordance with this Agreement and the BCA for the purpose of securing Sinclair HoldCo&#146;s obligations under Section&nbsp;6.22 of the BCA; </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, Section&nbsp;3.2(b)(i) of the Contribution Agreement provides that HEP shall
+deposit the Escrowed Securities with Escrow Agent, and the Escrow Agent shall place such Escrowed Securities in an Escrow Account titled in the name of Escrow Agent for the benefit of Sinclair HoldCo to be held by Escrow Agent in accordance with
+this Agreement and the Contribution Agreement for the purpose of securing Sinclair HoldCo&#146;s obligations under Section&nbsp;6.22 of the BCA; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, Escrow Agent has agreed to accept, hold, and disburse the Escrowed Securities deposited with it in accordance with the terms of this
+Agreement, the BCA and the Contribution Agreement; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, pursuant to the BCA, Sinclair HoldCo and HFS have appointed the
+Representatives (as defined below) to represent them for all purposes in connection with this Agreement (including the Escrowed Securities); and </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, in order to establish the Escrow Account and otherwise to effect the provisions of the BCA, the parties hereto have entered into this
+Agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties
+hereto, for themselves, their successors and assigns, hereby agree as follows: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Definitions</U>. The following terms shall have the meanings indicated or referred to below, inclusive of
+their singular and plural forms, except where the context requires otherwise. Unless the context requires otherwise, all references to &#147;years,&#148; &#147;months,&#148; or &#147;days&#148; shall mean &#147;calendar years,&#148; &#147;calendar
+months,&#148; and &#147;calendar days.&#148; References in this Agreement to &#147;including&#148; shall mean &#147;including, without limitation,&#148; whether or not so specified. Any term not defined below which is initially capitalized in this
+Agreement shall have the meaning ascribed to it in this Agreement. </P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Affiliate&#148; means, with respect to any
+person, (a)&nbsp;a person which directly or indirectly through one or more intermediaries controls, is controlled by or is under common control with such person, (b)&nbsp;any person of which such person is the beneficial owner of a twenty-five
+percent (25%) or greater interest, or (c)&nbsp;any person which acquires all or substantially all of the assets of such person.&nbsp;A person is deemed to control another person if such person, directly or indirectly, has the power to direct the
+management, operations or business of such person.&nbsp;The term &#147;beneficial owner&#148; is to be determined in accordance with Rule <FONT STYLE="white-space:nowrap">13d-3</FONT> of the Securities Exchange Act of 1934, as amended. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Business Day&#148; shall mean any day other than a Saturday, a Sunday, or a day on which banking institutions in the State of New York
+are authorized or obligated by law or executive order to close. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Escrowed Securities&#148; shall have the meaning set forth in
+<U>Section</U><U></U><U>&nbsp;3(a)</U>. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Escrow Period&#148; shall mean the period commencing on the date hereof and ending on the
+Termination Date. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;HFS Representative&#148; shall mean the persons so designated on <U>Schedule A</U>
+hereto or any other person designated in a writing signed by HFS and delivered to Escrow Agent and Sinclair HoldCo Representative in accordance with the notice provisions of this Agreement, to act as HFS&#146;s representative under this Agreement.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Joint Written Direction&#148; shall mean a joint written direction executed by the Representatives (as defined below) and directing
+Escrow Agent to disburse all or a portion of the Escrowed Securities or to take or refrain from taking an action pursuant to this Agreement. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Representatives&#148; shall mean Sinclair HoldCo Representative and HFS Representative. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Securities&#148; shall mean the securities set forth on <U>Schedule A</U> hereto. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">&#147;Sinclair HoldCo Representative&#148; shall mean the person so designated on <U>Schedule A</U> hereto or any other person designated in a
+writing signed by Sinclair HoldCo and delivered to Escrow Agent and HFS Representative in accordance with the notice provisions of this Agreement, to act as Sinclair HoldCo&#146;s representative under this Agreement. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Appointment of and Acceptance by Escrow Agent</U>. Sinclair HoldCo and HFS hereby appoint Escrow Agent to
+serve as escrow agent hereunder. Escrow Agent hereby accepts such appointment and, upon receipt of the Escrowed Securities in accordance with <U>Section</U><U></U><U>&nbsp;3</U> below, agrees to hold and disburse the Escrowed Securities in
+accordance with this Agreement. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Deposit of Escrowed Securities</U>. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Simultaneously with the execution and delivery of this Agreement, HFS will deposit with the Escrow Agent the
+Securities (as so deposited, together with any new, substitute or additional securities described in <U>Section</U><U></U><U>&nbsp;3(c)</U> below, the &#147;<U>Escrowed Securities</U>&#148;). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Upon receipt of the Escrowed Securities, Escrow Agent shall deliver to the Representatives a written notice
+confirming such receipt. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If an issuer (the &#147;Issuer&#148;) of any Escrowed Securities declares or issues any dividend or other
+distribution in respect of such Escrowed Securities which is payable in the form of shares of capital stock (or the equivalent) of such Issuer, or in the event of a stock split or other similar transaction pursuant to which such Issuer issues shares
+of capital stock (or the equivalent) in respect of the shares (or units) represented by the Escrowed Securities and such distributed or issued shares (or units) are deposited with Escrow Agent, Escrow Agent shall deliver to the Representatives a
+written notice confirming such deposit and Sinclair HoldCo and HFS shall promptly provide Escrow Agent with an update to <U>Schedule A</U> to reflect the deposit of such equity interests and such equity interests thereupon shall be deemed to be part
+of the Escrowed Securities for purposes of this Agreement. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">All Escrowed Securities shall be held by Escrow Agent and disbursed only in accordance with Section&nbsp;4
+hereof, provided that the parties acknowledge that the Escrowed Securities shall be registered in the name of, and record owner thereof shall be, the party identified on <U>Schedule A</U> hereto, which shall initially be Sinclair HoldCo.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Representatives shall sign a Joint Written Direction respecting any transfer or conversion of the
+Securities. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">All cash dividends or distributions declared or paid in respect of the Escrowed Securities shall be paid
+directly to the record owner thereof as identified on <U>Schedule A</U> hereto, which shall initially be Sinclair HoldCo, and shall not be held in escrow. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Disbursement of Escrowed Securities</U>. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Escrow Agent shall disburse the Escrowed Securities from time to time, upon receipt of, and in accordance with,
+a Joint Written Direction. Such Joint Written Direction shall contain the account information to which the Escrowed Securities shall be transferred. Upon the expiration of the Escrow Period, Escrow Agent shall disburse, upon receipt of a Joint
+Written Direction, the Escrowed Securities (or the remainder of such Escrowed Securities, after any disbursement in connection with any prior Joint Written Direction(s)) in the manner described on <U>Schedule A</U>. Any and all disbursement of the
+Escrowed Securities under this <U>Section</U><U></U><U>&nbsp;4</U> shall be made within five (5)&nbsp;Business Days of Escrow Agent&#146;s receipt of a Joint Written Direction. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">If there is any amount of undisbursed or unclaimed Escrowed Securities on the Termination Date (as defined in
+<U>Schedule A</U> hereto), and if Escrow Agent shall not have received a Joint Written Direction no later than five (5)&nbsp;days after the Termination Date, Escrow Agent, in addition to its other rights herein, (x)&nbsp;(A) may maintain and manage
+such Escrowed Securities for such period of time as it determines may be necessary or appropriate, including in accordance with applicable state escheatment and unclaimed property laws, as determined by Escrow Agent in its sole discretion and
+(B)&nbsp;shall have the right to escheat any such Escrowed Securities pursuant to applicable state escheatment and unclaimed property laws and, in such case, shall remit such Escrowed Securities (less any fees, costs, expenses or other amounts due
+to Escrow Agent or any other Indemnified Party (as defined below) in accordance with this Agreement (including <U>Schedule A</U> hereto)) to any relevant competent authority and (y)&nbsp;may take any other action permitted by this Agreement,
+including <U>Section</U><U></U><U>&nbsp;6</U>, <U>Section</U><U></U><U>&nbsp;7</U> and <U>Section</U><U></U><U>&nbsp;10</U> of this Agreement. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Voting Rights</U>. The record owners of the Escrowed Securities as identified on <U>Schedule </U><U>A</U>
+hereto, which shall initially be Sinclair HoldCo, shall be entitled to exercise any and all voting and other consensual rights with respect to such shares during such period as they are held in escrow without restriction hereunder.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Suspension of Performance</U>. If, at any time, (i)&nbsp;there shall exist any dispute between or among
+Sinclair HoldCo, HFS and/or either of the Representatives with respect to the holding or disposition of all or any portion of the Escrowed Securities or any other obligations of Escrow Agent hereunder, (ii)&nbsp;Escrow Agent is unable to determine,
+to Escrow Agent&#146;s sole satisfaction, the proper disposition of all or any portion of the Escrowed Securities or Escrow Agent&#146;s proper actions with respect to its obligations hereunder, or (iii)&nbsp;the Representatives have not, within
+thirty (30)&nbsp;days of the furnishing by Escrow Agent of a notice of resignation pursuant to <U>Section</U><U></U><U>&nbsp;7</U> hereof, appointed a successor escrow agent to act hereunder (which such successor escrow agent has accepted such
+appointment), then Escrow Agent may, in its reasonable discretion, suspend the performance of any of its obligations (including any disbursement obligations) under this Agreement until such dispute or uncertainty shall be resolved to the sole
+satisfaction of Escrow Agent or until a successor escrow agent shall have been appointed (as the case may be). </P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">Escrow
+Agent shall have no liability to Sinclair HoldCo, HFS, or either of the Representatives, or to their respective shareholders, partners, or members, officers or directors, employees, Affiliates or any other person with respect to any such suspension
+of performance, specifically including any liability or claimed liability that may arise, or be alleged to have arisen, out of or as a result of any delay in the disbursement of Escrowed Securities or any delay in or with respect to any other action
+required or requested of Escrow Agent, absent willful misconduct, fraud or gross negligence by the Escrow Agent. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Resignation of Escrow Agent</U>. Escrow Agent may resign and be discharged from the performance of its
+duties hereunder at any time by giving thirty (30)&nbsp;days&#146; prior written notice to Sinclair HoldCo, HFS, and the Representatives specifying the date when such resignation shall take effect. Upon any such notice of resignation, the
+Representatives shall jointly issue to Escrow Agent a Joint Written Direction authorizing redelivery of the Escrowed Securities to a bank or trust company that has been retained as successor to Escrow Agent hereunder prior to the effective date of
+such resignation. The retiring Escrow Agent shall transmit all records pertaining to the Escrowed Securities and shall transfer all Escrowed Securities to the successor escrow agent, after making copies of such records as the retiring Escrow Agent
+deems advisable and after payment to the retiring Escrow Agent of all reasonable and documented fees, costs and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses (including court costs and
+expenses and reasonable outside attorneys&#146; fees) or any other amount payable to or incurred by the retiring Escrow Agent in connection with the performance of its duties and the exercise of its rights hereunder. </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">After any retiring Escrow Agent&#146;s resignation, the provisions of this Agreement shall inure to its benefit as to any actions taken or
+omitted to be taken by it while it was Escrow Agent under this Agreement. Any corporation or other entity into which Escrow Agent may be merged or converted or with which it may be merged or consolidated, or
+</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">
+any other entity to which all or a majority of all of Escrow Agent&#146;s escrow business may be transferred by sale of assets or otherwise, shall be Escrow Agent under this Agreement without
+further act or consent of any party hereto. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">8.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Liability of Escrow Agent</U>. Escrow Agent undertakes to perform only the ministerial duties as are
+expressly set forth herein and no other duties and obligations (fiduciary or otherwise) shall be implied. Escrow Agent shall have no duty to enforce any obligation of any other person to make any payment or delivery, or to direct or cause any
+payment or delivery to be made, or to enforce any obligation of any other person to perform any other act. Escrow Agent shall have no liability under and no duty to inquire as to the provisions of any agreement (even though such agreement may be
+referenced in this Agreement) other than this Agreement. In the event of any conflict between the terms and provisions of this Agreement and any other agreement, as to Escrow Agent, the terms and conditions of this Agreement shall control subject to
+<U>Section</U><U></U><U>&nbsp;29</U> hereof. Escrow Agent is not a party to the BCA, is not bound by any of its terms, and has not undertaken in any way to effectuate, implement or comply with the BCA. Escrow Agent shall not be liable to Sinclair
+HoldCo or HFS or to anyone else for any action taken or omitted by it in good faith except to the extent that a court of competent jurisdiction determines that Escrow Agent&#146;s fraud, gross negligence or willful misconduct was the primary cause
+of any loss to Sinclair HoldCo or HFS. Escrow Agent&#146;s sole responsibility shall be for the safekeeping and disbursement of the Escrowed Securities in accordance with the terms of this Agreement. Escrow Agent shall have no implied duties or
+obligations and shall not be charged with knowledge or notice of any fact or circumstance not specifically set forth herein. Escrow Agent shall have no duty to solicit any payment which may be due to be paid with respect to the Escrowed Securities
+or to confirm or verify the accuracy or correctness of any Escrowed Securities deposited in accordance with this Agreement. Escrow Agent may rely conclusively, and shall be protected in acting, upon any notice, instruction (including a Joint Written
+Direction (such as a wire transfer instruction)), request, order, judgment, certification, opinion or advice of counsel (including counsel chosen by Escrow Agent), statement, demand or other instrument or document, not only as to its due execution,
+validity (including the authority of the person signing or presenting the same) and effectiveness, but also as to the truth and accuracy of any information contained therein, which Escrow Agent shall believe to be genuine and to have been signed or
+presented by the person or parties purporting to sign the same. In no event shall Escrow Agent be liable for incidental, indirect, special, consequential or punitive damages of any kind whatsoever (including lost profits), even if Escrow Agent has
+been advised of the likelihood of such loss or damage and regardless of the form of action, absent gross negligence, fraud or willful misconduct by Escrow Agent. The officers, directors, members, partners, trustees, employees, agents, attorneys or
+other representatives and Affiliates of Escrow Agent owe no duty or obligation to any party hereunder and shall have no liability to any person by reason of any error of judgment, for any act done or not done, for any mistake of fact or law, or
+otherwise, absent gross negligence, fraud or willful misconduct. </P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">Escrow Agent shall not be obligated to take any legal
+or other action or commence any proceeding in connection with the Escrowed Securities, the Escrow Account or any other account in which the Escrowed Securities are deposited, this Agreement or the BCA, or
+</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">
+to appear in, prosecute or defend any such legal action or proceeding (whether or not it shall have been furnished with acceptable indemnification and advancement). Escrow Agent may consult legal
+counsel selected by it in the event of any dispute or question as to the construction of any of the provisions hereof or of any other agreement or of its duties hereunder, or relating to any dispute or question involving any party hereto, and shall
+incur no liability and shall be fully indemnified from any liability whatsoever in acting in accordance with the opinion or instruction of such counsel. Sinclair HoldCo and HFS, jointly and severally, shall promptly pay, upon demand, the reasonable
+fees, costs and expenses of any such counsel. Escrow Agent shall have no responsibility with respect to the use or application of any Escrowed Securities disbursed by Escrow Agent pursuant to the provisions hereof. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">Escrow Agent is authorized, in its sole discretion, to comply with orders issued or process entered by any court with respect to the Escrowed
+Securities, without determination by Escrow Agent of such court&#146;s jurisdiction in the matter. If any portion of the Escrowed Securities is at any time attached, garnished or levied upon under any court order, or in case the payment, assignment,
+transfer, conveyance or delivery of any such property shall be stayed or enjoined by any court order, or in case any order, judgment or decree shall be made or entered by any court affecting such property or any part thereof, then and in any such
+event, Escrow Agent is authorized, in its sole discretion, to rely upon and comply with any such order, writ, judgment or decree which it is advised by outside legal counsel selected by it is binding upon it without the need for appeal or other
+action; and if Escrow Agent complies with any such order, writ, judgment or decree, it shall not be liable to any of the parties hereto or to any other person or entity by reason of such compliance even though such order, writ, judgment or decree
+may be subsequently reversed, modified, annulled, set aside or vacated. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">9.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Indemnification of Escrow Agent</U>. From and at all times after the date of this Agreement, Sinclair HoldCo
+and HFS, jointly and severally, shall, to the fullest extent permitted by law, defend, indemnify and hold harmless Escrow Agent and each director, officer, member, partner, trustee, employee, attorney, agent and Affiliate of Escrow Agent
+(collectively, the &#147;Indemnified Parties&#148;) against any and all actions, claims (whether or not valid), losses, damages, liabilities, costs, penalties, settlements, judgments and expenses of any kind or nature whatsoever (including costs and
+expenses and reasonable attorneys&#146; fees) incurred by or asserted against any of the Indemnified Parties from and after the date hereof, whether direct, indirect or consequential, as a result of, in connection with, or arising from or in any way
+relating to any claim, demand, suit, action or proceeding (including any inquiry or investigation) by any person, including Sinclair HoldCo, HFS and/or the Representatives, whether threatened or initiated, asserting a claim for any legal or
+equitable remedy against any person (whether it is an Indemnified Party or not) under any statute or regulation, including any federal or state securities laws, or under any common law or equitable cause or otherwise, arising from or in connection
+with the negotiation, preparation, execution, performance or failure of performance of this Agreement or any transactions contemplated herein or relating hereto (including tax reporting or withholding or the enforcement of any rights or remedies
+under or in connection with this Agreement), whether or not any such Indemnified Party </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+is a party to any such action, proceeding, suit or the target of any such inquiry or investigation (without derogation of any other indemnity afforded to Escrow Agent); <I>provided, however</I>,
+that no Indemnified Party shall have the right to be indemnified hereunder for any liability finally determined by a court of competent jurisdiction, subject to no further appeal, to have resulted from the fraud, gross negligence or willful
+misconduct of such Indemnified Party. Each Indemnified Party shall, in its sole discretion, have the right to select and employ separate counsel with respect to any action or claim brought or asserted against it, and the reasonable fees of such
+counsel (and such counsel&#146;s costs and expenses) shall be paid, upon demand, by Sinclair HoldCo and HFS jointly and severally. </TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">The parties hereto agree that neither the payment by Sinclair HoldCo or HFS of any claim by Escrow Agent for indemnification hereunder nor the
+disbursement of any amounts to Escrow Agent from the Escrow Account in respect of a claim by Escrow Agent for indemnification shall impair, limit, modify, or affect, as between Sinclair HoldCo and HFS, the respective rights and obligations of
+Sinclair HoldCo, on the one hand, and HFS, on the other hand, under the BCA. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">10.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Fees, Costs and Expenses of Escrow Agent</U>. Sinclair HoldCo and HFS shall compensate Escrow Agent for its
+services hereunder in accordance with <U>Schedule A</U> attached hereto and, in addition, shall reimburse Escrow Agent for all of its reasonable and documented
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> costs and expenses, including outside attorneys&#146; fees, travel expenses, telephone and facsimile transmission costs, postage (including express mail
+and overnight delivery charges), copying charges and the like. The additional provisions and information set forth on <U>Schedule A</U> hereto are hereby incorporated by this reference, and form a part of this Agreement. All of the compensation and
+reimbursement obligations set forth in this <U>Section</U><U></U><U>&nbsp;10</U> shall be payable by Sinclair HoldCo and HFS, jointly and severally, upon execution of this Agreement and, in the future, upon demand by Escrow Agent; provided, that HFS
+and Sinclair HoldCo hereby agree between themselves to each pay 50% of any such compensation, fees or other amounts due hereunder to Escrow Agent. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">11.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Representations and Warranties</U>. Each of Sinclair HoldCo and HFS severally covenants and makes the
+following representations and warranties to Escrow Agent: </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">It is duly organized, validly existing, and in good standing under the laws of the state of its incorporation
+or organization, and has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">It possesses such valid and current licenses, certificates, authorizations or permits issued by the appropriate
+state, federal or foreign regulatory agencies or bodies necessary to conduct its respective businesses, and it has not received any notice of proceedings relating to the revocation or modification of, or
+<FONT STYLE="white-space:nowrap">non-compliance</FONT> with, any such license, certificate, authorization or permit. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">This Agreement has been duly approved by all necessary action, including any necessary shareholder or
+membership approval, has been executed by its duly authorized officers, and constitutes its valid and binding agreement enforceable in accordance with its terms. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The execution, delivery, and performance of this Agreement is in accordance with the BCA and will not violate,
+conflict with, or cause a default under its articles of incorporation, bylaws, management agreement or other organizational document, as applicable, any applicable law, rule or regulation, any court order or administrative ruling or decree to which
+it is a party or any of its property is subject, or any agreement, contract, indenture, or other binding arrangement, including the BCA, to which it is a party or any of its property is subject. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The applicable persons designated on <U>Schedule A</U> hereto have been duly appointed to act as its
+representatives hereunder and have full power and authority to execute and deliver any Joint Written Direction, to amend, modify or waive any provision of this Agreement and to take any and all other actions as the Representatives under this
+Agreement, all without further consent or direction from, or notice to, it or any other party. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">No party other than the parties hereto has, or shall have, any lien, claim or security interest in the Escrowed
+Securities or any part thereof. No financing statement under the Uniform Commercial Code is on file in any jurisdiction claiming a security interest in or describing (whether specifically or generally) the Escrowed Securities or any part thereof.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">All of its representations and warranties contained herein are true and complete as of the date hereof and will
+be true and complete at the time of any disbursement of the Escrowed Securities. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">12.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Patriot Act Disclosure; Taxpayer Certification and Reporting</U>. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Patriot Act Disclosure</U>. Sinclair HoldCo and HFS acknowledge that a portion of the identifying
+information set forth on <U>Schedule A</U> hereto is being requested by Escrow Agent in connection with the USA Patriot Act, <FONT STYLE="white-space:nowrap">Pub.L.107-56</FONT> (the &#147;Act&#148;), and Sinclair HoldCo and HFS agree to provide any
+additional information requested by Escrow Agent in connection with the Act or any similar law, rule, regulation, order, or other governmental act to which Escrow Agent is subject, in a timely manner and consent to Escrow Agent obtaining from third
+parties any such identifying information. Sinclair HoldCo and HFS each represent that all identifying information set forth on <U>Schedule A</U> hereto, including its Taxpayer Identification Number assigned by the Internal Revenue Service or any
+other taxing authority, is true and complete on the date hereof and will be true and complete at the time of any disbursement of the Escrowed Securities. For a <FONT STYLE="white-space:nowrap">non-individual</FONT> person such as a charity, a trust,
+or other legal entity, Escrow Agent may require documentation to verify formation and existence as a legal entity. Escrow Agent may also require financial statements, licenses, identification and authorization documentation from any individual
+claiming authority to represent the entity or other relevant documentation. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Certification and Tax Reporting</U>. Each of Sinclair HoldCo and HFS has provided Escrow Agent with its
+respective fully executed Internal Revenue Service (&#147;IRS&#148;) Form <FONT STYLE="white-space:nowrap">W-9</FONT> and/or other required tax documentation. Each of Sinclair HoldCo and HFS acknowledges that, solely for U.S. federal (and where
+applicable, state and local) income tax purposes, (i)&nbsp;Escrow Agent does not have any interest in the Escrowed Securities or the Escrow Account, and (ii)&nbsp;the Escrowed Securities shall be the property of (and owned by) the record owner
+thereof, as identified on <U>Schedule A</U> hereto, which shall initially be Sinclair HoldCo. Escrow Agent shall not have any liability for the payment of taxes with respect to the Escrowed Securities, and Sinclair HoldCo shall indemnify and hold
+Escrow Agent harmless from and against all such taxes. Escrow Agent shall withhold any taxes it deems appropriate in the absence of proper tax documentation or as required by law and shall remit such taxes to the appropriate authorities. Each of
+Sinclair HoldCo and HFS hereby represents and warrants to Escrow Agent that (i)&nbsp;by providing an IRS From <FONT STYLE="white-space:nowrap">W-9</FONT> each such person is certifying as to its <FONT STYLE="white-space:nowrap">non-foreign</FONT>
+status for purposes of Section&nbsp;1445 and Section&nbsp;1446 of the Internal Revenue Code of 1986, as amended, and (ii)&nbsp;such underlying transaction does not constitute an installment sale requiring any tax reporting or withholding of imputed
+interest or original issue discount, in each case by the Escrow Agent to the IRS or other taxing authority. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">13.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Consent to Jurisdiction and Venue</U>. In the event that any party hereto commences a lawsuit or other
+proceeding relating to or arising from this Agreement, the parties hereto agree that the United States District Court for the Southern District of the State of New York shall have the sole and exclusive jurisdiction over any such proceeding. If such
+court lacks federal subject matter jurisdiction, the parties hereto agree that the Supreme Court of the State of New York within New York County shall have sole and exclusive jurisdiction. Any final judgment shall be conclusive and may be enforced
+in other jurisdictions by suit on the judgment or in any other manner provided by law. Any of these courts shall be proper venue for any such lawsuit or judicial proceeding and the parties hereto waive any objection to such venue and irrevocably and
+unconditionally waive and agree not to plead or claim in any such court that any such suit or proceeding in any such court has been brought in an inconvenient forum. </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">The parties hereto consent to and agree to submit to the jurisdiction of any of the courts specified herein and agree to accept service of
+process to vest personal jurisdiction over them in any of these courts. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">Each party hereto irrevocably and unconditionally waives any right
+to a trial by jury and agrees that any of them may file a copy of this section of this Agreement with any court as written evidence of the knowing, voluntary and <FONT STYLE="white-space:nowrap">bargained-for</FONT> agreement among the parties
+hereto irrevocably to waive the right to trial by jury in any litigation related to or arising under this Agreement. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">14.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Notice</U>. All notices, instructions (pursuant to a Joint Written Direction or otherwise), approvals,
+consents, requests, and other communications hereunder shall be in writing and shall be deemed to have been given (a)&nbsp;when such writing is delivered by hand or </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+overnight delivery service, or (b)&nbsp;upon telephone call-back in accordance with <U>Section</U><U></U><U>&nbsp;15 </U>below, after being sent by <FONT STYLE="white-space:nowrap">e-mail</FONT>
+with PDF attachment from the designated <FONT STYLE="white-space:nowrap">e-mail</FONT> account(s) of the sending person(s) as designated on <U>Schedule A</U> hereto to the designated <FONT STYLE="white-space:nowrap">e-mail</FONT> account(s) of the
+receiving person(s) as designated on <U>Schedule A</U> hereto or (c)&nbsp;three (3) Business Days after being mailed by first class mail (postage prepaid), in each case to the address set forth on <U>Schedule A</U> hereto or to such other address as
+each party hereto may designate for itself by like notice. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">15.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Security Procedures</U>. If notices, instructions (pursuant to a Joint Written Direction or otherwise),
+approvals, consents, requests, and other communications, are received by Escrow Agent by <FONT STYLE="white-space:nowrap">e-mail</FONT> at its <FONT STYLE="white-space:nowrap">e-mail</FONT> account(s) as designated on <U>Schedule A</U> hereto,
+Escrow Agent is authorized, but not required, to seek prompt confirmation of such communications by telephone call-back to the sending person or persons&#146; telephone number(s) as designated on <U>Schedule A</U> hereto, and Escrow Agent may rely
+upon the confirmation of anyone purporting to be the person or persons so designated in that call-back. Any <FONT STYLE="white-space:nowrap">e-mail</FONT> by PDF attachment executed by more than one person shall be sent by each signatory. The
+persons and their telephone numbers authorized to receive call-backs as designated in <U>Schedule A</U> hereto may be changed only in a writing actually received and acknowledged by Escrow Agent and delivered in accordance with
+<U>Section</U><U></U><U>&nbsp;14</U> above and, if applicable, this <U>Section</U><U></U><U>&nbsp;15</U>. If Escrow Agent is unable to contact any such designated person, Escrow Agent is hereby authorized (but not required) both to receive written
+instructions from and seek confirmation of such instructions by telephone call-back to any one or more of Sinclair HoldCo&#146;s or HFS&#146;s officers (each, an &#147;Officer&#148;), as the case may be, who shall include individuals holding titles
+of Treasurer or Chief Financial Officer or more senior thereto, as Escrow Agent may select. Such Officer(s) shall deliver to Escrow Agent a fully executed incumbency certificate upon Escrow Agent&#146;s request, and Escrow Agent may rely upon the
+confirmation of anyone purporting to be any such Officer(s). The parties to this Agreement acknowledge and agree that the security procedures set forth above are commercially reasonable. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">16.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Amendment or Waiver</U>. This Agreement may be changed, waived, discharged or terminated only by a writing
+signed by the parties hereto. No delay or omission by any party hereto in exercising any right with respect hereto shall operate as a waiver. A waiver on any one occasion shall not be construed as a bar to, or waiver of, any right or remedy on any
+future occasion. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">17.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Severability</U>. To the extent any provision of this Agreement is prohibited by or invalid under applicable
+law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">18.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Governing Law</U>. This Agreement shall be construed and interpreted in accordance with the internal laws of
+the State of New York without giving effect to the conflict of laws principles thereof. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">19.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Entire Agreement</U>. This Agreement constitutes the entire agreement between the parties hereto relating to
+the holding, investment and disbursement of Escrowed Securities and sets forth in their entirety the obligations and duties of Escrow Agent with respect to the Escrowed Securities. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">20.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Binding Effect</U>. All of the terms of this Agreement, as amended from time to time, shall be binding upon,
+inure to the benefit of and be enforceable by the respective successors and assigns of Sinclair HoldCo, HFS and Escrow Agent. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">21.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Execution in Counterparts</U>. This Agreement and any Joint Written Direction may be executed in two or more
+counterparts, which when so executed shall constitute one and the same agreement or direction. Subject to <U>Section</U><U></U><U>&nbsp;14</U> and <U>Section</U><U></U><U>&nbsp;15</U> hereof, this Agreement and any Joint Written Direction may be
+executed and delivered by <FONT STYLE="white-space:nowrap">e-mailing</FONT> a PDF version of a signed signature page, which shall have the same force and effect as the delivery of an originally executed signature page. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">22.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Termination of Escrow Agent</U>. Upon the first to occur of (i)&nbsp;the termination of the Escrow Period
+(and the occurrence of the related distribution(s)), (ii) the disbursement of all Escrowed Securities pursuant to one or more Joint Written Directions, into court pursuant to <U>Section</U><U></U><U>&nbsp;6</U> hereof, in accordance with applicable
+state escheatment and unclaimed property laws or otherwise or (iii)&nbsp;the resignation of Escrow Agent, Escrow Agent shall be released from its obligations hereunder and Escrow Agent shall have no further obligation or liability whatsoever with
+respect to this Agreement or the Escrowed Securities. The obligations of Sinclair HoldCo and HFS continue to exist notwithstanding the termination or discharge of Escrow Agent&#146;s obligations or liabilities hereunder until the obligations of
+Sinclair HoldCo and HFS have been fully performed. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">23.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Dealings</U>. Escrow Agent and any stockholder, director, officer or employee of Escrow Agent may buy, sell,
+and deal in any of the securities of Sinclair HoldCo or HFS and become pecuniarily interested in any transaction in which Sinclair HoldCo or HFS may be interested, and contract and lend money to Sinclair HoldCo or HFS and otherwise act as fully and
+freely as though it were not Escrow Agent under this Agreement. Nothing herein shall preclude Escrow Agent from acting in any other capacity for Sinclair HoldCo or HFS or for any other entity. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">24.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Currency</U>. The currency applicable to any amount payable or receivable under this Agreement is United
+States dollars. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">25.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Force Majeure</U>. Notwithstanding anything to the contrary hereunder, Escrow Agent shall not be liable for
+any delay, failure to perform, or other act or <FONT STYLE="white-space:nowrap">non-act</FONT> resulting from acts beyond its reasonable control, including acts of God, terrorism, shortage of supply, labor difficulties (including strikes), war,
+civil unrest, fire, floods, electrical outages, equipment or transmission failures, internet interruption, vendor failures (including information technology providers), and other similar causes. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">26.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>No Third Party Beneficiaries</U>. This Agreement and all of its terms and conditions are for the sole and
+exclusive benefit of the parties hereto and their respective permitted successors and assigns. Nothing expressed or referred to in this Agreement will be construed to give any person or entity other than the parties to this Agreement any legal or
+equitable rights, remedy, or claim under or with respect to this Agreement or any term or condition of this Agreement. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">27.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>No Strict Construction</U>. The parties hereto have participated jointly in the negotiation and draft of
+this Agreement. In the event any ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if it were drafted jointly by the parties hereto, and no presumption or burden of proof shall arise favoring or
+disfavoring any party hereto by virtue of authorship of any provision of this Agreement. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">28.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Priority</U>. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">In the event of any conflict between the provisions of <U>Schedule A</U> hereto and the remainder of this
+Agreement, this Agreement shall be construed in a manner prescribed by Escrow Agent acting in good faith. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Nothing contained in this Agreement shall amend, replace or supersede any agreement between Sinclair HoldCo or
+HFS and Escrow Agent to act as Sinclair HoldCo&#146;s or HFS&#146;s transfer agent, which agreement shall remain of full force and effect. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">29.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><U>Headings</U>. The headings in this Agreement are for convenience purposes and shall be ignored for purposes
+of enforcing this Agreement, do not constitute a part of this Agreement, and may not be used by any party hereto to characterize, interpret, limit or affect otherwise any provision of this Agreement. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>[signature page follows] </I></P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the
+date first above written. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">THE SINCLAIR COMPANIES</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Ross B. Matthews</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name: Ross B. Matthews</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title: Chief Operating Officer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">HF SINCLAIR CORPORATION</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Michael Jennings</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name: Michael Jennings</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title: Chief Executive Officer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">AMERICAN STOCK TRANSFER&nbsp;&amp; TRUST COMPANY, LLC, as Escrow Agent</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Michael Legregin</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name: Michael Legregin</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title: Senior Vice President, Attorney Advisory Group</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>d335058dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>JOINT FILING AGREEMENT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13d-1(k)</FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The undersigned acknowledge and agree that the foregoing statement on Schedule 13D is filed on behalf of each of the undersigned and that all
+subsequent amendments to this statement on Schedule 13D shall be filed on behalf of each of the undersigned without the necessity of filing additional joint filing agreements. The undersigned acknowledge that each shall be responsible for the timely
+filing of such amendments, and for the completeness and accuracy of the information concerning him or it contained herein and therein, but shall not be responsible for the completeness and accuracy of the information concerning the others, except to
+the extent that he or it knows or has reason to believe that such information is inaccurate. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date: March&nbsp;24, 2022 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="12%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">THE SINCLAIR COMPANIES&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">By: /s/ Ross B. Matthews</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Ross B. Matthews</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Chief Operating Officer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Carol Orme Holding</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">Name: Carol Orme Holding</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,363 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ch0miN4Kv6/wyYZWcQNNoY7fVVTYuTQfiFtcYQbxYWkZuuroouvawOzcujYF79la
+ aaeF3wmpkNH3276Y6y2kmw==
+
+<SEC-DOCUMENT>0000315066-08-001378.txt : 20080214
+<SEC-HEADER>0000315066-08-001378.hdr.sgml : 20080214
+<ACCEPTANCE-DATETIME>20080214161631
+ACCESSION NUMBER:		0000315066-08-001378
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20080214
+DATE AS OF CHANGE:		20080214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCO BRANDS CORP
+		CENTRAL INDEX KEY:			0000712034
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANKBOOKS, LOOSELEAF BINDERS & BOOKBINDING & RELATED WORK [2780]
+		IRS NUMBER:				362704017
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-34653
+		FILM NUMBER:		08616006
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 TOWER PARKWAY
+		CITY:			LINCOLNSHIRE
+		STATE:			IL
+		ZIP:			60069
+		BUSINESS PHONE:		847-484-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		300 TOWER PARKWAY
+		CITY:			LINCOLNSHIRE
+		STATE:			IL
+		ZIP:			60069
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCO WORLD CORP
+		DATE OF NAME CHANGE:	19830106
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FMR LLC
+		CENTRAL INDEX KEY:			0000315066
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				061209781
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		82 DEVONSHIRE ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6175706339
+
+	MAIL ADDRESS:	
+		STREET 1:		82 DEVONSHIRE STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FMR CORP
+		DATE OF NAME CHANGE:	19920717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>filing.txt
+<DESCRIPTION>DOC ONE
+<TEXT>
+
+SCHEDULE 13G
+
+Amendment No. 0
+ACCO Brands Corporation
+Common Stock
+Cusip #00081T108
+
+
+Cusip #00081T108
+Item 1:	Reporting Person - FMR LLC
+Item 4:	Delaware
+Item 5:	2,079
+Item 6:	0
+Item 7:	5,294,707
+Item 8:	0
+Item 9:	5,294,707
+Item 11:	9.789%
+Item 12:	    HC
+
+
+Cusip #00081T108
+Item 1:	Reporting Person - Edward C. Johnson 3d
+Item 4:	United States of America
+Item 5:	0
+Item 6:	0
+Item 7:	5,294,707
+Item 8:	0
+Item 9:	5,294,707
+Item 11:	9.789%
+Item 12:	IN
+
+
+
+
+	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+
+
+
+Item 1(a).	Name of Issuer:
+
+		ACCO Brands Corporation
+
+Item 1(b).	Name of Issuer's Principal Executive Offices:
+
+		300 Tower Parkway
+		Lincolnshire, IL  60069
+
+
+Item 2(a).	Name of Person Filing:
+
+		FMR LLC
+
+Item 2(b).	Address or Principal Business Office or, if None,
+Residence:
+
+		82 Devonshire Street, Boston,
+Massachusetts  02109
+
+Item 2(c).	Citizenship:
+
+		Not applicable
+
+Item 2(d).	Title of Class of Securities:
+
+		Common Stock
+
+Item 2(e).	CUSIP Number:
+
+		00081T108
+
+Item 3.	This statement is filed pursuant to Rule 13d-1(b) or 13d-2(b)
+and the person filing, FMR LLC, is a parent holding company
+in accordance with Section 240.13d-1(b)(ii)(G).  (Note:  See
+Item 7).
+
+Item 4.	Ownership
+
+	(a)	Amount Beneficially Owned:	5,294,707
+
+	(b)	Percent of Class:	9.789%
+
+	(c)	Number of shares as to which such
+person has:
+
+	(i)	sole power to vote or to direct
+the vote:	2,079
+
+	(ii)	shared power to vote or to
+direct the vote:	0
+
+	(iii)	sole power to dispose or to
+direct the disposition of:	5,294,707
+
+	(iv)	shared power to dispose or to
+direct the disposition of:	0
+
+
+
+Item 5.	Ownership of Five Percent or Less of a Class.
+
+	Not applicable.
+
+Item 6.	Ownership of More than Five Percent on Behalf of Another
+Person.
+
+	Various persons have the right to receive or the power to
+direct the receipt of dividends from, or the proceeds from the
+sale of, the Common Stock of ACCO Brands Corporation.
+The interest of one person, Fidelity Value Fund, an investment
+company registered under the Investment Company Act of
+1940, in the Common Stock of ACCO Brands Corporation,
+amounted to 3,364,603 shares or 6.221% of the total
+outstanding Common Stock at December 31, 2007.
+
+Item 7.	Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on By the Parent
+Holding Company.
+
+	See attached Exhibit A.
+
+Item 8.	Identification and Classification of Members of
+the Group.
+
+	Not applicable.  See attached Exhibit A.
+
+Item 9.	Notice of Dissolution of Group.
+
+	Not applicable.
+
+Item 10.	Certification.
+
+	By signing below I certify that, to the best of my knowledge
+and belief, the securities referred to above were acquired in the
+ordinary course of business and were not acquired for the
+purpose of and do not have the effect of changing or
+influencing the control of the issuer of such securities and
+were not acquired in connection with or as a participant in any
+transaction having such purpose or effect.
+
+Signature
+
+	After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct.
+
+February 13, 2008
+Date
+
+/s/Eric D. Roiter
+Signature
+
+Eric D. Roiter
+Duly authorized under Power of Attorney
+dated December 30, 1997 by and on behalf of FMR Corp.
+(now known as FMR LLC) and its direct and indirect
+subsidiaries
+
+
+
+	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+
+
+	Pursuant to the instructions in Item 7 of Schedule 13G,
+Fidelity Management & Research Company ("Fidelity"), 82
+Devonshire Street, Boston, Massachusetts 02109, a wholly-
+owned subsidiary of FMR LLC and an investment adviser
+registered under Section 203 of the Investment Advisers Act
+of 1940, is the beneficial owner of 5,294,228 shares or 9.789%
+of the Common Stock outstanding of ACCO Brands
+Corporation  ("the Company") as a result of acting as
+investment adviser to various investment companies registered
+under Section 8 of the Investment Company Act of 1940.
+
+	The ownership of one investment company, Fidelity
+Value Fund, amounted to 3,364,603 shares or 6.221% of the
+Common Stock outstanding. Fidelity Value Fund has its
+principal business office at 82 Devonshire Street, Boston,
+Massachusetts 02109.
+
+	Edward C. Johnson 3d and FMR LLC, through its
+control of Fidelity, and the funds each has sole power to
+dispose of the 5,294,228 shares owned by the Funds.
+
+	Members of the family of Edward C. Johnson 3d,
+Chairman of FMR LLC, are the predominant owners, directly
+or through trusts, of Series B voting common shares of FMR
+LLC, representing 49% of the voting power of FMR LLC.
+The Johnson family group and all other Series B shareholders
+have entered into a shareholders' voting agreement under
+which all Series B voting common shares will be voted in
+accordance with the majority vote of Series B voting common
+shares.  Accordingly, through their ownership of voting
+common shares and the execution of the shareholders' voting
+agreement, members of the Johnson family may be deemed,
+under the Investment Company Act of 1940, to form a
+controlling group with respect to FMR LLC.
+
+	Neither FMR LLC nor Edward C. Johnson 3d,
+Chairman of FMR LLC, has the sole power to vote or direct
+the voting of the shares owned directly by the Fidelity Funds,
+which power resides with the Funds' Boards of Trustees.
+Fidelity carries out the voting of the shares under written
+guidelines established by the Funds' Boards of Trustees.
+
+	Strategic Advisers, Inc., 82 Devonshire Street, Boston,
+MA 02109, a wholly-owned subsidiary of FMR LLC and an
+investment adviser registered under Section 203 of the
+Investment Advisers Act of 1940, provides investment
+advisory services to individuals.  As such, FMR LLC's
+beneficial ownership includes 479 shares, or 0.001%, of the
+Common Stock stock outstanding of ACCO Brands
+Corporation, beneficially owned through Strategic Advisers,
+Inc.
+
+
+
+	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+	RULE 13d-1(f)(1)  AGREEMENT
+
+	The undersigned persons, on February 13, 2008, agree
+and consent to the joint filing on their behalf of this Schedule
+13G in connection with their beneficial ownership of the
+Common Stock of ACCO Brands Corporation at December
+31, 2007.
+
+	FMR LLC
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Duly authorized under Power of Attorney dated
+December 30, 1997, by and on behalf of FMR Corp. (now
+known as FMR LLC) and its direct and indirect subsidiaries
+
+	Edward C. Johnson 3d
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Duly authorized under Power of Attorney dated
+December 30, 1997, by and on behalf of Edward C. Johnson
+3d
+
+	Fidelity Management & Research Company
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Senior V.P. and General Counsel
+
+	Fidelity Value Fund
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Secretary
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

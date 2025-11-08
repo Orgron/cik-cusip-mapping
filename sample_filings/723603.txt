@@ -1,0 +1,346 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NkRHyUumRc14tOuvhptzeUD0ggmJVPah9uqq/uv899jh9oQ1V5NK9LOWhZ4AyCbh
+ FD4yHHZHUvL95sRPIWmufQ==
+
+<SEC-DOCUMENT>0000950135-06-007475.txt : 20061218
+<SEC-HEADER>0000950135-06-007475.hdr.sgml : 20061218
+<ACCEPTANCE-DATETIME>20061218110215
+ACCESSION NUMBER:		0000950135-06-007475
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20061218
+DATE AS OF CHANGE:		20061218
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CULP INC
+		CENTRAL INDEX KEY:			0000723603
+		STANDARD INDUSTRIAL CLASSIFICATION:	BROADWOVEN FABRIC MILLS, COTTON [2211]
+		IRS NUMBER:				561001967
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-34989
+		FILM NUMBER:		061282388
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 S MAIN ST
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27260
+		BUSINESS PHONE:		3368895161
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 2686
+		STREET 2:		101 S MAIN ST
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27261
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASEN R SCOTT
+		CENTRAL INDEX KEY:			0000904589
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		224 EST 49TH STREET
+		STREET 2:		C/O ASEN& CO
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2127582323
+
+	MAIL ADDRESS:	
+		STREET 1:		224 E 49TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>b63461rasc13g.txt
+<DESCRIPTION>R. SCOTT ASEN  SC 13G
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 13G
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+                                   Culp, Inc.
+                                (Name of Issuer)
+
+                     Common Stock, par value $0.05 per share
+                         (Title of Class of Securities)
+
+                                   230215 10 5
+                                 (CUSIP Number)
+
+                                December 7, 2006
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[ ] Rule 13d-1(b)
+
+[X] Rule 13d-1(c)
+
+[ ] Rule 13d-1(d)
+
+*    The remainder of this cover page shall be filled out for a reporting
+     person's initial filing on this form with respect to the subject class of
+     securities, and for any subsequent amendment containing information which
+     would alter the disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 (the "Act") or otherwise subject to the liabilities of that section of the
+Act but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP NO. 230215 10 5                                          PAGE 2 OF 7 PAGES
+
+
+- --------------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+
+     R. Scott Asen
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSON (ENTITIES ONLY)
+- --------------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                         (a) [ ]
+     Not Applicable                                                      (b) [ ]
+- --------------------------------------------------------------------------------
+3    SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States of America
+- --------------------------------------------------------------------------------
+                   5    SOLE VOTING POWER
+
+                        600,000
+                   -------------------------------------------------------------
+   NUMBER OF       6    SHARED VOTING POWER
+     SHARES
+  BENEFICIALLY          57,000*
+    OWNED BY       ------------------------------------------------------------
+      EACH         7    SOLE DISPOSITIVE POWER
+REPORTING PERSON
+      WITH              600,000
+                   -------------------------------------------------------------
+                   8    SHARED DISPOSITIVE POWER
+
+                        57,000*
+- --------------------------------------------------------------------------------
+9    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+     657,000 shares
+- --------------------------------------------------------------------------------
+10   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES (See
+     Instructions)
+
+     Not applicable                                                          [ ]
+- --------------------------------------------------------------------------------
+11   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+     5.6%
+- --------------------------------------------------------------------------------
+12   TYPE OF REPORTING PERSON (See Instructions)
+
+     IN
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP NO. 230215 10 5                                          PAGE 3 OF 7 PAGES
+
+
+*    Consists of shares held by certain Managed Accounts, as to which the
+     Reporting Person disclaims beneficial ownership (see Item 4).
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP NO. 230215 10 5                                          PAGE 4 OF 7 PAGES
+
+
+ITEM 1(A). NAME OF ISSUER:
+
+     Culp, Inc.
+
+ITEM 1(B). ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES:
+
+     1823 Eastchester Drive
+     High Point, NC 27265
+
+ITEM 2(A). NAME OF PERSON FILING:
+
+     R. Scott Asen (the "Reporting Person")
+
+ITEM 2(B). ADDRESS OF PRINCIPAL BUSINESS OFFICES OR, IF NONE, RESIDENCE:
+
+     Asen and Co.
+     224 East 49th St.
+     New York, New York 10017
+
+ITEM 2(C). CITIZENSHIP:
+
+     The Reporting Person is a citizen of the United States of America.
+
+ITEM 2(D). TITLE OF CLASS OF SECURITIES:
+
+     Common Stock, par value $0.05 per share
+
+ITEM 2(E). CUSIP NUMBER:
+
+     230215 10 5
+
+ITEM 3. IF THIS STATEMENT IS FILED PURSUANT TO SECTIONS 240.13D-1(B) OR
+240.13D-2(B) OR (C), CHECK WHETHER THE PERSON FILING IS A:
+
+     Not applicable.
+
+ITEM 4. OWNERSHIP
+
+     Provide the following information regarding the aggregate number and
+percentage of the class of securities of the issuer identified in Item 1.
+
+     (a) Amount beneficially owned:
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP NO. 230215 10 5                                          PAGE 5 OF 7 PAGES
+
+
+     The Reporting Person directly owns 600,000 shares. The Reporting Person is
+the President of Asen and Co., which provides certain advisory services to
+accounts (the "Managed Accounts") that own 57,000 shares. The Reporting Person
+may be deemed to beneficially own the shares held by the Managed Accounts, but
+the Reporting Person disclaims beneficial ownership of such shares.
+
+     (b) Percent of class:
+
+     5.6%, consisting of: (1) 600,000 shares owned directly by the Reporting
+Person, which represent approximately 5.1% of the issued and outstanding shares
+of Common Stock of the Issuer and (2) 57,000 shares owned by the Managed
+Accounts, which represent approximately 0.5% of the issued and outstanding
+shares of Common Stock of the issuer.
+
+     The foregoing percentages are calculated based on 11,686,959 shares of
+Common Stock outstanding as of October 29, 2006, as reported in the issuer's
+quarterly report on Form 10-Q filed with the Securities and Exchange Commission
+on December 8, 2006.
+
+     (c) Number of shares as to which such person has:
+
+     (i) Sole power to vote or direct the vote:
+
+          The Reporting Person has sole voting power over 600,000 shares which
+he owns directly.
+
+     (ii) Shared power to vote or direct the vote:
+
+          The Reporting Person has shared voting power over 57,000 shares owned
+by the Managed Accounts. The Reporting Person disclaims beneficial ownership of
+such shares.
+
+     (iii) Sole power to dispose or to direct the disposition of:
+
+          The Reporting Person has sole dispositive power over 600,000 shares
+which he owns directly.
+
+     (iv) Shared power to dispose or to direct the disposition of:
+
+          The Reporting Person has shared dispositive power over 57,000 shares
+owned by the Managed Accounts. The Reporting Person disclaims beneficial
+ownership of such shares.
+
+ITEM 5. OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS.
+
+     Not applicable
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP NO. 230215 10 5                                          PAGE 6 OF 7 PAGES
+
+
+ITEM 6. OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON.
+
+     See response to Item 4.
+
+ITEM 7. IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED THE
+SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY.
+
+     Not applicable
+
+ITEM 8. IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.
+
+     Not applicable
+
+ITEM 9. NOTICE OF DISSOLUTION OF GROUP.
+
+     Not applicable
+
+ITEM 10. CERTIFICATION.
+
+     By signing below I certify that, to the best of my knowledge and belief,
+the securities referred to above were not acquired and are not held for the
+purpose of or with the effect of changing or influencing the control of the
+issuer of the securities and were not acquired and are not held in connection
+with or as a participant in any transaction having that purpose or effect.
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP NO. 230215 10 5                                          PAGE 7 OF 7 PAGES
+
+
+                                    SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                        Dated: December 18, 2006
+
+
+                                        By: /s/ R. Scott Asen
+                                            ------------------------------------
+                                            R. Scott Asen
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

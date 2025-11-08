@@ -1,0 +1,292 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DsBxqKWlo/etxk614jGVkBuba7neJ44nkQfBpgRihOnfcc/j2h3FKJTMNjz2n7mm
+ Su0YuUjsMvCE6+8eu4DsVQ==
+
+<SEC-DOCUMENT>0000734072-02-000005.txt : 20020414
+<SEC-HEADER>0000734072-02-000005.hdr.sgml : 20020414
+ACCESSION NUMBER:		0000734072-02-000005
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20020128
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PIONEER GLOBAL ASSET MANAGEMENT SPA
+		CENTRAL INDEX KEY:			0001162663
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L6
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		60 STATE STREET
+		STREET 2:		19TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6174224960
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOWER AUTOMOTIVE INC
+		CENTRAL INDEX KEY:			0000925548
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL FORGING & STAMPINGS [3460]
+		IRS NUMBER:				411746238
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-47648
+		FILM NUMBER:		02519304
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4508 IDS CENTER
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+		BUSINESS PHONE:		6123422310
+
+	MAIL ADDRESS:	
+		STREET 1:		4508 IDS CENTER
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>tower.txt
+<DESCRIPTION>TOWER  AUTOMOTIVE, INC.
+<TEXT>
+
+
+                         SECURITIES EXCHANGE COMMISSION
+
+                              Washington, DC 20549
+
+                    Under the Securities Exchange Act of 1934
+
+                               (Amendment No. 0 )
+
+
+                             TOWER AUTOMOTIVE, INC.
+                                (Name of Issuer)
+
+                                     Common
+                         (Title of Class of Securities)
+
+                                January 25, 2002
+
+             (Date of Event Which Requires Filing of this Statement)
+
+           Check the appropriate box to designate the rule pursuant to
+                          which this Schedule is filed:
+
+                               [   ] Rule 13d-1(b)
+                               [ x ] Rule 13d-1(c)
+                               [   ] Rule 13d-1(d)
+
+
+
+                                    891707101
+                                 (CUSIP NUMBER)
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+1)        Name of Reporting                      Pioneer
+          Person                                 Global Asset
+                                                 Management S.p.A.
+
+          IRS Identification                     98-0362802
+          No. of Above
+
+2)        Check the Appropriate Box              (a)
+          of A Member of  Group
+          (See Instructions)                     (b)
+
+3)        SEC Use Only
+
+4)        Citizenship of Place of
+          Organization                           Milan,Italy
+
+          Number of                              (5)  Sole Voting       2956810
+          Shares                                 Power
+          Beneficially Owned                     (6)  Shared Voting     0
+          by Each Reporting                      Power
+          Person With                            (7)  Sole Dispositive  2956810
+                                                 Power
+                                                 (8)  Shared Disposi-   0
+                                                 tive Power
+
+9)        Aggregate Amount Beneficially          2956810
+          Owned by Each
+          Reporting Person
+
+10)       Check if the aggregate
+          Amount in Row  (9) Exclude Certain
+          Shares (See
+          Instructions)
+
+11)       Percent of Class Represented
+          By Amount in Row 9.                    6.15%
+
+12)       Type of Reporting
+          Person (See Instructions)              00
+
+
+
+
+<PAGE>
+
+
+
+
+Item 1(a)         Name of Issuer.
+
+                  TOWER AUTOMOTIVE, INC.
+
+Item 1(b)         Address of Issuer's Principal Executive Offices:
+
+                  5211 Cascade Road
+                  Minnesota,  MN   49546
+
+Item 2(a)         Name of Person Filing:
+
+                  Pioneer Global Asset Management S.P.A.
+
+Item 2(b)         Address of Principal Business Office:
+
+                  Galleria San Carlo 6
+                  20122 Milan, Italy
+
+Item 2(c)         Citizenship:
+
+                  Milan, Italy
+
+Item 2(d)         Title of Class of Securities:.
+
+                  Common Stock
+
+Item 2(e)         CUSIP Number:
+
+                  891707101
+
+Item 3.           The person filing this statement pursuant to Rule 13d-1(b)
+                  or 13d-2(b) is:
+
+                  Inapplicable
+
+
+
+
+<PAGE>
+
+
+
+Item 4.  Ownership.
+
+(a)        Amount Beneficially Owned:                                    2956810
+
+(b)        Percent of Class:                                             6.15%
+
+
+(c)      Number of shares as to which such person has
+
+         (i)      sole power to vote or to direct the vote             2956810
+
+         (ii)     shared power to vote or to direct vote               0
+
+         (iii)    sole power to dispose or to direct disposition of    2956810
+
+         (iv)     shared power to dispose or to direct disposition     0
+
+Item 5.  Ownership of Five Percent or Less of a Class.
+
+If this statement is being filed to report the fact that as of the date Hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check here:
+
+
+
+Item 6.  Ownership of More than Five Percent on Behalf of Another Person.
+
+         Inapplicable.
+
+Item 7.  Identification and Classification of the Subsidiary Which Acquired
+         the Security Being Reported On By the Parent Holding Company.
+
+         Inapplicable.
+
+Item 8.  Identification and Classification of Members of the Group.
+
+         Inapplicable.
+
+Item 9.  Notice of Dissolution of the Group.
+
+         Inapplicable.
+
+
+<PAGE>
+
+
+
+Item 10. Certification.
+
+         By signing below I certify that, to the best of my knowledge and
+belief, the securities referred to above were acquired in the ordinary course of
+business and were not acquired for the purpose of and do not have the effect of
+changing or influencing the control of the issuer of such securities and were
+not acquired in connection with or as a participant in any transactions having
+such purposes or effect.
+
+         After reasonable inquiry and to the best of my knowledge and believe, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+
+                  January 28, 2002
+                  Date
+
+
+
+
+                  /s/Dario Frigerio
+                  Chief Executive Officer
+
+
+
+
+<PAGE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,610 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GV0ybAeUy7NGDPsXMi5sgwKtLG+Grs2Cw4SUqMHx3P1ZPgqnlSV/nyxFQwYdVRPo
+ 4FlVlbxbcsflBg8LZB+jlA==
+
+<SEC-DOCUMENT>0000038777-98-000161.txt : 19980205
+<SEC-HEADER>0000038777-98-000161.hdr.sgml : 19980205
+ACCESSION NUMBER:		0000038777-98-000161
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19980204
+SROS:			NYSE
+GROUP MEMBERS:		CHARLES B. JOHNSON
+GROUP MEMBERS:		FRANKLIN RESOURCES INC
+GROUP MEMBERS:		FRANKLIN RESOURCES, INC.
+GROUP MEMBERS:		RUPERT H. JOHNSON, JR.
+GROUP MEMBERS:		TEMPLETON GLOBAL ADVISERS LIMITED
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HUMANA INC
+		CENTRAL INDEX KEY:			0000049071
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOSPITAL & MEDICAL SERVICE PLANS [6324]
+		IRS NUMBER:				610647538
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-03334
+		FILM NUMBER:		98520911
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 W MAIN ST
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40202
+		BUSINESS PHONE:		5025803708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXTENDICARE INC
+		DATE OF NAME CHANGE:	19740404
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HERITAGE HOUSE OF AMERICA INC
+		DATE OF NAME CHANGE:	19671129
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN RESOURCES INC
+		CENTRAL INDEX KEY:			0000038777
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				132670991
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 MARINERS ISLAND BLVD
+		STREET 2:		6TH FLOOR
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94404
+		BUSINESS PHONE:		6503123000
+
+	MAIL ADDRESS:	
+		STREET 1:		FRANKLIN RESOURCES INC
+		STREET 2:		901 MARINERS ISLAND BLVD 6TH FLOOR
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94404
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+CUSIP NO. 444859102         13G
+
+                                 
+                                 
+                                 
+                           UNITED STATES
+                SECURITIES AND EXCHANGE COMMISSION
+                      Washington, D.C. 20549
+                                 
+                                 
+                           SCHEDULE 13G
+                                 
+             Under the Securities Exchange Act of 1934
+                         (Amendment No. )
+                                 
+                                 
+                            Humana Inc.
+                         (Name of Issuer)
+                                 
+                              Common
+                  (Title of Class of Securities)
+                                 
+                             444859102
+                          (CUSIP Number)
+
+
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to the
+subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page shall
+not be deemed to be "filed" for the purpose of Section 18 of the
+Securities Exchange Act of 1934 ("Act") or otherwise subject to the
+liabilities of that section of the Act but shall be subject to all
+other provisions of the Act (however, see the Notes).
+
+1.    NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Franklin Resources, Inc.
+
+
+2.    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+            (a)
+            (b)   X
+
+3.    SEC USE ONLY
+
+4.    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      Delaware
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+
+      5.    SOLE VOTING POWER
+
+            (See Item 4)
+
+      6.    SHARED VOTING POWER
+
+            (See Item 4)
+
+      7.    SOLE DISPOSITIVE POWER
+
+            (See Item 4)
+
+      8.    SHARED DISPOSITIVE POWER
+
+            (See Item 4)
+
+9.    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+       10,287,268
+
+10.   CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+      CERTAIN SHARES [ ]
+
+
+11.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+       6.3%
+
+12.   TYPE OF REPORTING PERSON
+
+      HC  (See Item 4)
+
+1.    NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Charles B. Johnson
+
+
+2.    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+            (a)
+            (b)   X
+
+3.    SEC USE ONLY
+
+4.    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      USA
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+
+      5.    SOLE VOTING POWER
+
+            (See Item 4)
+
+      6.    SHARED VOTING POWER
+
+            (See Item 4)
+
+      7.    SOLE DISPOSITIVE POWER
+
+            (See Item 4)
+
+      8.    SHARED DISPOSITIVE POWER
+
+            (See Item 4)
+
+9.    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+       10,287,268
+
+10.   CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+      CERTAIN SHARES [ ]
+
+
+11.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+       6.3%
+
+12.   TYPE OF REPORTING PERSON
+
+      HC  (See Item 4)
+
+
+1.    NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Rupert H. Johnson, Jr.
+
+
+2.    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+            (a)
+            (b)   X
+
+3.    SEC USE ONLY
+
+4.    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      USA
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+      5.    SOLE VOTING POWER
+
+            (See Item 4)
+
+      6.    SHARED VOTING POWER
+
+            (See Item 4)
+
+      7.    SOLE DISPOSITIVE POWER
+
+            (See Item 4)
+
+      8.    SHARED DISPOSITIVE POWER
+
+            (See Item 4)
+
+9.    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+       10,287,268
+
+10.   CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+      CERTAIN SHARES [ ]
+
+
+11.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+       6.3%
+
+12.   TYPE OF REPORTING PERSON
+
+      HC  (See Item 4)
+
+
+1.    NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Templeton Global Advisors Limited
+
+
+2.    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+            (a)
+            (b)   X
+
+3.    SEC USE ONLY
+
+4.    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      Commonwealth of the Bahamas
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+
+      5.    SOLE VOTING POWER
+
+            9,987,768 (See Item 4)
+
+      6.    SHARED VOTING POWER
+
+
+      7.    SOLE DISPOSITIVE POWER
+
+            9,987,768 (See Item 4)
+
+      8.    SHARED DISPOSITIVE POWER
+
+
+9.    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        9,987,768
+
+10.   CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+      CERTAIN SHARES [ ]
+
+
+11.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+       6.1%
+
+12.   TYPE OF REPORTING PERSON
+
+      IA
+Item 1.
+(a)  Name of Issuer:
+
+     Humana Inc.
+
+(b)  Address of Issuer's Principal Executive Offices:
+
+     500 West Main Street
+     Louisville, KY  40202
+
+
+Item 2.
+(a)  Name of Person Filing:
+
+     (i):   Franklin Resources, Inc.
+     (ii):  Charles B. Johnson
+     (iii): Rupert H. Johnson, Jr.
+     (iv):  Templeton Global Advisors Limited
+
+
+(b)  Address of Principal Business Office:
+
+     (i), (ii), and (iii):
+     777 Mariners Island Boulevard
+     San Mateo, CA  94404
+
+     (iv):
+     Lyford Cay, P.O. Box N-7759
+     Nassau, Bahamas
+
+(c)  Place of Organization or Citizenship:
+
+     (i): Delaware
+     (ii) and (iii): USA
+     (iv): Commonwealth of the Bahamas
+
+(d)  Title of Class of Securities:
+
+     Common
+
+(e)  CUSIP Number:
+
+     444859102
+
+
+Item 3.  The persons filing this Schedule 13G are:
+
+         (i)  Franklin Resources, Inc.
+              (g)  Parent Holding Company
+         (ii) Charles B. Johnson
+              (g)  Principal Shareholder of Parent Holding Company
+         (iii)Rupert H. Johnson, Jr.
+              (g)  Principal Shareholder of Parent Holding Company
+         (iv) Templeton Global Advisors Limited
+              (e)  Investment Adviser
+
+
+Item 4.  Ownership
+
+The securities reported on herein are beneficially owned by one or
+more open or closed-end investment companies or other managed
+accounts which are advised by direct and indirect investment
+advisory subsidiaries (the "Adviser Subsidiaries") of Franklin
+Resources, Inc. ("FRI"). Such advisory contracts grant to such
+Adviser Subsidiaries all investment and/or voting power over the
+securities owned by such advisory clients.  Therefore, such Adviser
+Subsidiaries may be deemed to be, for purposes of Rule 13d-3 under
+the Securities Exchange Act of 1934, the beneficial owner of the
+securities covered by this statement.
+
+Charles B. Johnson and Rupert H. Johnson, Jr. (the "Principal
+Shareholders") each own in excess of 10% of the outstanding Common
+Stock of FRI and are the principal shareholders of FRI.  FRI and
+the Principal Shareholders may be deemed to be, for purposes of
+Rule 13d-3 under the 1934 Act, the beneficial owner of securities
+held by persons and entities advised by FRI subsidiaries.  FRI, the
+Principal Shareholders and each of the Adviser Subsidiaries
+disclaim any economic interest or beneficial ownership in any of
+the securities covered by this statement.
+
+FRI, the Principal Shareholders, and each of the Adviser
+Subsidiaries are of the view that they are not acting as a "group"
+for purposes of Section 13(d) under the 1934 Act and that they are
+not otherwise required to attribute to each other the "beneficial
+ownership" of securities held by any of them or by any persons or
+entities advised by FRI subsidiaries.
+
+   (a) Amount Beneficially Owned:
+
+        10,287,268
+
+   (b) Percent of Class:
+
+        6.3%
+
+   (c) Number of Shares as to which such person has:
+
+     (i) Sole power to vote or to direct the vote
+
+         Franklin Resources, Inc.:                0
+         Charles B. Johnson:                      0
+         Rupert H. Johnson, Jr.:                  0
+         Templeton Global Advisors Limited:       9,987,768
+         Templeton Management Limited:             266,000
+         Templeton Investment Management Limited:     33,500
+
+    (ii) Shared power to vote or to direct the vote
+
+
+   (iii) Sole power to dispose or to direct the disposition of
+
+         Franklin Resources, Inc.:                0
+         Charles B. Johnson:                      0
+         Rupert H. Johnson, Jr.:                  0
+         Templeton Global Advisors Limited:       9,987,768
+         Templeton Management Limited:             266,000
+         Templeton Investment Management Limited:     33,500
+
+    (iv) Shared power to dispose or to direct the disposition of
+
+
+Item 5.  Ownership of Five Percent or Less of a Class
+       If this statement is being filed to report the fact that as
+       of the date hereof the reporting person has ceased to be
+       the beneficial owner of more than five percent of the class
+       of securities, check the following [  ].
+
+         Not Applicable
+
+
+Item 6.  Ownership of More than Five Percent on Behalf of Another
+Person
+       
+       The clients of the Adviser Subsidiaries, including
+       investment companies registered under the Investment
+       Company Act of 1940 and other managed accounts, have the
+       right to receive dividends from as well as the proceeds
+       from the sale of such securities reported on in this
+       statement.
+
+
+Item 7.  Identification and Classification of the Subsidiary Which
+       Acquired the Security Being Reported on By the Parent
+       Holding Company
+
+         Templeton Global Advisors Limited        3(e)
+         Templeton Management Limited             3(e)
+         Templeton Investment Management Limited  3(e)
+
+
+Item 8.  Identification and Classification of Members of the Group
+
+         Not Applicable
+
+
+Item 9.  Notice of Dissolution of Group
+
+         Not Applicable
+Item 10. Certification
+
+By signing below, we certify that, to the best of our knowledge and
+belief, the securities referred to above were acquired in the
+ordinary course of business and were not acquired for the purpose
+of and do not have the effect of changing or influencing the
+control of the issuer of such securities and were not acquired in
+connection with or as a participant in any transaction having such
+purposes or effect.
+
+This report shall not be construed as an admission by the persons
+filing the report that they are the beneficial owner of any
+securities covered by this report.
+
+After reasonable inquiry and to the best of our knowledge and
+belief, we certify that the information set forth in this statement
+is true, complete and correct.
+
+January 27, 1998
+
+
+Franklin Resources, Inc.
+Charles B. Johnson
+Rupert H. Johnson, Jr.
+Templeton Global Advisors Limited
+
+
+S\DEBORAH R. GATZEK
+
+
+
+
+By: Deborah R. Gatzek
+
+Senior Vice President, Franklin Resources, Inc.
+
+Attorney in Fact for Charles B. Johnson pursuant to Power of
+Attorney attached to this Schedule 13G
+
+Attorney in Fact for Rupert H. Johnson, Jr. pursuant to Power of
+Attorney attached to this Schedule 13G
+
+Vice President, Templeton Global Advisors Limited
+
+
+
+
+POWER OF ATTORNEY
+
+CHARLES B. JOHNSON hereby appoints DEBORAH R. GATZEK his true and
+lawful attorney-in-fact and agent to execute and file with the
+Securities and Exchange Commission any Schedule 13G, any amendments
+thereto or any related documentation which may be required to be
+filed in his individual capacity as a result of his position as an
+officer, director or shareholder of Franklin Resources, Inc. and,
+granting unto said attorney-in-fact and agent, full power and
+authority to do and perform each and every act and thing which he
+might or could do in person, hereby ratifying and confirming all
+that said attorney-in-fact and agent, may lawfully do or cause to
+be done by virtue hereof.
+
+S\CHARLES B. JOHNSON
+
+
+POWER OF ATTORNEY
+
+RUPERT H. JOHNSON, JR. hereby appoints DEBORAH R. GATZEK his true
+and lawful attorney-in-fact and agent to execute and file with the
+Securities and Exchange Commission any Schedule 13G, any amendments
+thereto or any related documentation which may be required to be
+filed in his individual capacity as a result of his position as an
+officer, director or shareholder of Franklin Resources, Inc. and,
+granting unto said attorney-in-fact and agent, full power and
+authority to do and perform each and every act and thing which he
+might or could do in person, hereby ratifying and confirming all
+that said attorney-in-fact and agent, may lawfully do or cause to
+be done by virtue hereof.
+
+S\RUPERT H. JOHNSON, JR.
+
+JOINT FILING AGREEMENT
+
+In accordance with Rule 13d-1 (f)(1) under the Securities Exchange
+Act of 1934, as amended, the undersigned hereby agrees to the joint
+filing with each other of the attached statement on Schedule 13G
+and to all amendments to such statement and that such statement and
+all amendments to such statement is made on behalf of each of them.
+
+IN WITNESS WHEREOF, the undersigned hereby execute this agreement
+on
+January 27, 1998.
+
+
+Franklin Resources, Inc.
+Charles B. Johnson
+Rupert H. Johnson, Jr.
+Templeton Global Advisors Limited
+
+
+S\DEBORAH R. GATZEK
+
+
+
+
+By: Deborah R. Gatzek
+
+Senior Vice President, Franklin Resources, Inc.
+
+Attorney in Fact for Charles B. Johnson pursuant to Power of
+Attorney attached to this Schedule 13G
+
+Attorney in Fact for Rupert H. Johnson, Jr. pursuant to Power of
+Attorney attached to this Schedule 13G
+
+Vice President, Templeton Global Advisors Limited
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

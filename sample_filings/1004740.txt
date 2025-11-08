@@ -1,0 +1,381 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EFR9ZG3FolE3YA5kkcmFkF84/vb2FwkwZhC2Oh6E1Q3TCsCuYlmI5PaBzkk1zztd
+ 5HVzjEO9YXvIRtYTeKe+tg==
+
+<SEC-DOCUMENT>0000912057-97-030293.txt : 19970912
+<SEC-HEADER>0000912057-97-030293.hdr.sgml : 19970912
+ACCESSION NUMBER:		0000912057-97-030293
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970910
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAPITAL CORP OF THE WEST
+		CENTRAL INDEX KEY:			0001004740
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				770430410
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-51531
+		FILM NUMBER:		97677698
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1160 W OLIVE AVE
+		STREET 2:		STE A
+		CITY:			MERCED
+		STATE:			CA
+		ZIP:			95348
+		BUSINESS PHONE:		2097252200
+
+	MAIL ADDRESS:	
+		STREET 1:		1160 W OLIVE AVENUE
+		STREET 2:		SUITE A
+		CITY:			MERCED
+		STATE:			CA
+		ZIP:			95348
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1867 WESTERN FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000840663
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				680167851
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 1110
+		CITY:			STOCKTON
+		STATE:			CA
+		ZIP:			95202
+		BUSINESS PHONE:		2099411258
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1110
+		CITY:			STOCKTON
+		STATE:			CA
+		ZIP:			95201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+
+
+                                    UNITED STATES
+                          SECURITIES AND EXCHANGE COMMISSION
+                                WASHINGTON, D.C. 20549
+
+                                     SCHEDULE 13D
+
+                    Under the Securities and Exchange Act of 1934
+                               (Amendment No. ____)(1)
+
+                               CAPITAL CORP OF THE WEST
+                                   (Name of Issuer)
+
+                                     COMMON STOCK
+                             (Title of Class of Security)
+
+                                      140065103  
+                                    --------------
+                                    (CUSIP Number)
+
+            BANK OF STOCKTON                    WITH A COPY TO:
+            C/O JOHN F. DENTONI                 HERBERT H. DAVIS III, ESQ.
+            P.O. BOX 1110                       1200 17TH STREET, SUITE 3000
+            STOCKTON, CALIFORNIA 95201          DENVER, CO 80202
+            (209) 941-1433                      (303) 623-9000
+            (Name, Address and Telephone Number of Person Authorized
+            to Receive Notices and Communications)
+
+                                  SEPTEMBER 5, 1997
+               (Date of Event which Requires Filing of this Statement)
+
+- -------------------------------------------------------------------------------
+
+If the filing person has previously filed a statement on Schedule 13G to 
+report the acquisition which is the subject of this Schedule 13D, and is 
+filing this schedule because of Rule 13-d-1(b)(3) or (4), check the following 
+box / /.
+
+Check the following box if a fee is being paid with the statement / /.  (A 
+fee is not required only if the reporting person: (1) has a previous 
+statement on file reporting beneficial ownership of more than five percent of 
+the class of securities described in Item 1; and (2) has filed no amendment 
+subsequent thereto reporting beneficial ownership of five percent or less of 
+such class.)  (See Rule 13d-7.)
+
+Note: Six copies of this statement, including all exhibits, should be filed 
+with the Commission.  See rule 13-d-1(a) for other parties to whom copies are 
+to be sent.
+
+(1) The remainder of this cover page shall be filled out for a reporting 
+person's initial filing on this form with respect to the subject class of 
+securities, and for any subsequent amendment containing information which 
+would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be 
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange 
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section 
+of the Act but shall be subject to all other provisions of the Act (however, 
+see the Notes).
+
+                           Page 1 of 5
+<PAGE>
+
+
+                           SCHEDULE 13D
+
+
+
+- -------------------                                      -----------
+CUSIP NO. 140065103                                      PAGE 2 OF 5
+- -------------------                                      -----------
+
+
+- --------------------------------------------------------------------------------
+
+ 1   NAME OF REPORTING PERSON; S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+               1867 WESTERN FINANCIAL CORPORATION, CONSOLIDATED
+
+- --------------------------------------------------------------------------------
+
+ 2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP                   (a)  / /
+                                                                        (b)  / /
+
+- --------------------------------------------------------------------------------
+
+ 3   SEC USE ONLY
+          
+- --------------------------------------------------------------------------------
+
+ 4   SOURCE OF FUNDS*                                                        WC
+
+- --------------------------------------------------------------------------------
+
+ 5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO 
+     ITEMS 2(d) OR 2(e)                                                      / /
+       
+- --------------------------------------------------------------------------------
+
+ 6   CITIZENSHIP OR PLACE OF ORGANIZATION                            CALIFORNIA
+
+- --------------------------------------------------------------------------------
+
+   NUMBER OF     7   SOLE VOTING POWER                                   436,763
+     SHARES      ---------------------------------------------------------------
+  BENEFICIALLY   8   SHARED VOTING POWER                                     -0-
+    OWNED BY     ---------------------------------------------------------------
+      EACH       9   SOLE DISPOSITIVE POWER                              436,763
+   REPORTING     ---------------------------------------------------------------
+  PERSON WITH   10  SHARED DISPOSITVE POWER                                  -0-
+
+- --------------------------------------------------------------------------------
+
+ 11  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PARTY        436,763
+
+- --------------------------------------------------------------------------------
+
+ 12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* / /
+
+- --------------------------------------------------------------------------------
+
+ 13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                  10.03%
+
+- --------------------------------------------------------------------------------
+
+ 14  TYPE OF REPORTING PERSON*                                               HC
+
+- --------------------------------------------------------------------------------
+
+
+
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+
+                           SCHEDULE 13D
+
+     This statement on Schedule 13D is filed on behalf of 1867 Western 
+Financial Corporation, a California corporation and bank holding company 
+registered under the Bank Holding Company Act of 1956 (the "Reporting 
+Person") relating to transactions in the no par value common stock issued by 
+Capital Corp. of the West, a California corporation and bank holding company 
+registered under the Bank Holding Company Act of 1956 (the "Issuer").  
+Reporting person includes wholly owned subsidiaries.
+
+ITEM 1.  SECURITY AND ISSUER:
+
+     Security:   Common Stock, no par value
+
+     Issuer:     Capital Corp. of the West
+                 1160 West Olive Avenue
+                 Merced, California  95348
+
+ITEM 2.  IDENTITY AND BACKGROUND.
+
+     The identity and background of the Reporting Person is as follows:
+
+     (1)  The Reporting Person is a California bank holding company engaged 
+in the business of commercial banking.  Its principal office and place of 
+business is 301 East Miner Avenue, Stockton, California  95202.  During the 
+last five years, the Reporting Person has not been either (i) convicted in a 
+criminal proceeding (excluding traffic violations or similar misdemeanors), 
+or (ii) been a party to a civil proceeding of a judicial or administrative 
+body of competent jurisdiction that resulted in a judgment, decree or final 
+order enjoining future violations of, or prohibiting or mandating activities 
+subject to, Federal or State securities laws or finding any violation with 
+respect to such laws.
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+     The Reporting Person has used an aggregate of $5,111,710.18 of its 
+working capital to purchase an aggregate of 436,763 shares of the Issuer's 
+common stock.
+
+ITEM 4.  PURPOSE OF TRANSACTION.
+
+     The Reporting Person intends to hold the shares of Issuer's common stock 
+for investment purposes, and not for the purpose of acquiring control of the 
+Issuer.
+
+     The Reporting Person intends to acquire additional shares of the Issuer's 
+common stock from time to time, provided such acquisition is economical in 
+the discretion of the Reporting Person based on the price of such shares.
+
+     The Reporting Person has no plans or proposals which relate to or would 
+result in:  (a) an extraordinary corporate transaction, such as a merger, 
+reorganization or liquidation, involving the Issuer or any of its 
+subsidiaries; (b) a sale or transfer of a material amount of assets of the 
+Issuer or of any of its subsidiaries; (c) any change in the present board of 
+directors or management of the Issuer, including any plans or proposals to 
+change the number or term of directors or to fill any existing vacancies on 
+the Board of the Issuer; (d) any material change in the present 
+capitalization or dividend policy of the Issuer; (e) any other material 
+change in the Issuer's business or corporate structure; (f) changes in the 
+charter, bylaws or instruments corresponding thereto of the Issuer, or other 
+actions which may impede the acquisition of control of the Issuer by any 
+person; (g) causing a class of securities of the Issuer to be delisted from a 
+national securities exchange or to cease to be authorized to be quoted 
+
+
+                                  Page 3 of 5
+<PAGE>
+
+in an inter-dealer quotation system of a registered national securities 
+association; (h) a class of equity securities of the Issuer becoming eligible 
+for termination of registration pursuant to Section 12(g)(4) of the Act; or 
+(i) any action similar to any of those enumerated above.
+
+ITEM 5.  INTEREST IN SECURITIES OF THE ISSUER.
+
+     (The number of issued and outstanding shares of the Issuer's common 
+stock upon which the various percentages set forth in this statement on 
+Schedule 13D are based does not include any outstanding securities 
+convertible into the Issuer's common stock or any shares of common stock of 
+the Issuer subject to outstanding options.)
+
+     (a) and (b) The Reporting Person is the beneficial owner of 436,763 
+shares of the Issuer's common stock, or 10.03 percent of approximately 
+4,355,380 shares of the Issuer's common stock issued and outstanding as of 
+September 4, 1997.  The Reporting Person has the sole power to vote or to 
+direct the voting of all of these shares of common stock reported as owned 
+beneficially by it.  The Reporting Person has the sole power to dispose of, 
+or to direct the disposition of, all of these shares of common stock reported 
+as owned beneficially by it.
+
+     (c) On May 21, 1996, the Reporting Person, through one of its 
+subsidiaries, commenced acquiring shares of the Issuer's common stock, and on 
+March 18, 1997, the Reporting Person became the beneficial owner of five 
+percent or more of the Issuer's outstanding common stock.  A Schedule 13D was 
+filed on August 15, 1997, by the acquiring subsidiary detailing this event.  
+The Issuer then issued additional shares of its common stock.  The Reporting 
+Person continued to acquire shares of the Issuer's common stock through a 
+subsidiary, and on August 27, 1997, began acquiring shares of the Issuer's 
+common stock for its own account.  On September 5, 1997, the Reporting Person 
+became required to file a Schedule 13D.  Following is a list of the Reporting 
+Person's acquisitions of the Issuer's common stock since the submission of the 
+first 13D filing under the subsidiary name, including the date, share price, 
+number of shares and total cost:
+
+     PURCHASE DATE       SHARE PRICE         NUMBER OF SHARES       TOTAL COST
+     -------------       -----------         ----------------       ----------
+     July 29               $11.64                   6,000          $   69,860.00
+     August 27              11.92                 148,900           1,775,369.95
+     August 29              13.25                  85,000           1,126,250.00
+     September 5            13.44                  20,000             268,725.00
+     September 8            13.39                  18,000             240,930.00
+     September 9            13.44                   2,300              30,900.50
+
+     (d)  N/A
+
+     (e)  N/A
+
+ITEM 6.   CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR
+          RELATIONSHIPS WITH RESPECT TO SECURITIES OF THE ISSUER.
+
+     To the knowledge of the Reporting Person, there are no contracts, 
+arrangements, understandings or relationships (legal or otherwise) between 
+the Reporting Person and any of the persons and entities identified in Item 2 
+or any other persons or entities with respect to any securities of the Issuer 
+(including but not limited to, transfer or voting of any of the securities, 
+finders fees, joint ventures, loan or option arrangements, puts or calls, 
+guarantees of profits, divisions of profit or loss, or the giving or 
+withholding of proxies).
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS.
+
+     None.
+
+
+                           Page 4 of 5
+<PAGE>
+
+                           SCHEDULE 13D
+
+                            SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I 
+certify that the information set forth in this statement is true, complete 
+and correct.
+
+Date:  September 9, 1997
+
+                                       BANK OF STOCKTON
+
+
+                                       By: /s/ Douglas M. Eberhardt 
+                                          ----------------------------------
+                                       Name:  Douglas M. Eberhardt
+                                          ----------------------------------
+                                       Title:  Chairman of the Board    
+                                          ----------------------------------
+
+
+                           Page 5 of 5
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

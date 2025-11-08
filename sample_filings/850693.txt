@@ -1,0 +1,296 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ fltC80/nuFGGrIBrQNJdFZxZouXKkt9FnmN3mOzz96t/AGa5YfDzork0diphboPX
+ qqKvoF1XZgJPK2Cego0jbA==
+
+<IMS-DOCUMENT>0000912057-94-000700.txt : 19940302
+<IMS-HEADER>0000912057-94-000700.hdr.sgml : 19940302
+ACCESSION NUMBER:		0000912057-94-000700
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940228
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLERGAN INC
+		CENTRAL INDEX KEY:			0000850693
+		STANDARD INDUSTRIAL CLASSIFICATION:	2834
+		IRS NUMBER:				951622442
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-40724
+		FILM NUMBER:		94513631
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2525 DUPONT DR
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92715
+		BUSINESS PHONE:		7147524500
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARROW HANLEY MEWHINNEY & STRAUSS INC
+		CENTRAL INDEX KEY:			0000313028
+		STANDARD INDUSTRIAL CLASSIFICATION:	
+		IRS NUMBER:				75166102
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CRESCENT COURT
+		STREET 2:		19TH FLOOR
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2148715300
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CRESCENT COURT
+		STREET 2:		19TH FLOOR
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G COVER
+<TEXT>
+
+<PAGE>
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C.  20549
+
+
+                                  SCHEDULE 13G
+
+
+                    Under the Securities Exchange Act of 1934
+
+                           (Amendment No.__________)*
+
+                                 ALLERGAN, INC.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                                  Common Stock
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                   01849010
+                        --------------------------------
+                                 (CUSIP Number)
+
+
+Check the following box if a fee is being paid with this statement /X/.  (A fee
+is not required only if the filing person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7).
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+     CUSIP No.       01849010           13G
+              --------------------
+
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+              Barrow, Hanley, Mewhinney & Strauss, Inc.
+              75-2403190
+
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)  / /
+                                                                 (b)  / /
+
+3    SEC USE ONLY
+
+
+4    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+              Nevada
+
+                    5    SOLE VOTING POWER
+
+ NUMBER OF                    573,180
+   SHARES
+BENEFICIALLY        6    SHARED VOTING POWER
+  OWNED BY
+    EACH                      2,767,900
+  REPORTING
+   PERSON           7    SOLE DISPOSITIVE POWER
+    WITH
+                              3,341,080
+
+                    8    SHARED DISPOSITIVE POWER
+
+                                  0
+
+9    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+              3,341,080
+
+10   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+
+11   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+              5.1%
+
+12   TYPE OF REPORTING PERSON*
+
+              IA
+
+
+
+                                Page 2 of 4 Pages
+
+<PAGE>
+
+Item 1(a).  Name of Issuer.
+
+         Allergan, Inc.
+
+Item 1(b).  Address of Issuer's Principal Executive Offices.
+
+         2525 Dupont Drive
+         P.O. Box 19534
+         Irvine, California  92715
+
+Item 2(a).  Name of Person Filing.
+
+         Barrow, Hanley, Mewhinney & Strauss, Inc.
+
+Item 2(b).  Address of Principal Business Office or, if none, Residence.
+
+         280 Crescent Court, 19th Floor
+         Dallas, Texas  75201
+
+Item 2(c).  Citizenship.
+
+         A Nevada corporation
+
+Item 2(d).  Title of Class of Securities.
+
+         Common Stock
+
+Item 2(e).  CUSIP Number.
+
+         01849010
+
+Item 3.  Filing Status.
+
+         The person filing is an Investment Adviser registered under Section 203
+of the Investment Advisers Act of 1940.
+
+Item 4.  Ownership.
+
+<TABLE>
+         <S>  <C>                                                                  <C>
+         (a)  Amount Beneficially Owned:  3,341,080
+
+         (b)  Percent of Class: 5.1%
+
+         (c)  Number of shares as to which such person has
+
+              (i)    sole power to vote or to direct the vote:                       573,180
+              (ii)   shared power to vote or to direct the vote:                   2,767,900
+              (iii)  sole power to dispose or to direct the disposition of:        3,341,080
+              (iv)   shared power to dispose or to direct the disposition of:           None
+
+</TABLE>
+
+Item 5.  Ownership of Five Percent or Less of a Class.
+
+         If this statement is being filed to report the fact that as of the date
+hereof the reporting person has ceased to be the beneficial owner of more than
+five percent of the class of securities, check the following / /.
+
+
+
+                                Page 3 of 4 Pages
+
+<PAGE>
+
+Item 6.  Ownership of More than Five Percent on Behalf of Another Person.
+
+         The right to receive or the power to direct the receipt of dividends
+from, or the proceeds from the sale of, the common stock is held by certain
+clients of the reporting person, none of which has such right or power with
+respect to five percent or more of the common stock.
+
+Item 7.  Identification and Classification of the Subsidiary Which Acquired the
+         Security Being Reported on By the Parent Holding Company.
+
+         Not Applicable
+
+Item 8.  Identification and Classification of Members of the Group.
+
+         Not Applicable
+
+Item 9.  Notice of Dissolution of Group.
+
+         Not Applicable
+
+Item 10. Certification.
+
+         By signing below I certify that, to the best of my knowledge and
+belief, the securities referred to above were acquired in the ordinary course of
+business and were not acquired for the purpose of and do not have the effect of
+changing or influencing the control of the issuer of such securities and were
+not acquired in connection with or as a participant in any transaction having
+such purposes or effect.
+
+Signature:
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+Date:  February 28, 1994
+
+                                       BARROW, HANLEY, MEWHINNEY & STRAUSS, INC.
+
+
+                                       By:   /s/ Bryant M. Hanley, Jr.
+                                          --------------------------------------
+                                          Bryant M. Hanley, Jr., President
+
+
+
+                                Page 4 of 4 Pages
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

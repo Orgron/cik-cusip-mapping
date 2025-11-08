@@ -1,0 +1,869 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RBiqQ7xQc9V0yhAatmS9ky8Eyvy0KGy4D2fi7AZCA6ewa4Cn9VwGJ2V1wynyDOOd
+ Yti0VpVjL7mdDAgPOO4unw==
+
+<SEC-DOCUMENT>0000913414-09-003236.txt : 20090205
+<SEC-HEADER>0000913414-09-003236.hdr.sgml : 20090205
+<ACCEPTANCE-DATETIME>20090205132543
+ACCESSION NUMBER:		0000913414-09-003236
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20090205
+DATE AS OF CHANGE:		20090205
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHESAPEAKE UTILITIES CORP
+		CENTRAL INDEX KEY:			0000019745
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		IRS NUMBER:				510064146
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1211
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-32006
+		FILM NUMBER:		09571367
+
+	BUSINESS ADDRESS:	
+		STREET 1:		909 SILVER LAKE BLVD
+		STREET 2:		PO BOX 615
+		CITY:			DOVER
+		STATE:			DE
+		ZIP:			19903-0615
+		BUSINESS PHONE:		3027346799
+
+	MAIL ADDRESS:	
+		STREET 1:		909 SILVER LAKE BLVD
+		CITY:			DOVER
+		STATE:			DE
+		ZIP:			19904
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARCLAYS GLOBAL INVESTORS NA /CA/
+		CENTRAL INDEX KEY:			0000913414
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				943112180
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 HOWARD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		4155972639
+
+	MAIL ADDRESS:	
+		STREET 1:		400 HOWARD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BZW BARCLAYS GLOBAL INVESTORS NA
+		DATE OF NAME CHANGE:	19960311
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WELLS FARGO INSTITUTIONAL TRUST CO
+		DATE OF NAME CHANGE:	19960226
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>chesapeake123108.txt
+<TEXT>
+
+	SECURITIES AND EXCHANGE COMMISSION
+	Washington, D.C. 20549
+
+	Schedule 13G
+
+	Under the Securities Exchange Act of 1934
+	(New)
+
+	CHESAPEAKE UTILITIES CORP
+	(Name of Issuer)
+
+	Common Stock
+	(Title of Class of Securities)
+
+	165303108
+	(CUSIP Number)
+
+	December 31, 2008
+	(Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+
+[X]	Rule 13d-1(b)
+
+*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class
+of securities, and for any subsequent amendment containing information which
+would alter the disclosures provided in a prior page.
+
+The information required in the remainder of this cover page shall not
+be deemed to be "filed" for the purpose of Section 18 of the Securities
+Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that
+section of the Act but shall be subject to all other provisions of the Act
+(however, see the Notes).
+
+
+
+
+CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL INVESTORS, NA.,  943112180
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	U.S.A.
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned					223945
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							230,691
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate Amount Beneficially Owned by Each Reporting Person
+	230,691
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	3.38%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	BK
+- ------------------------------------------------------------------------------
+
+
+
+CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL FUND ADVISORS
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	U.S.A.
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned					182305
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							182,305
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate Amount Beneficially Owned by Each Reporting Person
+      182,305
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	2.67%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	IA
+- ------------------------------------------------------------------------------
+
+
+
+
+CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL INVESTORS, LTD
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	England
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							-
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate
+      -
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	0.00%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	FI
+- ------------------------------------------------------------------------------
+
+ CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL INVESTORS JAPAN LIMITED
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	Japan
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							-
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate
+      -
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	0.00%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	FI
+- ------------------------------------------------------------------------------
+
+
+
+
+
+
+CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL INVESTORS CANADA LIMITED
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	Canada
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							-
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate
+      -
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	0.00%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	FI
+- ------------------------------------------------------------------------------
+
+
+
+CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL INVESTORS AUSTRALIA LIMITED
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	Australia
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							-
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate
+      -
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	0.00%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	FI
+- ------------------------------------------------------------------------------
+
+
+
+CUSIP No.	165303108
+		---------
+
+- ------------------------------------------------------------------------------
+ (1) Names of Reporting Persons.
+	I.R.S. Identification Nos. of above persons (entities only).
+
+	BARCLAYS GLOBAL INVESTORS (DEUTSCHLAND) AG
+- ------------------------------------------------------------------------------
+(2) Check the appropriate box if a member of a Group*
+(a)  / /
+(b)  /X/
+- ------------------------------------------------------------------------------
+(3) SEC Use Only
+
+- ------------------------------------------------------------------------------
+(4) Citizenship or Place of Organization
+	Germany
+- ------------------------------------------------------------------------------
+Number of Shares				(5) Sole Voting Power
+Beneficially Owned
+by Each Reporting				------------------------------
+Person With					(6) Shared Voting Power
+							-
+						------------------------------
+						(7) Sole Dispositive Power
+							-
+						------------------------------
+						(8) Shared Dispositive Power
+							-
+- ------------------------------------------------------------------------------
+(9) Aggregate
+      -
+- ------------------------------------------------------------------------------
+(10) Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares*
+
+- ------------------------------------------------------------------------------
+(11) Percent of Class Represented by Amount in Row (9)
+	0.00%
+- ------------------------------------------------------------------------------
+(12) Type of Reporting Person*
+	FI
+- ------------------------------------------------------------------------------
+
+
+ITEM 1(A).	NAME OF ISSUER
+		CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+                        BARCLAYS GLOBAL INVESTORS, NA
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			400 Howard Street
+         			San Francisco, CA  94105
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			U.S.A
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) /X/	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) //	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) //	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+
+
+ITEM 1(A).	NAME OF ISSUER
+      	CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+                BARCLAYS GLOBAL FUND ADVISORS
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			 400 Howard Street
+        			 San Francisco, CA   94105
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			U.S.A
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) //	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) /X/	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) //	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+ITEM 1(A).	NAME OF ISSUER
+		CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+                        BARCLAYS GLOBAL INVESTORS, LTD
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			 Murray House
+         			1 Royal Mint Court
+        			 LONDON, EC3N 4HH
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			England
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) //	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) //	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) /X/	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+ITEM 1(A).	NAME OF ISSUER
+		CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+                  BARCLAYS GLOBAL INVESTORS JAPAN LIMITED
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			Ebisu Prime Square Tower 8th Floor
+         			1-1-39 Hiroo Shibuya-Ku
+         			Tokyo 150-8402 Japan
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			Japan
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) //	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) //	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) /X/	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+
+
+ITEM 1(A).	NAME OF ISSUER
+		CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+                BARCLAYS GLOBAL INVESTORS CANADA LIMITED
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			Brookfield Place 161 Bay Street
+       Suite 2500, PO Box 614
+         			Toronto, Canada
+			Ontario M5J 2S1
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			Canada
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) //	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) //	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) /X/	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+
+ITEM 1(A).	NAME OF ISSUER
+		CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+                BARCLAYS GLOBAL INVESTORS AUSTRALIA LIMITED
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			Level 43, Grosvenor Place, 225 George Street
+			PO Box N43
+         			Sydney, Australia NSW 1220
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			Australia
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) //	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) //	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) /X/	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+
+ITEM 1(A).	NAME OF ISSUER
+		CHESAPEAKE UTILITIES CORP
+- ------------------------------------------------------------------------------
+ITEM 1(B).	ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+		909 SILVER LAKE BLVD
+- ------------------------------------------------------------------------------
+ITEM 2(A).	NAME OF PERSON(S) FILING
+
+        BARCLAYS GLOBAL INVESTORS (DEUTSCHLAND) AG
+- ------------------------------------------------------------------------------
+ITEM 2(B).	ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE
+			Apianstrasse 6
+         			D-85774
+			Unterfohring, Germany
+- ------------------------------------------------------------------------------
+ITEM 2(C).	CITIZENSHIP
+			Germany
+- ------------------------------------------------------------------------------
+ITEM 2(D).	TITLE OF CLASS OF SECURITIES
+			Common Stock
+- ------------------------------------------------------------------------------
+ITEM 2(E).	CUSIP NUMBER
+			165303108
+- ------------------------------------------------------------------------------
+ITEM 3.  	IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B),
+OR 13D-2(B), CHECK WHETHER THE PERSON FILING IS A
+(a) //	Broker or Dealer registered under Section 15 of the Act
+	(15 U.S.C. 78o).
+(b) //	Bank as defined in section 3(a) (6) of the Act (15 U.S.C. 78c).
+(c) //	Insurance Company as defined in section 3(a) (19) of the Act
+	(15 U.S.C. 78c).
+(d) //	Investment Company registered under section 8 of the Investment
+	Company Act of 1940 (15 U.S.C. 80a-8).
+(e) //	Investment Adviser in accordance with section 240.13d(b)(1)(ii)(E).
+(f) //	Employee Benefit Plan or endowment fund in accordance with section
+	240.13d-1(b)(1)(ii)(F).
+(g) //	Parent Holding Company or control person in accordance with section
+	240.13d-1(b)(1)(ii)(G).
+(h) //	A savings association as defined in section 3(b) of the Federal Deposit
+	Insurance Act (12 U.S.C. 1813).
+(i) //	A church plan that is excluded from the definition of an investment
+	company under section 3(c)(14) of the Investment Company Act of 1940
+	(15U.S.C. 80a-3).
+(j) /X/	Non-U.S. institution, in accordance with section 240.13d-1(b)(1)(ii)(J)
+(k) //    Group, in accordance with section 240.13d-1(b)(1)(ii)(K)
+
+
+ITEM 4.	OWNERSHIP
+
+Provide the following information regarding the aggregate number and
+percentage of the class of securities of the issuer identified in Item 1.
+
+(a)  Amount Beneficially Owned:
+		412996
+- ------------------------------------------------------------------------------
+
+(b)  Percent of Class:
+		6.06%
+- ------------------------------------------------------------------------------
+
+(c)  Number of shares as to which such person has:
+	(i)   sole power to vote or to direct the vote
+		406250
+	      ----------------------------------------------------------------
+	(ii)  shared power to vote or to direct the vote
+		-
+	      ----------------------------------------------------------------
+	(iii) sole power to dispose or to direct the disposition of
+		412996
+              ----------------------------------------------------------------
+	(iv) shared power to dispose or to direct the disposition of
+		-
+              ----------------------------------------------------------------
+
+ITEM 5.	OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS
+If this statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following. //
+
+ITEM 6.	OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF    ANOTHER PERSON
+		The shares reported are held by the company in trust accounts for the
+		economic benefit of the beneficiaries of those accounts.  See also
+		Items 2(a) above.
+
+ITEM 7.	IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY
+WHICH ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY
+		Not applicable
+
+ITEM 8.	IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP
+
+ITEM 9.	NOTICE OF DISSOLUTION OF GROUP
+		Not applicable
+
+ITEM 10.	CERTIFICATION
+
+		By signing below I certify that, to the best of my knowledge
+		and belief, the securities referred to above were acquired and
+		are held in the ordinary course of business and were not
+		acquired and are not held for the purpose of or with the effect
+		of changing or influencing the control of the issuer of the
+		securities and were not acquired and are not held in connection
+		with or as a participant in any transaction having that purpose
+		or effect.
+
+	By signing below, I further certify that, to the best of my knowledge
+	and belief, the foreign regulatory scheme applicable to each of:
+	Barclays Global Investors Australia Limited, Barclays Global
+	Investors Canada Limited, Barclays Global Investors (Deutschland)
+	AG, Barclays Global Investors Japan Limited and Barclays Global
+	Investors Limited, is substantially comparable to the regulatory
+	scheme applicable to the functionally equivalent U.S. institutions.  I
+	also undertake to furnish to the Commission staff, upon request,
+	information that would otherwise be disclosed in a Schedule 13D
+	by such entities.
+
+
+
+                        SIGNATURE
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+						February 6, 2009
+				      ---------------------------------------
+						Date
+
+				      ---------------------------------------
+						Signature
+
+						John McGahan
+						Principal
+				      ---------------------------------------
+						Name/Title
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

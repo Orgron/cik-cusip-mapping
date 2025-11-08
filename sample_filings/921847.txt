@@ -1,0 +1,1255 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WlYmYtJ74RZrIZCCUdfwpPdY5UkF3yqVPf9F33wQl8yhlnkxEld960C3YF2LkkFR
+ XvCJ+aaYarpARxSDp1XblA==
+
+<SEC-DOCUMENT>0001023875-08-000022.txt : 20080130
+<SEC-HEADER>0001023875-08-000022.hdr.sgml : 20080130
+<ACCEPTANCE-DATETIME>20080130160309
+ACCESSION NUMBER:		0001023875-08-000022
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20080130
+DATE AS OF CHANGE:		20080130
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HUDSON CITY BANCORP INC
+		CENTRAL INDEX KEY:			0000921847
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		IRS NUMBER:				223640393
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-56611
+		FILM NUMBER:		08561281
+
+	BUSINESS ADDRESS:	
+		STREET 1:		WEST 80 CENTURY RD
+		CITY:			PARAMUS
+		STATE:			NJ
+		ZIP:			07652
+		BUSINESS PHONE:		2019671900
+
+	MAIL ADDRESS:	
+		STREET 1:		WEST 80 CENTURY ROAD
+		CITY:			PARMUS
+		STATE:			NJ
+		ZIP:			07652
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN MUTUAL ADVISERS LLC
+		CENTRAL INDEX KEY:			0001023875
+		IRS NUMBER:				223463202
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 JOHN F KENNEDY PARKWAY
+		CITY:			SHORT HILLS
+		STATE:			NJ
+		ZIP:			07078
+		BUSINESS PHONE:		9739122088
+
+	MAIL ADDRESS:	
+		STREET 1:		101 JOHN F KENNEDY PARKWAY
+		CITY:			SHORT HILLS
+		STATE:			NJ
+		ZIP:			07078
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FRANKLIN MUTUAL ADVISERS INC
+		DATE OF NAME CHANGE:	19960928
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>hudso07in.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="312" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CUSIP NO. 443683107</font></p> </td>
+        <td width="224" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13G</font></p> </td>
+        <td width="108" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PAGE 1 OF 6</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>UNITED STATES</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>SECURITIES AND EXCHANGE COMMISSION</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Washington, D.C. 20549</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>SCHEDULE 13G</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Under the Securities Exchange Act of 1934</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Amendment No. )*</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Hudson City Bancorp, Inc.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Name of Issuer)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Common Stock, $0.01 par value</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Title of Class of Securities)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>443683107</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(CUSIP Number)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>December 31, 2007</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Date of Event Which Requires Filing of this Statement)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Check the appropriate box to designate the rule pursuant to which this Schedule is filed:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font face=Wingdings>x</font><font size=2> Rule 13d-1(b)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2><font face=Wingdings>o</font> Rule 13d-1(c)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2><font face=Wingdings>o</font> Rule 13d-1(d)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>*The remainder of this cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.     </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The information required in the remainder of this cover page shall not be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes). </font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="312" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CUSIP NO. 443683107</font></p> </td>
+        <td width="224" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13G</font></p> </td>
+        <td width="108" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PAGE 2 OF 6</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="284" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1.  </font></p> </td>
+        <td width="236" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>NAMES OF REPORTING PERSONS.  </font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="548" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="500" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font SIZE=2>I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY).</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="404" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="356" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Franklin Mutual Advisers, LLC (22-3463202)  </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="452" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>2.  </font></p> </td>
+        <td width="404" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="92" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="44" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(a)</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="108" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="60" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(b) X</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="164" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>3.  </font></p> </td>
+        <td width="116" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>SEC USE ONLY</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="356" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>4.  </font></p> </td>
+        <td width="308" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CITIZENSHIP OR PLACE OF ORGANIZATION</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="132" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="84" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Delaware</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2>NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="252" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>5.  </font></p> </td>
+        <td width="156" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>SOLE VOTING POWER</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="212" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="116" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(See Item 4)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="268" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>6.  </font></p> </td>
+        <td width="172" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>SHARED VOTING POWER</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="124" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="28" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>0</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="292" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>7.  </font></p> </td>
+        <td width="196" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>SOLE DISPOSITIVE POWER</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="212" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="116" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(See Item 4)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="308" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>8.  </font></p> </td>
+        <td width="212" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>SHARED DISPOSITIVE POWER</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="124" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="28" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>0</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="548" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>9.  </font></p> </td>
+        <td width="500" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="148" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="100" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>28,380,012</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="460" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>10.  </font></p> </td>
+        <td width="412" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="212" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="164" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>CERTAIN SHARES <font face=Wingdings>o</font></font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="460" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>11.  </font></p> </td>
+        <td width="412" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="52" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>5.5%</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="260" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>12.  </font></p> </td>
+        <td width="212" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>TYPE OF REPORTING PERSON</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="228" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="180" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>IA, OO  (See Item 4)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="312" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CUSIP NO. 443683107</font></p> </td>
+        <td width="224" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13G</font></p> </td>
+        <td width="108" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PAGE 3 OF 6</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+<font size=2>Item 1. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>(a)  Name of Issuer</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="260" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="220" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Hudson City Bancorp, Inc.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>(b)  Address of Issuer's Principal Executive Offices</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="220" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="180" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>West 80 Century Road</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="196" style='border-collapse:collapse; '>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="156" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Paramus, NJ 07652</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="76" style='border-collapse:collapse'>
+    <tr >
+        <td width="76" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Item 2.  </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> (a)  Name of Person Filing</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="289" style='border-collapse:collapse'>
+    <tr >
+        <td width="37" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="252" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Franklin Mutual Advisers, LLC</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>(b)  Address of Principal Business Office or, if none, Residence</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="276" style='border-collapse:collapse; '>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="236" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>101 John F. Kennedy Parkway</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="236" style='border-collapse:collapse; '>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="196" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Short Hills, NJ  07078</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>(c)  Citizenship</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="124" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="84" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Delaware</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>(d)  Title of Class of Securities</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="292" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="252" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Common Stock, $0.01 par value</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="156" style='border-collapse:collapse; '>
+    <tr >
+        <td width="156" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(e)  CUSIP Number  </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="132" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="92" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>443683107  </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="312" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CUSIP NO. 443683107</font></p> </td>
+        <td width="224" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13G</font></p> </td>
+        <td width="108" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PAGE 4 OF 6</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'>
+<font size=2>Item 3.  If this statement is filed pursuant to &sect;&sect;240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> Broker or dealer registered under section 15 of the Act (15     U.S.C. 78o).</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c).</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c).</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C 80a-8).</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font face=Wingdings>x</font><font size=2> An investment adviser in accordance with &sect;240.13d-1(b)(1)(ii)(E);</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> An employee benefit plan or endowment fund in accordance with &sect;240.13d-1(b)(1)(ii)(F);</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> A parent holding company or control person in accordance with &sect;240.13d-1(b)(1)(ii)(G);</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font> Group, in accordance with &sect;240.13d-1(b)(1)(ii)(J).</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Item 4.  Ownership.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The securities reported herein (the &#147;Securities&#148;) are beneficially owned by one or more open-end investment companies or other managed accounts which, pursuant to investment management contracts, are managed by Franklin Mutual Advisers, LLC ("FMA"), an indirect wholly owned subsidiary of Franklin Resources, Inc. ("FRI"). Such investment management contracts grant to FMA all investment and voting power over the securities owned by such investment management clients.  Therefore, FMA may be deemed to be, for purposes of Rule 13d-3 under the Act, the beneficial owner of the Securities.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Beneficial ownership by investment management subsidiaries and other affiliates of FRI is being reported in conformity with the guidelines articulated by the SEC staff in Release No. 34-39538 (January 12, 1998) relating to organizations, such as FRI, where related entities exercise voting and investment powers over the securities being reported independently from each other. The voting and investment powers held by FMA are exercised independently from FRI (FMA&#146;s parent holding company) and from all other investment management subsidiaries of FRI (FRI, its affiliates and investment management subsidiaries other than FMA are, collectively, &#147;FRI affiliates&#148;). Furthermore, internal policies and procedures of FMA and FRI establish informational barriers that prevent the flow between FMA and the FRI affiliates of information that relates to the voting and investment powers over the securities owned by
+their respective investment management clients. Consequently, FMA and the FRI affiliates report the securities over which they hold investment and voting power separately from each other for purposes of Section 13 of the Act.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Charles B. Johnson and Rupert H. Johnson, Jr. (the "Principal Shareholders") each own in excess of 10% of the outstanding common stock of FRI and are the principal stockholders of FRI. However, because FMA exercises voting and investment powers on behalf of its investment management clients independently of FRI, the Principal Shareholders, and their respective affiliates, beneficial ownership of the securities being reported by FMA is being attributed only to FMA. FMA disclaims any pecuniary interest in any of the Securities.  In addition, the filing of this Schedule 13G on behalf of FMA should not be construed as an admission that it is, and it disclaims that it is, the beneficial owner, as defined in Rule 13d-3, of any of the Securities.</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="312" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CUSIP NO. 443683107</font></p> </td>
+        <td width="224" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13G</font></p> </td>
+        <td width="108" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PAGE 5 OF 6</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Furthermore, FMA believes that it is not a "group" with FRI, the Principal Shareholders, or their respective affiliates within the meaning of Rule 13d-5 under the Act and that none of them are otherwise required to attribute to each other the beneficial ownership of the Securities held by any of them or by any persons or entities for whom or for which FRI subsidiaries provide investment management services.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="284" style='border-collapse:collapse; '>
+    <tr >
+        <td width="24" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="260" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(a) Amount beneficially owned:</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="156" style='border-collapse:collapse; '>
+    <tr >
+        <td width="56" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="100" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>28,380,012</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="212" style='border-collapse:collapse'>
+    <tr >
+        <td width="24" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="188" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(b) Percent of class:</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="108" style='border-collapse:collapse'>
+    <tr >
+        <td width="56" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="52" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>5.5%</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="428" style='border-collapse:collapse'>
+    <tr >
+        <td width="24" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="404" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(c) Number of shares as to which the person has:</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="412" style='border-collapse:collapse; '>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="372" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(i) Sole power to vote or to direct the vote</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="588" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="416" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Franklin Mutual Advisers, LLC:</font></p> </td>
+        <td width="100" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>28,380,012</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="428" style='border-collapse:collapse'>
+    <tr >
+        <td width="32" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="396" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(ii) Shared power to vote or to direct the vote  </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="28" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>0</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="516" style='border-collapse:collapse'>
+    <tr >
+        <td width="24" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="492" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(iii) Sole power to dispose or to direct the disposition of</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="588" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="416" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Franklin Mutual Advisers, LLC:</font></p> </td>
+        <td width="100" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>28,380,012</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="532" style='border-collapse:collapse; '>
+    <tr >
+        <td width="32" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="500" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(iv) Shared power to dispose or to direct the disposition of</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="28" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>0</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Item 5.  Ownership of Five Percent or Less of a Class</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the following [].  Not Applicable</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Item 6.  Ownership of More than Five Percent on Behalf of Another Person</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>The clients of Franklin Mutual Advisers, LLC, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or power to direct the receipt of dividends from, as well as the proceeds from the sale of, the securities reported on in this statement.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>Item 7.  Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>Not Applicable</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Item 8.  Identification and Classification of Members of the Group</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="204" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="132" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Not Applicable</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Item 9.  Notice of Dissolution of Group</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="204" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="132" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Not Applicable</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="312" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CUSIP NO. 443683107</font></p> </td>
+        <td width="224" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13G</font></p> </td>
+        <td width="108" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PAGE 6 OF 6</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+<font size=2>Item 10. Certification</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>This report shall not be construed as an admission by the person filing the report that it is the beneficial owner of any securities covered by this report.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font SIZE=2>SIGNATURE</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Dated: January 10, 2008</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Franklin Mutual Advisers, LLC</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>By:  /s/BRADLEY TAKAHASHI</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="244" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:64.8%'><font size=1>&nbsp;</font></p> </td>
+        <td width="204" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:64.8%'><font size=2>-----------------------</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="196" style='border-collapse:collapse; '>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="156" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Bradley Takahashi</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="436" style='border-collapse:collapse; '>
+    <tr >
+        <td width="40" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="396" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Vice President of Franklin Mutual Advisers, LLC</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
