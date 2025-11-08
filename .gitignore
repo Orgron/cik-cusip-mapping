@@ -20,3 +20,7 @@ analyze_failed.py
 download_failed.sh
 test_fixes.py
 failed_filings/
+analyze_new_failed.py
+download_new_failed.py
+download_actual_filings.py
+new_failed_filings/
