@@ -14,3 +14,9 @@
 .pytest_cache
 htmlcov/
 .coverage.*
+
+# Temporary test/debug files
+analyze_failed.py
+download_failed.sh
+test_fixes.py
+failed_filings/
