@@ -790,6 +790,90 @@ class TestExtractCusip:
         if result:
             assert is_valid_cusip(result)
 
+    def test_extract_cusip_skips_header(self):
+        """Test that SEC header is skipped to avoid false positives."""
+        text = """
+        <SEC-HEADER>
+        IRS NUMBER: 841280679
+        DATE OF NAME CHANGE: 19960928
+        </SEC-HEADER>
+        <DOCUMENT>
+        CUSIP NO. 140065103
+        </DOCUMENT>
+        """
+
+        result = extract_cusip(text)
+        assert result == "140065103", f"Expected 140065103 but got {result}"
+
+    def test_extract_cusip_numeric_nine_digit(self):
+        """Test extraction of all-numeric 9-digit CUSIPs."""
+        # These should not be rejected as dates or zip codes
+        test_cases = [
+            ("CUSIP: 140065103", "140065103"),
+            ("CUSIP Number: 292758109", "292758109"),
+            ("(CUSIP Number)\n903236107", "903236107"),
+        ]
+
+        for text, expected in test_cases:
+            result = extract_cusip(text)
+            assert result == expected, f"For '{text}', expected {expected} but got {result}"
+
+    def test_is_valid_cusip_rejects_dates(self):
+        """Test that date-like numbers are rejected in strict mode."""
+        # Dates should be rejected in strict mode
+        assert not is_valid_cusip("20060601", strict=True)
+        assert not is_valid_cusip("19960928", strict=True)
+        assert not is_valid_cusip("20070702", strict=True)
+
+    def test_is_valid_cusip_rejects_phone_numbers(self):
+        """Test that 10-digit phone numbers are rejected."""
+        assert not is_valid_cusip("6106691000", strict=True)
+        assert not is_valid_cusip("3103958005", strict=True)
+
+    def test_is_valid_cusip_zip_code_pattern_fixed(self):
+        """Test that 9-digit CUSIPs are not rejected as zip codes."""
+        # This was the bug: pattern ^\d{5}-?\d{4}$ was matching 9-digit numbers
+        # These should be valid
+        assert is_valid_cusip("140065103", strict=False)
+        assert is_valid_cusip("292758109", strict=False)
+
+        # But actual zip codes should be rejected
+        assert not is_valid_cusip("12345", strict=True)  # 5-digit zip
+        # Note: "12345-6789" would be rejected for having a hyphen (not alphanumeric)
+
+    def test_extract_cusip_real_world_samples(self):
+        """Test extraction from real sample filings."""
+        # Test case from 1004740.txt
+        text1 = """
+        </SEC-HEADER>
+        <DOCUMENT>
+        (Title of Class of Security)
+
+        140065103
+        --------------
+        (CUSIP Number)
+        """
+        assert extract_cusip(text1) == "140065103"
+
+        # Test case from 8504.txt
+        text2 = """
+        </SEC-HEADER>
+        <DOCUMENT>
+        292758109
+        ---------
+        (CUSIP Number)
+
+        <PAGE>
+        CUSIP 292758109                SCHEDULE 13G
+        """
+        assert extract_cusip(text2) == "292758109"
+
+        # Test case with alphanumeric CUSIP
+        text3 = """
+        CUSIP: 86722Q207
+        """
+        assert extract_cusip(text3) == "86722Q207"
+
 
 class TestProcessFilings:
     """Test process_filings function."""

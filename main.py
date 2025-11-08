@@ -253,11 +253,21 @@ def extract_cusip(text: str) -> Optional[str]:
     Returns:
         CUSIP string if found, None otherwise
     """
+    # Skip the SEC header to avoid false positives from IRS numbers, dates, etc.
+    # The actual document starts after </SEC-HEADER> or <DOCUMENT>
+    header_end_markers = [r"</SEC-HEADER>", r"<DOCUMENT>"]
+    for marker in header_end_markers:
+        match = re.search(marker, text, re.IGNORECASE)
+        if match:
+            # Search from after the header
+            text = text[match.end():]
+            break
+
     # Clean HTML entities and tags
     text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
 
-    # CUSIP pattern: 8-10 alphanumeric characters with at least 5 digits
+    # CUSIP pattern: 8-10 alphanumeric characters (but will validate separately)
     cusip_pattern = r"\b[A-Z0-9]{8,10}\b"
 
     # Window method: Look for explicit CUSIP markers
@@ -265,6 +275,8 @@ def extract_cusip(text: str) -> Optional[str]:
         r"CUSIP\s+(?:NO\.?|NUMBER|#)",
         r"CUSIP:",
         r"\bCUSIP\b",
+        r"Cusip\s+#",
+        r"\(CUSIP\s+Number\)",
     ]
 
     for marker in cusip_markers:
@@ -272,17 +284,19 @@ def extract_cusip(text: str) -> Optional[str]:
         if not matches:
             continue
 
-        # Get context around the marker
+        # Get context around the marker (look ahead more than behind)
         for match in matches:
-            start = max(0, match.start() - 500)
-            end = min(len(text), match.end() + 500)
+            start = max(0, match.start() - 100)
+            end = min(len(text), match.end() + 200)
             window = text[start:end]
 
             # Find CUSIP candidates in window
             candidates = re.findall(cusip_pattern, window)
 
+            # Try candidates in order of appearance
+            # Use lenient validation since we have an explicit label
             for candidate in candidates:
-                if is_valid_cusip(candidate):
+                if is_valid_cusip(candidate, strict=False):
                     return candidate
 
     # Fallback: Search entire document
@@ -291,7 +305,8 @@ def extract_cusip(text: str) -> Optional[str]:
     # Score candidates
     scored = []
     for candidate in candidates:
-        if not is_valid_cusip(candidate):
+        # Use strict validation for unlabeled candidates
+        if not is_valid_cusip(candidate, strict=True):
             continue
 
         score = 0
@@ -311,12 +326,14 @@ def extract_cusip(text: str) -> Optional[str]:
     return None
 
 
-def is_valid_cusip(candidate: str) -> bool:
+def is_valid_cusip(candidate: str, strict: bool = True) -> bool:
     """
     Validate if a candidate string is likely a CUSIP.
 
     Args:
         candidate: String to validate
+        strict: If True, apply strict validation (for unlabeled candidates)
+               If False, use lenient validation (for labeled candidates)
 
     Returns:
         True if likely a valid CUSIP
@@ -334,17 +351,49 @@ def is_valid_cusip(candidate: str) -> bool:
     if digit_count < 5:
         return False
 
-    # Exclude common false positives
-    false_positives = [
+    # Exclude common false positives (always applied)
+    common_false_positives = [
         r"^0+$",  # All zeros
-        r"^\d{5}-?\d{4}$",  # Zip codes
+        r"^\d{5}$",  # 5-digit zip codes
+        r"^\d{5}-\d{4}$",  # 9-digit zip codes with hyphen (12345-6789)
         r"FILE",  # Filename patterns
         r"PAGE",
         r"TABLE",
     ]
 
-    for pattern in false_positives:
+    for pattern in common_false_positives:
         if re.match(pattern, candidate):
+            return False
+
+    # Strict validation for unlabeled candidates (document-wide search)
+    if strict:
+        strict_false_positives = [
+            r"^\d{10}$",  # 10-digit numbers (likely phone numbers, file numbers, etc.)
+            r"^(19|20)\d{6}$",  # Dates in YYYYMMDD format (1900s-2000s)
+            r"^\d{8}$",  # 8-digit all-numeric (often dates, file numbers)
+        ]
+
+        for pattern in strict_false_positives:
+            if re.match(pattern, candidate):
+                return False
+
+        # Additional heuristic: CUSIPs typically have a mix of letters and numbers
+        # If it's all digits and 9 characters, be more cautious
+        if candidate.isdigit() and len(candidate) == 9:
+            # Could be valid, but needs to pass extra checks
+            # Reject if it looks like a date or sequential number
+            if candidate.startswith(('19', '20')):  # Likely a date
+                return False
+            # Check if it's too sequential or repetitive
+            if len(set(candidate)) < 4:  # Less than 4 unique digits
+                return False
+
+    # Lenient validation for labeled candidates
+    # If we found it near a CUSIP label, trust the label more
+    # Just do basic sanity checks
+    else:
+        # Still reject obvious non-CUSIPs
+        if candidate.isdigit() and len(candidate) == 10:  # 10-digit phone numbers
             return False
 
     return True
