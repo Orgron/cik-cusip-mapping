@@ -168,6 +168,7 @@ def extract(
 
 
 @cli.command()
+@click.argument("cik")
 @click.argument("accession_number")
 @click.option(
     "--output",
@@ -185,19 +186,20 @@ def extract(
     envvar="SEC_EMAIL",
     help="Your email for SEC headers (or set SEC_EMAIL env var)",
 )
-def download(accession_number, output, sec_name, sec_email):
+def download(cik, accession_number, output, sec_name, sec_email):
     """
-    Download a SEC filing in text format by accession number.
+    Download a SEC filing in text format by CIK and accession number.
 
-    ACCESSION_NUMBER format: NNNNNNNNNN-NN-NNNNNN (e.g., 0001234567-12-000001)
+    CIK: Company's Central Index Key (e.g., 813828)
+    ACCESSION_NUMBER: SEC accession number format NNNNNNNNNN-NN-NNNNNN (e.g., 0001104659-06-026838)
 
     Examples:
 
       # Download a specific filing
-      cik-cusip download 0001234567-12-000001
+      cik-cusip download 813828 0001104659-06-026838
 
       # Download with custom output path
-      cik-cusip download 0001234567-12-000001 -o myfile.txt
+      cik-cusip download 813828 0001104659-06-026838 -o myfile.txt
     """
     # Validate SEC credentials
     if not sec_name or not sec_email:
@@ -216,6 +218,7 @@ def download(accession_number, output, sec_name, sec_email):
     try:
         download_filing_txt(
             accession_number=accession_number,
+            cik=cik,
             output_path=output,
             sec_name=sec_name,
             sec_email=sec_email,

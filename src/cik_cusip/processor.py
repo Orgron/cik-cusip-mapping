@@ -195,15 +195,17 @@ def process_filings(
 def download_filing_txt(
     accession_number: str,
     output_path: str,
+    cik: str = None,
     sec_name: str = None,
     sec_email: str = None,
 ) -> str:
     """
-    Download a filing in text format given its accession number.
+    Download a filing in text format given its accession number and CIK.
 
     Args:
         accession_number: SEC accession number (e.g., 0001234567-12-000001)
         output_path: Path to save the downloaded filing
+        cik: CIK number (required for downloading)
         sec_name: Your name for SEC User-Agent (or set SEC_NAME env var)
         sec_email: Your email for SEC headers (or set SEC_EMAIL env var)
 
@@ -220,16 +222,15 @@ def download_filing_txt(
             "or set SEC_NAME and SEC_EMAIL environment variables."
         )
 
-    # Extract CIK from accession number
-    # Accession format: NNNNNNNNNN-NN-NNNNNN where first 10 digits are CIK
-    cik = accession_number.split("-")[0]
-
-    # Remove dashes from accession number for URL
-    accession_no_dashes = accession_number.replace("-", "")
+    if not cik:
+        raise ValueError(
+            "CIK is required to download a filing. "
+            "Provide the CIK parameter."
+        )
 
     # Construct URL
-    # Format: https://www.sec.gov/Archives/edgar/data/{cik}/{accession_no_dashes}/{accession_number}.txt
-    url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{accession_no_dashes}/{accession_number}.txt"
+    # Format: https://www.sec.gov/Archives/edgar/data/{cik}/{accession_number}.txt
+    url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{accession_number}.txt"
 
     # Create session
     session = create_session(sec_name, sec_email)
