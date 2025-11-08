@@ -125,7 +125,7 @@ def process_filings(
 
         # Step 3: Process each filing
         results = []
-        failed_count = 0
+        cusip_found_count = 0
         start_time = time.time()
         interrupted = False
 
@@ -136,11 +136,11 @@ def process_filings(
             print("\n\n⚠ Interrupt received! Saving partial results...")
             _write_results_to_csv(results, output_csv)
             print(
-                f"✓ Saved {len(results)} CUSIPs extracted before interruption"
+                f"✓ Saved {len(results)} entries before interruption"
             )
             print(
-                f"  Success: {len(results)} | Failed: {failed_count} | "
-                f"Processed: {len(results) + failed_count} of {len(entries)}"
+                f"  With CUSIP: {cusip_found_count} | Without CUSIP: {len(results) - cusip_found_count} | "
+                f"Processed: {len(results)} of {len(entries)}"
             )
             session.close()
             sys.exit(0)
@@ -166,24 +166,36 @@ def process_filings(
                 # Parse CUSIP from filing text
                 cusip = extract_cusip(response.text)
 
+                # Always store result, with empty string if CUSIP not found
+                results.append(
+                    {
+                        "cik": entry["cik"],
+                        "company_name": entry["company_name"],
+                        "form": entry["form"],
+                        "date": entry["date"],
+                        "cusip": cusip if cusip else "",
+                        "accession_number": entry["accession_number"],
+                    }
+                )
+
                 if cusip:
-                    results.append(
-                        {
-                            "cik": entry["cik"],
-                            "company_name": entry["company_name"],
-                            "form": entry["form"],
-                            "date": entry["date"],
-                            "cusip": cusip,
-                            "accession_number": entry["accession_number"],
-                        }
-                    )
+                    cusip_found_count += 1
                     status = f"✓ CUSIP: {cusip}"
                 else:
-                    failed_count += 1
-                    status = "✗ No CUSIP found"
+                    status = "○ No CUSIP found"
 
             except Exception as e:
-                failed_count += 1
+                # Store result even on error, with empty CUSIP
+                results.append(
+                    {
+                        "cik": entry["cik"],
+                        "company_name": entry["company_name"],
+                        "form": entry["form"],
+                        "date": entry["date"],
+                        "cusip": "",
+                        "accession_number": entry["accession_number"],
+                    }
+                )
                 status = f"✗ Error: {str(e)[:30]}"
 
             # Calculate progress and ETA
@@ -204,7 +216,7 @@ def process_filings(
             progress_line = (
                 f"\r[{i}/{len(entries)}] {progress_pct:5.1f}% | "
                 f"ETA: {eta_str:>8} | "
-                f"Success: {len(results)} | Failed: {failed_count} | "
+                f"With CUSIP: {cusip_found_count} | Without: {len(results) - cusip_found_count} | "
                 f"Latest: {company} - {status}"
             )
             print(progress_line, end="", flush=True)
@@ -219,11 +231,11 @@ def process_filings(
         _write_results_to_csv(results, output_csv)
 
         print(
-            f"✓ Complete! Extracted {len(results)} CUSIPs from {len(entries)} filings"
+            f"✓ Complete! Processed {len(results)} filings"
         )
         if len(entries) > 0:
             print(
-                f"  Success: {len(results)} | Failed: {failed_count} | Success rate: {len(results) / len(entries) * 100:.1f}%"
+                f"  With CUSIP: {cusip_found_count} | Without CUSIP: {len(results) - cusip_found_count} | CUSIP found rate: {cusip_found_count / len(entries) * 100:.1f}%"
             )
 
     finally:
