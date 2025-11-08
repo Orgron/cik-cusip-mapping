@@ -8,3 +8,9 @@
 !analysis/manual_input.csv
 *.egg-info
 .env
+
+# pytest and coverage
+.coverage
+.pytest_cache
+htmlcov/
+.coverage.*
