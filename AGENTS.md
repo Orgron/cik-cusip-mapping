@@ -13,13 +13,14 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 
 ## Key Files
 
-- `main.py`: Core functionality (565 lines)
+- `main.py`: Core functionality
   - `RateLimiter` class: Token bucket rate limiting
   - `create_session()`: Creates SEC-compliant HTTP session
   - `download_indices()`: Downloads multiple index files
   - `parse_index()`: Parses index files for target forms
   - `extract_cusip()`: Extracts CUSIP from filing text using pattern matching
-  - `process_filings()`: Main orchestration function
+  - `load_cik_filter()`: Loads CIK filter from text file
+  - `process_filings()`: Main orchestration function with progress display
 - `test_main.py`: Comprehensive pytest test suite with 100% coverage
 - `README.md`: User-facing documentation
 - `.gitignore`: Excludes data/, pytest, and coverage files
@@ -82,6 +83,8 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 - **Rate Limiting**: Token bucket pattern (thread-safe with Lock)
 - **Error Handling**: Retry with exponential backoff, graceful degradation
 - **Validation**: Multi-layered CUSIP validation (length, composition, false positive filtering)
+- **CIK Filtering**: Optional filtering to process only specific CIKs
+- **Progress Display**: Real-time progress bar with ETA, success/failure counts, and latest filing info
 
 ## Common User Requests & How to Handle
 
@@ -123,6 +126,15 @@ This is a Python tool that extracts CUSIP identifiers from SEC 13D and 13G filin
 5. Test on known cases
 6. Update test suite with new cases
 
+### "Only process specific companies/CIKs"
+
+**GUIDE USER TO:**
+- Create a text file with one CIK per line
+- Use `--cik-filter` argument or `cik_filter_file` parameter
+- Example: `python main.py --cik-filter my_ciks.txt --all`
+- CIKs are normalized automatically (padding with zeros to 10 digits)
+- This significantly reduces processing time when tracking specific companies
+
 ## Testing
 
 The project has comprehensive pytest coverage:
@@ -161,6 +173,12 @@ python main.py --sec-name "Test User" --sec-email "test@example.com" --all
 # Download specific range
 python main.py --sec-name "Test User" --sec-email "test@example.com" \
   --start-year 2020 --end-year 2024
+
+# Filter for specific CIKs only
+echo "1234567" > ciks.txt
+echo "9876543" >> ciks.txt
+python main.py --sec-name "Test User" --sec-email "test@example.com" \
+  --cik-filter ciks.txt --all
 
 # Run tests
 pytest test_main.py -v
@@ -202,6 +220,7 @@ process_filings(
     start_quarter: int,      # Start quarter 1-4
     end_year: int,           # End year (default: current)
     end_quarter: int,        # End quarter (default: current)
+    cik_filter_file: str,    # Optional: path to CIK filter file
 )
 ```
 
