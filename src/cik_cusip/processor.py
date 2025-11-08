@@ -2,6 +2,8 @@
 
 import csv
 import os
+import signal
+import sys
 import time
 
 from .cusip import extract_cusip
@@ -9,6 +11,33 @@ from .index import download_indices, parse_index
 from .rate_limiter import RateLimiter
 from .session import create_session
 from .utils import load_cik_filter
+
+
+def _write_results_to_csv(results, output_csv):
+    """
+    Write results to CSV file.
+
+    Args:
+        results: List of result dictionaries
+        output_csv: Path to output CSV file
+    """
+    print(f"\nWriting {len(results)} results to {output_csv}")
+    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+    with open(output_csv, "w", newline="", encoding="utf-8") as f:
+        if results:
+            writer = csv.DictWriter(
+                f,
+                fieldnames=[
+                    "cik",
+                    "company_name",
+                    "form",
+                    "date",
+                    "cusip",
+                    "accession_number",
+                ],
+            )
+            writer.writeheader()
+            writer.writerows(results)
 
 
 def process_filings(
@@ -98,10 +127,31 @@ def process_filings(
         results = []
         failed_count = 0
         start_time = time.time()
+        interrupted = False
+
+        # Set up signal handler for graceful abort
+        def signal_handler(sig, frame):
+            nonlocal interrupted
+            interrupted = True
+            print("\n\n⚠ Interrupt received! Saving partial results...")
+            _write_results_to_csv(results, output_csv)
+            print(
+                f"✓ Saved {len(results)} CUSIPs extracted before interruption"
+            )
+            print(
+                f"  Success: {len(results)} | Failed: {failed_count} | "
+                f"Processed: {len(results) + failed_count} of {len(entries)}"
+            )
+            session.close()
+            sys.exit(0)
+
+        # Register the signal handler
+        original_handler = signal.signal(signal.SIGINT, signal_handler)
 
         os.makedirs(os.path.dirname(output_csv), exist_ok=True)
 
         print(f"\nProcessing filings (rate limited to {requests_per_second} req/s)...")
+        print("(Press Ctrl+C to abort and save partial results)")
         print()  # Empty line for progress bar
 
         for i, entry in enumerate(entries, 1):
@@ -162,23 +212,11 @@ def process_filings(
         # Print newline after progress bar completes
         print()
 
+        # Restore original signal handler
+        signal.signal(signal.SIGINT, original_handler)
+
         # Step 4: Write results to CSV
-        print(f"\nWriting {len(results)} results to {output_csv}")
-        with open(output_csv, "w", newline="", encoding="utf-8") as f:
-            if results:
-                writer = csv.DictWriter(
-                    f,
-                    fieldnames=[
-                        "cik",
-                        "company_name",
-                        "form",
-                        "date",
-                        "cusip",
-                        "accession_number",
-                    ],
-                )
-                writer.writeheader()
-                writer.writerows(results)
+        _write_results_to_csv(results, output_csv)
 
         print(
             f"✓ Complete! Extracted {len(results)} CUSIPs from {len(entries)} filings"
