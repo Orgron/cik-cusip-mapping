@@ -48,6 +48,7 @@ cik-cusip-mapping/
   - `cik-cusip extract`: Extract CUSIPs from filings (main functionality)
   - `cik-cusip download`: Download filing by accession number
 - Handles command-line arguments and environment variables
+- Supports `--skip-existing` flag to avoid re-processing filings already in the output CSV
 
 ### src/cik_cusip/rate_limiter.py
 - `RateLimiter` class: Thread-safe token bucket rate limiter
@@ -73,6 +74,8 @@ cik-cusip-mapping/
 - `process_filings()`: Main orchestration function with progress display
 - `download_filing_txt()`: Downloads filing by accession number
 - Handles CSV output with accession numbers
+- `_load_existing_results()`: Loads existing CSV to identify already-processed filings
+- Supports skipping already-processed filings via `skip_existing` parameter
 
 ### src/cik_cusip/utils.py
 - `load_cik_filter()`: Loads CIK filter from text file
@@ -184,6 +187,7 @@ cik-cusip download 813828 0001104659-06-026838
 **DO:**
 - Suggest increasing `--rate` if user has authorization
 - Suggest `--skip-index` to reuse existing indices
+- Suggest `--skip-existing` to avoid re-processing filings already in the output CSV
 - Suggest reducing date range to process fewer filings
 
 **DON'T:**
@@ -231,6 +235,15 @@ cik-cusip download 813828 0001104659-06-026838
 - Use the `cik-cusip download` command with both CIK and accession number
 - Both CIK and accession numbers are included in the CSV output
 - Example: `cik-cusip download 813828 0001104659-06-026838 -o filing.txt`
+
+### "I want to incrementally update my data"
+
+**GUIDE USER TO:**
+- Use the `--skip-existing` flag to avoid re-processing filings already in the output CSV
+- The tool checks accession numbers to identify already-processed filings
+- Existing results are preserved and merged with new results
+- Example: `cik-cusip extract --skip-existing --all`
+- This is especially useful when running periodic updates or resuming interrupted extractions
 
 ## Testing
 
@@ -315,8 +328,9 @@ cik-cusip download CIK ACCESSION       # Download filing by CIK and accession nu
 ### Main Functions
 ```python
 # processor.py
-process_filings(index_dir, output_csv, forms, sec_name, sec_email, ...)
+process_filings(index_dir, output_csv, forms, sec_name, sec_email, skip_existing, ...)
 download_filing_txt(cik, accession_number, output_path, sec_name, sec_email)
+_load_existing_results(output_csv) -> tuple[set, list]
 
 # index.py
 download_indices(output_dir, session, start_year, start_quarter, ...)
