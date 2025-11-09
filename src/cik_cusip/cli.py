@@ -89,6 +89,12 @@ def cli():
     type=click.IntRange(1, 4),
     help="Ending quarter 1-4 (default: current quarter)",
 )
+@click.option(
+    "--flush-batch-size",
+    type=int,
+    default=100,
+    help="Number of filings to process before flushing to CSV (default: 100)",
+)
 def extract(
     index_dir,
     output,
@@ -103,6 +109,7 @@ def extract(
     start_quarter,
     end_year,
     end_quarter,
+    flush_batch_size,
 ):
     """
     Extract CUSIPs from SEC 13D/13G filings.
@@ -171,6 +178,7 @@ def extract(
         end_year=end_year,
         end_quarter=end_quarter,
         cik_filter_file=cik_filter,
+        flush_batch_size=flush_batch_size,
     )
 
 

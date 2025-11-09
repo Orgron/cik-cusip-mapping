@@ -85,6 +85,7 @@ def process_filings(
     end_year: int = None,
     end_quarter: int = None,
     cik_filter_file: str = None,
+    flush_batch_size: int = 100,
 ):
     """
     Main function to process SEC filings and extract CUSIPs.
@@ -103,6 +104,7 @@ def process_filings(
         end_year: Ending year for indices (default: current year)
         end_quarter: Ending quarter (default: current quarter)
         cik_filter_file: Optional path to text file with CIKs to filter (one per line)
+        flush_batch_size: Number of filings to process before flushing to CSV (default: 100)
     """
     # Get SEC credentials from env vars if not provided
     sec_name = sec_name or os.environ.get("SEC_NAME")
@@ -177,6 +179,7 @@ def process_filings(
 
         # Step 3: Process each filing
         results = []
+        all_results = existing_results.copy()  # Start with existing results
         cusip_found_count = 0
         start_time = time.time()
         interrupted = False
@@ -186,8 +189,7 @@ def process_filings(
             nonlocal interrupted
             interrupted = True
             print("\n\n⚠ Interrupt received! Saving partial results...")
-            # Merge existing results with new results
-            all_results = existing_results + results
+            # all_results is already up-to-date from periodic flushes
             _write_results_to_csv(all_results, output_csv)
             print(
                 f"✓ Saved {len(all_results)} total entries ({len(existing_results)} existing + {len(results)} new) before interruption"
@@ -205,6 +207,7 @@ def process_filings(
         os.makedirs(os.path.dirname(output_csv), exist_ok=True)
 
         print(f"\nProcessing filings (rate limited to {requests_per_second} req/s)...")
+        print(f"Results will be flushed to CSV every {flush_batch_size} filings")
         print("(Press Ctrl+C to abort and save partial results)")
         print()  # Empty line for progress bar
 
@@ -275,14 +278,22 @@ def process_filings(
             )
             print(progress_line, end="", flush=True)
 
+            # Add the new result to all_results
+            all_results.append(results[-1])
+
+            # Periodic flush to CSV
+            if len(results) % flush_batch_size == 0:
+                _write_results_to_csv(all_results, output_csv)
+                print(f"\n💾 Flushed {len(all_results)} results to CSV (batch checkpoint)")
+                print()  # Empty line for next progress bar
+
         # Print newline after progress bar completes
         print()
 
         # Restore original signal handler
         signal.signal(signal.SIGINT, original_handler)
 
-        # Step 4: Write results to CSV (merge with existing if skip_existing was used)
-        all_results = existing_results + results
+        # Step 4: Final write to CSV (all_results already contains existing + new)
         _write_results_to_csv(all_results, output_csv)
 
         print(
