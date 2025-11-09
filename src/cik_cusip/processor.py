@@ -13,6 +13,37 @@ from .session import create_session
 from .utils import load_cik_filter
 
 
+def _load_existing_results(output_csv):
+    """
+    Load existing results from CSV file.
+
+    Args:
+        output_csv: Path to output CSV file
+
+    Returns:
+        Set of accession numbers that have already been processed,
+        and list of existing result dictionaries
+    """
+    if not os.path.exists(output_csv):
+        return set(), []
+
+    existing_accessions = set()
+    existing_results = []
+
+    try:
+        with open(output_csv, "r", newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if "accession_number" in row and row["accession_number"]:
+                    existing_accessions.add(row["accession_number"])
+                    existing_results.append(row)
+        print(f"Loaded {len(existing_results)} existing results from {output_csv}")
+        return existing_accessions, existing_results
+    except Exception as e:
+        print(f"Warning: Could not load existing results from {output_csv}: {e}")
+        return set(), []
+
+
 def _write_results_to_csv(results, output_csv):
     """
     Write results to CSV file.
@@ -48,6 +79,7 @@ def process_filings(
     sec_email: str = None,
     requests_per_second: float = 10.0,
     skip_index_download: bool = False,
+    skip_existing: bool = False,
     start_year: int = None,
     start_quarter: int = 1,
     end_year: int = None,
@@ -65,6 +97,7 @@ def process_filings(
         sec_email: Your email for SEC headers (or set SEC_EMAIL env var)
         requests_per_second: Rate limit for SEC requests (default: 10)
         skip_index_download: If True, skip downloading indices if they exist
+        skip_existing: If True, skip forms that are already in the output CSV
         start_year: Starting year for indices (default: 1993)
         start_quarter: Starting quarter (1-4, default: 1)
         end_year: Ending year for indices (default: current year)
@@ -86,6 +119,12 @@ def process_filings(
     if cik_filter_file:
         cik_filter = load_cik_filter(cik_filter_file)
         print(f"Loaded {len(cik_filter)} CIKs from filter file: {cik_filter_file}")
+
+    # Load existing results if skip_existing is enabled
+    existing_accessions = set()
+    existing_results = []
+    if skip_existing:
+        existing_accessions, existing_results = _load_existing_results(output_csv)
 
     # Create session and rate limiter
     session = create_session(sec_name, sec_email)
@@ -123,6 +162,19 @@ def process_filings(
                 f"Filtered to {len(entries)} filings matching {len(cik_filter)} CIKs (removed {original_count - len(entries)} filings)"
             )
 
+        # Step 2.6: Filter out already-processed filings if skip_existing is enabled
+        if skip_existing and existing_accessions:
+            original_count = len(entries)
+            entries = [
+                entry
+                for entry in entries
+                if entry["accession_number"] not in existing_accessions
+            ]
+            skipped_count = original_count - len(entries)
+            print(
+                f"Skipping {skipped_count} already-processed filings (processing {len(entries)} new filings)"
+            )
+
         # Step 3: Process each filing
         results = []
         cusip_found_count = 0
@@ -134,12 +186,14 @@ def process_filings(
             nonlocal interrupted
             interrupted = True
             print("\n\n⚠ Interrupt received! Saving partial results...")
-            _write_results_to_csv(results, output_csv)
+            # Merge existing results with new results
+            all_results = existing_results + results
+            _write_results_to_csv(all_results, output_csv)
             print(
-                f"✓ Saved {len(results)} entries before interruption"
+                f"✓ Saved {len(all_results)} total entries ({len(existing_results)} existing + {len(results)} new) before interruption"
             )
             print(
-                f"  With CUSIP: {cusip_found_count} | Without CUSIP: {len(results) - cusip_found_count} | "
+                f"  New results - With CUSIP: {cusip_found_count} | Without CUSIP: {len(results) - cusip_found_count} | "
                 f"Processed: {len(results)} of {len(entries)}"
             )
             session.close()
@@ -227,15 +281,20 @@ def process_filings(
         # Restore original signal handler
         signal.signal(signal.SIGINT, original_handler)
 
-        # Step 4: Write results to CSV
-        _write_results_to_csv(results, output_csv)
+        # Step 4: Write results to CSV (merge with existing if skip_existing was used)
+        all_results = existing_results + results
+        _write_results_to_csv(all_results, output_csv)
 
         print(
-            f"✓ Complete! Processed {len(results)} filings"
+            f"✓ Complete! Processed {len(results)} new filings"
         )
-        if len(entries) > 0:
+        if skip_existing and existing_results:
             print(
-                f"  With CUSIP: {cusip_found_count} | Without CUSIP: {len(results) - cusip_found_count} | CUSIP found rate: {cusip_found_count / len(entries) * 100:.1f}%"
+                f"  Total results in CSV: {len(all_results)} ({len(existing_results)} existing + {len(results)} new)"
+            )
+        if len(results) > 0:
+            print(
+                f"  New results - With CUSIP: {cusip_found_count} | Without CUSIP: {len(results) - cusip_found_count} | CUSIP found rate: {cusip_found_count / len(results) * 100:.1f}%"
             )
 
     finally:

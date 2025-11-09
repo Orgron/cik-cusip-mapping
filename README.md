@@ -100,7 +100,18 @@ cik-cusip extract \
   --index-dir data/indices \
   --output data/cusips.csv \
   --skip-index \
+  --skip-existing \
   --rate 5 \
+  --all \
+  --sec-name "Jane Doe" \
+  --sec-email "jane@example.com"
+```
+
+Skip re-processing already-extracted filings (incremental updates):
+
+```bash
+cik-cusip extract \
+  --skip-existing \
   --all \
   --sec-name "Jane Doe" \
   --sec-email "jane@example.com"
@@ -204,6 +215,18 @@ process_filings(
     end_year=2024,
 )
 
+# Skip already-processed filings (incremental updates)
+process_filings(
+    index_dir='data/indices',
+    output_csv='data/cusips.csv',
+    forms=('13D', '13G'),
+    sec_name='Jane Doe',
+    sec_email='jane@example.com',
+    skip_existing=True,  # Skip filings already in the output CSV
+    start_year=2020,
+    end_year=2024,
+)
+
 # Download a specific filing by CIK and accession number
 download_filing_txt(
     cik='813828',
@@ -281,6 +304,7 @@ Options:
   --index-dir PATH          Directory for index files (default: data/indices)
   --output PATH             Path to output CSV (default: data/cusips.csv)
   --skip-index              Skip index download if files exist
+  --skip-existing           Skip forms that are already in the output CSV
   --sec-name TEXT           Your name for SEC User-Agent (or set SEC_NAME env var)
   --sec-email TEXT          Your email for SEC headers (or set SEC_EMAIL env var)
   --rate FLOAT              Requests per second (default: 10.0)
@@ -376,6 +400,30 @@ You can filter filings to process only specific CIKs by providing a text file wi
    ```
 
 This is useful when you only need to track filings for specific companies and want to reduce processing time.
+
+## Incremental Updates
+
+The `--skip-existing` flag allows you to perform incremental updates without re-processing filings that are already in your output CSV:
+
+```bash
+# Initial extraction
+cik-cusip extract --start-year 2020 --end-year 2023
+
+# Later, update with 2024 data without re-processing 2020-2023
+cik-cusip extract --skip-existing --start-year 2020 --end-year 2024
+```
+
+How it works:
+- The tool reads the existing output CSV and identifies all accession numbers already processed
+- New filings are filtered to exclude those already in the CSV
+- After processing, existing and new results are merged into the output file
+- This significantly reduces processing time when updating your dataset
+
+Use cases:
+- Periodic updates (e.g., quarterly data updates)
+- Resuming interrupted extractions
+- Adding new quarters to an existing dataset
+- Re-running with expanded date ranges
 
 ## Progress Display
 

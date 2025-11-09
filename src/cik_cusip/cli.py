@@ -37,6 +37,11 @@ def cli():
     help="Skip index download if files exist",
 )
 @click.option(
+    "--skip-existing",
+    is_flag=True,
+    help="Skip forms that are already in the output CSV",
+)
+@click.option(
     "--sec-name",
     envvar="SEC_NAME",
     help="Your name for SEC User-Agent (or set SEC_NAME env var)",
@@ -88,6 +93,7 @@ def extract(
     index_dir,
     output,
     skip_index,
+    skip_existing,
     sec_name,
     sec_email,
     rate,
@@ -159,6 +165,7 @@ def extract(
         sec_email=sec_email,
         requests_per_second=rate,
         skip_index_download=skip_index,
+        skip_existing=skip_existing,
         start_year=start_year,
         start_quarter=start_quarter,
         end_year=end_year,
