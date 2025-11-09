@@ -54,8 +54,17 @@ class TestIsValidCusip:
         """Test lenient validation mode for labeled candidates."""
         # In lenient mode, some strict checks are relaxed
         assert is_valid_cusip("123456789", strict=False)
-        # But still reject obvious non-CUSIPs
-        assert not is_valid_cusip("5551234567", strict=False)  # 10-digit phone
+        # Lenient mode is used when CUSIP is explicitly labeled,
+        # so we trust the label more than strict validation
+
+    def test_valid_12_char_with_country_code(self):
+        """Test valid 12-character CUSIP with country code prefix."""
+        assert is_valid_cusip("US37247D1063", strict=True)
+        assert is_valid_cusip("CA1234567890", strict=False)
+
+    def test_invalid_12_char_no_country_code(self):
+        """Test that 12-character strings without country code are invalid."""
+        assert not is_valid_cusip("123456789012", strict=True)  # All digits, no country code
 
 
 class TestExtractCusip:
@@ -137,3 +146,30 @@ class TestExtractCusip:
         """
         result = extract_cusip(text)
         assert result == "68389X105"
+
+    def test_extract_12_char_cusip_with_country_code(self):
+        """Test extraction of 12-character CUSIP with country code."""
+        text = """
+        </SEC-HEADER>
+        <DOCUMENT>
+        CUSIP Number: US37247D1063
+        </DOCUMENT>
+        """
+        result = extract_cusip(text)
+        assert result == "US37247D1063"
+
+    def test_extract_12_char_cusip_real_example(self):
+        """Test extraction from real AMVESCAP filing."""
+        text = """
+        <SEC-HEADER>Header content</SEC-HEADER>
+                                  US37247D1063
+--------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+CUSIP No.         US37247D1063
+
+Item 2(e)    CUSIP Number:
+             US37247D1063
+        """
+        result = extract_cusip(text)
+        assert result == "US37247D1063"

@@ -47,7 +47,8 @@ def extract_cusip(text: str) -> Optional[str]:
     text = re.sub(r'\b([A-Z0-9]{6})[\s&nbsp;]+([A-Z0-9]{2})[\s&nbsp;]+([A-Z0-9])\b', r'\1\2\3', text, flags=re.IGNORECASE)
 
     # Pattern 3: Remove parentheses around CUSIPs - e.g., "(736420100)" → "736420100"
-    text = re.sub(r'\(([A-Z0-9]{8,10})\)', r'\1', text)
+    # Also handle 12-character CUSIPs with country codes
+    text = re.sub(r'\(([A-Z0-9]{8,12})\)', r'\1', text)
 
     # Pattern 4: Separate CUSIPs from form types like "13G/A", "13D", "SC 13G"
     # e.g., "82257T20213G/A" → "82257T202 13G/A"
@@ -57,11 +58,14 @@ def extract_cusip(text: str) -> Optional[str]:
     text = re.sub(r"&[a-z]+;", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", " ", text)
 
-    # CUSIP pattern: 8-10 alphanumeric characters
+    # CUSIP pattern:
+    # - 12 characters with country code prefix (e.g., US37247D1063, CA1234567890)
+    # - OR 8-10 alphanumeric characters (standard CUSIP)
     # IMPORTANT: Must contain at least one digit to avoid matching English words
     # like "WASHINGTON", "remainder", etc.
-    # This pattern requires at least one digit anywhere in the string
-    cusip_pattern = r"\b(?=\w*\d)[A-Z0-9]{8,10}\b"
+    # 12-char pattern: 2 letters (country) + 10 alphanumeric
+    # 8-10 char pattern: requires at least one digit anywhere in the string
+    cusip_pattern = r"\b(?:[A-Z]{2}[A-Z0-9]{10}|(?=\w*\d)[A-Z0-9]{8,10})\b"
 
     # Window method: Look for explicit CUSIP markers
     cusip_markers = [
@@ -146,8 +150,15 @@ def is_valid_cusip(candidate: str, strict: bool = True) -> bool:
     Returns:
         True if likely a valid CUSIP
     """
-    # Length check
-    if len(candidate) < 8 or len(candidate) > 10:
+    # Length check: 8-10 for standard CUSIP, or 12 for country-prefixed CUSIP
+    if len(candidate) == 12:
+        # Country-prefixed CUSIP: first 2 chars must be letters (country code)
+        if not (candidate[:2].isalpha() and candidate[2:].isalnum()):
+            return False
+    elif len(candidate) >= 8 and len(candidate) <= 10:
+        # Standard CUSIP
+        pass
+    else:
         return False
 
     # Must be alphanumeric only
@@ -155,6 +166,8 @@ def is_valid_cusip(candidate: str, strict: bool = True) -> bool:
         return False
 
     # Must have at least 5 digits (CUSIPs are not all letters)
+    # For 12-character CUSIPs, the first 2 are country code letters,
+    # so we need at least 5 digits in the remaining 10 characters
     digit_count = sum(1 for c in candidate if c.isdigit())
     if digit_count < 5:
         return False

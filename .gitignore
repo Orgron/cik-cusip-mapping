@@ -24,3 +24,6 @@ analyze_new_failed.py
 download_new_failed.py
 download_actual_filings.py
 new_failed_filings/
+test_parser_sampling.py
+test_samples/
+output.txt
