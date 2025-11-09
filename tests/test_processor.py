@@ -397,3 +397,62 @@ class TestProcessFilings:
 
             # Verify that no filings were downloaded
             assert mock_session_instance.get.call_count == 0
+
+    @patch("cik_cusip.processor.download_indices")
+    @patch("cik_cusip.processor.parse_index")
+    @patch("cik_cusip.processor.create_session")
+    @patch("cik_cusip.processor.extract_cusip")
+    @patch("cik_cusip.processor._write_results_to_csv")
+    def test_process_filings_periodic_flush(
+        self, mock_write_csv, mock_extract, mock_session, mock_parse, mock_download
+    ):
+        """Test that results are flushed periodically based on batch size."""
+        # Setup mocks - create more entries than the batch size
+        mock_download.return_value = ["/tmp/index1.idx"]
+
+        # Create 5 filings (batch size will be 2)
+        mock_parse.return_value = [
+            {
+                "cik": f"123456{i}",
+                "company_name": f"COMPANY {i}",
+                "form": "13D",
+                "date": "2024-01-15",
+                "url": f"https://www.sec.gov/test{i}.txt",
+                "accession_number": f"000123456{i}-24-00000{i}",
+            }
+            for i in range(5)
+        ]
+
+        mock_session_instance = Mock()
+        mock_response = Mock()
+        mock_response.text = "Filing text"
+        mock_response.raise_for_status = Mock()
+        mock_session_instance.get.return_value = mock_response
+        mock_session_instance.close = Mock()
+        mock_session.return_value = mock_session_instance
+
+        mock_extract.return_value = "68389X105"
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            output_csv = os.path.join(tmpdir, "output.csv")
+            index_dir = os.path.join(tmpdir, "indices")
+
+            # Process with batch size of 2
+            process_filings(
+                index_dir=index_dir,
+                output_csv=output_csv,
+                sec_name="Test",
+                sec_email="test@example.com",
+                requests_per_second=100,
+                flush_batch_size=2,
+            )
+
+            # _write_results_to_csv should be called:
+            # - 2 times during processing (after 2nd and 4th filing)
+            # - 1 time at the end
+            # Total: 3 calls
+            assert mock_write_csv.call_count == 3
+
+            # Verify that the correct CSV path was passed each time
+            for call in mock_write_csv.call_args_list:
+                assert call[0][1] == output_csv
